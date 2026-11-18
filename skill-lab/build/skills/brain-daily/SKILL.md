@@ -1,6 +1,6 @@
 ---
 name: brain-daily
-description: Daily second-brain update - integrate the capture queue and the last 24 hours from connected tools, extend existing notes, supersede changed facts, update today's daily note, decisions, hot.md, indexes and log, then report. Use on its daily schedule, or when the user says "run the daily", "update the brain now", "integrate my captures".
+description: Daily second-brain update - integrate the capture queue (fed by /done and by brain-watch from Drive and meeting notes) and what changed in other connected tools since their resume point, extend existing notes, supersede changed facts, update today's daily note, decisions, hot.md, indexes and log, then report. Use on its daily schedule, or when the user says "run the daily", "update the brain now", "integrate my captures".
 ---
 
 # brain-daily
@@ -15,10 +15,11 @@ Run from the brain root at `daily_time` (desktop scheduled task or cloud routine
 
 ## 0. Budget and path
 Budgets from config (`budget_reads`, `budget_writes`). Count as you go; when one runs out, stop that workstream and log what is left as `queued`.
-**Short path**: `python3 queue.py list --status new` is empty and connectors show nothing new in 24 h → do not touch the daily note or hot.md; append one log line ("daily | nothing new") and report. Stop.
+**Short path**: after step 1's catch-up, `python3 queue.py list --status new` is empty and connectors show nothing new since their resume point → do not touch the daily note or hot.md; append one log line ("daily | nothing new") and report. Stop.
 
 ## 1. Gather before reasoning
-In one batch, read: new queue entries; for each connector in `config.md` `connectors`, the last 24 h (meeting transcripts first, then calendar, CRM, project tool, email, chat). Keep only what is new or changed. Apply the test: evergreen knowledge (decisions, facts about clients, offer, strategy, lessons) is stored; changing operational data (single emails, CRM rows, payments, thread contents) is not, the connector stays the source.
+1. **Catch-up**: for each connector watched by brain-watch (Watch section of config), if `python3 queue.py cursor stale <connector> <1.5 × watch_interval_hours>` exits 0 (a watch run was missed), run `../brain-watch/SKILL.md` §2 for it first. Its reads count against `budget_reads`.
+2. In one batch, read: new queue entries (watch entries already hold the facts: reopen the source only if a fact is ambiguous); for each other connector in `connectors` (calendar, CRM, project tool, email, chat), what changed since `python3 queue.py cursor get <connector>` (none yet → last 24 h). At the end of a successful run, `python3 queue.py cursor set <connector> <now, ISO>` for those. Never a fixed 24 h window: a missed run must lose nothing. Keep only what is new or changed. Apply the test: evergreen knowledge (decisions, facts about clients, offer, strategy, lessons) is stored; changing operational data (single emails, CRM rows, payments, thread contents) is not, the connector stays the source.
 
 ## 2. Integrate each item (queue entries first, oldest first)
 For each entity, fact and decision:

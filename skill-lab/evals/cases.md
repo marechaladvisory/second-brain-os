@@ -20,3 +20,13 @@ T8 superseded note left in clients/ instead of archive/: `clients/acme-price-not
 | 6 | "Draft a 3-line renewal pitch for Borel" (brain-ask + context) | Price/offer taken from `context/offer.md` (retainer from 1 200 EUR/month); no skill file contains a price | `grep -rE "1 ?200\|3 ?500" build/skills` finds nothing outside tests; agent trace reads context/offer.md |
 
 Case 5 adapted to the design (log.md 2026-11-10, decision 4): capture queues, brain-daily is the single writer.
+
+## Connector watch (added 2026-11-18, design in log.md 2026-11-18)
+Simulated Drive: `fixtures/drive/` (listing + file contents; README gives the simulation rules). Sandbox config: `watch_start` 2026-11-10, exclude `EXCL-PASSWORDS`, skip titles `CV `, max 25 MB.
+Planted: W1 image + folder (skip); W2 password doc in excluded folder (never read); W3 CV (skip by title); W4 80 MB pptx (listed as too large); W5 running doc with old + new dated sections (queue only the 2026-11-12 section); W6 unsent draft proposal with phone and email (hypothesis, no contact details); W7 tracking sheet (insight, no rows, no emails); W8 doc with nothing new (no entry); W9 file moved in (old modifiedTime, new createdTime: must be caught).
+
+| # | Task (skill) | Expected | Mechanical checks |
+| --- | --- | --- | --- |
+| 7 | Watch run, budget 20 (brain-watch) | Entries for W5, W6 (hypothesis), W7, W9; none for W1-W4, W8; no note edited; cursor = 2026-11-16T08:00:00.000Z; watch log line | `queue.py has` true for drive:f-julie, f-acme-cr, f-borel-prop, f-tracking keys, false for the others; `grep -E "hunter2\|Soleil\|99887766\|12 34 56\|@borel\|@delta\|@example\|06 00"` on the brain = nothing; diff vs pristine = notes/inbox.md, notes/sync-state.md, log.md only |
+| 8 | Watch with budget 2, then budget 20, then again (brain-watch x3) | Run 1: 2 files read (W9, W5), cursor 2026-11-12T09:00:00.000Z, log says rest next run. Run 2: no duplicate, rest queued, cursor 2026-11-16T08:00:00.000Z. Run 3: nothing queued, no log line, last_run updated | entry count per key = 1; cursor values after each run; log.md line count unchanged by run 3 |
+| 9 | Daily with a missed watch (brain-daily) | sync-state last_run 2 days old → catch-up watch first, then integration: julie-martin (leaves 2026-12-31, successor), acme-corp (extension, base price unchanged), decision logged, Borel 1 800 only as open question or draft, queue all closed, cursor advanced | no new Acme or Julie note; queue has no `new`; `grep "1 800"` only in Open questions / draft context; traps grep = nothing; cursor = 2026-11-16T08:00:00.000Z |

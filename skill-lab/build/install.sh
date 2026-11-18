@@ -14,7 +14,7 @@ while [ $# -gt 0 ]; do
   esac
 done
 mkdir -p "$TARGET"
-ITEMS="_shared brain-setup brain-capture brain-daily brain-lint brain-ask brain-evals"
+ITEMS="_shared brain-setup brain-capture brain-daily brain-watch brain-lint brain-ask brain-evals"
 for i in $ITEMS; do
   if [ -e "$TARGET/$i" ] && [ $FORCE -ne 1 ]; then
     echo "$TARGET/$i exists. Re-run with --force to replace it (a backup is kept)." >&2; exit 1

@@ -11,7 +11,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 SKIP = {"raw", "archive", "evals", ".git", ".obsidian", ".claude"}
-SPECIAL = {"index.md", "AGENTS.md", "CLAUDE.md", "log.md", "hot.md", "evals.md"}
+SPECIAL = {"index.md", "AGENTS.md", "CLAUDE.md", "log.md", "hot.md", "evals.md", "sync-state.md"}
 HALF_LIFE = {"project": 30, "entity": 180, "concept": 365, "source": 365,
              "log": 7, "inbox": 3}            # days; types absent = no decay
 STATUS_MULT = {"active": 1.0, "draft": 0.8, "archived": 0.3, "superseded": 0.0}
@@ -20,14 +20,15 @@ TODAY = dt.date.today()
 # Defaults above are overridden by context/config.md (decay_* keys), see load_config().
 LINK = re.compile(r"\[\[([^\]|#]+)")
 QUEUE_HEAD = re.compile(r"^## (q-(\d{8})-\d{4,6}) \| (\w+)\s*$", re.M)
-ROOT_MAX, HOT_MAX_WORDS, QUEUE_MAX_DAYS = 60, 500, 2
+ROOT_MAX, HOT_MAX_WORDS, QUEUE_MAX_DAYS, WATCH_MAX_HOURS = 60, 500, 2, 24
+SYNC_LINE = re.compile(r"^- ([\w.-]+): \S+ \| last_run: (\S+)\s*$", re.M)
 DIRS = ["context", "projects", "clients", "people", "notes/daily", "wiki/sources",
         "raw", "archive", "evals/results", ".claude/hooks"]
 # severity per check: fail costs 5, warn costs 1, each check capped at 25 (Ben AI score idea)
 SEVERITY = {"frontmatter": "fail", "broken-link": "fail", "superseded": "fail",
             "root-size": "fail", "overdue": "warn", "size": "warn", "duplicate": "warn",
             "orphan": "warn", "index": "warn", "hot-size": "warn", "queue": "warn",
-            "daily-log": "warn", "marker": "warn"}
+            "daily-log": "warn", "marker": "warn", "watch": "warn"}
 
 
 def _pairs(value):
@@ -208,6 +209,16 @@ def lint_problems():
             d = date(f"{day[:4]}-{day[4:6]}-{day[6:]}")
             if status == "new" and d and (TODAY - d).days > QUEUE_MAX_DAYS:
                 out.append(("queue", f"notes/inbox.md: {qid} still new after {QUEUE_MAX_DAYS} days"))
+    sync = ROOT / "notes" / "sync-state.md"
+    if sync.exists():
+        now = dt.datetime.now(dt.timezone.utc)
+        for conn, last in SYNC_LINE.findall(sync.read_text(encoding="utf-8")):
+            try:
+                age = (now - dt.datetime.fromisoformat(last.replace("Z", "+00:00"))).total_seconds() / 3600
+            except ValueError:
+                age = WATCH_MAX_HOURS + 1
+            if age > WATCH_MAX_HOURS:
+                out.append(("watch", f"notes/sync-state.md: {conn} not watched for {age:.0f} h (brain-watch not running?)"))
     return out
 
 

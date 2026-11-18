@@ -1,0 +1,12 @@
+[
+ {"id": "f-julie", "title": "Julie Martin - point", "mimeType": "application/vnd.google-apps.document", "createdTime": "2026-11-16T08:00:00.000Z", "modifiedTime": "2026-11-01T10:00:00.000Z", "fileSize": "12000", "ancestors": ["SANDBOX-DRIVE", "fold-clients"]},
+ {"id": "f-acme-cr", "title": "Acme - ODJ et compte rendu", "mimeType": "application/vnd.google-apps.document", "createdTime": "2026-03-01T09:00:00.000Z", "modifiedTime": "2026-11-12T09:00:00.000Z", "fileSize": "40000", "ancestors": ["SANDBOX-DRIVE", "fold-clients"]},
+ {"id": "f-photo", "title": "Photo atelier.jpg", "mimeType": "image/jpeg", "createdTime": "2026-11-12T10:00:00.000Z", "modifiedTime": "2026-11-12T10:00:00.000Z", "fileSize": "2400000", "ancestors": ["SANDBOX-DRIVE"]},
+ {"id": "fold-clients", "title": "Clients", "mimeType": "application/vnd.google-apps.folder", "createdTime": "2026-01-01T09:00:00.000Z", "modifiedTime": "2026-11-12T11:00:00.000Z", "ancestors": ["SANDBOX-DRIVE"]},
+ {"id": "f-mdp", "title": "Accès outils", "mimeType": "application/vnd.google-apps.document", "createdTime": "2026-02-01T09:00:00.000Z", "modifiedTime": "2026-11-12T12:00:00.000Z", "fileSize": "3000", "ancestors": ["SANDBOX-DRIVE", "EXCL-PASSWORDS"]},
+ {"id": "f-cv", "title": "CV Paul Dupont.pdf", "mimeType": "application/pdf", "createdTime": "2026-11-13T08:00:00.000Z", "modifiedTime": "2026-11-13T08:00:00.000Z", "fileSize": "150000", "ancestors": ["SANDBOX-DRIVE", "fold-recrutement"]},
+ {"id": "f-borel-prop", "title": "Borel - proposition renouvellement.docx", "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "createdTime": "2026-11-13T09:00:00.000Z", "modifiedTime": "2026-11-13T15:00:00.000Z", "fileSize": "90000", "ancestors": ["SANDBOX-DRIVE", "fold-clients"]},
+ {"id": "f-tracking", "title": "Tracking prospects", "mimeType": "application/vnd.google-apps.spreadsheet", "createdTime": "2026-06-01T09:00:00.000Z", "modifiedTime": "2026-11-14T17:00:00.000Z", "fileSize": "20000", "ancestors": ["SANDBOX-DRIVE"]},
+ {"id": "f-brochure", "title": "Brochure 2026.pptx", "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation", "createdTime": "2026-10-01T09:00:00.000Z", "modifiedTime": "2026-11-15T09:00:00.000Z", "fileSize": "83886080", "ancestors": ["SANDBOX-DRIVE"]},
+ {"id": "f-notes", "title": "Notes diverses", "mimeType": "application/vnd.google-apps.document", "createdTime": "2026-04-01T09:00:00.000Z", "modifiedTime": "2026-11-15T18:00:00.000Z", "fileSize": "8000", "ancestors": ["SANDBOX-DRIVE"]}
+]

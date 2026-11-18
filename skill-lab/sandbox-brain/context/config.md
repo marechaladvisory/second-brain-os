@@ -11,13 +11,21 @@ summary: Settings every brain routine reads. Change values here, never in skills
 - daily_time: "07:30"
 - lint_day: friday
 - lint_time: "16:00"
-- connectors: []          # e.g. [calendar, gmail, fireflies, crm]
+- connectors: [google-drive]   # simulated in evals: evals/fixtures/drive/
 - budget_reads: 60
 - budget_writes: 25
 - budget_fixes: 15
 - proactivity: advisor    # observer | advisor (drafts, never sends) | assistant | partner
 - capture_confirm: false  # true = /done shows the entry before queueing
 - queue: inbox            # inbox (notes/inbox.md); airtable adapter later
+## Watch (read by brain-watch; empty = connector not watched)
+- watch_interval_hours: 4
+- watch_budget_files: 20
+- watch_drive_root: "SANDBOX-DRIVE"
+- watch_drive_exclude: [EXCL-PASSWORDS]
+- watch_drive_skip_titles: ["CV "]
+- watch_drive_max_mb: 25
+- watch_start: "2026-11-10"
 ## Decay (read by brain.py; days; 0 = no decay)
 - decay_half_life: project=30, entity=180, concept=365, source=365, log=7, inbox=3, context=0, decision=0
 - decay_status_mult: active=1, draft=0.8, archived=0.3, superseded=0

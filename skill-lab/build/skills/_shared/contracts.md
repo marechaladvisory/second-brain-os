@@ -8,7 +8,7 @@ AGENTS.md  CLAUDE.md (one line: @AGENTS.md)  hot.md  decisions.md  log.md  evals
 context/    me.md business.md icp.md offer.md voice.md config.md   canonical, human-owned
 projects/<name>/about.md                                           entry point per project
 clients/  people/                                                  one file per entity
-notes/daily/YYYY-MM-DD.md   notes/inbox.md   notes/ideas.md
+notes/daily/YYYY-MM-DD.md   notes/inbox.md   notes/ideas.md   notes/sync-state.md (queue.py cursor)
 wiki/  wiki/sources/        syntheses and source summaries
 raw/  archive/              read-only (hook-enforced)
 evals/results/YYYY-MM-DD.md  eval runs (not notes, not indexed)
@@ -54,8 +54,8 @@ brain.py reads the first three at every run; skills read `review_days`.
 - Only items dated today. Older open items live in the project's about.md or `notes/ideas.md`.
 
 ## 5. log.md, hot.md, decisions.md [guide §4.2, §5; Ben AI conventions]
-- log.md is append-only: `## [YYYY-MM-DD] <op> | <subject> | touched: a, b` with op in setup|capture|daily|lint|ask|evals|queued.
-- A run that changes what the brain knows logs. A run that only produces a deliverable does not. A run that found nothing logs one line saying so.
+- log.md is append-only: `## [YYYY-MM-DD] <op> | <subject> | touched: a, b` with op in setup|capture|daily|watch|lint|ask|evals|queued.
+- A run that changes what the brain knows logs. A run that only produces a deliverable does not. A run that found nothing logs one line saying so. Exception: brain-watch logs only when it queued, hit its budget or failed (sync-state shows its runs).
 - hot.md: at most 500 words, rewritten (never appended) by brain-daily: priorities, open loops, this week's decisions.
 - decisions.md: append `## YYYY-MM-DD <decision>` + `Why:` + `Replaces:` (if any).
 
@@ -64,8 +64,8 @@ brain.py reads the first three at every run; skills read `review_days`.
 ```
 ## q-20261110-1432 | new
 - date: 2026-11-10
-- source: claude-code          # claude-code|claude.ai|other
-- session: <id or short title>
+- source: claude-code          # claude-code|claude.ai|drive|granola|other
+- session: <id or short title>   # watch entries: drive:<fileId>@<modifiedTime>, granola:<meetingId>@<updated>
 - certainty: fact               # fact|hypothesis (hypothesis = mostly exploratory)
 - entities: acme-corp; pricing
 - facts: Acme accepted 1 200 EUR/month from January (call 2026-11-10)
@@ -76,6 +76,7 @@ brain.py reads the first three at every run; skills read `review_days`.
 ```
 `verbatim`: 1-3 exact user sentences worth keeping for voice, or empty. brain-daily stores `hypothesis` entries as draft notes or open questions, never as active facts.
 Statuses: `new` → `integrated` (result = touched notes) or `rejected` (result = reason). Only brain-daily integrates.
+Connector watch (brain-watch): resume point per connector in `notes/sync-state.md`, read and written only through `queue.py cursor get|set|status|stale` (a cursor never moves back). Before adding a watch entry, `queue.py has "<session key>"`: exit 0 means already queued, skip. brain-watch only queues; it never edits notes.
 
 ## 7. Write discipline (all writing skills)
 1. Search first: `python3 brain.py search "<entity or topic>"`; extend the best match, never create a near-duplicate.
@@ -87,4 +88,4 @@ Statuses: `new` → `integrated` (result = touched notes) or `rejected` (result 
 7. After creating or renaming notes: `python3 brain.py index`.
 
 ## 8. config.md keys
-`timezone, daily_time, lint_day, lint_time, connectors[], budget_reads, budget_writes, budget_fixes, proactivity (observer|advisor|assistant|partner), queue (inbox), capture_confirm (false)`. Skills read values here; never hard-code them. [Ben AI conventions; Cole proactivity levels]
+`timezone, daily_time, lint_day, lint_time, connectors[], budget_reads, budget_writes, budget_fixes, proactivity (observer|advisor|assistant|partner), queue (inbox), capture_confirm (false)`; Watch section: `watch_interval_hours, watch_budget_files, watch_drive_root, watch_drive_exclude[], watch_drive_skip_titles[], watch_drive_max_mb, watch_start`. Skills read values here; never hard-code them. [Ben AI conventions; Cole proactivity levels]
