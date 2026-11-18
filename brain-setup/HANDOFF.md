@@ -1,6 +1,6 @@
 # HANDOFF — setup du second brain de Maréchal Advisory (2026-11-18)
 
-Branche : `claude/clever-euler-y95o7a` (repo marechaladvisory/second-brain-os), tout est commité et poussé.
+Branche de travail : **`main`** (créée le 2026-11-18 à la demande de Guillaume ; `claude/clever-euler-y95o7a` est l'ancienne). Tout est commité et poussé.
 Brain : `brain/` (racine du repo). Skills utilisés : `skill-lab/build/skills/` (brain-setup + `_shared/contracts.md`).
 Artefacts du setup : `brain-setup/` (ce dossier).
 
@@ -25,7 +25,8 @@ En cours de route, il a demandé de lancer les subagents plus séquentiellement 
 | 6. decisions.md (55), notes/ideas.md, hot.md, AGENTS.md (34 lignes), config.md | fait par le coordinateur à partir de `brain-setup/writer-reports/` |
 | 7. index + lint | fait : health 99/100, seul avertissement : review dépassée de `clients/ville-de-la-haye.md` (signal réel) |
 | 8. Passe Granola | **BLOQUÉE** : le connecteur répond « user has not created a Granola account yet » (revérifié le 2026-11-18 en fin de session) |
-| 9. Veille Granola + Drive | **À construire** : voir PRIORITÉ ci-dessous |
+| 9. Veille Drive | **faite le 2026-11-18** : skill brain-watch (evals 4/4, essai à blanc puis premier passage réel : 9 entrées en file), tâches planifiées créées (voir « Veille : état ») |
+| 10. Veille Granola | **à faire** quand le compte Granola existe |
 
 Contrôles faits : aucun email, téléphone, mot de passe, numéro de passeport ni donnée de santé dans les notes. Les candidats sont notés prénom + initiale, uniquement dans les notes de recrutement.
 
@@ -43,7 +44,15 @@ Contrôles faits : aucun email, téléphone, mot de passe, numéro de passeport 
    - Toujours « écrire chaque fichier dès qu'on a la matière ».
    - Collision de slug : un projet et un client ne doivent jamais partager le même nom. Le projet WoC a été renommé `mission-waves-of-change`.
 
-## PRIORITÉ (demande de Guillaume, 2026-11-18) : veille Granola + Drive
+## Veille : état au 2026-11-18 (fin de session)
+- Construit dans `skill-lab/build/` puis installé dans `brain/.claude/skills/` (copie par `install.sh --target brain/.claude/skills --force`) : skill `brain-watch`, `queue.py has` et `cursor get|set|status|stale`, points de reprise dans `brain/notes/sync-state.md`, rattrapage dans `brain-daily`, avertissement `watch` dans `brain.py lint`. Config : section Watch de `brain/context/config.md`.
+- Evals : `skill-lab/evals/results/2026-11-18.md` (cas 7-9 + régression 3, 4/4) ; décisions dans `skill-lab/log.md`.
+- File : 9 entrées Drive `new` dans `brain/notes/inbox.md`, à intégrer par le prochain brain-daily. Curseur Drive : 2026-11-18T22:33Z.
+- Tâches planifiées cloud (nouvelle session à chaque déclenchement) : `brain-watch Drive (toutes les 4 h)` trig_018odBvVmysP8AHxGgdsjprm (minute 12) ; `brain-daily` trig_018EsRWDjMpJCsaZovDs9xYx (07:18 Europe/Paris) ; `brain-lint` trig_01RgxFgnPQEhNvr9aekLw8Kg (vendredi 15:49 Europe/Paris).
+- **Bloquant à faire par Guillaume** : ces tâches ont été créées sans connecteur ni repo (l'outil ne permet pas d'en attacher pour cette organisation). Dans l'interface des routines de claude.ai, ajouter à chacune le repo `marechaladvisory/second-brain-os` et, pour brain-watch et brain-daily, le connecteur Google Drive (Granola plus tard). Sans connecteur, la veille ne fait rien et le dit dans son rapport.
+- Pour Granola : ajouter une section §3 « Granola » à brain-watch (search_meetings updated_after=<curseur>, get_meetings par 10, clé `granola:<id>@<updated>`), des clés Watch dans config, un cas d'eval, puis la passe initiale (tout l'historique) décrite plus bas.
+
+## PRIORITÉ d'origine (demande de Guillaume, 2026-11-18) : veille Granola + Drive
 Granola et Google Drive sont les **deux entrées principales** du brain. Il faut une veille qui prenne en compte chaque nouvelle entrée ou modification.
 
 **Pré-requis bloquant : Granola.** Au 2026-11-18, `mcp__Granola__get_account_info` répond « user has not created a Granola account yet ».
