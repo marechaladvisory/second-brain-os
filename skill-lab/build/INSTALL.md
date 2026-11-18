@@ -1,6 +1,6 @@
 # Install and first run
 
-Skills: brain-setup, brain-capture (/done), brain-daily, brain-watch, brain-lint, brain-ask, brain-evals, plus `_shared/` (contracts, scripts, hooks, templates). Evals: 6/6 on the sandbox (`../evals/results/2026-11-10.md`).
+Skills: brain-setup, brain-capture (/done), brain-daily, brain-watch, brain-lint, brain-ask, brain-evals, plus `_shared/` (contracts, scripts, hooks, templates). Evals: 6/6 on the sandbox (`../evals/results/2026-11-10.md`), connector watch 4/4 (`../evals/results/2026-11-18.md`).
 
 ## 1. Install the skills (your computer)
 ```bash

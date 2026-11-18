@@ -1,5 +1,11 @@
 # log.md — decisions, newest first
 
+## 2026-11-18 — Connector watch (brain-watch) built and evaluated
+- Asked by Guillaume (Maréchal Advisory brain): Drive and Granola are the brain's main inputs; every new or changed entry must be taken into account. Design approved 2026-11-18; Granola deferred (no account yet).
+- Chosen: a separate light skill brain-watch that only queues (one owner per capability: brain-daily stays the single integrator, contracts §6); dated resume points per connector in notes/sync-state.md written only by `queue.py cursor` (mechanism beats instruction: never moves back, stamps last_run); dedupe by session key `drive:<id>@<modifiedTime>` via `queue.py has`; brain-daily catches up when last_run is older than 1.5 × watch_interval_hours; brain.py lint warns after 24 h without a watch.
+- Rejected: a fixed 24 h window in brain-daily (a missed run loses entries); letting brain-daily read the Drive itself every day (one long run, no intermediate safety); storing the cursor in context/ (read-only during automated runs).
+- Evals: cases 7-9 added, 4/4 pass with case 3 regression (evals/results/2026-11-18.md).
+
 ## 2026-11-10 — Install + handoff before real trial
 - Found before install: scheduled tasks cannot set BRAIN_AUTOMATED for the hook (an export in a shell command does not reach Claude Code's hook env). Fix: brain-daily/brain-lint create `.claude/automated-run` at start and remove it at end; protect.sh and session-end.sh honour it; brain.py lint warns if it is older than 3 h; `.gitignore` template ignores it. Tested: hook blocks context/ with marker, allows without.
 - build/install.sh (into ~/.claude/skills, refuses overwrite, --force backs up outside skills/) and build/INSTALL.md. Tested in a fake HOME.
