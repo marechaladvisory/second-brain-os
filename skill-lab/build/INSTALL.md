@@ -1,6 +1,6 @@
 # Install and first run
 
-Skills: brain-setup, brain-capture (/done), brain-daily, brain-lint, brain-ask, brain-evals, plus `_shared/` (contracts, scripts, hooks, templates). Evals: 6/6 on the sandbox (`../evals/results/2026-11-10.md`).
+Skills: brain-setup, brain-capture (/done), brain-daily, brain-watch, brain-lint, brain-ask, brain-evals, plus `_shared/` (contracts, scripts, hooks, templates). Evals: 6/6 on the sandbox (`../evals/results/2026-11-10.md`).
 
 ## 1. Install the skills (your computer)
 ```bash
@@ -26,6 +26,8 @@ Create two scheduled tasks (Claude desktop scheduled tasks, or cloud routines if
 - Weekly at `lint_day lint_time` (default Friday 16:00): "Run the brain-lint skill on this brain."
 The skills create `.claude/automated-run` during the run, so the hook keeps `context/` read-only; lint warns if a crashed run left it behind.
 Connectors (calendar, email, meeting notes, CRM): add them to Claude, then list them in `context/config.md` `connectors`.
+- Every `watch_interval_hours` (default 4 h) if a connector is watched (Drive, Granola): "Run the brain-watch skill on this brain." It only fills the queue; brain-daily integrates and catches up if a watch run was missed.
+Cloud routines: the session starts at the repo root, so the prompt says `cd <brain folder>` and ends with `git pull --rebase` then `git push` (needs `Bash(git push:*)` in the repo's `.claude/settings.json`). Fill the Watch section of `context/config.md` first (folder id to watch, excluded folders, first resume point).
 
 ## 5. After any change
 Change of AGENTS.md, folders, decay settings, skills or model → run brain-evals ("test my brain"). Add a case to `evals.md` each time the brain gets something important wrong.
@@ -34,4 +36,4 @@ Change of AGENTS.md, folders, decay settings, skills or model → run brain-eval
 times, connectors, budgets, proactivity (advisor = drafts, never sends), capture_confirm, decay_half_life, decay_status_mult, decay_weights, review_days.
 
 ## Uninstall
-Delete the seven folders from `~/.claude/skills/`. The brain folder is plain markdown and stays usable by any agent.
+Delete the eight folders from `~/.claude/skills/`. The brain folder is plain markdown and stays usable by any agent.
