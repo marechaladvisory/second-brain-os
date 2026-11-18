@@ -1,0 +1,406 @@
+# Extraction PEF / Ocean Accelerator / Afrique (Nigeria, JMA) / Fichiers data (78 fichiers lus / 93 listés)
+
+## Périmètre
+- Chemins couverts : `TEAM/1- CLIENTS/Paris Economic Forum/`, `TEAM/1- CLIENTS/Ocean Accelerator MA/`, `TEAM/1- CLIENTS/Nigeria France 🇳🇬🇫🇷/`, `TEAM/1- CLIENTS/Je M'engage pour l'Afrique - JMA/`, `TEAM/7- FICHIERS DATA/` (hors `CN/`).
+- 93 fichiers listés. 78 lus en entier ou en partie (dont 4 via aperçu de métadonnées : A5 Review, EN Focus Areas, Pelagora Deck BEI, deck EN 221026).
+- Sautés :
+  - 5 images/vidéos : logos Station F (x2), Spotlight Nigeria Plaquette (jpeg), Vincent Ducrey Photo (jpeg), Vidéo Station F (mp4).
+  - Doublons ou versions antérieures non relus : 3 PDF de l'invitation Égypte, 1 PDF Kasper Ng, ancien MoU tripartite (docx et pdf dans `Old/`), PDF du deck PEF dans `Nigeria/Deck`, 3 decks OA dans `archives` (11thHourRacing, EN 14 octobre, version check).
+  - Données personnelles : le grand-livre JMA 2024 contient des salaires individuels, seuls les agrégats sont repris ici. Les fichiers de contacts (Demo Night ITA, Choiseul, SLUSH, INSKIP) sont seulement résumés : structure et volumes, sans lignes copiées.
+- Lecture terminée, y compris les 3 gros tableurs de `7- FICHIERS DATA` (INSKIP x2 et SLUSH). Ils sont résumés par leur structure et des comptages obtenus par script ; aucune ligne n'est copiée.
+
+## Résumé (5-10 lignes)
+- **PEF 2026 (client Hub Institute / Vincent Ducrey)** : MA est mandatée pour « ramener 1 pays à 15k€ + 2-3 prospects » au Paris Economic Forum du 2 décembre 2026 (Automobile Club de France). Le seul deal est le **Nigeria via Bridge & Value : devis Hub Institute de 8 000 € HT (20/10/2026)**, couvrant 2 CEOs, 6 rendez-vous bilatéraux, 2 prises de parole et 2 places au gala. Autour de ce deal : un **MoU tripartite PEF x B&V x MA daté du 4/11/2026**, avec clause de non-contournement en faveur de MA.
+- Pour les autres pays : l'Égypte, Singapour et Hong Kong sont **réorientés en invitations gratuites (ambassadeurs ou panel « The Other Growth ») et vers des prospects 2027**. L'Italie (ITA) reste une piste à 15k€.
+- **Nigeria / Bridge & Value** : un MoU bilatéral MA x B&V a été **signé le 23/07/2026**. Autour : une offre commune « Entering & Growing in Nigeria » (honoraires non chiffrés), un tableau de pilotage « Compass » (partage 50/50 ou 60/40) et le roadshow Spotlight Nigeria (6/10) → Choiseul Africa Lagos (19-20/11) → PEF.
+- **Global Ocean Accelerator à Station F (2027)** : projet porté par MA (GM directeur de projet, Virginie Augagneur responsable de programme), avec INSKIP en prestataire « marque blanche ». Grille sponsors : **Lead 300 k€/an, Co-partenaire 100 k€/an, Écosystème 30 k€/an**. Budget « kickstart » de **351 888 €**, dont 50 k€ pour MA.
+- Calendrier OA : accords de principe visés en décembre 2026, annonce à la COP1 Océans (11-22/01/2027), lancement en avril 2027. Pipeline large (AXA, CMA CGM, Fondation Albert II, EDF Pulse, ESA, EIC...), **aucun sponsor signé au 12/11/2026**.
+- **JMA (Je m'engage pour l'Afrique)** : association amie et partenaire ; GM fait partie de la core team de la soirée des 5 ans à la Fondation Cartier (1er février 2027, formules partenaires de 3 000 € et 6 000 €). Le dossier contient aussi l'Africa Forward Summit Nairobi 2026, le catalogue de formation et la comptabilité 2024. Aucune relation commerciale avec MA n'est documentée.
+- **Fichiers data** : listes d'événements et de prospection.
+  - Séminaire de l'ambassade d'Égypte du 29/04/2026 : programme, ~17 intervenants.
+  - Club Choiseul du 15/04/2025 : ~120 participants.
+  - Demo Night ITA : 142 invités passés au crible, ~8 jugés intéressants.
+  - Suivi de démarchage DTW par INSKIP : ~500 lignes, 306 « Contacté ».
+  - Base Vanderbuild : ~400 accélérateurs européens.
+  - Base Slush 2025 : ~1 266 startups et scaleups.
+- Nouvelle offre MA envisagée : **accompagnement de startups 2027, environ 10 startups à 4K/mois, soit environ 400K/an** (hypothèse, réunion du 02/11/2026).
+
+## Projets / missions
+
+### pef-2026-participation-internationale
+- statut: actif (au 18/11/2026, « last mile » avant le forum du 2/12/2026)
+- client / partenaire: Paris Economic Forum / HUB Institute SAS (Vincent Ducrey, Président). Partenaire : Bridge & Value (Abiodun « Abi » Odunuga).
+- objectif: « Faire venir 1 pays à 15k€. Plus faire venir 2 à 3 prospects. » Terminologie fixée le 26/10 : « PARTICIPATION INTERNATIONALE » (Drive: PEF - Fiche posture, modifié 2026-10-28). Rappel en ODJ : « Rappel mission MA : ramener 1 pays » (Drive: PEF - ODJ et compte rendu, modifié 2026-11-16).
+- périmètre / livrables (fait, sauf mention contraire) :
+  - Mission en 5 phases (Drive: PEF - preparation de la voilure - recherches préalables, modifié 2026-07-15) : 1) intelligence économique et cadrage, avec une note d'IE par pays ; 2) ingénierie de l'offre (benchmark, SWOT) ; 3) influence et négociation ; 4) KAM et relations consulaires, accompagnement de la délégation pendant les 2 jours ; 5) gouvernance weekly/monthly et rapport de fin de mission.
+  - Toolkit produit : offre commerciale pays, argumentaire, deck co-brandé « International partnerships powered by Marechal Advisory », grille KAM (12 colonnes), lettres d'invitation officielles signées Vincent Ducrey, mails types.
+  - Livrable annoncé : « Positionnement gratuit de Vincent Ducrey en Panel Discussion à Spotlight Nigeria » (Drive: PEF - Fiche projet, modifié 2026-11-02).
+- prix / honoraires / budget :
+  - Les honoraires MA pour cette mission ne figurent dans aucun document du périmètre (voir Questions ouvertes).
+  - Estimation du temps (hypothèse de cadrage, 2026-07-15) : GM 74 h (50 h avant, 20 h pendant, 4 h après le sommet ; référence DTW = 10 jours) ; AD 205 h (175/20/10 ; DTW = 35 jours) (Drive: PEF - preparation de la voilure..., modifié 2026-07-15).
+  - Gouvernance cible : « 1 journée de travail par semaine (8 heures) » (Drive: PEF - Fiche posture, modifié 2026-10-28).
+  - Prix pays PEF : voir la section Offre.
+- équipe MA impliquée: Guillaume Maréchal (Strategic Partner), Armand Dogra (« AD », International Project Manager).
+- calendrier / jalons :
+  - 15/07 : 1er CR avec Vincent (liste de pays cibles, « killer offre 5k »).
+  - 21/07 : envoi de l'offre commerciale et du pipe des 7 pays.
+  - 09/09 : point de rentrée.
+  - 09/09 : RDV EDB/Enterprise Singapore. 11/09 : 1er RDV HKETO. 29/09 : RDV ITA (Giacinto).
+  - 02/10 : PEF Prize Ceremony.
+  - 05/10 : RDV Japon annulé (« a sauté »).
+  - 06/10 : Spotlight Nigeria.
+  - 07/10 : RDV à l'ambassade d'Égypte (Bassem). 15/10 : RDV HKETO avec Vincent.
+  - 20/10 : devis Nigeria.
+  - 21/10, 04/11, 18/11 : ODJ avec Vincent.
+  - 04/11 : MoU tripartite daté.
+  - 04-10/11 : lettres d'invitation aux ambassadeurs.
+  - 25/11 : deadline visa Nigeria.
+  - 1-2/12/2026 : forum.
+  - (Drive: PEF - ODJ et compte rendu, modifié 2026-11-16 ; PEF - Messages et mails types, modifié 2026-11-09)
+- pipeline par pays (au 18/11/2026) :
+  - **Nigeria** : accord verbal Abi-Vincent sur un package à 8k (4k x 2), alors que GM avait pitché 5k par mail le 28/07. Contenu : 2 CEOs nigérians, 3 bilatéraux par CEO, 1 prise de parole par CEO. Devis du 20/10 : 8 000 € HT + TVA 1 600 € = 9 600 € TTC, expirant le 31/10/2026 ; conditions 50 % à facture, solde 30 j avant l'événement (Drive: Nigéria - PEF 2026 (Bridge and Value) (2).pdf, modifié 2026-10-22). Roadmap : 1re liste de CEOs par Abi le 6/11, validation PEF semaine du 9/11, deadline visa le 25/11, standup de 15 min le lundi. Idée au 18/11 : faire venir l'ambassadeur pour une prise de parole. Note de CR plus ancienne : « Nigeria - Abi à 7 à 10k à donner » (Drive: PEF - ODJ et compte rendu, modifié 2026-11-16).
+  - **Égypte** : RDV ambassade le 07/10 avec Bassem (Bassem Badr, chef de la mission économique), retour positif le 15/10. RDV avec Emad El Sonbaty (Président CCI Française en Égypte). Package envisagé de 5k€ par entreprise. Au 18/11 : KAM 2 CEOs + prise de parole de l'ambassadeur à confirmer. Lettre du 4/11 invitant S.E. Tarek Dahroug à intervenir à la session « The Other Growth » le 2/12 à 12h50 (Drive: Invitation de S.E. M. Tarek Dahroug..., modifié 2026-11-10). La version EN mentionne une « ongoing discussion with the Franco-Egyptian Chamber of Commerce to position Egypt as one of the two countries of honour » (Drive: H.E Dr Tarek Dahroug - Official Invitation....docx, modifié 2026-11-03).
+  - **Singapour** (EDB + Enterprise Singapore) : retour négatif pour 2026 (« ne veulent jamais être early-adopter »). Ambassadeur S.E. Umej Bhatia invité gratuitement (lettre du 10/11). Au 18/11 : on avance sur une prise de parole de l'ambassadeur + 1 participation d'Enterprise Singapore. Prospect 2027.
+  - **Hong Kong** (HKETO Bruxelles) : négatif pour 2026 (« timing trop court pour faire venir CEOs haut niveau »). Kasper Ng (Deputy Representative) invité le 9/11. Au 18/11 : 1 participation HKETO, sans bilatéral ni interview TV.
+  - **Italie** (ITA) : Giacinto « très intéressé » mais pas décisionnaire. RDV proposé entre Luigi (Directeur) et GM. Le ministre du développement économique serait à Paris pour Adopt AI les 3-4/12 : « vrai opportunité pour un package à 15k ». En validation interne ITA + ambassade au 04/11.
+  - **Suisse** (Technopark Luzern, Aldo) : prospect 2027. **Japon, Allemagne** : standby. Taiwan retiré (15/07). Vincent veut explorer Pologne et Lituanie.
+  - (Drive: PEF - Fiche projet, modifié 2026-11-02 ; PEF - ODJ et compte rendu, modifié 2026-11-16)
+- KPIs déclarés :
+  - 21/10 : « 9 rdv externes effectués » + « Visibilité pour PEF à Spotlight Nigeria ».
+  - Point antérieur : « 5 rdv effectués, 5 invitations envoyées au PEF Prize » (Drive: PEF - ODJ et compte rendu, modifié 2026-11-16).
+- décisions (avec pourquoi) :
+  - 15/07 : prix obligatoire avec les écosystèmes africains. GM : « with African ecosystems there needs to be a price - they always want to negotiate ». Vincent « just wants one 50k ».
+  - On parle d'« accréditation », jamais de « pass ».
+  - MA n'organise pas les ambassades sans cible fournie par Vincent.
+  - 07/10 : inviter des ambassadeurs en panel sans les faire payer (prospects 2027).
+  - Négociation Nigeria laissée à Vincent : « on préfère que tu la fasses car on se positionne comme facilitateur ».
+- prochaines étapes / boucles ouvertes :
+  - Signature du MoU tripartite (urgent au 04/11).
+  - Liste des CEOs nigérians et visas (deadline 25/11).
+  - Confirmer les prises de parole des ambassadeurs (Égypte, Singapour, Nigeria) et le KAM (géré par Marion, panel « The Other Growth »).
+  - Panel d'ambassadeurs modéré par BFM/CNN avec Geoffroy Boulard (VP Métropole du Grand Paris).
+  - Italie : RDV en physique avec Vincent.
+  - Mail récap PEF Award en attente.
+  - Prospection 2027.
+- documents clés: PEF - Fiche projet (16edH5jnS4bxqHxlwYw6hZZMHZLsuf5qBPWk0TwdqM-8) ; PEF - ODJ et compte rendu (1tYM_qIAYSpS_o-M3zi3iTXbZU2dfwFvcfcJHigFsN2w) ; PEF - Fiche posture (1xLVrJ8C38qfkOVIlO0IYEt0HG__CUPvyZX_QlIJBDyo) ; PEF - Offre commerciale Pays et Acteurs Publiques (1oHBD74yk3ETa_uL5MlCBH-ljnqdzve44xbrilEIEW8s) ; MA - Presentation 2026 - Paris Economic Forum (1SKqqDRBKtv79vK3N07vbcJl8UvqFFHLyop6Ks7A0Ht0) ; Tripartite MoU PDF (1neMM73wPgwOWj3awlvq_21h-RAMO4D0O) ; Devis Nigeria (1h9kcE0jERSEtsVTIuVZ5e3utJa18cN8r).
+
+### pef-mou-tripartite-bv-ma
+- statut: en cours de signature. Les blocs de signature sont datés du « 4 November 2026 », mais aucune signature n'apparaît dans le texte extrait (Drive: Tripartite MoU - Paris Economic Forum x Bridge and Value x Maréchal Advisory.pdf, modifié 2026-11-04).
+- client / partenaire: Bridge & Value SAS (66 av. des Champs-Élysées ; Abiodun Dominic Odunuga, CEO), HUB Institute / PEF (Vincent Ducrey, Founder), MA (« Climate House » ; GM, Founder & CEO).
+- objectif: cadre de collaboration. MA y est reconnue comme « exclusive strategic architect, connecting entity, and mandatory facilitator ». B&V devient « Ecosystem Partner » du PEF (Afrique / Nigeria) et le PEF « Strategic Partner » des initiatives B&V + MA.
+- clés :
+  - Pas d'obligation financière (art. 5).
+  - Art. 6.2 : non-contournement de MA sur tous les bénéfices commerciaux.
+  - Art. 6.3 : le rôle et la rémunération de MA sont fixés par écrit avant toute exécution.
+  - Non-exclusif ; durée **1 an** ; préavis de 30 j.
+  - La version du 29/10 prévoyait **2 ans** et « Nigerian and other African stakeholders » (Drive: Tripartite MoU BV PEF MA - Strategic Partnership.docx, modifié 2026-10-29).
+- décisions: possibilité de signature pendant le PEF évoquée le 21/10 ; « Urgent : Signature du MoU Nigeria » le 04/11.
+- documents clés: 1neMM73wPgwOWj3awlvq_21h-RAMO4D0O ; 11mfo3iwHLXiuf7JlsG4_vmg2c8VwuZz0 ; Partnership_Agreement_HubInstitute_BridgeAndValues_PEF2026_EN.docx (1cBGVlWfeXwNJwFVSMBPqzWo4UjHbrs-G). Ce dernier est un draft de contrat Hub Institute x B&V du 21/10/2026 : forfait de 8 000 € HT, fin au 31/12/2026, champs B&V vides.
+
+### nigeria-france-bridge-and-value
+- statut: actif. MoU bilatéral signé le 23/07/2026, partenariat en exécution (roadshow).
+- client / partenaire: Bridge & Value (Paris, accompagne les startups et PME africaines vers l'Europe ; CEO Abiodun Dominic Odunuga).
+- objectif: corridor France-Nigeria. Offre conjointe aux entreprises : intelligence de marché, introductions de haut niveau (ambassade, Proparco), voyages d'affaires et délégations VIP (Choiseul Africa Business Forum, ChangeNOW), sourcing de sponsoring, services VIP sur place (Drive: Nigeria_Commercial_Offer, modifié 2026-08-06).
+- prix / honoraires :
+  - Offre : retainer mensuel, mission forfaitaire + frais, success fee en % ; tous les montants sont « [€ to define] » (hypothèse ; Drive: Nigeria_Commercial_Offer, modifié 2026-08-06).
+  - Clé de partage (Drive: Dashboard_Compass_Nigeria, MAJ 06/08/2026) : A. sourcing de sponsoring = commission fixe 50/50 ; B. VIP Service Ops = retainer + commission 50/50 ; C. Business Trip = billetterie + sponsoring institutionnel, « Logistics & field costs reimbursed 100%, then 60% introducer / 40% ».
+  - Règle du Compass : « Contacts introduced: no right to work directly without revenue sharing ».
+- MoU MA x B&V (fait) : signé le 23 juillet 2026 par Abiodun Dominic Odunuga (CEO) et GM (CEO). Non contraignant, sauf confidentialité, non-contournement de 12 mois sur les introductions écrites et non-exclusivité. Durée 1 an, renouvellement tacite, préavis 30 j, droit français (Drive: MOU BV MA 230726 - fully executed.pdf, modifié 2026-07-29).
+- équipe MA impliquée: GM, Armand Dogra (invitations Spotlight). Stagiaire « France-Nigeria Coordinator » prévu : M2, 4 mois à temps partiel sept-déc 2026, non rémunéré. Note : « ma reco, 1,5 jours par semaine » (Drive: Internship Offer, modifié 2026-08-06).
+- calendrier / jalons (roadshow pitché par GM le 15/07) :
+  - Spotlight Nigeria (9e édition, Hôtel de l'Industrie, Paris, 6/10/2026 ; organisé par Friends of Nigeria Europe avec le soutien de B&V).
+  - Choiseul Africa Business Forum, Lagos, 19-20/11/2026 : « négocier tickets pour 30 personnes », 5-6 entrepreneurs français.
+  - ChangeNOW 27 MeetUp « Africa For Change » : note de cadrage pour Santiago, side event visant 30 personnes sur 150 invitations.
+  - PEF 2/12 : « match retour », 4-5 CEO nigérians.
+  - « Il faut qu'on choppe un maire de Lagos au PEF ».
+  - (Drive: Insights - Pipe commercial Pays et Acteurs Publiques, modifié 2026-08-04 ; Dashboard_Compass_Nigeria, modifié 2026-08-06)
+- cibles françaises Spotlight : 11 prioritaires et 7 de niche (Drive: Nigeria - Entreprises françaises, modifié 2026-09-15). Prioritaires : AXA (AXA Mansard), MEDEF International, Air Liquide, CMA CGM, Bouygues, Banque mondiale/IFC, BEI, Mastercard France, Renault (Coscharis), Groupe Rocher, Village by CA.
+- prochaines étapes / boucles ouvertes : GM « Connect with Galeries Lafayette for a global deal! » ; « Santiago sequence: keynote, MOU signing, meeting the two ambassadors » ; annoncer l'offre délégation pour entreprises françaises pendant Choiseul Africa ; mobiliser l'ambassade et Proparco. Le Compass n'est pas tenu (compteurs à 0, contacts d'exemple).
+- documents clés: MOU BV MA 230726 (1ckbe9GhME2vOuFqwPJiMr5HpwQJu3Omp) ; Nigeria_Commercial_Offer (1OSD-nxZYgiaC6hgHipJO8F19XIZAJ1L43QJFxJ_huTM) ; Dashboard_Compass_Nigeria (1nnjd9h4s6u9ecJ0Of3y0XWXyPIkR_B08DwG7oYmLrtg) ; MA - Spotlight Nigera Invitations (1YNMluZ9F3VDjkBMUjQ8xxJpS60v6pQ5n6f6krVto1DQ) ; Choiseul Africa Business Forum 2026.pdf (1h0PaYMPKiSwP8Uyaw36vl92F2BT5W3OW).
+
+### global-ocean-accelerator-station-f
+- statut: prospect / en construction actif. Prospection lancée le 12/10/2026 ; aucun sponsor signé au 12/11/2026.
+- client / partenaire :
+  - Station F, présentée comme « notre client Station F » dans les mails de GM (Drive: OA - Lettre & mail type, modifié 2026-11-12).
+  - Contacts Station F : Abigaïl Bouaziz (directrice des programmes business, décisionnaire go/no-go, référente) et Roxane (DG), qui « ne valide que si le contrat est signé » (Drive: Compte rendu et suivi réunion, modifié 2026-09-22).
+  - INSKIP (Maxime Guillaud, Alban Rousselin) : prestataire de prospection et de sourcing.
+- objectif: créer la verticale océan de Station F, le « Global Ocean Accelerator ». BlueTech Seed+ à Série A ; 10-12 startups par cohorte ; 6-8 mois ; 1 thématique par an co-définie avec les partenaires. Promo 1 en 2027 : « surveillance de la haute mer et jumeaux numériques de l'océan ». Positionnement « scale », pas open innovation ni financement de POC (Drive: Global Ocean Accelerator Deck FR.pptx, modifié 2026-11-12 ; OA - Suivi, modifié 2026-11-12).
+- périmètre / livrables : deck FR/EN avec déclinaisons par prospect (ex. Ocean Born Foundation), fiche argumentaire, mails et WhatsApp types, note de cadrage, budget, Airtable de suivi, weekly.
+- prix / honoraires / budget :
+  - Grille sponsors actuelle : **Lead exclusif 300 k€/an (1 slot) ; Co-partenaire thématique dès 100 k€/an (2 slots) ; Partenaire écosystème dès 30 k€/an** (Drive: OA - Fiche Argumentaire, modifié 2026-11-12 ; Deck FR, modifié 2026-11-12). Note interne : ticket d'entrée « from 15k€ ? ».
+  - Historique de la grille : Anchor 400-500 k€ / 2 x 100 k€ / 2-3 x 50 k€ pour un budget de 300-500 k€ (Drive: CONFIDENTIEL - Note de cadrage..., modifié 2026-09-22). « Lead sponsor ramené à 300K (décision actée) » le 11/10 (Drive: OA - Suivi, modifié 2026-11-12).
+  - Budget (Drive: Modèle économique budget ocean accelerator.xlsx, modifié 2026-10-20) :
+    - fourchette haute 861 888 €, basse 441 888 € / 406 888 € ;
+    - **modèle « kickstart - GO » 351 888 €** : frais admin 35 000 ; location de 40 bureaux Station F 111 888 ; sélection 30 000 (ChangeNOW) ; program management 50 000 (Virginie) ; lancement 10 000 ; Demo Day 15 000 ; **Maréchal Advisory (GM + 1 junior) 50 000** ; Pilot 50 000.
+  - Lancement visé à 350K€, minimum viable 300K€, dont 50K€ de prix au Demo Day ; RP retirées (~15K€) (OA - Suivi, réunion du 20/10).
+  - Objectif du 14/10 : « boucler 250-300K avec quelques tickets (ex. AXA 50K, Eleven 30K) », question « se lancer à 200K ? ».
+  - Marges arrière (réunion du 22/09) : « Ex. : 50K facturés à la Fondation Albert II, coût réel ~30K, valeur perçue ~100K » (Drive: Compte rendu et suivi réunion, modifié 2026-09-22).
+  - Rémunération INSKIP (hypothèses) :
+    - le 22/09, pour Maxime : « Commission de 5 à 10K par deal apporté » + enveloppe de 30-40K ;
+    - le 14/10 : « Rémunération au sourcing : même niveau de pourcentage pour tous » ;
+    - le 11/10 : contrat d'apporteur d'affaires (% du montant total) + retainer mensuel possible ;
+    - « 30-70 sur les bénéfices » proposé par Inskip et rejeté (« ne veut rien dire »).
+- équipe MA impliquée: Guillaume Maréchal (directeur de projet), Virginie Augagneur (responsable de programme, email @marechaladvisory.com), Léonie Vankemmel (LV, responsable partenariats, porteuse des next steps). INSKIP : Maxime Guillaud et Alban Rousselin (chargés de programme) (Deck FR, modifié 2026-11-12).
+- calendrier / jalons :
+  - 22/09 : cadrage GM-Virginie.
+  - 05/10 : 1re réunion à 4.
+  - 09/10 : deck finalisé ; 12/10 : lancement de la prospection.
+  - Rythme : weekly MA x INSKIP le lundi 17h30-18h ; MA x Abigail un lundi sur deux 18h-18h30.
+  - Décembre 2026 : accords de principe et signature. Proposition de bloquer les jeudis 3 et 10/12 pour des RDV physiques à Station F.
+  - 11-22/01/2027 : annonce à la COP1 Océans (ONU NY).
+  - Février-mars : sourcing ; avril 2027 : lancement à Station F.
+  - (Drive: OA - Fiche Argumentaire ; OA - Mails/WhatsApp, modifié 2026-11-10)
+- pipeline (au 09-12/11/2026, Drive: OA - Suivi ; OA - Mails/WhatsApp) :
+  - Réunions débloquées : EDF Pulse (Yann Coic, « Tier 1 ? », relance sous 15 j), ESA (Selima Ben Mustapha), 11th Hour Racing (Jeremy Pochman, 1er pitch le 10/11), Ifremer (« écosystème partenaire, pas d'argent »), Ocean Born Foundation (« mauvais fit »), Fondation Prince Albert II de Monaco (Romain Ciarlet ; « très intéressé par un second rdv » ; DG positif le 05/10, « peut donner 100K/an sur 3 ans »).
+  - CMA CGM : Émilie, RDV jeudi 11h ; Abigail en lead sur la mise en relation ; Rodolphe Saadé via « Afida ».
+  - AXA : « C'est le Fonds de dotation qui est déterminant », 60M€/an ; Julia d'Astorg (Fonds AXA pour la Recherche), Ziad, Olivier Desbiey.
+  - EIC (« Tier 1 ? »), SWEN (« tier 1 ? »).
+  - En cours : Accor (Coline Pont), Hoffmann (Vassilis, Jean Hauss), MACIF (Élodie Rolland, Alban Gonnor, Gaëlle de Pengern), KAUST (Claudio), Crédit Mutuel Arkéa, Dalio Philanthropies (Amandine), Groupama, Kresk4Oceans (Charlotte Vigne, ticket 15K min), MAIF (Stéphane Tisserand), Société Générale (Albane Rouvillois, Ulrich Mohrle), CNP (Alexandra Pailhes, OpenCNP).
+  - Prospection élargie : Louis Dreyfus Armateurs, Suez, Veolia, Engie, Vinci, Eiffage.
+  - Refus : Orange (« pas leur priorité »), Art Explora.
+  - Exclus car déjà partenaires de Station F : BNP Paribas, LVMH.
+- décisions (avec pourquoi) :
+  - 08/10 : « Projet Maréchal Advisory en collaboration avec Inskip, pas l'inverse » ; « si Inskip se brouille en année 2, le projet continue sans eux ».
+  - 11/10 : Station F porte le programme et contractualise directement avec GM ; MA gère le program management ; Inskip est prestataire, pas co-porteur.
+  - 11/10 : lead sponsor à 300K au lieu de 500K, « plus réaliste face aux attentes ROI des sponsors ».
+  - 20/10 : marque « led by Marechal Advisory, in partnership with Inskip » ; pas de logo Station F sur la partie commerciale ; Abigail = point de contact Station F.
+  - 04/11 : « Inskip : décision de ne plus attendre, contactez directement sans eux ».
+  - Slide BBNJ/haute mer masquée selon l'interlocuteur (les corporates s'intéressent au littoral, pas à la haute mer).
+  - MA a remigré sur son propre Airtable (licence partagée ~50€/mois/personne).
+- prochaines étapes / boucles ouvertes : accords de principe d'ici fin décembre ; contrat INSKIP et fiche de poste de Virginie ; clarifier qui signe quoi avec Station F ; mail d'update hebdomadaire à Abigail (« la rassurer, l'impliquer sans la bypasser ») ; trancher EIC/EDF/SWEN en Tier 1.
+- documents clés: OA - Suivi (1O9IO1JSRTmKWEAOBhJBYxEWuA6I2i3pEUZsnIzR5PbY) ; OA - Fiche Argumentaire (1qIzfI-1CWSm-00h9IiAacb8wOptdmw5uEIOa9xtbofM) ; Global Ocean Accelerator Deck FR.pptx (1SDE0EWut15di1Tz8AUntEda3TY4b_7ww) ; Modèle économique budget (1WtVvoissbgjDin8JlZ7IIo49EEaSEtZc) ; OA - Lettre & mail type (1MSBjvP9Z308IRsqKkg2jDhDS7WLbCxKlZnD3horo1BE) ; Compte rendu et suivi réunion (1Twu-Qw5owELvlx3c6IqPguL7mRIuSJmRk7ThT4GIpvA) ; Notes de cadrage (1LYm2FN_RLc_xOvLYCnjI_w6oCwXAagqG6sSUmp7A-fA, 1yoZXWO90KLDZ7mvKthxgVBmdmh5_n5MCl3cqBfm0HEg).
+
+### offre-ma-accompagnement-startups-2027
+- statut: idée (02/11/2026).
+- objectif: programme d'accélération personnalisé où MA joue le rôle de « chef d'orchestre » : affaires publiques, biz dev international, prises de parole. « Modèle cible : ~10 startups à 4K/mois = ~400K/an » ; brainstorming interne prévu (Drive: OA - Suivi, modifié 2026-11-12).
+
+### jma-je-m-engage-pour-l-afrique
+- statut: actif côté JMA. Pour MA : rôle de core team bénévole ou partenaire sur la soirée des 5 ans (nature exacte inconnue).
+- client / partenaire: Je m'engage pour l'Afrique (association fondée en 2021 ; Ileana Santos, cofondatrice-présidente ; Rufus Ahounou).
+- objectifs et contenus :
+  - Soirée « Le temps des récoltes, en actes » à la Fondation Cartier, dans l'œuvre Parliament of Ghosts d'Ibrahim Mahama. Lundi 1er février 2027 (à confirmer), ~140 invités ; lancement du programme « Amplitude ». Formules partenaires : **3 000 €** (logo, 2 invitations) et **6 000 €** (remise d'une distinction, 3 seulement, 4 invitations). Core team : Rufus Ahounou (JMA), Agnès Guillard, Karl Lawson, **Guillaume Maréchal (Maréchal Advisory)**, Ileana Santos (JMA) (Drive: Le temps des récoltes, en actes · Dossier partenaires (2).pdf, modifié 2026-11-14).
+  - Bilan JMA affiché : 2 000 bénéficiaires directs, +22 000 indirects, 200 experts, « +700 000 € mobilisés en 4 ans », 4 Résidences / 87 professionnels, 8 Conversations citoyennes.
+  - « Conversations stratégiques : Financer l'Afrique qu'on veut #En route vers Nairobi » : 4 sessions en ligne en avril 2026 + restitution à l'Africa Forward Summit Nairobi 2026 (Drive: Note conceptuelle - Africa Forward Summit, Kenya 2026, modifié 2026-03-12).
+  - Notes de suivi Kenya (ton GM, hypothèse) : BAD et Jules Armand Aniambossou ; canaux « cab Caroit », « cab Barrot », Bpifrance, cellule diplo ; Google (directeur affaires publiques Afrique) ; « Jules Armand cherche des idées pour une grosse initiative sur l'IA » (Drive: Suivi Kenya Sommet Afrique France, modifié 2026-02-18).
+  - Résidence JMA (programme de 3 mois, lancé en 2023) et catalogue de l'« École de la Délibération et de l'Engagement » (3 piliers, 3 parcours). Budgets internes : niveau 1 12 000 €, niveau 2 4 000 € (Drive: Catalogue de formation JMA.xlsx, modifié 2025-03-09).
+  - Comptes 2024 (grand-livre, édité le 19/02/2025) :
+    - subventions affectées 191 935 € : Innovation Foundation for Democracy 50k, MEAE 50k, Métropole Aix-Marseille-Provence 30k, FSPI 31 935, Institut français 8k, Africa Europe Fondation 10k, Direction spé. finances 12k ;
+    - parrainage 14 500 € (Stork Avocats 4 500 pour la Résidence, Bucy Italia 10 000) ;
+    - salaires ~53 200 € ;
+    - résultat ≈ -486 € ;
+    - aucune écriture liée à MA (Drive: 2024 JMA GL Général (1).pdf, modifié 2025-03-09).
+- prochaines étapes: recherche de partenaires pour la soirée Cartier ; date à confirmer.
+- documents clés: 1C_uynjKv-45w5ZNhavxEqnGBoGJQgh9r ; 1drBUqETPWl690AidHdwPSW_-e_SkCDlm__chsyT_uOc ; 17M0EgKAXXj8fQ4ZLHT1OvPMXR1HZhNcCWVWuH9kkbtg.
+
+## Organisations (clients, prospects, partenaires, institutions)
+- Paris Economic Forum / HUB Institute SAS | client | mission « participation internationale » PEF 2026 | RCS 523 594 752, 9 bd Gouvion-Saint-Cyr. PEF 2026 les 1-2/12 à l'Automobile Club de France, 300 participants, thème « Time for New Coalitions ». Packages corporate 25-40k (Drive: Copie de (GM) 2026 PEF & Board Dinners, modifié 2026-08-06).
+- Bridge & Value SAS | partenaire | MoU bilatéral (23/07/2026), MoU tripartite PEF, offre Nigeria | client du devis PEF de 8 000 € HT (Drive: devis, modifié 2026-10-22).
+- Friends of Nigeria Europe | organisateur | Spotlight Nigeria, 6/10/2026 (Drive: MA - Spotlight Nigera Invitations, modifié 2026-09-22).
+- Choiseul / Institut Choiseul | institution / événement | Choiseul Africa Business Forum, Lagos, 19-20/11/2026 (7e édition) ; Club Choiseul (15/04/2025) ; Pascal Lorot, Chairman (Drive: Choiseul Africa Business Forum 2026.pdf, modifié 2026-07-29).
+- Ambassade d'Égypte en France | prospect PEF | S.E. Tarek Dahroug, Bassem Badr (chef de la mission économique), Passant Diaa El Din (attachée commerciale). Séminaire du 29/04/2026 (Drive: Séminaire Ambassade de l'Egypte.pdf, modifié 2026-05-19).
+- CCI Française en Égypte (CCIFE) | prospect / relais | Emad El Sonbaty, Président.
+- HKETO Bruxelles | prospect PEF 2026/2027 | Kasper Ng, Deputy Representative.
+- EDB / Enterprise Singapore ; Ambassade de Singapour | prospects PEF | S.E. Umej Bhatia invité.
+- ITA - Italian Trade Agency / ICE | prospect PEF (piste 15k) | Giacinto, Luigi (Directeur). Demo Night ITA (fichier de screening).
+- Technopark Luzern | prospect PEF 2027.
+- Station F | client OA (verticale océan) | Abigaïl Bouaziz, Roxane (DG). Programmes : minimum 36-40 desks, 1 ETP de program management (Drive: Station F - 2026 Partnerships Pack, modifié 2026-10-27).
+- INSKIP | prestataire / partenaire OA | Maxime Guillaud, Alban Rousselin ; NDA sur base de performance ; contrat en cours. A aussi mené le démarchage de la Deep Tech Week (fichier DTW : équipe Ben, Jules, Axel, Julia, Naomi, Younès ; ~500 prospects) (Drive: DTW _ Suivi démarchage..., modifié 2026-05-06).
+- ChangeNOW | partenaire écosystème OA | Santiago, Charlotte ; sourcing en marque blanche (~40K, hypothèse) ; océan = 1 des 13 thématiques.
+- Waves of Change | écosystème OA | 100 % bénévole ; Virginie Augagneur en est la coordinatrice.
+- Fondation Prince Albert II de Monaco (FPA2) | prospect OA tier 1 | Romain Ciarlet, Raphaël ; DG positif, 100K/an sur 3 ans (hypothèse).
+- AXA (fonds de dotation, Fonds AXA pour la Recherche, AXA XL/ORRAA) | prospect OA | Ziad, Olivier Desbiey, Julia d'Astorg, Joséphine de Fontaines, Pauline Menguy.
+- CMA CGM | prospect OA | Émilie ; Rodolphe Saadé ; ZEBOX.
+- EDF Pulse | prospect OA (Tier 1 ?) | Yann Coic (CEO EDF Pulse Holding) ; 600M€ investis ; CVC séries A/B 3-5M€ (Drive: OA - Suivi, réunion du 12/11).
+- 11th Hour Racing / 11th Hour Project | prospect OA | Jeremy Pochman.
+- Ocean Born Foundation | prospect OA écarté (« mauvais fit » sponsor) | Ocean Beer ; 500 000 € reversés.
+- ESA, EIC, Ifremer, KAUST, CNRS, SWEN Blue Ocean, Kresk4Oceans, Dalio Philanthropies, Groupama, MACIF, MAIF, Société Générale, CNP/OpenCNP, Accor, Crédit Mutuel Arkéa, Hoffmann (famille Roche) | prospects / écosystème OA (voir pipeline).
+- Pelagora / Octopus Platform | ressource OA | deck utilisé pour les punchlines (Guillaume Bergeras).
+- École du Louvre (et son fonds de dotation) | client MA, mentionné | GM présente « l'École du Louvre et son Fonds de dotation » à AXA et à la Société Générale (Drive: OA - Lettre & mail type, modifié 2026-11-12).
+- AlUla / AFALULA | ancien client MA (track record) | « Conception & déploiement de l'accélérateur Future of Tourism pour Afalula à Station F (de A à Z : sourcing, PR, Demo Day) » (Drive: Pitch Deck - a retravailler, modifié 2026-09-24). Le deck OBF précise que Galeries Lafayette s'est associé à l'Agence française pour le développement d'AlUla pour lancer « Future of Tourism » à Station F.
+- Je m'engage pour l'Afrique (JMA) | partenaire associatif | soirée Cartier ; Africa Forward.
+
+## Personnes
+- Guillaume Maréchal (GM) | Founder & CEO, MA | directeur de projet OA, Strategic Partner PEF, signataire des MoU.
+- Armand Dogra (AD) | International Project Manager, MA | pilote opérationnel du PEF, auteur des mails PEF et Spotlight.
+- Virginie Augagneur (VA) | responsable de programme OA, MA (email MA) | profil : 50 Partners (2012), Platform58 / La Banque Postale (2018), DGA Ventures Reworld Media, Made by VA (2024), administratrice de La Fresque Océane, coordinatrice de Waves of Change, mission MerConcept (Drive: BIO - Virginie Augagneur, modifié 2026-09-24).
+- Léonie Vankemmel (LV) | responsable partenariats OA, MA | next steps, toolkit, mails Abigail.
+- Vincent Ducrey | Président PEF / HUB Institute | client PEF. Sociogramme : drivers « prestige et spotlight », attend « un ticket de 50k », « difficile à joindre », « rigide et touchy ». Posture MA : « Être pro, complimenter son Forum » (Drive: PEF - Fiche posture).
+- Michael / Mickaël Miguères | PEF Coordinator | ajouté aux weekly le 09/09 ; « froid et indisponible » (fiche posture).
+- Marion Joubert | Panels coordinator PEF | gère le KAM « The Other Growth ».
+- Adeline Jouanne, Edouard de Miollis, Rodrigue de Greslan | équipe PEF.
+- Abiodun Dominic « Abi » Odunuga | CEO Bridge & Value | partenaire Nigeria.
+- Abigaïl Bouaziz | directrice des programmes, Station F | référente OA.
+- Maxime Guillaud, Alban Rousselin | INSKIP | Alban « peu réactif » ; Maxime veut attendre la Deep Tech Week (mars 2027).
+- Ileana Santos | cofondatrice-présidente JMA. Rufus Ahounou | JMA.
+- Contacts prospects (rôle et organisation uniquement) : Tarek Dahroug (ambassadeur d'Égypte), Bassem Badr (mission économique d'Égypte), Emad El Sonbaty (CCIFE), Kasper Ng (HKETO), Umej Bhatia (ambassadeur de Singapour), Giacinto / Luigi (ITA), Geoffroy Boulard (VP Métropole du Grand Paris, panel), Yann Coic (EDF Pulse), Jeremy Pochman (11th Hour Racing), Romain Ciarlet (FPA2), Coline Pont (directrice DD Accor), Guillaume Robic (contact Accor, ne souhaite pas être cité), Julia d'Astorg (Fonds AXA pour la Recherche), Alexandra Pailhes (Head of Investment, CNP), Charlotte Vigne (déléguée générale Kresk4Oceans), Stéphane Tisserand (SG MAIF), Élodie Rolland (SG Fondation MACIF), Albane Rouvillois / Ulrich Mohrle (Société Générale), Claudio (KAUST), Vassilis (entourage Hoffmann), Vincent Doumeizel (algues), Pascal Lorot (Choiseul).
+
+## Offre, prix, méthode MA
+- **Grille pays PEF 2026** (vendue par MA au nom du PEF) :
+  - Discovery/Observer 5k€ : 1 accréditation CEO, 1 place au gala, LinkedIn.
+  - Active Partner 15k€ : 5 accréditations, 1 prise de parole, 1 interview TV BFM Business/PEF TV, 5 places au gala, jusqu'à 4 bilatéraux « valorisés 4k », ½ page Review.
+  - Spotlight Partner 30k€ : 10 accréditations, 2 prises de parole, table dédiée de 10 places « valorisée 10k », jusqu'à 10 bilatéraux « valorisés 10k », 1 page Review, Board Dinner.
+  - Workshop Hub Institute de 15 personnes, valeur 5k€ (Drive: MA - Presentation 2026 - Paris Economic Forum, modifié 2026-10-29).
+  - Versions de travail : « 2026 Discount » à 0 / 10k / 20k (Drive: PEF - Offre commerciale Pays..., modifié 2026-08-05) ; tableau annoté « 15k / 10k Italie Nigeria », « 50 000 discount » (Drive: Pilotage - prise de note - PEF 2026, modifié 2026-07-21).
+  - Corporate PEF : Founding 40k, Premium 35k, Strategic 30k, Associate 25k ; add-ons : table gala 10K, 10 accréditations 20K (2K l'unité), naming 20K (Drive: Copie de (GM) 2026 PEF & Board Dinners, modifié 2026-08-06).
+- **Argumentaire PEF** :
+  - 300 CEO et décideurs, 30+ pays, 300 000+ spectateurs en direct, 2M+ vues, 90 000 décideurs (Review), « 2 pays max » en Spotlight. 5 raisons : exclusivité, 300 C-levels, ROI (jusqu'à 10 RDV), souveraineté, attractivité (Drive: Argumentaire PEF 26, modifié 2026-08-06).
+  - Débrief de pitch (2/11) : viser 10 minutes ; ne pas dire « ultra select » (« sonne boîte de nuit ») mais « 300 invited leaders » ; valoriser « 2-3K par contact » ; small talk orienté renseignement ; FOMO « Only 2 country partner slots, 1 European, because we're already working with Asia » (Drive: PEF - Argumentaire, modifié 2026-11-02).
+- **Méthode MA (fiche posture / fiche projet)** :
+  - « Guerre éclair : cross selling, on attaque, on pitch, on convainc ».
+  - « Créer de la rareté. Ne pas être bon élève. Garder et donner envie pour 2027 ».
+  - « Avoir une vision globale, mais l'art de savoir diluer ».
+  - Stratégie WhatsApp.
+  - ODJ partagé avec le client 24 h avant, validé en interne 72 h avant.
+  - Clockify ; weekly de 30 min toutes les deux semaines.
+  - Planning de commercialisation : juillet sensibiliser, septembre ferrer, octobre-novembre clôture.
+  - CR : 5 points clés vérifiés avec Granola + Airtable.
+  - « Manage expectations - objective 15k ».
+  - Objectifs MA : visibilité via l'image du PEF, « Confirmer l'offre client : délégation internationale (DTW, ChangeNOW, PEF) », alliances internationales, être invité à d'autres événements (Italie en juin, Climate Week), « Test de collaboration avec Abi suite au MoU » (Drive: PEF - Fiche posture, modifié 2026-10-28).
+  - Outils : fiches posture / projet / stratégie avec sociogramme.
+- **Offre délégation internationale MA** : la fiche cite DTW, ChangeNOW et PEF comme références. Offre Nigeria MA x B&V : 5 lignes de service, 4 étapes, retainer / forfait / success fee (montants non fixés).
+- **Offre OA** :
+  - Grille 300k / 100k / 30k. Sponsors : co-construction (« pas un sponsoring passif »), le programme porte leur nom, thématique sur 3 ans possible.
+  - Argumentaire réglementaire : CSRD ESRS E4, TNFD, SFDR article 9, BBNJ.
+  - Chiffres : 50 % du PIB mondial dépend de la nature ; 7 700 Md€ de valeur océanique menacée ; 66 % des entreprises cotées exposées ; l'océan reçoit <1 % de la philanthropie climat et du VC.
+  - Track record MA revendiqué : Future of Tourism (AlUla) à Station F, « Taiwan House Ocean à ChangeNOW », Davos, Climate Week, UNOC. Mail KAUST : « Through Maréchal Advisory, I advise key strategic projects and actors such as AlUla, ChangeNOW and Waves of Change ».
+- **Usage des outils IA** (fait) : deck traduit via Claude ; titres retravaillés via Gemini (max 15 caractères) ; drafts d'offre générés par IA (Pilotage PEF, Pitch Deck à retravailler).
+
+## Voix et style
+- Tutoiement avec le client et en réseau, sur un ton chaleureux : « J'espère que tu vas bien. En parallèle de l'offre commerciale, tu trouveras ci-joint une première version du pipe avec les 7 pays prioritaires [...] Bien à toi, Guillaume » (Drive: PEF - Messages et mails types, modifié 2026-11-09).
+- Vouvoiement avec les institutions : « Placé sous le haut patronage de Monsieur Emmanuel Macron, Président de la République, le PEF est un forum d'affaires exclusif réunissant au maximum 300 dirigeants [...] Excellentes vacances et à très vite, Guillaume » (mail à Bassem, ambassade d'Égypte).
+- Accroche récurrente des mails OA : « Face à l'urgence environnementale et aux opportunités majeures du secteur #BlueTech #OceanEconomy, nous avons décidé d'agir en créant le Global Ocean Accelerator à la Station F. » Ouverture type : « J'espère que tu vas bien avec cette actualité intense et complexe… » (Drive: OA - Lettre & mail type, modifié 2026-11-12).
+- Clôtures récurrentes : « Bien à toi, Guillaume » / « Amitiés, Guillaume » / « Un grand merci par avance pour tes conseils et ton aide ».
+- WhatsApp court avec name-dropping : « Nous avons déjà de premiers échanges avec AXA, la Fondation Prince Albert II de Monaco, CMA CGM, l'ESA, ChangeNOW ou bien encore KAUST. »
+- Update client : « On ne lâche rien ! Et on avance plutôt bien, même si time is key. [...] la dynamique est excellente et le pipe se remplit bien » (Drive: OA - Mails/WhatsApp, modifié 2026-11-10).
+- Création d'urgence : « As capacity is strictly limited, we are extending 1 invitation for your ecosystem » (invitation PEF Prize, Armand).
+
+## Décisions datées
+- 2026-07-15 | Liste des pays cibles PEF : Nigeria, Égypte, Italie, Japon, Suisse, Hong Kong, Singapour ; Taiwan retiré ; « killer offre 5k » | cadrage avec Vincent | PEF - ODJ et compte rendu
+- 2026-07-23 | Signature du MoU MA x Bridge & Value | corridor France-Nigeria | MOU BV MA 230726 - fully executed.pdf
+- 2026-09-22 | INSKIP en exécution marque blanche, Maxime sourceur et non pilote ; ChangeNOW partenaire de sourcing | légitimité et contrôle MA | Compte rendu et suivi réunion
+- 2026-10-05 | Positionnement « Ocean Accelerator by Station F » sans naming sponsor unique ; modèle multi-tickets de 30-100K | réalisme commercial | OA - Suivi
+- 2026-10-07 | PEF : inviter les ambassadeurs prospects en panel sans les faire payer | conversion 2027 | PEF - ODJ et compte rendu
+- 2026-10-08 | Le projet OA appartient à MA, Inskip en marque blanche ; rejet du partage « 30-70 sur les bénéfices » | « MA peut avancer sans Inskip, pas l'inverse » | OA - Suivi
+- 2026-10-11 | Lead sponsor OA ramené de 500K à 300K ; Station F contractualise avec GM ; scale pur en priorité | attentes ROI des sponsors | OA - Suivi ; OA - Mails/WhatsApp
+- 2026-10-20 | Marque « led by Marechal Advisory, in partnership with Inskip » ; budget de lancement 350K (minimum 300K) | retours d'Abigail | OA - Suivi
+- 2026-10-20 | Devis PEF Nigeria à 8 000 € HT émis par Hub Institute | concrétiser l'accord verbal | Nigéria - PEF 2026 (Bridge and Value) (2).pdf
+- 2026-10-26 | Terminologie « PARTICIPATION INTERNATIONALE » pour l'offre PEF | PEF - Fiche posture
+- 2026-11-04 | MoU tripartite PEF x B&V x MA daté, durée réduite à 1 an | sécuriser le rôle de MA | Tripartite MoU PDF
+- 2026-11-04 | OA : prospecter directement sans attendre INSKIP | inertie d'INSKIP | OA - Suivi
+- 2026-11-10 | Ocean Born Foundation jugée « mauvais fit » comme sponsor | pas de capacité financière, no-tech | OA - Suivi
+
+## Idées / pistes non engagées
+- Offre MA d'accompagnement de startups 2027 (~10 x 4K/mois).
+- Roadshow Nigeria-France (Choiseul Africa + Spotlight + PEF), à pérenniser.
+- Workshop à l'ambassade d'Égypte la veille du PEF sur l'une des thématiques.
+- Package à 15k pour l'Italie autour d'Adopt AI (3-4/12).
+- Animation d'une table ronde par GM au PEF.
+- PEF 2027 : « invitation demi journée » pour Singapour, Italie, Suisse.
+- OA : modèle 2 de co-innovation si un tier 1 met 400K+ ; prix en numéraire au Demo Day ; lettre signée par le DG de Station F ; slide « 50 Partners Impact ».
+- Note perso GM : alternatives Norrsken Barcelone / Impact Hub ; OceanX Summit ; startup studio Bpi + Arkéa.
+- Nigeria : « Connect with Galeries Lafayette for a global deal! » ; mobiliser le maire de Lagos.
+
+## Questions ouvertes
+- Honoraires MA pour la mission PEF : aucun contrat ni devis MA → HUB Institute dans le dossier. Le montant et la forme (fixe, success fee) sont à retrouver ailleurs.
+- MoU tripartite : signé ou seulement daté ? Le texte extrait ne montre pas de signatures.
+- Le devis Nigeria de 8 000 € (expiré le 31/10) a-t-il été accepté et payé par B&V ? Quelle part revient à MA ?
+- OA : rémunération effective de MA (50 k€ dans le budget kickstart ? marges arrière ?) et contrat Station F ↔ MA, non trouvé.
+- Contrat INSKIP : envoyé et signé ?
+- Rôle de MA dans la soirée JMA Cartier : bénévole ou rémunéré ?
+- Le Dashboard Compass Nigeria contient des contacts d'exemple qui semblent fictifs (ex. « Jean Dupont », Galeries Lafayette) : non repris comme faits.
+- « Elevance Hour » (05/10) correspond probablement à 11th Hour / Schmidt Ocean (orthographe à confirmer).
+
+## Inventaire lu
+(lu = lu en entier sauf mention ; « aperçu » = extrait de métadonnées seulement)
+- PEF - Fiche projet | 16edH5jnS4bxqHxlwYw6hZZMHZLsuf5qBPWk0TwdqM-8 | gdoc | 2026-11-02 | lu | pipeline pays, engagement 15k
+- PEF - ODJ et compte rendu | 1tYM_qIAYSpS_o-M3zi3iTXbZU2dfwFvcfcJHigFsN2w | gdoc | 2026-11-16 | lu | CR avec Vincent, du 15/07 au 18/11
+- PEF - Fiche posture | 1xLVrJ8C38qfkOVIlO0IYEt0HG__CUPvyZX_QlIJBDyo | gdoc | 2026-10-28 | lu | objectifs, sociogramme, gouvernance
+- Pilotage - prise de note - PEF 2026 | 1iK9bGyvxD4LBOcwCXlx5ULWEr0vS_0-clicU-4d_AAM | gdoc | 2026-07-21 | lu | draft IA des packages 5/15/30k
+- Insights - Pipe commercial Pays et Acteurs Publiques | 1Q5dvpL6JUiyrKIRQpCOcyl1d5Ywq25D20y2lPlPak8o | gdoc | 2026-08-04 | lu | argumentaires par pays
+- PEF - preparation de la voilure - recherches préalables | 19y_K7gVI2yDpPn5lWVwSWjS7grX5F2CTSEluOmWaDXU | gdoc | 2026-07-15 | lu | phases, heures, benchmark, SWOT
+- PEF - Offre commerciale Pays et Acteurs Publiques | 1oHBD74yk3ETa_uL5MlCBH-ljnqdzve44xbrilEIEW8s | gdoc | 2026-08-05 | lu | grille packages
+- PEF - Proposition Grid KAM | 1CFLpFv15-HNpgoyLyQ-gpyk_nfWRfQecrt-ihjKxYLg | gsheet | 2026-11-03 | lu | 12 colonnes KAM, 1 ligne d'exemple
+- Argumentaire PEF 26 | 17d8dpiIzhd61WMQTWA6k6Xx5-vVyMGYXS6kWItf9Wnc | gdoc | 2026-08-06 | lu | chiffres et 5 raisons
+- Discours pourquoi venir au PEF | 1QXZ4YSapNFn1f4FpfcCE9Ac9WNNuo2lSLDY11UaEIHk | gdoc | 2026-08-05 | lu | doublon des 5 raisons
+- PEF - Argumentaire | 1dyWzrO7Xryp7vA-jNpJQUP5tZMiKVNARMGUxfNpgCp4 | gdoc | 2026-11-02 | lu | débrief de pitch
+- PEF - Messages et mails types | 1nQ3RtxWO-sx_17_0ij8uWTAssqzo7yPcd81GZDUD4DU | gdoc | 2026-11-09 | lu | mails Nigeria, Prize, Singapour, Égypte
+- Invitation de S.E. M. Tarek Dahroug... (gdoc) | 1_bHsnPnv_a02gPjBIY352boBKNEUOCIeyu9kyxULdw8 | gdoc | 2026-11-10 | lu | invitation « The Other Growth »
+- Invitation de S.E. M. Tarek Dahroug... .pdf | 1OecchzFTn7MQmbXml8id2RhvjKgfSZKa | pdf | 2026-11-04 | sauté (doublon)
+- Toolkit/Invitation de S.E. M. Tarek Dahroug... .pdf | 1iC4m_IKOz9_QhqKm40HMVioovgqyPnZ- | pdf | 2026-11-04 | sauté (doublon)
+- H.E Dr Tarek Dahroug - Official Invitation.docx | 1JU0oI8nq89UulNTQxDOWAlP3HD-lWmAo | docx | 2026-11-03 | lu | version EN, Égypte « country of honour »
+- Invitation Kasper Ng – HKETO (gdoc) | 1M0qGd7VJxI4VUu7skAiUw5i7ImYNtamx_N1nLWS8O-E | gdoc | 2026-11-10 | lu | invitation à assister
+- Invitation Kasper Ng – HKETO.pdf | 1jBoRAEFF5pGoMMWVSUqaQ4yk8HcDCskX | pdf | 2026-11-09 | sauté (doublon)
+- Mr Kasper Ng - Official Invitation.pdf | 1WBOwbj4Rz8_WSnTISWeg-y8TQSe25gGb | pdf | 2026-11-09 | lu | doublon confirmé
+- Invitation H.E. Umej Bhatia Singapore | 13vMcUTb5ApYZjgUJ4mPaejbJAR1rDTidmrRl4bs_pBs | gdoc | 2026-11-10 | lu | invitation ambassadeur
+- Nigéria - PEF 2026 (Bridge and Value) (2).pdf | 1h9kcE0jERSEtsVTIuVZ5e3utJa18cN8r | pdf | 2026-10-22 | lu | devis de 8 000 € HT
+- Partnership_Agreement_HubInstitute_BridgeAndValues_PEF2026_EN.docx | 1cBGVlWfeXwNJwFVSMBPqzWo4UjHbrs-G | docx | 2026-10-22 | lu | draft de contrat à 8k
+- Tripartite MoU ... (Old, docx) | 1fuk9KamifGX8-gR9Og66CnCGOVcZN-XB | docx | 2026-11-02 | sauté (doublon, ancienne version)
+- Tripartite MoU ... (Old, pdf) | 1UcUgnOZZlS6h5g3sLwHscT0_e44FMl1j | pdf | 2026-11-04 | sauté (doublon)
+- Tripartite MoU BV PEF MA - Strategic Partnership.docx | 11mfo3iwHLXiuf7JlsG4_vmg2c8VwuZz0 | docx | 2026-10-29 | lu | version 2 ans
+- Tripartite MoU - PEF x B&V x MA.pdf | 1neMM73wPgwOWj3awlvq_21h-RAMO4D0O | pdf | 2026-11-04 | lu | version finale datée du 4/11
+- MA - Presentation 2026 - Paris Economic Forum | 1SKqqDRBKtv79vK3N07vbcJl8UvqFFHLyop6Ks7A0Ht0 | gslides | 2026-10-29 | lu | deck co-brandé MA
+- PEF 2026 Country Partnership | 1_4zRVm6zC2yVlJT3DlKzMaLGqC196EAdoExpEUi_YtM | gslides | 2026-08-21 | lu | 5 raisons + packages
+- Copie de (GM) 2026 PEF & Board Dinners | 1rX_EGPAWm2hSOcGfMYmh9ICqv06TrROUgzHR1z6AgZc | gslides | 2026-08-06 | lu | deck PEF officiel, packages corporate
+- 2026 PEF & Board Dinners 170325.pdf (Toolkit) | 1wk2dtM16H2RriWnW8d_GbkDGf8N9Fpd6 | pdf | 2026-04-27 | lu | même contenu
+- 2026 PEF & Board Dinners 170325.pdf (Nigeria/Deck) | 1aI-dEvWoj3wB7TCd3qFYnfdKX95l7ON8 | pdf | 2026-08-06 | sauté (doublon, même taille)
+- A5 - Paris Economic REVIEW 2026.pdf | 1aSqaiTUItpWT1E1tbQd5o0HqdcDudmoo | pdf | 2026-04-27 | aperçu (sommaire) | magazine PEF Review
+- Axes de travail du PEF 2026 - 5 piliers.pdf | 1_FgWnq-PGY0LITv76vbaXpnGoRGrhRl0 | pdf | 2026-04-27 | lu | note stratégique de mars 2026
+- EN PEF 2026 - Focus Areas.pdf | 1xXiBOcNeY64-nPKPcnPlxLq2Ht_8jjc7 | pdf | 2026-04-27 | aperçu | traduction EN (doublon)
+- Copie de (GM) Event S2 x HUB Institute | 1ETV-p4Uor846ENG5lXk6uFMUJf1VKX3Ig9deaxhu2zA | gslides | 2026-08-06 | lu | agenda et tarifs Hub Institute
+- Modèle – Invitation à assister au PEF 2026 (1).docx | 1sjysrXizgQSIr9_-1_Kn3UG2R8yBqDU3 | docx | 2026-10-22 | lu | modèle FR
+- Template – Invitation to attend PEF 2026 (1).docx | 1_JJlFYo8qyTj52SdwComAH6gES2USW_H | docx | 2026-11-03 | lu | modèle EN
+- Vincent Ducrey Photo.jpeg | 1IxgGzKAxUhpk7V7E4kztcD484xsy54X8 | image | 2026-09-28 | sauté (image)
+- Nigeria_Commercial_Offer | 1OSD-nxZYgiaC6hgHipJO8F19XIZAJ1L43QJFxJ_huTM | gdoc | 2026-08-06 | lu | offre MA x B&V
+- Dashboard_Compass_Nigeria | 1nnjd9h4s6u9ecJ0Of3y0XWXyPIkR_B08DwG7oYmLrtg | gsheet | 2026-08-06 | lu | business model, partages
+- MA - Spotlight Nigera Invitations | 1YNMluZ9F3VDjkBMUjQ8xxJpS60v6pQ5n6f6krVto1DQ | gdoc | 2026-09-22 | lu | invitations FR/EN/WA
+- Nigeria - Entreprises françaises | 1MzzT-_0Iw_9bLGC0jr-wLN_GQ0K-5qkQsfIfs6hbqiY | gdoc | 2026-09-15 | lu | 18 entreprises cibles
+- MOU BV MA 230726 - fully executed.pdf | 1ckbe9GhME2vOuFqwPJiMr5HpwQJu3Omp | pdf | 2026-07-29 | lu | MoU signé le 23/07
+- Internship Offer | 13kyQp_i8qytsJ3C3ZAnpB1Qr5YemjEJmtL0eLWdNZRA | gdoc | 2026-08-06 | lu | stage France-Nigeria
+- Choiseul Africa Business Forum 2026.pdf | 1h0PaYMPKiSwP8Uyaw36vl92F2BT5W3OW | pdf | 2026-07-29 | lu | media kit CABF Lagos
+- Spotlight Nigeria Plaquette | 1UZBeikWiIFWp9wO4tLeTJw-AimhxjJEw | image | 2026-09-21 | sauté (image)
+- Note conceptuelle - Africa Forward Summit, Kenya 2026 | 1drBUqETPWl690AidHdwPSW_-e_SkCDlm__chsyT_uOc | gdoc | 2026-03-12 | lu | Conversations stratégiques JMA
+- Suivi Kenya Sommet Afrique France | 17M0EgKAXXj8fQ4ZLHT1OvPMXR1HZhNcCWVWuH9kkbtg | gdoc | 2026-02-18 | lu | notes de réseau Kenya
+- Résidence JMA 2025- Note de concept.pdf | 1JWmFhEMcArWeEjeTIN_6HvjdTFM4e5Is | pdf | 2025-03-09 | lu (texte court) | Résidence JMA
+- Catalogue de formation JMA.xlsx | 1orcbXDEQ50lKPIVAzfnJCCWaYiXICwf_ | xlsx | 2025-03-09 | lu | École de la Délibération
+- 2024 JMA GL Général (1).pdf | 1aPjKjmxBUPNjdRwj7_K9mj_4GsN6ffAN | pdf | 2025-03-09 | lu (agrégats ; salaires non repris) | grand-livre 2024
+- Le temps des récoltes, en actes · Dossier partenaires (2).pdf | 1C_uynjKv-45w5ZNhavxEqnGBoGJQgh9r | pdf | 2026-11-14 | lu | soirée Cartier, GM dans la core team
+- Compte rendu et suivi réunion | 1Twu-Qw5owELvlx3c6IqPguL7mRIuSJmRk7ThT4GIpvA | gdoc | 2026-09-22 | lu | modèle économique OA, rôles
+- Logo Station F blanc / noir.png | 1ocja8dPVcP_bVgfld5sO2V59GBH-DcCG / 1m1CpLTP5x6E7DI7xwlXGtbHM0jmeSjGf | image | 2026-10-06 | sautés (images)
+- OA - Fiche Argumentaire | 1qIzfI-1CWSm-00h9IiAacb8wOptdmw5uEIOa9xtbofM | gdoc | 2026-11-12 | lu | grille 300/100/30k, roadmap, SFDR/ESG
+- OA - Suivi | 1O9IO1JSRTmKWEAOBhJBYxEWuA6I2i3pEUZsnIzR5PbY | gdoc | 2026-11-12 | lu (100 %) | CR du 05/10 au 12/11
+- Ocean Born Foundation - 2027 Station F GOA (pptx) | 1s7Mvauszc9pYf3F_mjIT66l2qMVvZPyS | pptx | 2026-11-10 | lu | deck personnalisé OBF
+- Octopus Platform_One Pager for Solar Impulse Foundation.docx | 1G0_MNoU1_8sv6DyGlvGwf_3VmmA68IZe | docx | 2026-10-09 | lu | Pelagora / Octopus
+- Pelagora - Audience & Programme | 1ra1WnNpwA7pV5VNTw6gRy15BKhog-Rdxw0qLoSg42SU | gdoc | 2026-10-12 | lu | ~49 organisations
+- Pelagora Deck Jan25 - BEI.pdf | 1AkYlYuVhM50-3LrHEKL3ICFYkAVhdAa3 | pdf | 2026-10-09 | aperçu | deck Pelagora
+- GOA - Fiches prospects | 1Na74EPBLzL94PLoOlk8dRxJq_QZ28HqqKv26Ieqq7As | gdoc | 2026-11-10 | lu | fiche OBF
+- OA - Prospection | 177JOS7RiR-cBUmIZwzsf8ENqjWb7tK478ZtHZi3e_Gg | gdoc | 2026-11-12 | lu | tableaux des prospects
+- Accélérateurs benchmark concurrents | 19wdzXunDquBtraRXacQ4p8gPVwkKrTFK-Y7G_FXm_Ro | gsheet | 2026-10-18 | lu | 7 accélérateurs océan
+- CONFIDENTIEL - Note de cadrage OA x Corporate x Station F | 1LYm2FN_RLc_xOvLYCnjI_w6oCwXAagqG6sSUmp7A-fA | gdoc | 2026-09-22 | lu | cadrage, tiers 500/100/50
+- CONFIDENTIEL - Note de cadrage Océan MA INSKIP Virginie | 1yoZXWO90KLDZ7mvKthxgVBmdmh5_n5MCl3cqBfm0HEg | gdoc | 2026-09-17 | lu | version antérieure, choix du lieu
+- Modèle économique budget ocean accelerator.xlsx | 1WtVvoissbgjDin8JlZ7IIo49EEaSEtZc | xlsx | 2026-10-20 | lu | budget 351 888 €
+- Note perso OCEAN ACCELERATOR | 1vmmGrdpC9mB46Ab1JZwFa5Zm5kwKK8WP82hpp1SkhW4 | gdoc | 2026-09-16 | lu | brainstorm GM
+- OA - Deck statement | 1I_lW5KlLn6G-4lpFWbJwkg25UkMNY96CrsNGBcxFRs0 | gdoc | 2026-10-15 | lu | 2 options de statement
+- OA - Fiche argumentaire (toolkit) | 1Se6gABouF1ATyDL6RR7FFuOT7k4iathTrTP2oEusBkA | gdoc | 2026-10-06 | lu | 1 ligne (brouillon)
+- OA - Fiche posture | 1KPPEnWuoiMqmYz8YEyP-KpQRn1NgGrWXxsLvIZxHYbk | gdoc | 2026-10-14 | lu | squelette vide, noms du sociogramme
+- OA - Fiche stratégie | 1q5Po6vqKJHoDe80eAdhVVqEeT9RFxkgPckVI7eMwBkA | gdoc | 2026-10-14 | lu | planning 9-12/10
+- OA - Lettre & mail type | 1MSBjvP9Z308IRsqKkg2jDhDS7WLbCxKlZnD3horo1BE | gdoc | 2026-11-12 | lu | ~20 mails personnalisés + types
+- OA - Mails/WhatsApp | 1QqIBlc8TAPfJtV6KDi1QjXTHyafW4vayjbu1OCaeeT0 | gdoc | 2026-11-10 | lu | updates à Abigail, feedback deck
+- Station F - 2026 Partnerships Pack | 1wV62BbhU938W9LegtLiMPuKoeagdx3fl | pdf | 2026-10-27 | lu | offre partenariats Station F
+- Vidéo Station F - à couper.mp4 | 1hGanJMQ3jalZYKTAa2apZ3aXN9fBqw8J | video | 2026-11-05 | sauté (vidéo)
+- BIO - Virginie Augagneur | 15CE2reu7v3OOVmHXkBISV5qCHZFPKT0OMbFLD-uor7A | gdoc | 2026-09-24 | lu | bio
+- CONFIDENTIAL - OA x Corporate x Station F Framework | 1bVT1IH7fLWT65lNBFttlsZeBTsKT3-Ly5AClUmIdRc4 | gdoc | 2026-09-24 | lu | traduction EN de la note de cadrage
+- OA - Fiche synthèse COP1 Océans | 1FPrdQ8fmSy9KnRqcSlZzCECtZFaKROHOw983PWKuuYo | gdoc | 2026-10-23 | lu | COP1 et BBNJ
+- 2027 Station F Global Ocean Accelerator 221026.pptx | 1bDhLf422OSEw8Og2lmlfCTXuinzzzlvc | pptx | 2026-11-09 | aperçu | deck EN, doublon du FR
+- Global Ocean Accelerator - Pitch Deck 11thHourRacing.pptx | 17dLjs4riUaKfMiratWnskdBfW4sIUbV8 | pptx | 2026-10-31 | sauté (archive, version antérieure)
+- Global Ocean Accelerator - Pitch Deck EN 14 octobre.pptx | 1LWc8E8eFVRd81nLeMb9ehXurdO5Jyukn | pptx | 2026-10-31 | sauté (archive)
+- liste des titres OA | 1LT3smHtwTS6VUiliFNvHeUbaKmFpz26Be1TF4vdna3I | gdoc | 2026-10-22 | lu | titres de slides
+- Pitch Deck - a retravailler | 1CcrrPtGzEZ35gZ7o0Yf4tXybaZbtcjJliRjl72N9DCs | gdoc | 2026-09-24 | lu | structure 12 slides, track record MA
+- version check.pptx | 1gLkuV8mjloFaP4_72QQGRyGKNFmVHL_U | pptx | 2026-10-21 | sauté (archive)
+- Global Ocean Accelerator Deck FR.pptx | 1SDE0EWut15di1Tz8AUntEda3TY4b_7ww | pptx | 2026-11-12 | lu | deck de référence actuel
+- Ocean Accelerator - Optimisation des Titres de Slides V2 | 1-B9dayAKGFalcu-twYoFwd1fAwhspZiJfkjHn8K2nK8 | gsheet | 2026-10-21 | lu | 19 titres
+- Séminaire Ambassade de l'Egypte.pdf | 1EXIIHLt7ZC4Ys6F5YJKG4Qjh0GOMPQuY | pdf | 2026-05-19 | lu | programme du 29/04/2026, ~17 intervenants (ambassadeur, MEDEF International, Capgemini, CCIFE...)
+- List of attendees Club Choiseul 15.04.pdf | 1YGtQJEBcdNXBf9vPOZhJQlnjhnH-MIQr | pdf | 2025-04-16 | lu | ~120 participants (nom, fonction, organisation), avec M. Dewji et L. Saint-Martin
+- MA - Screening Invités Demo Night ITA | 1Eyqy9vCjX6HlhAuTnOFP0oi42xKDasXblNz5FgY1IPc | gsheet | 2026-11-16 | lu | 142 lignes x 7 colonnes, ~8 marquées « Intéressant ? = Oui »
+- DTW _ Suivi démarchage (Benjamin _ Axel _ Younès).xlsx | 136eINiza1T-W36lNrhiyhTNNq-idM3SQ | xlsx | 2026-05-06 | lu (structure + comptages, 588k car.) | fichier de prospection INSKIP pour la Deep Tech Week / « Deeptech Summit Corporate EU ». Onglets : Scaleups (Ben), Membres écosystème, FullEnrich, Investors (Axel), Corporates (Axel), Corporates (NOUVEAU), exports CRM (listes « All Inovation », « Deeptech Summit Corporate EU »). Colonnes : lead, société, statut, intégration Apollo, type, pays, secteur, contact (nom, poste, mail), touchpoints, pertinence DTW, angle d'approche, pertinence DeepTech « selon Gemini ». ~350 lignes attribuées (Ben 221, Jules 71, Axel 37, Julia 21, Naomi 6) ; statuts : « Contacté » 306, « À contacter » 169, « Refus » 17, « Intéressé » 5. Lignes non copiées.
+- Vanderbuild - EU Startup Accelerators (1).xlsx | 1Dq2dZpO88pcyMwiibBaL562Wpgmuxps_ | xlsx | 2026-05-06 | lu (structure + comptages, 327k car.) | base Vanderbuild d'environ 400 accélérateurs européens. Colonnes : nom, classification, pays, ville, domaine, LinkedIn, offre, critères, formulaire, calendrier, cible, portfolio. Top pays : Allemagne 68, France 59, UK 47, Espagne 45, Italie 26. Onglets ajoutés par INSKIP : outreach par verticale (Défense/Aérospatial/Dual-Use, Industrie, Transition climatique...) avec statut « Message 1 (sans retour) » et contact ; ~99 structures cochées TRUE. Utile pour le sourcing OA. Lignes non copiées.
+- Database Slush 2025.xlsx | 1AGChH3oAwCBHCfTQEus60oQIJw_1fOgQ | xlsx | 2026-05-06 | lu (structure + comptages, 1,04M car.) | export du meeting tool Slush 2025 : ~1 266 entreprises (startup 1 181, scaleup 93). Colonnes : stade, nom, pays, ville, site, LinkedIn, description, année de création, industrie, tags, modèle (b2b...), type d'investisseur recherché, lien plateforme. Pays : FI 267, DE 163, GB 120, NL 81, SE 76, FR 57, CH 50. Pas de contacts personnels. Lignes non copiées.

@@ -1,0 +1,467 @@
+# Extraction ChangeNOW - Délégations internationales (cœur : contrat, reporting, offre, CN27) (91 fichiers lus / 271 listés)
+
+## Périmètre
+- Base : `TEAM/1- CLIENTS/ChangeNOW - Délégations internationales/` : `Fiche Projet/` (+ Archive CN25/CN26), `Reporting/` (+ Archives CN24/CN25), `PR activations prise de parole/`, `Short deck - de Africa For Change 2027`, `1- A SUPPRIMER/`, `Toolkit/Offre commerciale/`, `Toolkit/Intros/`, `Toolkit/Liens utiles.docx`, `Toolkit/ChangeNOW 2026 Aftermovie.mp4`, `Toolkit/Lettres et emails types/` (sans `Archives/`) ; plus `TEAM/7- FICHIERS DATA/CN/`.
+- 271 éléments dans le périmètre : 104 documents « lisibles » (Docs, Sheets, Slides, PDF, docx, xlsx, pptx, raccourcis, vidéo), 130 photos `Reporting/CN26 - Photos/` (comptées seulement), 31 photos `Reporting/Archives/CN25 - Reporting/CN25 - Photos/` (Photos_International Delegations : 16 ; Photos_Pavilion : 15, dont Afrique du Sud, Pays-Bas, Ukraine, Global), 6 fichiers `.DS_Store`.
+- **91 documents lus.** Deux d'entre eux ne l'ont été qu'en partie :
+  - « CN27 - Mails personnalisés » (environ 193 000 caractères) : environ 15 % lus mot à mot, la structure complète (environ 120 mails), et une recherche de tous les montants.
+  - « CN27 - Messages et mails types » : environ 85 % lus, la fin seulement survolée.
+- Les tableurs volumineux ont été exportés en xlsx puis analysés en local.
+- **Sautés (13) :**
+  - 5 raccourcis Drive (Catalogue produit CN, Liens utiles, Prez Africa For Change CN.pdf, Prez CN 2026, Toolkit fiches clients) : leurs cibles sont ailleurs.
+  - L'aftermovie mp4 : listé seulement.
+  - Le Google Form « ChangeNow 2026 Registration Form » : type de fichier non lisible (ses réponses ont été lues).
+  - « Plans Change Now GPE V15.pdf » : plan graphique.
+  - Doublons non relus : 2 copies « International Delegation Onboarding », « Copie de Masque International Delegations Breakfast.pptx », 2e copie « Catalogue produit CN.xlsx » (même taille) et « Lettres publipostées FR.docx » (publipostage du modèle et des paragraphes déjà lus).
+- **« 1- A SUPPRIMER/ »** : il s'agit surtout de doublons et d'archives CN24/CN25 (onboarding, masques de slides, listes, weeklies déjà repris dans l'ODJ CN27). Mais deux documents n'existent **que là** :
+  - **CR Change now.docx** : la négociation du contrat de 2023 (forfait de 10 k€ et variable 15 %/25 %, TJM de GM entre 950 et 1 300 €), l'organigramme CN de 2023 et le pitch de GM. **À conserver.**
+  - Le pipeline CN25 du 4/11/2024 (PDF).
+  Sont aussi uniques mais secondaires : « 2025.docx », « Roadmap afrique », « Invitations », « Paragraphes gratuité », « Point Taiwan » et les notes Emerging Valley.
+- Rien n'a été ouvert dans un dossier de mots de passe ; aucun n'existe dans ce périmètre.
+
+## Résumé (5-10 lignes)
+- MA (Guillaume Maréchal, GM) est mandaté par ChangeNOW (CN) depuis l'édition 2024 pour recruter et accueillir les délégations internationales : ministères, agences, villes, organisations internationales. Sur la signature CN, GM est « International & Strategic Advisor ». Il travaille au sein de la « Team Instit » (affaires publiques) avec Charlotte Lordet, Olimpia Giusti et Ian Hartmann.
+- **Contrat d'origine (proposition GM du 29/09/2023)** : forfait de 10 000 € HT pour CN24, plus une part variable de 15 % sur les 2 premières délégations payantes puis 25 % au-delà ; TJM habituel de GM indiqué entre 950 et 1 300 € HT.
+- **CA apporté par MA :**
+  - CN24 : 5 délégations officielles, pour un objectif de 3.
+  - CN25 : 87 k€ (mai 2025) ; un chiffre de 104 k€ figurait dans la note de février 2025.
+  - CN26 : **150 k€ (+79 %)** et 21 délégations.
+  - Côté Team Instit CN26 : 300 k€ sur un objectif de 400 k€, dont 50 % ramenés par MA ; 42 délégations ; 3 pavillons sur 5.
+- **Valorisation de la mission CN26** (32 semaines, du 1/07/2025 au 3/04/2026) : 171 375 €, soit GM 72 j à 1 500 € (108 k€) et les chefs de projet (Loïc Lenoir, Mauro Bezerra Perrone, Armand Dogra) à 650 €/j. Le document sert d'argument « on ne coûte pas cher » pour la renégociation.
+- **CN27 (10e édition, 26-28 avril 2027, Grand Palais) :**
+  - CN vise 600 k€ (500 k€ jugés réalistes).
+  - MA s'engage sur un atterrissage de **250-300 k€**, sur un pipe identifié de 500 k€.
+  - Objectifs : 5 pavillons (12 m² à 25 k€, 18 m² à 40 k€, 24 m² à 50 k€) et 60 partenaires publics, contre 42 en 2026.
+  - Armand Dogra (AD) est chef de projet MA, GM directeur de mission.
+- **État en novembre 2026 :**
+  - MoU Taiwan signé et pavillon bloqué (sept. 2026) ; MoU Nigeria (Bridge and Value) signé.
+  - Campagne de 63 lettres signées Santiago Lefebvre envoyée début novembre ; kick-off du 14/10 : 80 inscrits, dont 74 % venus de MA.
+  - Propositions en cours : Égypte 60 k€, Nigeria 20 k€, EIC 30 k€, Suisse, Côte d'Ivoire 10 k€, Smart Africa 20 k€, etc.
+- **Tensions avec le client** : la charge de travail ; des decks et une offre CN jugés « pas au niveau » ; Africa for Change jugé fragile (« MA pas du tout à l'aise », Orange Africa non renouvelé) ; des court-circuits de la Team Instit. MA formalise une « Fiche posture » (« ni paillasson, ni hérisson ») et pousse un repositionnement en « international public affairs », c'est-à-dire un retainer premium plutôt qu'un success fee.
+
+## Projets / missions
+
+### changenow-cn24-delegations-internationales
+- statut : terminé (mars 2024).
+- client / partenaire : ChangeNOW (Santiago Lefebvre, CEO ; Kevin Tayebaly, cofondateur et Chief Development Officer ; Olimpia Giusti ; Charlotte Lordet).
+- objectif : faire venir 2 à 3 délégations officielles (obligation de moyens).
+- périmètre / livrables :
+  - Offre commerciale, cibles, négociation, accueil durant les 3 jours, évaluation finale.
+  - Résultat : 5 délégations officielles (Ukraine avec le maire de Lviv, Afrique du Sud, double délégation Rwanda ICT et Keziaa, Ghana avec la Seconde Lady, Arabie saoudite), parmi plus de 10 délégations officielles au total. CN y ajoute Brésil, Luxembourg, Singapour, Turquie et Canada.
+  - Organisation du premier International Delegations Welcome Breakfast (26/03/2024), 40 lettres, déblocage des visas Rwanda avec le MEAE, partenariat COP15 désertification (Alain-Richard Donwahi).
+  - (Drive : reporting Guillaume Marechal 2024.pptx, modifié 2024-06-27)
+- prix / honoraires / budget :
+  - Proposition GM du 29/09/2023 : « 10 000€ HT pour prendre en considération les 3 jours de Change Now » ; 2 demi-journées d'onboarding puis une demi-journée toutes les deux semaines ; variable « 15% pour les 2 premières délégations / contrats payants, puis un bonus de 25% au-delà » ; « mon TJM varie selon la nature des projets, entre 950€ et 1300€ HT ».
+  - Notes de négociation (contre-propositions **non confirmées**) : « + 2ke », « un key contact - 20ke », « 15% / 30% », « 1000e jour ».
+  - (Drive : CR Change now.docx, modifié 2024-06-28)
+  - Durée : contrat de novembre 2023 à mars 2024, période effective de 3 mois (Drive : reporting Guillaume Marechal 2024.pptx, modifié 2024-06-27).
+- équipe MA impliquée : GM seul.
+- calendrier / jalons :
+  - Onboarding fin octobre et début novembre 2023 ; prospection à partir du 13/11/2023.
+  - Sommet les 25-27 mars 2024 au Grand Palais Éphémère.
+- décisions :
+  - GM accepte un forfait, « pour vous montrer ma vive motivation », contre une part variable incitative (Drive : CR Change now.docx, modifié 2024-06-28).
+- prochaines étapes (telles que formulées en 2024) : premiers pavillons et hubs pays, initiative Afrique, First Ladies, Océan/Nouvelle-Calédonie.
+- documents clés :
+  - reporting Guillaume Marechal 2024.pptx (1_ac7tQkqHMMU-jrYiHVACC6KR26uMF-2)
+  - CR Change now.docx (1v5i0E3aLOMosNktXFu-MJ1V0Fg2kqb50)
+  - Santiago - 5 février 2024.docx (1-jHwr8zmfXWPskZyQeQ4A1MhMm2vFOVn)
+  - Validation Charlotte - D-Day.docx (1EJKTIp8aIKFSFHQ7Eyx81dTOsJHDRieD)
+  - quotas.xlsx (1kI9LfYTPZQtOl-GFWk2fyhR0eEFQVI4O)
+
+### changenow-cn25-delegations-internationales
+- statut : terminé (sommet du 24 au 26 avril 2025 ; reporting du 15/05/2025).
+- client / partenaire : ChangeNOW. Côté Afrique : Digital Africa, ITC (programme Ye!), Ambassade de France en Afrique du Sud.
+- objectif : convertir les délégations en partenariats payants.
+- périmètre / livrables :
+  - 5 partenariats : Ukraine Country House (offerte) ; Ye! (ITC), 12 k€ ; Digital Africa (5 stands startups et sponsoring de l'African Changemakers Cocktail), 30 k€ ; Rwanda, 13 k€ ; Afrique du Sud Country House (Innov4Good / ITC UKTP), 32 k€.
+  - Africa Day, dont le side event est financé par Digital Africa.
+  - Plus de 80 rendez-vous, plus de 250 contacts mobilisés, 15 rendez-vous qualifiés pendant le sommet.
+  - Apports aux autres pôles CN : Fondation Carmignac, Larry Madowo (CNN Africa), Jeune Afrique.
+  - (Drive : Note de synthèse_15_05_25 - Marechal Advisory x ChangeNOW.docx, modifié 2025-05-13)
+- prix / honoraires / budget :
+  - **CA de 87 k€** (Drive : Note de synthèse_15_05_25..., modifié 2025-05-13) ; « 104k€ de CA confirmé et généré » au 27/02/2025 (Drive : Note de synthèse_27_02_2025..., modifié 2025-05-10).
+  - Les honoraires MA CN25 ne figurent pas dans les documents lus.
+- équipe MA impliquée : GM (plus de 70 jours-équivalents), Loïc Lenoir (consultant junior puis stagiaire 6 mois, plus de 50 jours-équivalents).
+- calendrier / jalons : pipeline au 4/11/2024 de 360 830 € avant probabilités (Drive : Suivi ChangeNOW 4 novembre 2024..., modifié 2024-11-04).
+- décisions :
+  - Règles de propale fixées par GM le 16/12/2024 : 5 pass investisseurs offerts dans toute proposition ; catering exclu ; LEX pour 15 personnes ; Summit pass 590 € et Investor Pass 490 € ; prise de parole non contractuelle (mentionnée dans le mail, pas dans la propale) ; option jusqu'au 15 janvier avec l'argument « il nous en reste que 2 sur les 5 ».
+  - (Drive : Retour GM - pricing 16 décembre_.docx, modifié 2024-12-17)
+- prochaines étapes (formulées en 2025) : « Revalorisation financière de la mission » ; offre acteurs publics (lounge, pavillons 2026, country of the year) ; pilotage de l'Africa Day 2026 avec Garance ; réengagement à confirmer avant le 15/03/2025.
+- documents clés :
+  - Note de synthèse_15_05_25 (17dH7tExsvesmZRaPJn19Q_C9FrRVI85o)
+  - Note de synthèse_27_02_2025 (1NI-r8thv9sJxK5OZqb-gQYLDWd0L1qnA)
+  - Retour GM - pricing 16 décembre_.docx (1R44Itcomw1F9APRFdTsTFOQT-rAF71HL)
+  - Side Event Digital Africa - ChangeNOW 2025.docx (1etzPWZpCQoBPjxIqoEBf6_tAItvn78c6)
+
+### changenow-cn26-delegations-internationales
+- statut : terminé (sommet du 30 mars au 1er avril 2026 au Grand Palais ; fin de mission le 3/04/2026 ; reporting du 13/04/2026).
+- client / partenaire : ChangeNOW, Team Instit (Charlotte Lordet, Olimpia Giusti, Ian Hartmann).
+- objectif : faire croître le CA apporté et le nombre de délégations ; lancer Africa for Change.
+- périmètre / livrables :
+  - **150 000 € de CA apportés par MA (+79 % vs 2025), 21 délégations.**
+  - Europe : AWEX 5 000 € ; EIC (premier partenariat, 3 solutions) 15 000 € ; ITA 9 000 € ; Ukraine (premier financement du pavillon) 16 000 € ; Suisse.
+  - Asie : Taiwan (premier pavillon asiatique) 24 000 € ; JETRO/Sineora ; Pacific Tech 10 000 € ; Turquie (Invest in Türkiye) 15 000 €.
+  - Afrique : Afrique du Sud 7 200 € ; Côte d'Ivoire 10 000 € ; ITC, passé de 15 k€ (2025) à 30 k€ ; UM6P 2 500 € ; Nigeria 7 000 € ; Égypte, Réunion, Togo, Tunisie sans montant.
+  - Événements : petit-déjeuner du 31/03 (143 confirmés, dont 31 % issus du réseau MA) et cocktail Africa for Change (139 confirmés, dont 40 % du réseau MA) ; 3 LEX ; représentation de CN « 100% financés par MA » à UNOC3, Climate Week NYC, Clinton Global Initiative, Emerging Valley et Davos.
+  - (Drive : Maréchal Advisory Reporting - ChangeNOW 2026.pdf, modifié 2026-05-21)
+- prix / honoraires / budget :
+  - Valorisation interne : GM 72 j × 1 500 € = 108 000 € ; Armand Dogra 13,5 j × 650 € = 8 775 € ; Mauro Bezerra Perrone 60 j × 650 € = 39 000 € ; Loïc Lenoir 24 j × 650 € = 15 600 € ; **total 171 375 €** (Drive : CN26 - Reporting Calcul TJM, modifié 2026-06-23).
+  - Les honoraires réellement facturés par MA pour CN26 ne figurent pas dans les documents lus.
+- équipe MA impliquée : GM (directeur de mission) ; Loïc Lenoir (juin à décembre 2025) ; Mauro Bezerra Perrone (octobre 2025 à mars 2026) ; Armand Dogra (mars-avril 2026).
+- calendrier / jalons :
+  - Soft start en juin 2025, début officiel le 1/07/2025.
+  - Kick-off Affaires publiques le 21/01/2026.
+  - Pipe le 19/01/2026 : réaliste 80 k€, haut 104 k€.
+  - Sommet du 30/03 au 1/04/2026.
+- décisions :
+  - Pitch de renégociation : « on a cartonné et on coûte pas cher » ; « si devaient nous remplacer = embauches » ; « ONE TEAM » avec Charlotte, Ian et Olimpia ; réengagement à confirmer avant le 2 mai (Drive : CN26 - Reporting, modifié 2026-06-23).
+- RETEX :
+  - Échecs : trou dans la raquette des invitations, erreurs d'automatisation Airtable, LEX trop « last minute », mise à jour de la base de données chronophage.
+  - Piste : vendre l'« International Public Affairs » en add-on premium ; scorecard Gemini (ops 2/10, network 8/10).
+  - (Drive : CN26 - RETEX, modifié 2026-06-23)
+- documents clés :
+  - Maréchal Advisory Reporting - ChangeNOW 2026.pdf (1uByvDfZ30bNDvPjPWftdDssttzQMmc0j)
+  - CN26 - Reporting (1IkuxTmtePCsEDLeU6ckTgWt7a0Efq7tjlLuD4uLlMic)
+  - CN26 - Reporting Calcul TJM (1IscLQA62kAL6tfsTO2r1SJh74TkmD7nvlcGFqBQ8xDw)
+  - CN26 - RETEX (1-smnQCgQkXEmQrcBjDwG7UXIMJG0tyd92dSHMZ-JD5A)
+  - CN26 - Fiche projet (10AprNk9lZXjntHnCRBzlFqD9Jjpd3YYCoIOJe5IZRnI)
+  - Team Instit - Agenda .xlsx (1v0Jr7NP8lqMmZXHFrHwp6YHOFXmCMnPq)
+
+### changenow-cn27-10e-edition
+- statut : actif (au 16/11/2026, commercialisation en cours ; clôture des partenariats visée « mi-décembre »).
+- client / partenaire : ChangeNOW (Santiago Lefebvre, Rose-May Lucotte, Team Instit : Charlotte, Olimpia, Ian).
+- objectif :
+  - MA s'engage sur « CA 250-300k€ - (Client 500k) » et 30 à 40 délégations (Drive : CN27 - Fiche posture, modifié 2026-10-26).
+  - Leadership CN : 600 k€ (500 k€ réalistes) (Drive : CN27 - Séminaire Team Instit, modifié 2026-06-25).
+  - Sommet : 60 partenaires publics (contre 42) et 5 pavillons (contre 3).
+- périmètre / livrables :
+  - Événements : Summer Session (22/07/2026, 87 inscrits) ; kick-off du 14/10/2026 (80 inscrits, dont 59 MA, 38 externes, plus de 50 % de no-show).
+  - MoU Taiwan (8/09/2026, avec l'Impact Hub Taipei) ; MoU Nigeria (Bridge and Value) ; Spotlight Nigeria (6/10/2026, prise de parole de Santiago).
+  - Présences de MA : Demo Night ITA (29/10), Supernova Deeptech (3/11), séminaire Ambassade d'Égypte (29/04), EIC Summit (3/06), Taiwan Night, Ukraine Tech Night.
+  - Campagne de lettres : 63 lettres, 63 paragraphes personnalisés, 2 lettres-types.
+  - Toolkit : mails types et calendly, outil de simulation commerciale.
+  - (Drive : CN27 - Fiche projet, modifié 2026-10-27 ; CN27 - ODJ et prise de note, modifié 2026-11-16)
+- prix / honoraires / budget :
+  - Pipeline par compte (valeur CN27, CN26 entre parenthèses) : CI 30 k (10 k) ; EIC 30 k (15 k) ; Nigeria 30 k (7 k) ; Italie 30 k (9 k) ; Réunion 30 k ; Smart Africa 30 k ; Pacific Tech 30 k (10 k) ; ITC 30 k (30 k) ; Turquie 25 k (15 k) ; Taiwan 24 k (24 k) ; Allemagne 20 k ; Ukraine 16 k ; Belgique 15 k (5 k) ; Suisse 15 k ; Maroc 15 k (2,5 k) ; Tunisie 15 k ; Deloitte 15 k ; OIF 14 k ; Autriche 10 k ; IOM 10 k ; AfS 7,2 k ; Bénin 7 k ; Outre-mer 5 k. **Somme calculée : 438,2 k€** (Drive : CN27 - Pipeline, modifié 2026-06-23).
+  - Les 9 comptes prioritaires de 20 à 30 k€ totalisent 234 000 € (Drive : CN27 - Préparation séminaire, modifié 2026-06-23).
+  - Les honoraires MA pour CN27 ne figurent dans aucun document lu.
+- équipe MA impliquée :
+  - GM : directeur de mission, environ 4 h par semaine selon la Fiche posture.
+  - Armand Dogra : chef de projet, 1 journée par semaine (« 8 heures ») ; rythme CN le mardi et le mercredi pour AD, le mercredi pour GM.
+- calendrier / jalons :
+  - Planning : juin-juillet, réénergiser les partenaires ; septembre, kick-off ; octobre-décembre, négociation ; décembre-février, clôture.
+  - Campagne de lettres : publipostage le 28/10, validation par la Team Instit du 29/10 au 3/11, envoi le 3/11/2026.
+  - Prochain kick-off le mercredi 20/01/2027.
+  - Sommet les 26-28/04/2027 ; certains mails indiquent « 26–27 avril » : incohérence.
+- décisions :
+  - Prix des pavillons 12/18/24 m² fixés à 25/40/50 k€ (séminaire du 27/05/2026).
+  - « Country House » remplacé par « Pavillon » ; ne plus utiliser « délégation » (remplacé par « organisation ») ; tiering Platinum/Gold/Silver.
+  - Ne plus passer de temps sur les comptes de 5 k€ (loi 80/20).
+  - Africa for Change en pause commerciale : « pas avant 1er Octobre » (GM, 8/07/2026).
+- prochaines étapes / boucles ouvertes :
+  - Égypte : offre de 60 k€ et rencontre Santiago × Ambassadeur.
+  - EIC : rencontre Stéphane Ouaki × Santiago.
+  - Suisse : concept note (AI for Impact / Geneva AI Summit 2027).
+  - Nigeria : partenariat à 20 k€ et sponsoring AccessBank.
+  - Côte d'Ivoire : 10 k€ et note stratégique (Image 7).
+  - Deloitte : « Africa for Change powered by Deloitte ».
+  - IOM : 18 k€ ; Impact Hub ; régions françaises (Grand Est, CVL, MGP, MEL).
+  - Réengagement et renégociation du contrat MA : aucun document de contrat CN27 n'a été trouvé.
+- documents clés :
+  - CN27 - Fiche projet (1X3lyZTqxn3UudVwBLZPXkSdw3XyfBVTpCpkvapfzLkU)
+  - CN27 - Fiche posture (1EHdww1bJ8er6A9TPInBRWZTf9xpApI1_RbAX_5IbEik)
+  - CN27 - ODJ et prise de note (1qJjdNbYXckCABX49hfUsHjPpeYlofypOM05D36B1dSY)
+  - CN27 - Pipeline (1CFXLxtn21_G2IDaneJSBJkhg4RFgJbooyxgle__NnGs)
+  - CN27 - Séminaire Team Instit (1s4ERR8s_Azp_1O353_8n7HpweFfSzYMjv7u6Kvnn6n4)
+  - CN27 - Outil commercial (171ysWNqaCtTj2UEIGlDzB90y1yvRX-tLrsSo8p1VNZY)
+  - CN27 - Projet campagne lettre (1pv4DI1sMuSFP4afKR0l0kBQUcFiEZP9vzV3wr08cCW4)
+
+### africa-for-change (programme CN, co-porté par MA)
+- statut : actif mais fragile. Lancé à CN26 ; édition 2027 (« On the road to COP32 in Ethiopia », 27/04/2027).
+- client / partenaire : ChangeNOW. Co-initiatrices Carole (AWPI, African Women Presence Initiative) et Maryann Kahindi-Picard (Ubuntuness) ; sponsor Orange Africa (2026) ; JMA, YECO/ITC, Ocean Hub Africa.
+- objectif : valoriser les écosystèmes africains ; servir d'« appât pour les délégations ».
+- périmètre / livrables :
+  - Bilan 2026 : 14 délégations africaines, plus de 100 fonds, 30 startups, 26 pays, 11 événements (Drive : Short deck - de Africa For Change 2027, modifié 2026-10-27).
+  - Ouverture par le duo GM / Garance Aulagne ; ministre ivoirien Mamadou Touré ; gouverneur de Katsina Dikko Umar Radda.
+- prix / honoraires / budget :
+  - Hypothèses : Africa Hub = 5 pays × 3 stands × 3 k€ (45 k€), sponsor 100 k€ (Deloitte Africa), pavillon 30 k€ ; prise de parole en workshop 5 k€, workshop 15 k€ (Drive : CN27 - Séminaire Team Instit, modifié 2026-06-25 ; CN27 - ODJ et prise de note, modifié 2026-11-16).
+- équipe MA impliquée : GM et AD.
+- décisions :
+  - Garance « sort complètement du sujet » (18/05/2026).
+  - Orange Africa « no-go » (octobre 2026).
+  - Refus de CN d'ouvrir le naming partner, la prise de parole, le sponsoring de pitch et les side-events (CR du 23/09/2026).
+  - GM : le programme « doit être porté par tout CN, pas que Team Instit ».
+- prochaines étapes : Deloitte, Smart Africa, Mastercard Foundation, AccessBank, COP32 Éthiopie. « MA - RDV Charlotte One-Pager » évoque une « Date de pull out MA » (hypothèse de retrait).
+- documents clés :
+  - Short deck - de Africa For Change 2027 (1HWwhzeu8WTDNcwgYUWblaHlZg1AvJSP_7vrz389rwkk)
+  - AWPI_ChangeNOW_Bilan_2026.docx (1r0nQUegkoEvz1w5QSeN43bv85DMEpvjb)
+  - Intro Africa Program (1S3kuSbJ5nQcDdxkTp-1EV3jqfdArh186puEGhCQIgWA)
+  - MA - RDV Charlotte One-Pager (16SCzikgsWpTdJzvY5b84zH_5claB03SFcCTdVqHW4T4)
+
+### campagne-lettres-cn27
+- statut : terminé (envoi début novembre 2026).
+- objectif : « sésame PDF pour faire avancer les discussions commerciales et validation par le haut du partenariat ».
+- périmètre / livrables :
+  - Lettre officielle bilingue EN/FR signée Santiago Lefebvre (« Founder and President »).
+  - 4 paragraphes par zone et 63 paragraphes personnalisés (commissaire Ekaterina Zaharieva, Amy Pope / IOM, Olena Zelenska, ministres nigérians, sud-africains, marocains et ivoiriens, ambassadeurs, présidents de régions françaises, etc.).
+  - Publipostage (29 lettres EN et le pendant FR), mails d'accompagnement et WhatsApp « pour doubler ».
+- méthode :
+  - Vérifier les élections imminentes avant d'écrire à un ministre.
+  - Ne pas préciser l'offre dans la lettre.
+  - Écrire toutes les lettres en français avec vouvoiement, même à des contacts tutoyés.
+  - Validation par GM le mardi 27/10 ; automation Airtable configurée par GM.
+  - (Drive : CN27 - Projet campagne lettre, modifié 2026-10-26)
+- documents clés :
+  - CN27 Campagne lettre Nov26 - modèle type 291026 (1RBtPLHRvTjCGxdTsJ5-Y5O3ssHkxwOomQHdquZrGBDE)
+  - Paragraphes personnalisés (1356vroWuU4xdhxDOnMg6bW1uS262s0rQKMF51cODA4o)
+  - CN - Campagne Lettres (1WRmqz1sH1IqaS0ttNdc-B04sEkso3KjbJXvV990U0Eo)
+
+### changenow-hubs (offre CN, contexte)
+- statut : actif côté CN.
+- Licences pour marchés émergents : Connect 10 k€, Connect+ 12 k€, Amplify 15 k€ ; rampe année 1 -50 %, année 2 -30 % ; royalties de 10 % dès l'année 2 (Drive : Pricing Hubs 2026 - Taipei.pdf, modifié 2026-10-21).
+- Hubs : Tunis (reconfirmé pour début décembre), Bangalore (17-19/11/2026), Istanbul, Lagos (Bridge and Value, au moins 80 % d'écosystème local).
+- MA y voit des leviers de prospection ; une participation de MA à Bangalore a été envisagée puis non prise en charge (« 2 billets d'avion donc 100% AD pas pris en charge »).
+
+## Organisations (clients, prospects, partenaires, institutions)
+- **ChangeNOW** | client | Plus gros client de MA : mission « délégations internationales / affaires publiques » depuis CN24 (contrat nov. 2023-mars 2024), puis CN25, CN26 et CN27 | tous les projets ci-dessus | Fondé en 2017 ; se décrit comme « world's largest event dedicated to solutions for the planet » ; 40 000 participants, 140 pays, 1 400 investisseurs, 1 000 solutions (2026) ; 10e édition du 26 au 28/04/2027 au Grand Palais ; 3 forums 2027 : AI & Data for Impact, Electrification, Impact Finance (Drive : CN27 Campagne lettre Nov26 - modèle type 291026, modifié 2026-10-29). Team Instit : 300 k€ de CA en 2026 sur 400 k€ d'objectif, 600 k€ attendus en 2027 (Drive : CN27 - Séminaire Team Instit, modifié 2026-06-25).
+- **Taiwan** (Bureau de représentation de Taipei, Impact Hub Taipei, Taipei City Government, MOFA, Ocean Affairs Council, Taipower, ITRI) | client (via CN) | Premier pavillon asiatique à CN26 (24 k€) ; MoU avec l'Impact Hub Taipei signé le 8/09/2026 ; pavillon 2027 bloqué ; proposition CN27 : pavillon 18 m² à 40 k€ | CN26, CN27 | Startups 2026 : Azure Alliance, RE-THINK, Wonder Greener (Drive : Maréchal Advisory Reporting - ChangeNOW 2026.pdf, modifié 2026-05-21 ; CN27 - Outil commercial, modifié 2026-10-21).
+- **European Innovation Council (EIC)** | client (via CN) | Premier partenariat en 2026 : 15 k€ selon le reporting MA, un package de 30 k€ ayant été négocié (hub de 15 m² en zone Energy) ; cible CN27 : 30 k€, « plus grand partenariat » | CN26, CN27 | 3 solutions : E-peas, Releaf Paper, Sweetch Energy ; rencontre Stéphane Ouaki × Santiago en préparation (Drive : CN27 - Pipeline, modifié 2026-06-23 ; CN27 - Mails personnalisés, modifié 2026-11-04).
+- **Nigeria** (Bridge and Value, État de Katsina, Ambassade, Business France Nigeria) | client (via CN) | Country Meetup CN26 (7 k€) ; MoU CN × Bridge and Value signé ; Spotlight Nigeria le 6/10/2026 ; piste de partenariat CN27 à 20 k€ et pavillon ; « Frilosité Santi » sur le dossier | CN26, CN27 | (Drive : MA - RDV Charlotte One-Pager, modifié 2026-10-26 ; CN - Weekly Team Instit x MA 2810, modifié 2026-10-27).
+- **Égypte** (Ambassade, Export Council) | prospect | Proposition CN27 « valorisée à 100 000 € au tarif préférentiel de 60 000 € » : Egypt House, inauguration par S.E. Dr Manal Awad, workshop COP18 UNCCD, LEX (Drive : CN27 - Mails personnalisés, modifié 2026-11-04) | CN27 | Contact clé : Bassem Badr.
+- **Côte d'Ivoire** (Ministère de la Promotion de la Jeunesse, District d'Abidjan ; agence Image 7) | client | 10 000 € à CN26 ; ministre Mamadou Touré présent ; cible CN27 de 30 k€ ; Image 7 jugée « très chronophage » | CN26, CN27.
+- **ITC – International Trade Centre** (YE! / YECO) | client | 12 k€ à CN25, 30 k€ à CN26 ; YECO Awards ; « ITC disappointed and looking to scale down » (Drive : CN27 - Préparation séminaire, modifié 2026-06-23) | CN25-CN27.
+- **Afrique du Sud** (Ambassade de France en Afrique du Sud, au Lesotho et au Malawi ; Innov4Good ; Le Shift Lab) | client | Country House à 32 k€ (CN25) ; 7 200 € (CN26) ; proposition CN27 de 20 k€ ; partenariat 2027 avec Le Shift Lab « confirmed » | CN24-CN27.
+- **Ukraine** (Ukrainian Startup Fund, Expertise France / EU4Innovation East) | client | Country House offerte (CN25), pavillon financé 16 k€ (CN26), proposition CN27 de 20 k€ | CN24-CN27.
+- **Pacific Tech / Nouvelle-Calédonie** (Guillaume Terrien, NeoTech NC) | client | 10 k€ à CN26 ; proposition de pavillon CN27 à 40 k€ ramenée à 36 k€ | CN26-CN27 | Cas FireTracking.
+- **Italie – ITA / ICE** | client | 9 k€ à CN26 (startups Ogyre, Latitudo 40, IronLev) ; propositions CN27 de 9, 15 ou 32 k€ | CN26-CN27.
+- **AWEX / Wallonie, Hub Brussels, FIT (Belgique)** | client | AWEX 5 k€ (CN26) ; Belgique 15 k€ en cible CN27.
+- **Invest in Türkiye / EYDK (Turquie)** | client | 15 k€ (CN26) ; présidence de la COP31 ; CN Hub Istanbul.
+- **Suisse** (Présence Suisse, Ambassade, Canton de Vaud, Genève, Technopark Luzern) | prospect chaud | Pavillon 2027 envisagé ; concept note « AI for Good » ; lien personnel de GM avec Alexandre Edelmann.
+- **UM6P (Maroc)** | client | 2 500 € à CN26 (ancienne propale à 5 k€ au lieu de 21 k€) ; cible CN27 de 15 k€.
+- **Smart Africa** | prospect | CN26 : 51 k€ demandés pour une house de 18 m², négociation à 4 startups pour 12 k€ ; CN27 : environ 20 à 25 k€ pour 5 startups.
+- **Digital Africa** | client CN25 | 30 k€ à CN25 (cocktail et booths).
+- **Deloitte Africa** | prospect | 15 k€ en pipe ; idée « Africa for Change powered by Deloitte » ; lettre à David Dupont-Noel (knowledge partner).
+- **IOM – UN Migration** | prospect | Proposition CN27 de 18 k€.
+- **Impact Hub (réseau global)** | prospect | Propositions de 25 à 34 k€.
+- **Rwanda** (ICT Chamber, Keziaa) | ex-client | 13 k€ à CN25 ; dossier « débranché » en décembre 2025.
+- **Région Réunion** | prospect | 30 k€ en cible CN27 ; pavillon 40 k€ proposé.
+- **Régions et métropoles françaises** (MGP, Grand Est, CVL, MEL, Occitanie) | prospects | Offre « bring 5 to CN27 » / « 2 régions à l'honneur » ; offre MGP à 15 k€.
+- **Orange Africa** | partenaire CN | Sponsor d'Africa for Change 2026, non renouvelé (« no-go », octobre 2026).
+- **AWPI – African Women Presence Initiative ; Ubuntuness** | partenaires | Co-organisatrices d'Africa for Change.
+- **Image 7** | fournisseur / partenaire | Agence travaillant sur le dossier Côte d'Ivoire ; « Revoir prix/contrat avec Image 7 ».
+- **VivaTech** | concurrent | « Coup dur : 10 ans de vivatech » ; son CEO s'est rendu à Lagos pour « un partenariat à 400k ». GM y a travaillé auparavant (4 ans).
+- **JETRO / Sineora (Japon)** | prospect | JETRO a refusé en 2026 en raison de son année fiscale (1/04-31/03) ; Shibuya Startups abandonné.
+- Autres prospects cités : Allemagne (SEND, DENA, Berlin Partners) ; Autriche (ABA, Advantage Austria) ; Tunisie (CDC) ; OIF ; Arabie saoudite (MISK) ; Inde ; Singapour ; Mongolie (COP17) ; Éthiopie (COP32) ; CMA CGM ; Mastercard Foundation ; World Bank.
+
+## Personnes
+- **Guillaume Maréchal (GM)** | fondateur et CEO de MA ; « International & Strategic Advisor » chez ChangeNOW (signature @changenow) | directeur de mission CN | « 15 ans de développement commercial au service de projet à impact », « j'aime être appelé un défricheur » ; passé VivaTech : AfricaTech Awards avec IFC, « Country of the Year » Inde, de 30 à 70 acteurs publics ; « 7 years working deep within African ecosystems » (Drive : CR Change now.docx, modifié 2024-06-28 ; Intro Africa Program, modifié 2026-06-23). Valorisé à un TJM de 1 500 € dans le calcul CN26.
+- **Armand Dogra (AD)** | chef de projet MA (Project Lead) | CN26 (mars-avril 2026) puis pilote opérationnel CN27 : mails, lettres, Airtable, rendez-vous | 650 €/j dans la valorisation ; « Prospection => Armand je compte sur toi » (Drive : CN27 - Fiche posture, modifié 2026-10-26).
+- **Mauro Bezerra Perrone** | chef de projet MA | CN26, d'octobre 2025 à février 2026, 60 jours.
+- **Loïc Lenoir** | consultant junior puis stagiaire 6 mois chez MA | CN25 et CN26 (juin à décembre 2025).
+- **Santiago Lefebvre** | fondateur et CEO / Président de ChangeNOW | Signataire des lettres officielles ; « visionary anchor » ; risque d'« attentes CA plus élevé » ; frilosité sur le Nigeria (Drive : CN27 - Fiche posture, modifié 2026-10-26).
+- **Rose-May Lucotte (Rose)** | dirigeante ChangeNOW | Valide les grandes orientations (Africa for Change, tiering).
+- **Charlotte Lordet** | International Business Lead / Team Instit, ChangeNOW | Interlocutrice principale de MA, négociatrice (« killeuse pour les derniers 1000€ ») ; « Charlotte says MA want to keep mainmise sur les comptes » ; absente du 20/11 au 8/12/2026.
+- **Olimpia Giusti** | Head of Public Affairs, ChangeNOW | Relationnel avec ambassades et ministres ; c'est elle qui a fait entrer GM en 2023 ; reprend la stratégie et l'accompagnement de Santiago (mai 2026).
+- **Ian Hartmann** | Team Instit, ChangeNOW | Premiers calls, KAM, Airtable ; feedback MA : lenteur, informations à revérifier.
+- **Kevin Tayebaly** | cofondateur de ChangeNOW (CDO) | A recruté GM en 2023 ; parti depuis (« départ de Kevin »).
+- **Garance Aulagne** | ChangeNOW, en charge d'Africa for Change | Co-anime le programme avec GM ; « sort complètement du sujet » (mai 2026).
+- **Alexandra Bazin** | Global events / CN Hubs, ChangeNOW | Hubs (Lagos).
+- **Abiodun « Abi » Dominic Odunuga** | CEO de Bridge and Value (Nigeria) | MoU, Spotlight Nigeria, CN Hub Lagos.
+- **Geoffroy Berson** | Attaché for Innovation, Ambassade de France en Afrique du Sud | Partenariat AfS ; témoin vedette du kick-off.
+- **Bassem Badr** | Ministre plénipotentiaire, Ambassade d'Égypte | Évangélisateur du dossier Égypte.
+- **Alexandre Edelmann** | Head of Presence Switzerland | Contact personnel de GM, tutoyé.
+- **Yachar Nafissi-Azar** | Ministre conseiller, Ambassade de Suisse | Dossier Suisse.
+- **Stéphane Ouaki, Paolo Bondavalli, Johannes Bunz** | EIC | Partenariat EIC.
+- **Guillaume Terrien** | Président de NeoTech NC / Pacific Tech | « CN plus opportun pour les entrepreneurs que Vivatech ».
+- **Mamadou Touré** | ministre ivoirien de la Promotion de la Jeunesse | Moment fort de CN26.
+- **Hao Pei-Chih** | Ambassadrice / représentante de Taipei en France | Inauguration du pavillon Taiwan.
+- **Milena Niehaus** | ITC / YECO | Relation devenue « froide ».
+- **Rym Jarou, Lacina Koné** | Smart Africa | Dossier Smart Africa.
+- **Maryann Kahindi-Picard** (Ubuntuness) et **Carole** (AWPI) | co-initiatrices d'Africa for Change.
+- **Grégoire de Padirac** | CEO de Digital Africa.
+
+## Offre, prix, méthode MA
+- **Mission MA chez CN** : sourcing et accueil des délégations officielles ; négociation des packages ; KAM ; soft power (lettres d'ambassadeurs, bilatérales) ; mobilisation du réseau MA sur les événements (petit-déjeuner, cocktail, kick-off) ; représentation de CN dans les sommets mondiaux (Climate Week, Clinton Global Initiative, Davos, Emerging Valley, UNOC). Ces déplacements sont « 100% financés par MA ».
+- **Modèle économique :**
+  - CN24 : forfait de 10 k€ et variable de 15 %, puis 25 %.
+  - CN26 : 171 375 € de valorisation au TJM (GM 1 500 €, chefs de projet 650 €).
+  - Piste CN27 : passer à un « premium retainer » « International public affairs architecture » plutôt qu'au success fee (Drive : CN26 - RETEX, modifié 2026-06-23 ; brainstorm Gemini, hypothèse).
+  - Nouvelle offre MA envisagée : « Affaires publiques Scale Up » ; offre « agence économique » de closed-door meetings à 10 k€ pour 5 startups.
+- **Grille CN instit CN27** (Drive : CN27 - Outil commercial, modifié 2026-10-21) :
+  - Institutional House : 12 m² 24 k€, 18 m² 36 k€, 24 m² 48 k€ ; pavillon 18 m² 40 k€ en template.
+  - Stand startup de 3 m² : 3 k€ (5 k€ affichés).
+  - Pitch : 1 à 5 k€ ; session dédiée : 25 k€.
+  - Speaking : 10 à 15 k€ ; jury : 2 k€.
+  - Workshop : 12, 15 ou 17 k€ ; meeting room : 5 k€ ; LEX : 12 k€.
+  - Side-events Balcony : 20 k€ ; Friends Area : 10 k€.
+  - Pass : Summit 590 €, Investor 490 €.
+  - Remise systématique « Offered (for your first participation) ».
+- **Grille SalesCORPS CN 2027** : stand corporate de 6 m² à 48 m², 17 à 130 k€ ; prise de parole corporate 30 k€ (instit : offerte ou 5 à 10 k€) ; visibilité Silver 150 k€, Gold 250 k€, Platinum 400 k€ (Drive : Copy of Grille SalesCORPS ChangeNOW, modifié 2026-06-23).
+- **Méthode commerciale MA** (Drive : CN27 - Fiche projet, modifié 2026-10-27 ; CN 25 - un bon business developper, modifié 2026-08-08) :
+  - Loi des 80/20, FOMO par zone, rareté (« 5 pavillons, 3 déjà réservés »), deadlines (mi-décembre).
+  - Relances à valeur ajoutée : article, deck finance, deck best practices, aftermovie, présence de GM à un événement, lettre du CEO.
+  - RDV de 30 min (15 de pitch, 15 d'échange) ; récap envoyé 3 jours après ; groupe WhatsApp par pays « sans la Team Instit ».
+  - WhatsApp hebdomadaire pour les comptes urgents.
+  - Toute propale est validée par GM.
+  - Wording : « Solutions & Startups » ; « organisation » à la place de « délégation ».
+- **Posture client** (Drive : CN27 - Fiche posture, modifié 2026-10-26) :
+  - « Ni paillasson, ni hérisson » ; ne pas fabriquer les outils de CN.
+  - « Information = pouvoir », « Donnée = roi » ; ne partager que des vues de l'Airtable.
+  - S'assurer que le CA est bien attribué à MA ; ne pas donner fichiers et leads à Charlotte.
+- **Outils** :
+  - Airtable (pipeline par « cluster »), Granola pour les comptes rendus, Clockify, Calendly / agenda partagé, Gemini (extraction et production de mails types), publipostage et automation Airtable, Notion.
+  - Boiler MA V2 : « high-level boutique firm dedicated to building bridges… focus on Africa, Asia, Europe and the Middle East » ; références : AFALULA, Art Paris, ChangeNOW, European Deeptech Summit, Ecole du Louvre, Fondation Cartier, Waves of Change (Drive : CN27 - Messages et mails types, modifié 2026-11-12).
+
+## Voix et style
+- Proposition commerciale d'origine, FR, vouvoiement, ton chaleureux et engagé : « J'ai très envie de travailler ensemble et d'écrire ce premier chapitre, qui j'en suis sûr en ouvrira d'autres. Pour vous montrer ma vive motivation, je suis prêt à accepter votre approche forfaitaire. » (Drive : CR Change now.docx, modifié 2024-06-28)
+- Mail de prospection EN, signé « Guillaume » : « Our mission is crystal clear: promote your ecosystem and accelerate your impact entrepreneurs. Selected startups generate 2-3x more deals compared to similar events… Armand and I will be pleased to meet for a 30-minute video coffee chat. » (Drive : CN27 - Messages et mails types, modifié 2026-11-12)
+- Lettre officielle, registre diplomatique : « Accelerating the transition is no longer a political choice: it is a core economic responsibility for every nation. » ; « Je vous prie d'agréer, [titre], l'expression de ma haute considération » (Drive : CN27 Campagne lettre Nov26 - modèle type 291026, modifié 2026-10-29)
+- Mail FR à un contact proche, tutoiement : « Chère Rym, Encore merci pour nos échanges passionnants ! Je reviens vers toi avec un peu de retard… Amicalement, Guillaume » (Drive : CN27 - Mails personnalisés, modifié 2026-11-04)
+- WhatsApp de doublement : « Je viens de t'envoyer par mail l'invitation de Santiago Lefebvre pour les 10 ans de ChangeNOW… Comment tu souhaites qu'on avance là-dessus ? Merci ! » (Drive : CN27 - Messages et mails types, modifié 2026-11-12)
+- Réponse type pour se protéger des micro-demandes du client : « Hello Charlotte, c'est bien noté. Je bosse sur un autre client, t'inquiètes pas j'ai bloqué un créneau ChangeNOW demain matin pour t'envoyer les éléments. » (Drive : CN27 - Fiche posture, modifié 2026-10-26)
+- Ton général :
+  - Vouvoiement pour les institutions et en FR formel ; tutoiement pour les contacts proches (ex. Alexandre Edelmann, Rym Jarou).
+  - EN international avec des formules récurrentes : « accelerate your ecosystem and support your impact entrepreneurs », « 10th Anniversary », « 2-3x more deals », « 30-minute video coffee chat ».
+  - Name-dropping de chiffres (40 000 participants, 1 400 investisseurs) ; FOMO et deadlines.
+  - Interne : franc, imagé (« dépoter », « prise en étau », « chouchouter »).
+
+## Décisions datées
+- 2023-09-29 | GM accepte un forfait de 10 k€ HT pour CN24, avec 15 %/25 % de variable | « montrer ma vive motivation », ouvrir un premier chapitre | CR Change now.docx
+- 2024-12-16 | Règles de propale CN25 : 5 pass investisseurs offerts, catering exclu, prise de parole non contractuelle, prix pleins affichés | standardiser et protéger les montants | Retour GM - pricing 16 décembre_.docx
+- 2025-02-27 | Demande de confirmation du réengagement CN26 avant le 15/03/2025 | visibilité des ressources MA | Note de synthèse_27_02_2025
+- 2025-12-17 | Rwanda « on débranche » ; EIC à 30 k€ (hub de 15 m²), « pas de cadeau sur le workshop » ; Smart Africa à 51 k€ sans réduction | priorisation et tenue des prix | CN27 - ODJ et prise de note
+- 2026-04-09 | Bilan envoyé à Charlotte : 150 k€ et 21 délégations ; pipe 2027 de 500 k€, atterrissage de 250-300 k€ | préparer la renégociation | CN26 - Reporting
+- 2026-03-28 | Réengagement CN27 à confirmer avant le 2 mai | allouer les ressources MA | CN26 - Reporting
+- 2026-05-27 | Séminaire Team Instit : prix des pavillons à 25/40/50 k€, fin des comptes de 5 k€, tiering, rebranding de « délégation », 5 pavillons visés | objectif de 600 k€ côté CN, efficacité | CN27 - Séminaire Team Instit
+- 2026-07-08 | Commercialisation d'Africa for Change suspendue avant le 1er octobre ; AD retiré de la commercialisation corporate Afrique en juillet-août | offre AFC non validée | CN27 - ODJ et prise de note
+- 2026-06/07 | Gouvernance : biweekly GM × Charlotte d'une heure, ODJ 48 h à l'avance, AD une journée par semaine, GM environ 4 h par semaine | maîtriser le temps passé (« injonction contradictoire ») | CN27 - Fiche posture
+- 2026-09-09 | MoU Taiwan signé, pavillon bloqué | — | CN27 - ODJ et prise de note
+- 2026-10-28 | Calendrier de la campagne de lettres validé : envoi le 3/11 ; prochain kick-off le 20/01/2027 | — | CN - Weekly Team Instit x MA 2810
+- 2026-10 (non daté précisément) | Points durs à porter auprès de Charlotte : surcharge de travail, decks à refaire, weekly inefficace ; matrice de répartition des RDV (stratégique : Charlotte + GM ; premier call : Ian/AD) | protéger le temps et la marge de MA | MA - RDV Charlotte One-Pager
+
+## Idées / pistes non engagées
+- Repositionner MA en « International Public Affairs architecture » avec un retainer premium ; « Affaires publiques Scale Up » (CN26 - RETEX ; CN27 - Fiche posture).
+- Offres CN27 hypothétiques :
+  - Africa Hub (5 pays × 3 stands, sponsor de 100 k€) ; « Africa for Change by VISA Foundation » ; plateforme ministres et présidence COP (5 ministres, contournement du silence électoral de la présidentielle 2027).
+  - Offre matchmaking à 10 k€ pour 5 solutions ; « bring 5 to CN27 » pour les régions ; Mediterranean House (avec Julien Clech) ; package pitch + world expo + dealflow à 30 k€ pour 5 startups ; formation et workshops « préparer CN ».
+  - Investor speed-dating ; offre « CN events » (vendre l'expertise CN toute l'année, ex. COP17 Mongolie, COP18 Égypte en 2028).
+- MoU Taiwan avec clause géopolitique et liste d'attente des pavillons (gestion du risque Chine).
+- Recruter un freelance ou un stagiaire pour le pic du sommet ; « Point CRP en fin de journée - à arbitrer ».
+- MA à Smart Cities 2027 (reco de Ian) ; déplacement en Égypte fin décembre 2026 ; présence MA au CN Hub Bangalore (non financée).
+- Templates Gemini « Intro-Swap » et « Last Chance break-up » (brouillons IA).
+
+## Questions ouvertes
+- **Honoraires réels facturés par MA pour CN25, CN26 et CN27** : aucun contrat ni facture dans le périmètre. Les 171 375 € de CN26 sont une valorisation au TJM, pas forcément le montant facturé. Le réengagement et les conditions CN27 ne sont pas confirmés dans les documents.
+- Le CA MA CN26 est présenté comme « +79 % vs 2025 » mais aussi « +50 % en 2026 » dans le même reporting. La base 2025 est-elle de 87 k€ ou de 104 k€ ?
+- Le CA Team Instit CN26 vaut 300 k€ (séminaire), mais le pipeline de novembre 2024 affichait 360 830 € « TOTAL », dont une ligne de 350 000 € à 90 %, probablement une erreur de saisie.
+- Dates CN27 : 26-28 avril (lettre, mails KAM) ou 26-27 avril (mails d'accompagnement) ? AFC le 27/04/2027.
+- Nombre de délégations 2026 : 40, 42 ou 52 (« This year was 40 and we reached 52 », debrief du 21/04/2026) ? 21 en collaboration avec MA.
+- Date du petit-déjeuner CN26 : 30 ou 31 mars selon les documents.
+- Statut d'Africa for Change 2027 et éventuel « pull out » de MA.
+- Pavillons CN27 effectivement vendus : « 3 déjà réservés » (argument FOMO) ; seul Taiwan est confirmé dans les documents.
+
+## Inventaire lu
+- CN27 - Fiche projet | 1X3lyZTqxn3UudVwBLZPXkSdw3XyfBVTpCpkvapfzLkU | gdoc | 2026-10-27 | lu | livrables CN27, stratégie commerciale, pipeline par zone, annexe des prix pavillons
+- CN27 - Fiche posture | 1EHdww1bJ8er6A9TPInBRWZTf9xpApI1_RbAX_5IbEik | gdoc | 2026-10-26 | lu | objectifs MA/client, posture, gouvernance, risques, sociogramme
+- CN27 - ODJ et prise de note | 1qJjdNbYXckCABX49hfUsHjPpeYlofypOM05D36B1dSY | gdoc | 2026-11-16 | lu (100 %, ~80k car.) | tous les ODJ et CR du 17/12/2025 au 14/11/2026
+- CN27 - Pipeline | 1CFXLxtn21_G2IDaneJSBJkhg4RFgJbooyxgle__NnGs | gsheet | 2026-06-23 | lu | valeurs CN27 vs CN26 par cluster, priorités 80/20
+- CN27 - Projet campagne lettre | 1pv4DI1sMuSFP4afKR0l0kBQUcFiEZP9vzV3wr08cCW4 | gdoc | 2026-10-26 | lu | rétroplanning et méthode de la campagne de lettres
+- CN27 - Préparation séminaire | 1ZUc6JAZNGsvcxoVWVZIqGoOyAtC1_bO-SjqVEcVLXDg | gdoc | 2026-06-23 | lu | comptes prioritaires (234 k€), axes d'amélioration
+- CN27 - Séminaire Team Instit | 1s4ERR8s_Azp_1O353_8n7HpweFfSzYMjv7u6Kvnn6n4 | gdoc | 2026-06-25 | lu | KPIs 2026, objectif de 600 k€, offres 2027
+- CN - Weekly Team Instit x MA 2810 | 1__RztWb5nBmdnb7Rip18wDEcxEj_ceiNpt8AVw_6kpg | gdoc | 2026-10-27 | lu | ODJ du weekly du 28/10 (doublon de l'ODJ)
+- CN 25 - un bon business developper | 1D368I9earEt9RZPTYfyncYh_ujaoUnFDfVX1n2e4dhw | gdoc | 2026-08-08 | lu | philosophie et leviers de prospection
+- CN26 - Fiche projet | 10AprNk9lZXjntHnCRBzlFqD9Jjpd3YYCoIOJe5IZRnI | gdoc | 2026-06-23 | lu | ressources, déroulé du sommet CN26, debriefs
+- CN26 - Centralisation de notes last mile | 1hFwD7cX0sVsKDUAONvE-IQ8f_N7ivBVJV19l_29J9mw | gdoc | 2026-06-23 | lu | process des invitations, to-do du sommet
+- CN26 - Listing invités MA | 1izdh_UULY3a9_WhuPTwqFCSnQ8wx5cVmWyWc76u5P9k | gsheet | 2026-06-23 | lu | 202 invités MA par type
+- ChangeNow 2026 Registration Form | 1edpR-UULmasMeJMItEZgdE-ocwBr-vo-vMQ_CTHpBWk | gform | 2026-03-09 | sauté (type non lisible) | —
+- ChangeNow 2026 Registration Form (réponses) | 1483YAiDaxCk3VYRnaUXsvxWb1bA-pIgscPSazrAehek | gsheet | 2026-04-01 | lu | ~143 inscriptions de mars 2026
+- Nationalités - World Expo - Speakers.xlsx | 13ar1a2wrdkFr4uMeU7e_XV7BqqhP30Rl | xlsx | 2026-02-17 | lu | stands et speakers par pays
+- répartition quota side event afrique.xlsx | 1pJcu7ah97yPe6ML7XCoFeNTbTHaMRcrv | xlsx | 2025-04-15 | lu | quotas du side event Africa Day (doublon du docx)
+- Side Event Digital Africa - ChangeNOW 2025.docx | 1etzPWZpCQoBPjxIqoEBf6_tAItvn78c6 | docx | 2025-04-09 | lu | fiche technique de la réception Africa Day
+- 2025 - International Delegations Welcome Breakfast.xlsx | 17mLaEoytYCG2LFWSrWlLQ-rh0n8iiyrW | xlsx | 2025-05-16 | lu | inscrits au breakfast CN25
+- Exclusive Invitation to ChangeNOW 2025 (Responses).xlsx | 1OJEox2VpfPLBJNSl3DRSBu6I9G5KUvat | xlsx | 2025-04-23 | lu | réponses à l'invitation MA CN25
+- Retour GM - pricing 16 décembre_.docx | 1R44Itcomw1F9APRFdTsTFOQT-rAF71HL | docx | 2024-12-17 | lu | règles de pricing des propales CN25
+- Document sans titre (Online Summer Meeting) | 1L1aiyoZY2ZbamNZjdmJoBanV8Y1moYi6Ut64h34cJsM | gdoc | 2026-07-22 | lu | script GM de la Summer Session (Pacific Tech, Nigeria)
+- reporting Guillaume Marechal 2024.pptx | 1_ac7tQkqHMMU-jrYiHVACC6KR26uMF-2 | pptx | 2024-06-27 | lu | reporting CN24 : 5 délégations
+- Santiago - 5 février 2024.docx | 1-jHwr8zmfXWPskZyQeQ4A1MhMm2vFOVn | docx | 2024-02-04 | lu | préparation du RDV Santiago (Afrique, Océans)
+- Note de synthèse_15_05_25 - Marechal Advisory x ChangeNOW.docx | 17dH7tExsvesmZRaPJn19Q_C9FrRVI85o | docx | 2025-05-13 | lu | reporting CN25 final, 87 k€
+- Note de synthèse_27_02_2025 - Marechal Advisory x ChangeNOW.docx | 1NI-r8thv9sJxK5OZqb-gQYLDWd0L1qnA | docx | 2025-05-10 | lu | reporting intermédiaire, 104 k€
+- Note de synthèse_27_02_2025 - Marechal Advisory x ChangeNOW.pdf | 1DMiwtIx5NoBE6zUlctwGiC2bPS-9yV2k | pdf | 2026-04-14 | sauté (doublon du docx) | export PDF
+- CN25 - Photos (31 jpg) | — | image | 2025-09-18 | listé seulement | Photos_International Delegations (16), Photos_Pavilion (15)
+- AWPI_ChangeNOW_Bilan_2026.docx | 1r0nQUegkoEvz1w5QSeN43bv85DMEpvjb | docx | 2026-05-21 | lu | bilan du partenaire AWPI pour Africa for Change 2026
+- CN26 - Photos (130 images) | — | image | 2026-04 | listé seulement | photos du sommet CN26
+- CN26 - Reporting | 1IkuxTmtePCsEDLeU6ckTgWt7a0Efq7tjlLuD4uLlMic | gdoc | 2026-06-23 | lu | WhatsApp à Charlotte, brainstorm GM, bilan
+- CN26 - Reporting Calcul TJM | 1IscLQA62kAL6tfsTO2r1SJh74TkmD7nvlcGFqBQ8xDw | gsheet | 2026-06-23 | lu | valorisation de 171 375 €
+- CN26 - RETEX | 1-smnQCgQkXEmQrcBjDwG7UXIMJG0tyd92dSHMZ-JD5A | gdoc | 2026-06-23 | lu | retour d'expérience, scorecard Gemini, renégociation
+- MA - RDV Charlotte One-Pager | 16SCzikgsWpTdJzvY5b84zH_5claB03SFcCTdVqHW4T4 | gdoc | 2026-10-26 | lu | griefs et matrice de répartition des RDV
+- Maréchal Advisory Reporting - ChangeNOW 2026.pdf | 1uByvDfZ30bNDvPjPWftdDssttzQMmc0j | pdf | 2026-05-21 | lu | reporting officiel CN26 : 150 k€, 21 délégations
+- Short deck - de Africa For Change 2027 - Official Presentation | 1HWwhzeu8WTDNcwgYUWblaHlZg1AvJSP_7vrz389rwkk | gslides | 2026-10-27 | lu | deck AFC 2027 et cas 2026
+- ChangeNOW 2026 Aftermovie.mp4 | 1IdpoNuflE94U0cIckFROnDUP9_qeKt58 | mp4 | 2026-06-24 | listé seulement | vidéo
+- Copie de Intro Africa Program | 1IYVxRzOvzV7K9A_T0nOAf6qKhNg6pfHeHU-llQPMJbo | gdoc | 2026-03-31 | lu | speech d'ouverture AFC (version enrichie)
+- International delegation breakfeast | 1GXvwHRH75OyGxHu06fsMAuGmBaBRErU7YDOH1uCcktY | gdoc | 2026-03-31 | lu | script GM/Charlotte du breakfast CN26
+- Intro Africa Program | 1S3kuSbJ5nQcDdxkTp-1EV3jqfdArh186puEGhCQIgWA | gdoc | 2026-06-23 | lu | speech d'ouverture AFC
+- Introduction LEX | 198acUqiU638gadNTvzC6UclW3PY4C5-ttHLjMrlHbds | gdoc | 2026-03-29 | lu | script des LEX
+- PITCH | 1brFjEvrU0t2HK7wDsaRx8x_fJw74YKifWSY3lo13VhE | gdoc | 2026-03-31 | lu | ouverture de la session de pitch AFC
+- Préparation Guillaume | 1O0ri7FdV0jl3SQ_DMPbSMJO3CQr0VyP0cRaT6MwYJ_w | gdoc | 2026-03-29 | lu | trame de préparation des interventions de GM
+- CN27 - Gemini extraction Messages et mails types | 1oVVFNmzGnPGj8KrcVC5j0y6dsciiPV_DsWKromRNG1w | gdoc | 2026-07-07 | lu | leviers extraits des mails historiques
+- CN27 - Gemini production Messages et mails types | 12odLRomsuLvV7IbvqJ6OKHRENWevI8F65fl7IzTM_fk | gdoc | 2026-07-07 | lu | templates générés par IA
+- CN27 - Mails personnalisés | 18nVSKWP4mcS1zctq_igD5tS67F8es0rV2h1mDEGcqrM | gdoc | 2026-11-04 | lu partiellement (~15 % mot à mot, structure et montants complets) | ~120 mails par compte (CN26, CN27)
+- CN27 - Mails types + calendly | 1f7w0VuVERz0oKaqvdu8Mn_dq6SBxts1pirTCCPhKYkM | gdoc | 2026-11-16 | lu | mails KAM, séquence de relance, paragraphes régionaux
+- CN27 - Messages et mails types | 17JTklwbJ9VN0iPr3Kv6zMQgQn2kDiJv_DV6F2-eRz-k | gdoc | 2026-11-12 | lu (~85 %) | toolkit complet des mails et WhatsApp, boiler MA
+- CN27 Campagne lettre Nov26 - modèle type 291026 | 1RBtPLHRvTjCGxdTsJ5-Y5O3ssHkxwOomQHdquZrGBDE | gdoc | 2026-10-29 | lu | lettre officielle EN/FR
+- CN27 Campagne lettre Nov26 - Paragraphes personnalisés | 1356vroWuU4xdhxDOnMg6bW1uS262s0rQKMF51cODA4o | gdoc | 2026-10-29 | lu | ~63 paragraphes par destinataire
+- CN27 Campagne lettre Nov26 - Personnalisation par zone géographique | 11zroG-1VaXVAiExX6Bd3Lk3yOIkIvdhBIKLMVtNOmmU | gdoc | 2026-10-29 | lu | 4 paragraphes par zone
+- CN - Campagne Lettres | 1WRmqz1sH1IqaS0ttNdc-B04sEkso3KjbJXvV990U0Eo | gsheet | 2026-09-11 | lu | liste des ~32 destinataires
+- CN27 - Lettre type (old) | 17SUqZ1VoUdZ6pdqjIdq-Ly_id2G6yvsF92vgS7HYpXc | gdoc | 2026-10-29 | lu | ancienne version de la lettre
+- Lettres Publipostées EN.docx | 1qqJAPFHkIWg5XhYkrdljiarTeB9prQ1X | docx | 2026-11-04 | lu (comptage) | 29 lettres EN publipostées
+- Lettres publipostées FR.docx | 155zxFZlIgqXvgamynAe_rEPq8x3ARzu6 | docx | 2026-11-04 | sauté (doublon de contenu) | pendant FR
+- Liens utiles.docx | 1Eh-FEd5J0qJIU03S60XjRenh5xWsVSyp | docx | 2026-02-02 | lu | liens vers les decks, l'aftermovie et les outils CN26
+- Activations offertes CN.xlsx | 1f1C9SXP0Sp2pFlo-vMpUDsDOrvZC2bx- | xlsx | 2026-01-29 | lu | activations offertes par contact CN26
+- Catalogue produit CN.xlsx | 1B7pS8OL9yJ6HKwDSGrECGyhB3TJ-GHAx | xlsx | 2026-02-02 | lu | outil de pricing CN26 (version antérieure)
+- Catalogue produit CN.xlsx (copie) | 1NkBoYpMJyynhywTrbMkaSiBf475HUB28 | xlsx | 2026-02-02 | sauté (doublon, même taille) | —
+- CN27 - Outil commercial | 171ysWNqaCtTj2UEIGlDzB90y1yvRX-tLrsSo8p1VNZY | gsheet | 2026-10-21 | lu (export xlsx) | catalogue de prix et propales par pays CN26/CN27
+- COP16 x ChangeNow - Business 4 Land Lounge.pdf | 196q22MrgZYQMQ-yXCRKt-PPYcZE0ydmj | pdf | 2026-04-02 | lu | lounge CN à la COP16 Riyadh
+- Copy of Grille SalesCORPS ChangeNOW | 1PkduNqCFhaGrLZeSP05JuTqbglh-LsPMbhKuFVgGjoI | gsheet | 2026-06-23 | lu (export xlsx) | grille officielle CN corporate/instit 2025-2027
+- Pricing Hubs 2026 - Taipei.pdf | 1oQEGlxUUBrd1cW9VQGAC00EeYL76KvFU | pdf | 2026-10-21 | lu | licences ChangeNOW Hubs
+- Pricing Simulation.xlsx | 13xCIaXlmZMscTNrfJ4yyDG2ccb4yCgI_ | xlsx | 2026-02-02 | lu | outil de pricing CN26 (version antérieure)
+- 2026 - International Delegations Breakfast.xlsx | 1fAd_xWA0uLPBb1DVKB5iygvNG7oXov9X | xlsx | 2026-05-06 | lu | inscrits au breakfast CN26
+- Africa for Change Networking Cocktail.xlsx | 114H85m4j0yjqxoN716voyG42pGOyNgVV | xlsx | 2026-05-06 | lu | inscrits au cocktail AFC 2026
+- Campagne Dev - Instit CN26.xlsx | 1R7AvjQDm8N-khzW7cG3BVuT63N2-IUVa | xlsx | 2026-07-16 | lu (structure et échantillons) | fichier de prospection Targets 2026/2027
+- CN26 - Listing invités MA.xlsx | 1ZiTJq-i6DqTtF889Os5i6FUuX2s8J2NJ | xlsx | 2026-07-16 | lu (doublon du gsheet) | invités MA
+- Guillaume CN26 - Présence des délégations.xlsx | 1tPHkf7KsdRcraUh2LiWdmsH2HYSuqUAm | xlsx | 2026-05-25 | lu | 16 pays, startups et délégués
+- Institutional representatives - high Level.xlsx | 1WdpW59Rlo15b5PSmcZeMq1AbUdtOqz14 | xlsx | 2026-05-06 | lu | VIP de CN26 et répartition de l'accueil
+- Lex proposal INSTIT 2026.xlsx | 12-exC0NHM6w48nn7sJCn4cPRUHvIwUEs | xlsx | 2026-05-06 | lu | inscrits aux 3 LEX instit
+- Team Instit - Agenda .xlsx | 1v0Jr7NP8lqMmZXHFrHwp6YHOFXmCMnPq | xlsx | 2026-05-06 | lu | agenda du sommet, bilan par compte
+- Weekly, ODJ et CR avec ChangeNOW | 1OoKO0ldiUQycszym79jkxPZAMk6xvQR7pkdwQ_pKgc8 | gdoc | 2026-02-02 | lu (doublon d'une partie de l'ODJ CN27) | weeklies de déc. 2025 à fév. 2026
+- Paragraphes gratuité | 1awwjwofdAT8LkpkOV4HKKjV7YI6yws7AmrTOeBRUUhY | gdoc | 2026-07-02 | lu | mail « last chance » CN26
+- Point Taiwan.docx | 1AoDWA-SRhiF7sET7pYf6shMjXi7mLoaS | docx | 2026-02-03 | lu | point Taiwan du 21/01/2026
+- Suivi ChangeNOW 4 novembre 2024 - CA pôle Public & International Affairs.pdf | 1kV14RWtifeOrVUxRBP8Pkrv8nXbm28vf | pdf | 2024-11-04 | lu | pipeline CN25 probabilisé
+- CR Change now.docx | 1v5i0E3aLOMosNktXFu-MJ1V0Fg2kqb50 | docx | 2024-06-28 | lu | négociation du contrat 2023, organigramme CN, CR 2023-2024
+- D Day.docx | 1kUYth5WbFWc2GjzYNFT0JbtVGFrAfpdC | docx | 2024-03-26 | lu | to-do du 25/03/2024
+- Validation Charlotte - D-Day.docx | 1EJKTIp8aIKFSFHQ7Eyx81dTOsJHDRieD | docx | 2024-03-25 | lu | breakfast CN24, éléments de langage
+- Plans Change Now GPE V15.pdf | 1k4_P6NmV63othXFi8mPm6dSKNMEHdHGE | pdf | 2024-03-14 | sauté (plan graphique) | plan du Grand Palais Éphémère
+- Fiche projet petit déjeuner.docx | 1F-8KjClA9UmokUXJDZUViFZskuQmbkGH | docx | 2024-03-24 | lu | logistique du breakfast CN24
+- EMERGING Valley 2025.docx | 1jCQiQHQeEYYXTik1jO0Qefn0oPBrhyic | docx | 2025-11-25 | lu | programme Emerging Valley annoté pour la prospection
+- EMERGING Valley - Livre Blanc 2025.docx | 1gi7e92un_r3qLuiB3mkZyw79c64GV7Jl | docx | 2025-12-02 | lu | synthèse du livre blanc Afrique-Europe
+- Fund Presentation Dec 23.pdf | 1V0srYgZWMifSbbrF0WL5wLELI3WhGTtC | pdf | 2023-12-14 | lu | deck de l'Ukrainian Phoenix Tech Fund
+- Invitations.docx | 1bHZzrr6VzH67DxMlLrXbWo-RwUO_fPtF | docx | 2025-10-07 | lu | ministres et agences cibles par pays africain
+- J-4.docx | 1DiJ_fwvXTynXByEdS5LTgxkvFmAeTLN8 | docx | 2025-04-22 | lu | to-do J-4 CN25
+- Masque Africa ChangeMarkers Cocktail by Digital Africa.pptx | 1VDuOnnetVKlGPF3mRKhtj8bFheYOnVRI | pptx | 2025-04-24 | lu | slides du cocktail CN25
+- Masque International Delegations Breakfast.pptx | 13TFgk0NpK2tZqjSD5tOk7kehefgDpafW | pptx | 2025-04-24 | lu | slide du breakfast du 25/04/2025
+- Copie de Masque International Delegations Breakfast.pptx | 1fcuYQkpc-aY51aaMlL9F_eNmriz38AMd | pptx | 2025-04-24 | sauté (doublon) | —
+- International Delegation - Onboarding.docx | 1WYRZZzkzsVOz3scVxgyOHlPpMdOAeAbZ | docx | 2024-03-11 | lu | kit d'onboarding des délégations CN24
+- Copie de International Delegation - Onboarding.docx | 1ocWpNfsQxmJNRAooRMVkHU6s1v0ggDhj | docx | 2024-03-06 | sauté (doublon) | —
+- International Delegation Onboarding.docx | 194yJR7VoJMTjMF-KUDX1QWcLOaPyx0ri | docx | 2024-03-19 | sauté (doublon probable) | —
+- Feuille de calcul sans titre.xlsx | 1ojIlPnFVDKasqvk3yxaAPT9GgzGfHtN6 | xlsx | 2024-03-11 | lu | gabarit de liste de délégation
+- Pays et délégations 2025 - Instit.xlsx | 12o16xOgRm30IzBCOwbu50Q7KjpEw8M5u | xlsx | 2025-12-12 | lu | liste des délégations 2025
+- priorité invitation startups.xlsx | 1lkocdQVPCWfq-BQMf0gb3NgGJ2AwgnS6 | xlsx | 2025-01-27 | lu | pays prioritaires pour la prospection 2026
+- quotas.xlsx | 1kI9LfYTPZQtOl-GFWk2fyhR0eEFQVI4O | xlsx | 2024-03-18 | lu | quotas de pass CN24 par délégation
+- 2025.docx | 1D05wkTQsKZeaEYP-OdkuGIHjWTJz_gGB | docx | 2024-04-15 | lu | notes post-CN24 (« retour kevin - CA: 300k€ »)
+- liste petit dej international changenow 2025.pdf | 16dYq5p3xLKwzhdahCL_74sz6FkhMv0OI | pdf | 2025-05-17 | lu | émargement du breakfast CN25 (doublon)
+- Roadmap afrique.docx | 1sVX8FMJEC-AXV-IlZRbITnJAAqa2DMA6 | docx | 2024-10-29 | lu | roadmap Afrique CN25
+- CN2026 - Pitch Afrique - Informations Speakers | 1zPpBDp_QHn4oWid_T12-O4qLL88HPoC8zHu7bxr1X_k | gslides | 2026-05-21 | lu | fiches speakers (GM, Mamadou Touré)
+- Kevin petit déjeuner.pptx | 1U3nhNUf_7L7Ppo82igayUYNcXip__2aJ | pptx | 2024-03-25 | lu | slides du breakfast CN24
+- Kevin_s Biography.docx | 1joaAwBTCMGczND-bv4pAvuYjUVjhv-Y7 | docx | 2023-06-28 | lu | biographie de Kevin Tayebaly
+- Raccourcis : Catalogue produit CN (1h0pxtfu2RG6WVCQ4hoExUdjmtry73-d6), Liens utiles (1KvNEJV6bQAnYviKdWlTq-Vpg-4VDe8VJ), Prez Africa For Change CN.pdf (1n_SQcrGwpS7UU2f6Zwp2HB4iQP3Xu8rb), Prez CN 2026 (1X3fzfSRjI7PZk88ivDIDSIpo7VzegzIf), Toolkit fiches clients (1WGzjaaLOO8QO2TKp2V5c1y1sOw1j8HnS) | shortcut | 2026-02-02 | sautés (raccourcis) | —
+- 6 fichiers .DS_Store | — | octet-stream | 2026 | sautés (système) | —
