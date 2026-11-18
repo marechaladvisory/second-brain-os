@@ -4,3 +4,4 @@
 ## [2026-11-18] setup | Granola pass blocked: the Granola connector reports no account for this user; to run after sign-up | touched: context/config.md
 ## [2026-11-18] setup | brain-watch installed: Drive watch every 4 h fills the queue, resume points in notes/sync-state.md (queue.py cursor), brain-daily catches up a missed watch; skills copied to .claude/skills/ (from skill-lab, evals 4/4 on 2026-11-18) | touched: context/config.md, AGENTS.md, brain.py, queue.py, .claude/skills/
 ## [2026-11-18] watch | drive: 17 listed, 0 excluded, 9 read, 9 entries queued, 8 skipped | touched: notes/inbox.md
+## [2026-11-18] setup | separate 4-hourly watch task disabled to save quota; brain-daily runs the Drive watch each morning (watch_interval_hours 12) | touched: context/config.md, AGENTS.md

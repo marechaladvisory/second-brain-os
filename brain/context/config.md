@@ -19,7 +19,7 @@ summary: Settings every brain routine reads. Change values here, never in skills
 - capture_confirm: false  # true = /done shows the entry before queueing
 - queue: inbox            # inbox (notes/inbox.md); airtable adapter later
 ## Watch (read by brain-watch; empty = connector not watched)
-- watch_interval_hours: 4       # cloud task every 4 h; brain-daily catches up if the last run is older than 6 h
+- watch_interval_hours: 12      # no separate watch task (quota, 2026-11-18): brain-daily runs the watch itself each morning, since the last run is then older than 18 h
 - watch_budget_files: 20        # files read per run; the rest waits for the next run
 - watch_drive_root: "0AJFAnfE8WNvjUk9PVA"            # shared drive "Maréchal Advisory Team"
 - watch_drive_exclude: [10a4_E3DXcVAn6tCdKqni4jUuMfxyKoC2]   # "Wifi & Mdp" (passwords)

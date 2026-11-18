@@ -7,7 +7,7 @@ Full formats: contracts.md in the brain-* skills. Below is what every session ne
 - context/   who I am, business, ICP, offer and prices, voice, config. Canonical. Edit only when I state a change.
 - projects/<name>/about.md   entry point per project: status, decisions, next step. Link it as [[<name>]].
 - clients/   every organisation (client, prospect, partner, institution; type in "En bref"). people/   one file per person, kebab-case.
-- notes/daily/YYYY-MM-DD.md   today's state. notes/inbox.md   capture queue (use queue.py; brain-watch fills it from Drive every 4 h). notes/sync-state.md   resume points, via `queue.py cursor` only. notes/ideas.md
+- notes/daily/YYYY-MM-DD.md   today's state. notes/inbox.md   capture queue (use queue.py; brain-daily's watch step fills it from Drive each morning). notes/sync-state.md   resume points, via `queue.py cursor` only. notes/ideas.md
 - wiki/   syntheses; wiki/sources/   summaries of raw documents.
 - decisions.md   dated decisions with reason. log.md   append-only history. hot.md   this week.
 - raw/ archive/   read-only. raw/2026-11-18-drive-setup/ = Drive extractions behind the setup (source of truth for setup facts).
