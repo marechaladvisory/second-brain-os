@@ -1,0 +1,83 @@
+# clients/ index (generated 2026-11-18, 76 notes)
+
+## active
+- [[francis-bacon-mb-art-foundation]] (updated 2026-11-17, imp 3): Fondation de Majid Boustany, mécène existant de l'École du Louvre (bibliothèque, amphithéâtre inauguré le 17/11/2026) ; Boustany siège au CA du FEDL.
+- [[awpi]] (updated 2026-11-16, imp 3): Association co-initiatrice d'Africa for Change avec ChangeNOW ; modère le powerlunch 2026 et reste co-organisatrice pour 2027 (édition jugée fragile par MA).
+- [[bridge-and-value]] (updated 2026-11-16, imp 5): Société de facilitation France-Nigeria (CEO Abiodun Odunuga) ; partenaire de MA (MoU signé le 23/07/2026, partage des revenus 50/50 ou 60/40), partenaire national exclusif de ChangeNOW au Nigeria et client du seul deal PEF 2026 (8 000 € HT).
+- [[changenow]] (updated 2026-11-16, imp 5): Plus gros client de MA depuis le contrat de nov. 2023 (CN24) ; MA vend délégations internationales et pavillons aux acteurs publics, CA apporté 150 k€ à CN26, CN27 (26-28/04/2027) en cours.
+- [[image-7]] (updated 2026-11-16, imp 2): Agence de communication travaillant sur le dossier Côte d'Ivoire de ChangeNOW (« très chronophage ») et concurrent cité de l'offre startups (TJM 2 500 €/jour).
+- [[paris-economic-forum]] (updated 2026-11-16, imp 4): Forum économique de Vincent Ducrey (HUB Institute) ; client de MA pour la « participation internationale » du PEF 2026 (2/12/2026), un seul deal (Nigeria via Bridge and Value, 8 000 € HT), honoraires MA non retrouvés.
+- [[bergman-advisory-group]] (updated 2026-11-13, imp 2): Cabinet américain de conseil en philanthropie ; pair de MA, Andrew Bergman partage des digests RFP/RFI (exemple de conseil en philanthropie).
+- [[choiseul]] (updated 2026-11-13, imp 4): Think tank et plateforme d'événements (85+ événements/an) ; client en cours de signature pour l'AMO du sommet Choiseul x Ecobank de Cotonou (forfait proposé 76 150 € HT au 13/11/2026), MA en marque blanche.
+- [[ecobank]] (updated 2026-11-13, imp 3): Groupe bancaire panafricain, commanditaire du sommet économique international de Cotonou (5-6 avril 2027) ; client final de MA via Choiseul, sans relation directe.
+- [[firetracking]] (updated 2026-11-13, imp 3): Startup de Nouméa (détection des feux par IA) ; exposant ChangeNOW via Pacific Tech et cas pilote de l'offre startups de MA (contrat d'apporteur d'affaires à 5-7 %, non signé).
+- [[centre-pompidou-metz]] (updated 2026-11-12, imp 4): EPCC muséal (Metz) ; mission de prospection mécénat avec Guillaume Robic en cadrage (visite du 16/11/2026, campagne de lettres avant le 5-6/12), aucun contrat ni prix écrit.
+- [[fonds-ecole-du-louvre]] (updated 2026-11-12, imp 5): Client de MA depuis octobre 2024 pour la levée de fonds Génération 2030 (objectif > 10 M€) ; MA payée à la commission + retainer 800 €/mois, relation jugée dégradée, reconduction 2027 à sécuriser.
+- [[inskip]] (updated 2026-11-12, imp 4): Cabinet « expert-led » d'accompagnement international (Paris, Berlin, Casablanca) ; ancien client de MA pour la European DeepTech Week 2026 (déc. 2025-avril 2026), devenu prestataire en marque blanche du Global Ocean Accelerator.
+- [[station-f]] (updated 2026-11-12, imp 4): Campus de startups parisien ; « notre client Station F » pour le Global Ocean Accelerator 2027 que MA structure et commercialise (Station F contractualise avec GM, contrat non retrouvé), aussi lieu de l'accélérateur AlUla.
+- [[fondation-cartier]] (updated 2026-11-11, imp 5): Fondation du groupe Richemont ; cliente de MA depuis le 25/03/2026 pour l'externalisation du premier niveau des privatisations (forfait ~12 h/mois), aussi prospect mécène de l'École du Louvre.
+- [[afalula]] (updated 2026-11-10, imp 3): Agence française pour AlUla (Arabie saoudite) ; ancien client de MA (accélérateur Future of Tourism à Station F, sélection de startups), référence « Innovation » citée dans toutes les offres MA.
+- [[ambassade-egypte]] (updated 2026-11-10, imp 4): Prospect avancé de MA : pavillon Égypte à ChangeNOW 2027 (60 000 €, « valorisé à 100 000 € ») et invitation gratuite de l'ambassadeur au PEF 2026.
+- [[bpifrance]] (updated 2026-11-10, imp 3): Banque publique d'investissement ; co-organisateur de la DeepTech Week 2026 avec INSKIP (référence MA) et hôte du Tideline Kickoff de Waves of Change (11/01/2027).
+- [[waves-of-change]] (updated 2026-11-10, imp 4): Association d'intérêt général de Biarritz (2019) pour des villes côtières résilientes ; MA y agit en conseil intégré (GM « Partner »), sans contrat ni honoraires retrouvés.
+- [[art-paris]] (updated 2026-11-05, imp 5): Foire d'art moderne et contemporain (Grand Palais), cliente de MA depuis 2023 via le Prix Her Art ; mission AP27 de recherche de sponsors rémunérée uniquement à la commission, aucun partenaire signé au 2026-11-17.
+- [[cote-divoire-ministere-jeunesse]] (updated 2026-11-04, imp 3): Client ivoirien de ChangeNOW via MA (10 000 € à CN26, ministre Mamadou Touré invité d'honneur), cible CN27 de 10-30 k€ avec l'agence Image 7.
+- [[ita]] (updated 2026-11-04, imp 3): Agence italienne du commerce extérieur ; client de ChangeNOW via MA (9 k€ à CN26), prospect CN27 (9-32 k€) et piste à 15 k€ pour le PEF 2026.
+- [[eic]] (updated 2026-10-28, imp 4): Agence européenne de l'innovation ; client de ChangeNOW via MA depuis CN26 (premier partenariat, 15 k€ selon le reporting), proposition CN27 à 40 k€ ou 100 k€, et prescripteur de startups pour l'offre Open Doors.
+- [[presence-suisse]] (updated 2026-10-28, imp 3): Organe de promotion de l'image de la Suisse ; prospect chaud de ChangeNOW 2027 (« AI for Impact House » à 60 000 €), grâce au lien personnel de GM avec Alexandre Edelmann.
+- [[fondation-culture-et-diversite]] (updated 2026-10-21, imp 3): Mécène historique de l'École du Louvre (égalité des chances depuis 19-20 ans, soutien de la Chaire UNESCO).
+- [[myriad-usa]] (updated 2026-10-21, imp 3): Sponsor fiscal 501(c)(3) (ex-King Baudouin Foundation US) qui héberge l'American Friends Fund du FEDL et est partie au contrat de Sue Devine.
+- [[unesco]] (updated 2026-10-21, imp 2): Chaire UNESCO de l'École du Louvre, utilisée comme événement de cultivation des mécènes (22-23 juin 2026).
+- [[ambassade-france-afrique-du-sud]] (updated 2026-10-14, imp 4): Client récurrent depuis 2023 : conférence RHAM Cape Town (via CTA, 2024), puis South Africa House à ChangeNOW (32 k€ CN25, 7 200 € CN26) et pavillon confirmé CN27 (booth 9 m² à 20 000 €).
+- [[awex]] (updated 2026-10-14, imp 2): Agence wallonne à l'exportation ; client de ChangeNOW via MA (5 k€ à CN26), prospect CN27 avec la Flandre (corners à 4 000 €).
+- [[impact-hub-taipei]] (updated 2026-10-14, imp 4): Incubateur taïwanais, porteur de la Taiwan House à ChangeNOW (24 k€ à CN26, MoU du 8/09/2026, offre CN27 à 40 000 €) et signataire d'un MOU avec Waves of Change.
+- [[friends-of-nigeria-europe]] (updated 2026-10-06, imp 2): Association organisatrice de Spotlight Nigeria (9e édition le 6/10/2026, Paris) ; Abiodun Odunuga en est cofondateur ; relais Nigeria de CN25 et de la DTW.
+- [[cdc-tunisie]] (updated 2026-09-21, imp 3): Institution financière tunisienne ; client direct de MA pour la visite d'étude Fin4Youth+ (octobre 2026, PNUD/ONUDI) et prospect ChangeNOW 2027 (cible 15 k€).
+- [[ukrainian-startup-fund]] (updated 2026-09-21, imp 3): Acteur de l'écosystème ukrainien à ChangeNOW depuis CN24 (délégation offerte en 2025, pavillon financé 16 k€ en 2026, proposition CN27 à 20 000 €) et à la DTW 2026.
+- [[invest-in-turkiye]] (updated 2026-09-10, imp 3): Agence turque de l'investissement ; client de ChangeNOW via MA (15 k€ à CN26, workshop « Mobilising Impact Capital »), avec un ChangeNOW Hub à Istanbul.
+- [[bureau-representation-taipei]] (updated 2026-09-08, imp 3): Représentation de Taïwan en France ; institution d'appui de la Taiwan House à ChangeNOW, témoin du MoU Impact Hub Taipei du 8/09/2026.
+- [[business-france]] (updated 2026-09-03, imp 2): Agence publique d'export, concurrente des offres délégations de MA (packages Davos à 9 900 € HT) et acteur du dossier Nigeria de ChangeNOW.
+- [[region-reunion]] (updated 2026-08-26, imp 3): Collectivité ultramarine ; premier partenariat à CN26 (« first-ever partnership »), pavillon « Digital Réunion » CN27 proposé à 40 000 € HT.
+- [[sineora]] (updated 2026-07-19, imp 3): Plateforme franco-japonaise d'open innovation (Paris/Osaka) ; partenaire de MA sur la DTW 2026 et ChangeNOW (relais JETRO / NEDO).
+- [[vivatech]] (updated 2026-07-19, imp 3): Salon tech parisien, concurrent de ChangeNOW et ancien employeur de GM (4 ans) ; MA y prospecte chaque année (REX Vivatech 2026).
+- [[bnp-paribas-banque-privee]] (updated 2026-07-17, imp 3): Partenaire premium officiel d'Art Paris (prix de 40 000 € depuis 2024) ; bloque banque-finance-assurance pour AP27 et son go sur Promesses conditionne la rémunération de MA.
+- [[boucheron]] (updated 2026-07-17, imp 3): Joaillier du groupe Kering ; sponsor du Prix Her Art (30 000 €), le « succès Boucheron » qui fonde la crédibilité de MA chez Art Paris ; bloque la joaillerie pour AP27.
+- [[pacific-tech]] (updated 2026-07-16, imp 3): Écosystème tech de Nouvelle-Calédonie ; client de ChangeNOW via MA (10 k€ à CN26, 3 startups, 96 leads, 7 deals), proposition de pavillon CN27 à 36 000 € HT.
+- [[itc]] (updated 2026-06-23, imp 3): Agence ONU-OMC du commerce ; client de ChangeNOW via MA (12 k€ à CN25, 30 k€ à CN26, YECO Awards), mais « disappointed and looking to scale down » pour 2027.
+- [[um6p]] (updated 2026-06-23, imp 2): Université marocaine ; package ChangeNOW à 72 k€ HT non conclu en 2025, 2 500 € à CN26, cible CN27 de 15 k€.
+- [[je-mengage-pour-lafrique]] (updated 2026-05-31, imp 3): Association franco-africaine (2021) dont GM est « Board Member » et membre de la core team de la soirée des 5 ans (Fondation Cartier, 1er février 2027) ; citée comme client dans les offres MA mais aucune relation commerciale documentée.
+- [[ecolab-cgdd]] (updated 2026-05-30, imp 2): Laboratoire d'innovation du ministère de la Transition écologique ; co-organisateur du forum Waves of Change 2026 et co-pilote de la verticale « AI & Ocean » de la Coalition pour une IA durable.
+- [[ville-de-la-haye]] (updated 2026-05-13, imp 2): Ville néerlandaise ; House Pays-Bas à ChangeNOW en 2025 et 2026 (avec Amsterdam Impact), contactée aussi pour le forum Waves of Change.
+
+## draft
+- [[edb-singapore]] (updated 2026-11-16, imp 2): Agence singapourienne ; prospect récurrent (VIP lunch CN 2025, speaker DTW 2026), refus pour le PEF 2026 (« ne veulent jamais être early-adopter »), prospect 2027.
+- [[champagne-jeeper]] (updated 2026-11-13, imp 3): Maison de champagne (1949) rachetée par Nicolas Grosbois ; premier client visé de l'offre vins/champagne de MA (stratégie et plateforme de marque).
+- [[expertise-france]] (updated 2026-11-13, imp 3): Agence publique de coopération (filiale AFD) ; prospect de MA (approche ICC via Yannick Gaudin, veille appels d'offres) et partenaire CN26 en Tunisie et Ukraine.
+- [[galeries-lafayette]] (updated 2026-11-13, imp 2): Grand magasin ; lieu cible de l'offre vins, destinataire des lettres AP27 et piste « global deal » Nigeria ; partenaire historique de l'accélérateur AlUla.
+- [[villa-albertine]] (updated 2026-11-13, imp 3): Institution culturelle française aux États-Unis ; partenaire d'événement de l'École du Louvre (New York, 2024) et lieu cible de l'offre vins/champagne de MA en 2027.
+- [[axa]] (updated 2026-11-12, imp 4): Groupe d'assurance sollicité sur plusieurs fronts (Global Ocean Accelerator, École du Louvre, conseil en philanthropie, Waves of Change) ; pas de don possible au FEDL, aucun engagement signé.
+- [[cma-cgm]] (updated 2026-11-12, imp 2): Armateur ; prospect du Global Ocean Accelerator (rendez-vous mené via Station F) et cité comme cible de ChangeNOW et de Spotlight Nigeria.
+- [[fondation-prince-albert-ii]] (updated 2026-11-12, imp 3): Fondation environnementale monégasque ; prospect tier 1 du Global Ocean Accelerator (DG positif, « peut donner 100K/an sur 3 ans », hypothèse) et partenaire de ChangeNOW.
+- [[carmignac]] (updated 2026-11-10, imp 3): Société de gestion et fondation d'art ; prospect Her Art (15 k€ en 2024) et AP27, et demandeur d'une privatisation à la Fondation Cartier (dîner de 120 personnes, décembre 2026).
+- [[groupe-adp]] (updated 2026-11-10, imp 3): Gestionnaire des aéroports parisiens ; prospect Her Art (30 k€ proposés en décembre 2024) relancé pour AP27 (« fort potentiel, budget estimé 20-30K »).
+- [[helen-frankenthaler-foundation]] (updated 2026-11-09, imp 3): Fondation américaine ; prospect actif du FEDL, proposition d'un « Dedicated Scholarship Fund » de 200 000 € après la rencontre de GM à New York (23/09/2026).
+- [[zimmermann]] (updated 2026-11-05, imp 2): Maison de mode australienne ; prospect AP27 (call du 2/11/2026 sur une proposition « à tiroirs »).
+- [[deloitte-africa]] (updated 2026-11-04, imp 2): Prospect sponsor de l'Africa Zone de ChangeNOW 2027 (15 k€ en pipe, idée « Africa for Change powered by Deloitte »).
+- [[smart-africa]] (updated 2026-11-04, imp 2): Alliance panafricaine du numérique ; prospect ChangeNOW (51 k€ demandés en CN26 sans conclusion, 20-25 k€ visés en CN27).
+- [[aesop]] (updated 2026-11-03, imp 2): Marque cosmétique australienne (L'Oréal Luxe depuis 2023), cible prioritaire AP27 pour ses 40 ans en 2027 et l'Australie à l'honneur.
+- [[friendship]] (updated 2026-10-26, imp 3): ONG bangladaise de Runa Khan ; prospect de MA pour la conférence « Bridge International Climate Finance Days » (21-23 mars 2027), scope proposé, budget non arrêté.
+- [[joan-mitchell-foundation]] (updated 2026-10-21, imp 2): Fondation américaine ; prospect du FEDL en pause, bloqué par le seuil de 200 000 € du fonds nommé (don possible de 50 000 €).
+- [[gide]] (updated 2026-10-19, imp 3): Cabinet d'avocats ; prospect du conseil en philanthropie (fonds Gide Pro Bono, via Alexandre Bochu) et cible des lettres « Promesses » d'AP27.
+- [[flanders-investment-trade]] (updated 2026-10-14, imp 2): Agence flamande ; prospect ChangeNOW 2027 (RDV du 20/05/2026) et suivi post-DTW, sans engagement.
+- [[societe-generale]] (updated 2026-10-13, imp 2): Fondation d'entreprise (55 M€ sur 2024-2028) ; rendez-vous obtenu par la campagne de lettres de l'École du Louvre mais non alignée, aussi dans le pipeline du Global Ocean Accelerator.
+- [[iom]] (updated 2026-10-08, imp 2): Organisation internationale pour les migrations ; prospect ChangeNOW 2027 avec une proposition à 18 000 €.
+- [[oif]] (updated 2026-09-21, imp 2): Institution internationale ; cible de lettres ChangeNOW (CN25-CN26, 14 k€ en pipe CN27) et de Friendship ; Sommet de la Francophonie de Phnom Penh (nov. 2026) noté par GM.
+- [[impact-hub-network]] (updated 2026-09-17, imp 2): Réseau mondial d'Impact Hubs ; prospect pour ChangeNOW (propositions 25-34 k€) et pour l'offre affaires publiques de MA (soft landing en France), sans suite documentée.
+- [[loreal]] (updated 2026-09-14, imp 2): Groupe cosmétique ; prospect du FEDL refroidi (proposition de 200 000 € pour des bourses sur l'histoire de la beauté) ; sa filiale Aesop est traitée séparément pour Art Paris.
+
+## archived
+- [[orange-africa]] (updated 2026-10-27, imp 2): Sponsor d'Africa for Change 2026 à ChangeNOW, non renouvelé (« no-go », octobre 2026).
+- [[digital-africa]] (updated 2025-05-15, imp 2): Initiative française de soutien aux startups africaines ; client de ChangeNOW via MA à CN25 (30 k€, African Changemakers Cocktail), non renouvelé ensuite.
+- [[groupe-marie-claire]] (updated 2024-12-04, imp 3): Groupe de presse ; ancien client de MA (2023-2025) pour l'initiative Art by Her devenue le Prix Her Art (Boucheron, Art Paris), origine de la relation avec Art Paris.
+- [[communicating-the-arts]] (updated 2024-05-22, imp 2): Organisateur de conférences internationales (AGENDA, CEO Corinne Estrada) ; GM y a été « Director and Chief Strategist Africa » en 2023-2024 pour la conférence RHAM Cape Town et mentor du programme 30 under 30.
+- [[beaux-arts-et-cie]] (updated 2023-12-11, imp 2): Groupe de presse culturelle (Beaux Arts Magazine, Le Quotidien de l'Art) ; ancien client de MA pour The Art Market Day 2023 (TJM 950 € HT + 14 % de commission sur les nouveaux sponsors).

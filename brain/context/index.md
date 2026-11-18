@@ -1,0 +1,9 @@
+# context/ index (generated 2026-11-18, 6 notes)
+
+## active
+- [[config]] (updated 2026-11-18, imp ?): Settings every brain routine reads. Change values here, never in skills.
+- [[business]] (updated 2026-11-16, imp 5): Boutique de conseil parisienne (Climate House) fondée en 2023 par Guillaume Maréchal, « building bridges » entre continents, secteurs et personnes ; 3 sphères Impact / Innovation / Industries créatives ; client pivot ChangeNOW ; Cap 2027 = alliances Taiwan, Égypte, Nigeria, Ukraine et montée en gamme.
+- [[me]] (updated 2026-11-15, imp 5): Fondateur et CEO de Maréchal Advisory (fondé en 2023 selon les offres), ex-VivaTech, Ville de Paris et Musée d'Orsay ; porte aussi des titres chez ses clients (ChangeNOW, École du Louvre, Art Paris, Waves of Change) ; valide tout et ramène le business.
+- [[icp]] (updated 2026-11-13, imp 5): MA sert quatre familles - acteurs publics internationaux (pays, ambassades, agences) via des organisateurs de sommets, institutions culturelles en levée de fonds, organisateurs d'événements à impact, et (offre en construction) startups deep tech en expansion internationale ; interlocuteurs C-level.
+- [[offer]] (updated 2026-11-13, imp 5): MA n'a pas de grille publique ; ses honoraires connus mêlent forfait + variable (ChangeNOW), commission seule (Art Paris), retainer + commission (EDL), forfait horaire (Fondation Cartier, 350 / 110 €/h) et TJM (GM 2 500 € HT standard en nov. 2026) ; offres propres en construction (Open Doors 3-5 k€/mois, affaires publiques Radar/Momentum/Expansion).
+- [[voice]] (updated 2026-11-12, imp 5): GM écrit court, chaleureux et direct, bilingue FR/EN ; un cran moins familier que l'interlocuteur ; mails en 3 temps (remerciement, bullets, next steps) avec un créneau proposé ; signe « Guillaume » ou « G. » ; pitch FOMO, rareté et visio de 30 min ; à éviter : inventer des pays en discussion, culpabiliser, laisser des traces d'IA.

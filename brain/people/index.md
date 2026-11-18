@@ -1,0 +1,65 @@
+# people/ index (generated 2026-11-18, 60 notes)
+
+## active
+- [[ileana-santos]] (updated 2026-11-14, imp 2): Cofondatrice-présidente de Je m'engage pour l'Afrique (JMA), association dont GM est membre du board ; GM est dans la core team de la soirée des 5 ans (1er février 2027, à confirmer).
+- [[andrew-bergman]] (updated 2026-11-13, imp 2): Principal de Bergman Advisory Group (US), pair de GM dans le conseil en philanthropie ; lui transfère des appels d'offres (digest RFP/RFI du 21/10/2026).
+- [[jean-simon-chaudier]] (updated 2026-11-13, imp 3): CEO et cofondateur de FireTracking (Nouméa), témoin client de ChangeNOW (« 12% of my pipeline ») et cas pilote de l'offre MA « Open Doors » (contrat d'apporteur d'affaires 5-7 %).
+- [[lea-gallee]] (updated 2026-11-13, imp 4): Head of International du Groupe Choiseul, interlocutrice principale de MA sur le sommet Choiseul x Ecobank de Cotonou (5-6 avril 2027) ; tutoyée par GM.
+- [[maxime-delannoy]] (updated 2026-11-13, imp 2): Membre de l'équipe projet Cotonou du Groupe Choiseul, avec Léa Gallée ; MA doit lui présenter Virginie Augagneur.
+- [[nicolas-grosbois]] (updated 2026-11-13, imp 2): Propriétaire de Champagne Jeeper (maison fondée en 1949, en refonte complète), premier client cible de l'offre vins / mécénat de MA avec Sylvain.
+- [[sylvain]] (updated 2026-11-13, imp 3): Partenaire externe de MA sur l'offre vins / champagne (mécénat en nature, plateforme de marque) ; apporte le réseau de vignobles ; contrat de collaboration léger à signer ; nom de famille inconnu.
+- [[tiana]] (updated 2026-11-13, imp 3): Assistante externe basée à Madagascar qui traite en masse la base de données Airtable de MA (outsourcing) ; renfort possible sur Cotonou ; statut non écrit.
+- [[virginie-augagneur]] (updated 2026-11-13, imp 4): Responsable de programme du Global Ocean Accelerator et cheffe de projet proposée pour le sommet Choiseul x Ecobank de Cotonou (850 € HT/j) ; profil freelance / associée, statut non tranché ; coordinatrice de Waves of Change.
+- [[armand-dogra]] (updated 2026-11-12, imp 5): Chef de projet MA (« International Project Manager ») depuis début janvier 2026, pilote opérationnel de ChangeNOW 2027, du PEF et de la mission Fondation Cartier ; statut contractuel non écrit.
+- [[claire-barbillon]] (updated 2026-11-12, imp 5): Directrice de l'École du Louvre depuis décembre 2017 et présidente du Fonds de dotation (FEDL), décisionnaire de la mission MA ; signe les lettres grands donateurs ; départ annoncé (mars 2027 selon la source la plus récente) ; vouvoyée.
+- [[ian-hartmann]] (updated 2026-11-12, imp 3): Institutional Partnerships Manager de ChangeNOW (Team Instit) ; prend les premiers calls, le KAM et Airtable côté client ; MA préfère piloter elle-même les deals stratégiques.
+- [[leonie-vankemmel]] (updated 2026-11-12, imp 5): Cheffe de projet MA depuis le 8 juin 2026 (EDL, Art Paris 2027, Centre Pompidou-Metz, recrutement WoC, GOA) ; départ prévu mi-décembre 2026 ; statut contractuel non écrit (stage probable).
+- [[majid-boustany]] (updated 2026-11-12, imp 3): Fondateur de la Francis Bacon MB Art Foundation, grand mécène de l'École du Louvre (bibliothèque, amphithéâtre qui porte son nom) et membre du CA du FEDL.
+- [[maxime-guillaud]] (updated 2026-11-12, imp 4): CEO d'INSKIP, client de MA sur la European DeepTech Week 2026 et prestataire « marque blanche » (sourcing) du Global Ocean Accelerator ; tutoyé par GM.
+- [[oliver-chang]] (updated 2026-11-12, imp 3): Cofondateur (Chief Operations & Impact Officer) d'Impact Hub Taipei ; témoin client de ChangeNOW : la Taiwan House lui a apporté une première commande internationale d'environ 80-82 k€.
+- [[santiago-lefebvre]] (updated 2026-11-12, imp 5): Fondateur et Président-CEO de ChangeNOW, client pivot de MA ; signe toutes les lettres officielles rédigées par MA, les MoU (Impact Hub Taipei, Bridge and Value) et reçoit le rapport de mission.
+- [[audrey-keita]] (updated 2026-11-10, imp 5): Directrice communication et partenariats d'Art Paris, interlocutrice principale de MA sur AP27 ; a validé oralement le principe des « vases communicants » cash / nature le 16/07/2026.
+- [[guillaume-robic]] (updated 2026-11-10, imp 4): Consultant indépendant (« Strategic Partnership Advisor », plateforme DIWALL), associé externe de GM sur Art Paris 2027 et le Centre Pompidou-Metz, et avant sur le Prix Her Art.
+- [[justin-lagniez]] (updated 2026-11-10, imp 3): Chargé de communication et partenariats d'Art Paris ; valide le toolkit AP27 ; tutoyé par GM.
+- [[ludovic-toutain]] (updated 2026-11-10, imp 5): Business Development / responsable des privatisations de la Fondation Cartier, client opérationnel de MA depuis le 25/03/2026 ; valide invitations et opportunités ; tutoyé.
+- [[minh-trinh]] (updated 2026-11-10, imp 3): Cofondatrice / cofondateur et trésorier(e) de Waves of Change ; contact pour les adhésions et destinataire des points du recrutement mécénat 2027.
+- [[nicolas-occhiminuti]] (updated 2026-11-10, imp 5): Cofondateur et CEO (président) de Waves of Change, client principal de MA sur le forum G7 2026 et le recrutement d'un stagiaire mécénat 2027 ; signataire du MoU avec Impact Hub Taipei.
+- [[vincent-ducrey]] (updated 2026-11-09, imp 4): Président et fondateur du Paris Economic Forum / HUB Institute, client de MA pour le PEF du 2 décembre 2026 (mandat : ramener 1 pays à 15 k€ + 2-3 prospects) ; GM le tutoie.
+- [[elsa-de-smet]] (updated 2026-11-05, imp 3): Responsable du développement des publics, de la communication et du mécénat du Centre Pompidou-Metz depuis mars 2026 ; interlocutrice opérationnelle de MA.
+- [[paolo-bondavalli]] (updated 2026-11-05, imp 3): Programme Manager à l'EIC, jury CN26 et prescripteur de startups pour la nouvelle offre MA « Open Doors » ; tutoyé par l'équipe MA.
+- [[chiara-parisi]] (updated 2026-11-04, imp 4): Directrice du Centre Pompidou-Metz (nommée en 2019, reconduite en décembre 2024 pour 3 ans), décisionnaire de la mission mécénat MA ; a gelé le crowdfunding ; vouvoyée.
+- [[guillaume-piens]] (updated 2026-10-29, imp 4): Commissaire général d'Art Paris depuis 2011/2012 (ex-FIAC, Paris Photo) ; cosigne les lettres de prospection AP27 rédigées par MA.
+- [[bassem-badr]] (updated 2026-10-28, imp 4): Ministre plénipotentiaire, chef de la Mission commerciale et économique de l'Ambassade d'Égypte à Paris ; interlocuteur clé de MA sur l'Egypt House CN27 (60 k€) et le PEF 2026 ; vouvoyé.
+- [[stephane-ouaki]] (updated 2026-10-28, imp 3): Chef de département à l'EIC / EISMEA ; destinataire de la proposition CN27 (EIC Energy House 40 k€ ou 100 k€ avec l'Electrification Forum) et d'une lettre de Santiago Lefebvre datée du 21/10/2026.
+- [[abigail-bouaziz]] (updated 2026-10-27, imp 3): Directrice des programmes business de Station F, décisionnaire go/no-go et point de contact Station F du Global Ocean Accelerator ; point bimensuel avec MA.
+- [[camille-desprez]] (updated 2026-10-27, imp 4): Dircom / Head of Prospecting and Fundraising de l'École du Louvre, interlocutrice opérationnelle de MA sur la campagne Génération 2030 ; tutoyée par GM.
+- [[charlotte-lordet]] (updated 2026-10-26, imp 5): Head of Institutional Partnerships / International Business Lead de ChangeNOW (Team Instit) ; interlocutrice principale et négociatrice de MA sur CN26-CN27 ; biweekly d'une heure avec GM.
+- [[abiodun-odunuga]] (updated 2026-10-22, imp 4): CEO de Bridge and Value, partenaire Nigeria de MA (MoU MA x B&V du 23/07/2026) et « Official ChangeNOW Ambassador for Nigeria » (MoU CN x B&V d'octobre 2026) ; client du package Nigeria au PEF 2026 (8 000 € HT).
+- [[sandrine-arrecgros]] (updated 2026-10-21, imp 3): Secrétaire générale de l'École du Louvre et secrétaire du FEDL ; valide formellement les actions de MA ; vouvoyée.
+- [[sue-devine]] (updated 2026-10-21, imp 4): Consultante US (Sue Devine Consulting LLC, Los Angeles), ex-directrice des American Friends of the Louvre, sous-traitante du FEDL pour la campagne US ; contrat jusqu'à mi-novembre 2026, suite inconnue.
+- [[josephine-de-fontaines]] (updated 2026-10-20, imp 2): Contact du Fonds AXA pour le Progrès Humain ; le fonds ne peut pas donner au FEDL (contrainte de « cascade ») mais un soutien direct à l'École reste possible (20/10/2026).
+- [[geoffroy-berson]] (updated 2026-10-14, imp 3): Attaché Innovation de l'Ambassade de France en Afrique du Sud, Lesotho et Malawi ; partenaire de MA depuis 2024 (South Africa House) ; retour confirmé pour CN27 (package 20 000 €), témoin vedette du kick-off du 14/10/2026.
+- [[rich-yu-chu-chen]] (updated 2026-10-14, imp 3): CEO d'Impact Hub Taipei ; signataire du MoU avec ChangeNOW du 08/09/2026 (Taiwan House, offre 40 k€) et signataire prévu du MoU avec Waves of Change.
+- [[runa-khan]] (updated 2026-10-14, imp 3): Fondatrice de l'ONG Friendship (Bangladesh, 2002) ; prospect de MA pour la conférence « Bridge International Climate Finance Days » de mars 2027 (scope of work rédigé, budget non arrêté).
+- [[julien-lecetre]] (updated 2026-09-23, imp 3): Direction générale d'Art Paris (avec Valentine Lecêtre) ; signe les contrats, dont celui de MA pour AP27, et cosigne les lettres.
+- [[yannick-gaudin]] (updated 2026-09-21, imp 2): Project Manager à Expertise France (politiques économiques pour le développement durable), contact de GM pour approcher le pôle Culture & Patrimoine avec l'offre industries culturelles et créatives.
+- [[alexandre-bochu]] (updated 2026-08-04, imp 2): Associé en droit fiscal chez Gide Loyrette Nouel, contact de GM pour la piste conseil en philanthropie (Fonds Gide Pro Bono) ; déjeuner et premier mail à l'été 2026.
+- [[kimiko-imai]] (updated 2026-07-31, imp 3): CEO de SINEORA (open innovation franco-japonaise, Paris/Osaka) ; a modéré le closed-door meeting Asie de la DTW 2026 et apporte JETRO / NEDO, contre pass et visibilité ChangeNOW.
+- [[pascal-lorot]] (updated 2026-07-29, imp 3): Chairman (président) du Groupe Choiseul ; contact de haut niveau, pas d'échange direct documenté avec MA.
+- [[olimpia-giusti]] (updated 2026-07-23, imp 4): Head of Public Affairs de ChangeNOW (relations ambassades et ministres) ; c'est elle qui a fait entrer GM chez ChangeNOW en 2023 ; reprend la stratégie et l'accompagnement de Santiago en mai 2026.
+- [[rose-may-lucotte]] (updated 2026-07-23, imp 4): Cofondatrice et Deputy Executive Director de ChangeNOW ; valide les grandes orientations (Africa for Change, tiering) et reçoit avec Santiago les remerciements de fin d'édition de MA.
+- [[madelie-guicheron]] (updated 2026-07-13, imp 2): Assistante de Claire Barbillon à l'École du Louvre (agenda, COMEX) ; relais de MA pour la logistique.
+- [[audrey-chazal]] (updated 2026-07-02, imp 3): Freelance MA sur la campagne de l'École du Louvre, présentée comme « responsable du développement international à l'École du Louvre » ; tient 4 comptes clés (dont Bank of America et Joan Mitchell).
+- [[alexandre-edelmann]] (updated 2026-06-23, imp 3): Head of Presence Switzerland, contact personnel de GM (tutoyé) ; porte d'entrée du projet de pavillon suisse « AI for Impact House » à 60 k€ pour ChangeNOW 2027.
+- [[carole-tankeu]] (updated 2026-06-23, imp 2): Cofondatrice de l'African Women Presence Initiative (AWPI), co-initiatrice d'Africa for Change avec ChangeNOW.
+- [[maryann-kahindi-picard]] (updated 2026-06-23, imp 2): Co-initiatrice d'Africa for Change (ChangeNOW) ; rattachée à Ubuntuness ou cofondatrice de l'African Women Presence Initiative selon les sources.
+- [[olivier-desbiey]] (updated 2026-05-31, imp 2): Group Head of Foresight d'AXA ; keynote de l'atelier G7 de Waves of Change (01/06/2026) et contact AXA du Global Ocean Accelerator.
+- [[sebastien-louvet]] (updated 2026-05-31, imp 3): Organisateur de la table ronde G7 de Waves of Change du 01/06/2026, que GM a modérée ; ex-secrétaire général du MEDEF (2013-2019) ; tutoyé.
+
+## archived
+- [[kevin-tayebaly]] (updated 2026-06-23, imp 2): Cofondateur et ex-Chief Development Officer de ChangeNOW qui a recruté GM en 2023 ; a quitté ChangeNOW depuis.
+- [[loic-lenoir]] (updated 2026-06-23, imp 2): Ancien membre de l'équipe MA (consultant junior puis stagiaire 6 mois, juin-décembre 2025), « International Delegation Officer » sur ChangeNOW 2025 et 2026 ; parti.
+- [[mauro-bezerra-perrone]] (updated 2026-06-23, imp 2): Ancien chef de projet MA sur ChangeNOW 2026 (octobre 2025 à février ou mars 2026, 60 jours valorisés 39 000 €) ; statut non écrit ; parti.
+- [[garance-aulagne]] (updated 2026-05-18, imp 2): Responsable Africa for Change chez ChangeNOW, a co-animé le programme avec GM (Africa Day 2026) ; « sort complètement du sujet » depuis le 18 mai 2026.
+- [[gregoire-de-padirac]] (updated 2025-05-15, imp 2): CEO de Digital Africa, partenaire de ChangeNOW en 2025 (remercié après CN25) ; pas d'activité documentée depuis.
+- [[isciane-magre]] (updated 2024-09-23, imp 1): Ancienne membre de l'équipe MA en 2024 ; prenait les comptes rendus des rendez-vous de prospection ChangeNOW 2025 ; statut non écrit.

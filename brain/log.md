@@ -1,2 +1,3 @@
 # log.md (append-only)
 ## [2026-11-17] setup | brain created | touched: layout
+## [2026-11-18] setup | brain built from a deep exploration of Google Drive (shared drive "Maréchal Advisory Team" + My Drive: 350 folders, 1 431 files; passwords folder excluded). 12 extraction workstreams kept in raw/2026-11-18-drive-setup/; 5 context files, 20 projects, 76 organisations, 60 people, 4 wiki pages, decisions (55), ideas, hot.md. Health 99/100. Granola not yet integrated. | touched: context/, projects/, clients/, people/, wiki/, decisions.md, notes/ideas.md, hot.md, AGENTS.md, context/config.md, raw/2026-11-18-drive-setup/

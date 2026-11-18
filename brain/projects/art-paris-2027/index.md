@@ -1,0 +1,4 @@
+# projects/art-paris-2027/ index (generated 2026-11-18, 1 notes)
+
+## active
+- [[art-paris-2027]] (updated 2026-11-12, imp 5): MA cherche des sponsors pour Art Paris 2027 (Grand Palais, 1-4 avril 2027) avec Guillaume Robic, payée uniquement à la commission ; offre refondue (30 k€ à 150 k€), 60 lettres FR + 7 EN parties en novembre 2026, aucun partenaire signé au 2026-11-05.
