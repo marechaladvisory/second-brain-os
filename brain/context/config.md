@@ -3,7 +3,7 @@ title: Brain config
 type: context
 status: active
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-18
 summary: Settings every brain routine reads. Change values here, never in skills.
 ---
 # Config
@@ -11,7 +11,7 @@ summary: Settings every brain routine reads. Change values here, never in skills
 - daily_time: "07:30"
 - lint_day: friday
 - lint_time: "16:00"
-- connectors: []          # e.g. [calendar, gmail, fireflies, crm]
+- connectors: [google-drive, granola]   # Drive: shared drive "Maréchal Advisory Team" (source of the setup, 2026-11-18); Granola: meeting notes. CRM Airtable not connected yet
 - budget_reads: 60
 - budget_writes: 25
 - budget_fixes: 15
