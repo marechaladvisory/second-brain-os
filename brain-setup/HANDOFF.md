@@ -24,7 +24,8 @@ En cours de route, il a demandé de lancer les subagents plus séquentiellement 
 | 5. Écriture (8 writers W1-W7) | fait : 5 context, 20 projets, 76 clients, 60 people, 4 wiki |
 | 6. decisions.md (55), notes/ideas.md, hot.md, AGENTS.md (34 lignes), config.md | fait par le coordinateur à partir de `brain-setup/writer-reports/` |
 | 7. index + lint | fait : health 99/100, seul avertissement : review dépassée de `clients/ville-de-la-haye.md` (signal réel) |
-| 8. Passe Granola | **BLOQUÉE** : le connecteur répond « user has not created a Granola account yet » |
+| 8. Passe Granola | **BLOQUÉE** : le connecteur répond « user has not created a Granola account yet » (revérifié le 2026-11-18 en fin de session) |
+| 9. Veille Granola + Drive | **À construire** : voir PRIORITÉ ci-dessous |
 
 Contrôles faits : aucun email, téléphone, mot de passe, numéro de passeport ni donnée de santé dans les notes. Les candidats sont notés prénom + initiale, uniquement dans les notes de recrutement.
 
@@ -42,8 +43,37 @@ Contrôles faits : aucun email, téléphone, mot de passe, numéro de passeport 
    - Toujours « écrire chaque fichier dès qu'on a la matière ».
    - Collision de slug : un projet et un client ne doivent jamais partager le même nom. Le projet WoC a été renommé `mission-waves-of-change`.
 
+## PRIORITÉ (demande de Guillaume, 2026-11-18) : veille Granola + Drive
+Granola et Google Drive sont les **deux entrées principales** du brain. Il faut une veille qui prenne en compte chaque nouvelle entrée ou modification.
+
+**Pré-requis bloquant : Granola.** Au 2026-11-18, `mcp__Granola__get_account_info` répond « user has not created a Granola account yet ».
+- Guillaume doit créer ou relier son compte sur https://granola.ai/mcp-signup.
+- Puis reconnecter le connecteur Granola dans claude.ai (Settings → Connectors) avec le même compte que son app Granola. Une adresse différente est une cause probable.
+- Vérifier ensuite avec `get_account_info`, avant toute autre étape.
+
+**Conception proposée** (à valider avec Guillaume, puis à construire dans `skill-lab/` selon les règles du lab : sandbox d'abord, puis evals) :
+1. **Points de reprise datés, pas de fenêtre de 24 h.**
+   - `brain-daily` lit aujourd'hui « les dernières 24 h » des connecteurs : si une exécution est ratée, des entrées sont perdues.
+   - Stocker un horodatage de dernière synchro par connecteur dans un fichier modifiable pendant les exécutions automatiques, par exemple `brain/notes/sync-state.md`. Pas dans `context/`, qui est en lecture seule pendant ces exécutions.
+2. **Veille Drive.**
+   - Requête : `'0AJFAnfE8WNvjUk9PVA' in ancestors and (modifiedTime > '<horodatage>' or createdTime > '<horodatage>')`.
+   - Exclure le dossier `10a4_E3DXcVAn6tCdKqni4jUuMfxyKoC2` (Wifi & Mdp).
+   - Ignorer les images et vidéos. Pour un doc déjà connu, ne lire que ce qui a changé.
+   - Écrire une entrée de file par doc utile via `queue.py` (source `drive`, certitude, faits, décisions).
+3. **Veille Granola.**
+   - `search_meetings(updated_after=<horodatage>)`, puis `get_meetings` par lots de 10, et la transcription seulement si un détail manque.
+   - Une entrée de file par réunion (source `granola`).
+4. **Intégration.**
+   - Seul `brain-daily` intègre la file (contracts §6).
+   - Modifications à prévoir : les valeurs `drive` et `granola` dans le champ `source` de `queue.py` ; l'étape 1 de `brain-daily` lit les horodatages et non plus 24 h ; mise à jour des horodatages en fin d'exécution réussie.
+5. **Planification** : une tâche planifiée cloud (create_trigger, nouvelle session à chaque déclenchement, repo `marechaladvisory/second-brain-os`, connecteurs Google Drive et Granola).
+   - Une veille légère toutes les 4 h, qui ne fait que remplir la file.
+   - `brain-daily` à 07:30 Europe/Paris, et `brain-lint` le vendredi à 16:00.
+   - Le brain est dans le repo, donc la tâche doit pouvoir committer et pousser. Une règle `Bash(git push:*)` dans `.claude/settings.json` commité est nécessaire : `.claude/settings.local.json` n'existe que dans un conteneur.
+6. **Rattrapage initial** : au premier lancement, horodatage Drive = 2026-11-18 (date du setup). Pour Granola, tout l'historique (passe initiale décrite ci-dessous).
+
 ## Prochaines étapes
-1. **Passe Granola**, après création du compte sur https://granola.ai/mcp-signup.
+1. **Passe Granola initiale**, une fois le compte relié (voir PRIORITÉ ci-dessus).
    - Lister toutes les réunions.
    - Un agent extrait par période, au format extract-brief, centré sur les mises à jour des entités du registre, en datant chaque fait.
    - Un seul writer intègre ensuite dans les notes existantes. Il cherche d'abord avec `brain.py search`, étend la note existante, et remplace l'ancienne version d'un fait plutôt que de la garder en double. Il met à jour hot.md, decisions.md et log.md.
