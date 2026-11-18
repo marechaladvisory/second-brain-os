@@ -11,7 +11,7 @@ summary: Settings every brain routine reads. Change values here, never in skills
 - daily_time: "07:30"
 - lint_day: friday
 - lint_time: "16:00"
-- connectors: [google-drive, granola]   # Drive: shared drive "Maréchal Advisory Team" (source of the setup, 2026-11-18); Granola: meeting notes. CRM Airtable not connected yet
+- connectors: [google-drive, granola]   # Drive: shared drive "Maréchal Advisory Team" (source of the setup, 2026-11-18); Granola: meeting notes, account not created yet (connector refused on 2026-11-18, sign up then run the Granola pass). CRM Airtable not connected yet
 - budget_reads: 60
 - budget_writes: 25
 - budget_fixes: 15
