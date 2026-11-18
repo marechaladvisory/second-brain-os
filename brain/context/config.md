@@ -18,6 +18,14 @@ summary: Settings every brain routine reads. Change values here, never in skills
 - proactivity: advisor    # observer | advisor (drafts, never sends) | assistant | partner
 - capture_confirm: false  # true = /done shows the entry before queueing
 - queue: inbox            # inbox (notes/inbox.md); airtable adapter later
+## Watch (read by brain-watch; empty = connector not watched)
+- watch_interval_hours: 4       # cloud task every 4 h; brain-daily catches up if the last run is older than 6 h
+- watch_budget_files: 20        # files read per run; the rest waits for the next run
+- watch_drive_root: "0AJFAnfE8WNvjUk9PVA"            # shared drive "Maréchal Advisory Team"
+- watch_drive_exclude: [10a4_E3DXcVAn6tCdKqni4jUuMfxyKoC2]   # "Wifi & Mdp" (passwords)
+- watch_drive_skip_titles: ["CV "]                  # candidates' CVs are never read
+- watch_drive_max_mb: 25
+- watch_start: "2026-11-18"     # setup date; older Drive content was read by the setup
 ## Decay (read by brain.py; days; 0 = no decay)
 - decay_half_life: project=30, entity=180, concept=365, source=365, log=7, inbox=3, context=0, decision=0
 - decay_status_mult: active=1, draft=0.8, archived=0.3, superseded=0
