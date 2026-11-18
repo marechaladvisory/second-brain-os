@@ -27,7 +27,7 @@ For each entity, fact and decision:
 2. Changed fact → rewrite it in place with date and source; if the old version had decision context keep it under `## History`; or mark the old note superseded (§3). Never leave two active versions.
 3. Decision → `decisions.md` (`## date decision`, `Why:`, `Replaces:`), and a one-line link in the related project's about.md.
 4. `certainty: hypothesis` → never an active fact: add it under `## Open questions` in the related note, or a `status: draft` note.
-5. Open loops → the project's about.md (next step) or `notes/ideas.md`. Before adding a task, check it has not already been done (sent mail, document status, a later note). [Sales OS completion check]
+5. `CONFLICT <note>: …` open loops (from brain-watch) → fix the note if the newer source is clear (rewrite with date and source, §3), else list under "Needs you". Other open loops → the project's about.md (next step) or `notes/ideas.md`. Before adding a task, check it has not already been done (sent mail, document status, a later note). [Sales OS completion check]
 6. `verbatim` lines → under `## Quotes` in the related note with the date. If one shows a voice pattern, propose it for `context/voice.md` in the report.
 7. Anything that belongs in `context/` → do not write it; list it under "Proposed context edits" in the report.
 8. After each write, read the file back and confirm the content is there; retry once, else report it (§7.2).
