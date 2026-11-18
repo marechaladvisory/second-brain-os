@@ -56,7 +56,7 @@ Actifs fin 2026
 - [[fondation-cartier]] : [[fondation-cartier-privatisations]].
 - [[centre-pompidou-metz]] : [[centre-pompidou-metz-mecenat]].
 - [[paris-economic-forum]] : [[paris-economic-forum-2026]] (avec [[bridge-and-value]]).
-- [[station-f]] et [[waves-of-change]] : [[global-ocean-accelerator]] ; mission [[waves-of-change]].
+- [[station-f]] et [[waves-of-change]] : [[global-ocean-accelerator]] ; mission [[mission-waves-of-change]].
 - [[choiseul]] / [[ecobank]] : [[choiseul-cotonou-2027]] (proposition en cours).
 - [[friendship]] : [[friendship-bangladesh-2027]] (prospect).
 Anciens clients et références
