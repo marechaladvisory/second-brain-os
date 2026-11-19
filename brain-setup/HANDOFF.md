@@ -1,4 +1,4 @@
-# HANDOFF — setup du second brain de Maréchal Advisory (2026-11-18)
+# HANDOFF — second brain de Maréchal Advisory (mis à jour le 2026-11-19)
 
 Branche de travail : **`main`** (créée le 2026-11-18 à la demande de Guillaume ; `claude/clever-euler-y95o7a` est l'ancienne). Tout est commité et poussé.
 Brain : `brain/` (racine du repo). Skills utilisés : `skill-lab/build/skills/` (brain-setup + `_shared/contracts.md`).
@@ -25,7 +25,7 @@ En cours de route, il a demandé de lancer les subagents plus séquentiellement 
 | 6. decisions.md (55), notes/ideas.md, hot.md, AGENTS.md (34 lignes), config.md | fait par le coordinateur à partir de `brain-setup/writer-reports/` |
 | 7. index + lint | fait : health 99/100, seul avertissement : review dépassée de `clients/ville-de-la-haye.md` (signal réel) |
 | 8. Passe Granola | **BLOQUÉE** : le connecteur répond « user has not created a Granola account yet » (revérifié le 2026-11-18 en fin de session) |
-| 9. Veille Drive | **faite le 2026-11-18** : skill brain-watch (evals 4/4, essai à blanc puis premier passage réel : 9 entrées en file), tâches planifiées créées (voir « Veille : état ») |
+| 9. Veille Drive | **faite le 2026-11-18** : skill brain-watch (evals 4/4, essai à blanc puis premier passage réel : 9 entrées en file). Planification : brain-daily fait la veille chaque matin (voir « Veille : état ») |
 | 10. Veille Granola | **à faire** quand le compte Granola existe |
 
 Contrôles faits : aucun email, téléphone, mot de passe, numéro de passeport ni donnée de santé dans les notes. Les candidats sont notés prénom + initiale, uniquement dans les notes de recrutement.
@@ -44,13 +44,34 @@ Contrôles faits : aucun email, téléphone, mot de passe, numéro de passeport 
    - Toujours « écrire chaque fichier dès qu'on a la matière ».
    - Collision de slug : un projet et un client ne doivent jamais partager le même nom. Le projet WoC a été renommé `mission-waves-of-change`.
 
-## Veille : état au 2026-11-18 (fin de session)
-- Construit dans `skill-lab/build/` puis installé dans `brain/.claude/skills/` (copie par `install.sh --target brain/.claude/skills --force`) : skill `brain-watch`, `queue.py has` et `cursor get|set|status|stale`, points de reprise dans `brain/notes/sync-state.md`, rattrapage dans `brain-daily`, avertissement `watch` dans `brain.py lint`. Config : section Watch de `brain/context/config.md`.
-- Evals : `skill-lab/evals/results/2026-11-18.md` (cas 7-9 + régression 3, 4/4) ; décisions dans `skill-lab/log.md`.
-- File : 9 entrées Drive `new` dans `brain/notes/inbox.md`, à intégrer par le prochain brain-daily. Curseur Drive : 2026-11-18T22:33Z.
-- Tâches planifiées cloud (nouvelle session à chaque déclenchement) : `brain-watch Drive (toutes les 4 h)` trig_018odBvVmysP8AHxGgdsjprm **désactivée le 2026-11-18** pour économiser le quota (Drive peu modifié) : brain-daily fait la veille lui-même chaque matin (`watch_interval_hours: 12` → rattrapage systématique) ; `brain-daily` trig_018EsRWDjMpJCsaZovDs9xYx (07:18 Europe/Paris) ; `brain-lint` trig_01RgxFgnPQEhNvr9aekLw8Kg (vendredi 15:49 Europe/Paris).
-- **Bloquant à faire par Guillaume** : ces tâches ont été créées sans connecteur ni repo (l'outil ne permet pas d'en attacher pour cette organisation). Dans l'interface des routines de claude.ai, ajouter à chacune le repo `marechaladvisory/second-brain-os` et, pour brain-daily, le connecteur Google Drive (Granola plus tard). Sans connecteur, la veille ne fait rien et le dit dans son rapport.
-- Pour Granola : ajouter une section §3 « Granola » à brain-watch (search_meetings updated_after=<curseur>, get_meetings par 10, clé `granola:<id>@<updated>`), des clés Watch dans config, un cas d'eval, puis la passe initiale (tout l'historique) décrite plus bas.
+## Veille : état au 2026-11-19 (lire en premier)
+**Fonctionnement retenu**
+- `brain-daily` fait tout en une session par jour : `watch_interval_hours: 12` dans `brain/context/config.md` → la dernière veille a toujours plus de 18 h le matin → il lance la veille Drive (brain-watch §2), puis intègre la file. Choix de Guillaume le 2026-11-18 pour économiser le quota (le Drive bouge peu : 17 fichiers modifiés un jour chargé).
+- La tâche « brain-watch Drive (toutes les 4 h) » `trig_018odBvVmysP8AHxGgdsjprm` est **désactivée** (pas supprimée). La réactiver seulement si Guillaume veut des notes plus fraîches dans la journée.
+- Points de reprise : `brain/notes/sync-state.md`, écrits uniquement par `queue.py cursor set` (ne recule jamais). Curseur Drive : 2026-11-18T22:33Z. `brain.py lint` avertit (`watch`) si aucune veille depuis 24 h.
+
+**Tâches planifiées actives** (nouvelle session à chaque déclenchement, environnement env_01HSMxTzPkKCJzHC9NJtexK7)
+- `brain-daily` `trig_018EsRWDjMpJCsaZovDs9xYx`, 07:18 Europe/Paris, notification push.
+- `brain-lint` `trig_01RgxFgnPQEhNvr9aekLw8Kg`, vendredi 15:49 Europe/Paris, notification push. (Heures décalées de quelques minutes de 07:30/16:00 : les déclenchements pile à l'heure sont souvent retardés.)
+- Connecteur Google Drive et repo `marechaladvisory/second-brain-os` ajoutés **par Guillaume dans l'interface des routines le 2026-11-19** (l'outil create_trigger ne peut pas les attacher pour cette organisation ; get_trigger montre le connecteur mais pas les sources).
+
+**Incident du 2026-11-19** : le brain-daily de 07:18 a tourné avant l'ajout du repo. Intégration faite, mais push refusé (403, repo hors sources) → travail perdu avec le conteneur. Rien de cassé : les 9 entrées Drive restent `new` sur `main`.
+
+**À vérifier à la prochaine session**
+1. Le brain-daily du 2026-11-20 a-t-il poussé ? `git fetch origin main && git log origin/main -3` doit montrer « brain: daily 2026-11-20 », et `python3 brain/queue.py list --status new` doit être vide. Sinon : `list_events` de la session du run (via `get_trigger` → `last_run.session_id`, kinds ["result"]) pour lire le rapport.
+2. Le brain-lint du vendredi 2026-11-20 15:49 a-t-il poussé (« brain: lint … ») ?
+3. Si une tâche s'arrête sur une demande de permission : seule `Bash(git push:*)` est dans `.claude/settings.json` (une liste plus large a été refusée par le contrôle de sécurité) ; voir avec Guillaume.
+4. Conflits signalés par la veille, que brain-daily doit trancher ou remonter : pavillon EIC 40 k€ vs 50 k€ ; PEF « seul deal = Nigeria » vs HK/Égypte 2026 ; Cotonou 69 j vs 60 j ; onglet Automobile du tableur AP27 (« chinois & coréen ») vs décision du 2026-07-27.
+
+**Fichiers clés**
+- Skills : source `skill-lab/build/skills/` → copie dans `brain/.claude/skills/` par `./skill-lab/build/install.sh --target brain/.claude/skills --force` (puis supprimer `brain/.claude/skills-backup-*`). Toujours modifier la source, évaluer, puis recopier.
+- Evals : `skill-lab/evals/cases.md` (cas 7-9 = veille), `skill-lab/evals/fixtures/drive/` (Drive simulé), résultats `skill-lab/evals/results/2026-11-18.md` ; décisions dans `skill-lab/log.md`.
+- `.claude/settings.json` (racine) : règle git push + hook de protection de `brain/` (raw/, archive/ toujours ; context/ pendant les runs automatiques).
+- Périmètre : seul le drive partagé « Maréchal Advisory Team » est surveillé (pas « Mon Drive », lu au setup). Exclus : dossier « Wifi & Mdp », titres « CV ».
+
+**Prochaine grosse étape : Granola** (bloqué tant que `mcp__Granola__get_account_info` répond « no account »)
+- Ajouter une section « Granola » à brain-watch (search_meetings updated_after=<curseur>, get_meetings par 10, transcription seulement si un détail manque, clé `granola:<id>@<updated>`), des clés Watch dans config (`connectors` contient déjà granola), un cas d'eval simulé, puis appliquer.
+- Puis la passe initiale sur tout l'historique (méthode ci-dessous), puis ajouter le connecteur Granola à la tâche brain-daily dans l'interface des routines (à faire par Guillaume).
 
 ## PRIORITÉ d'origine (demande de Guillaume, 2026-11-18) : veille Granola + Drive
 Granola et Google Drive sont les **deux entrées principales** du brain. Il faut une veille qui prenne en compte chaque nouvelle entrée ou modification.
