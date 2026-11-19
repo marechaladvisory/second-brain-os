@@ -3,6 +3,9 @@
 Branche de travail : **`main`** (créée le 2026-11-18 à la demande de Guillaume ; `claude/clever-euler-y95o7a` est l'ancienne). Tout est commité et poussé.
 Brain : `brain/` (racine du repo). Skills utilisés : `skill-lab/build/skills/` (brain-setup + `_shared/contracts.md`).
 Artefacts du setup : `brain-setup/` (ce dossier).
+`skill-lab/HANDOFF.md` (2026-11-10, autre repo, essai de Florian) est un historique du lab, pas une consigne pour ce brain.
+
+**Ordre de travail : voir « Prochaines étapes » en bas** (liste revue le 2026-11-19).
 
 ## Ce qui a été demandé
 « Explorer le repo, lancer le setup du second brain sans brain dump, à partir d'une exploration profonde du Google Drive, étape par étape avec des subagents. »
@@ -24,7 +27,7 @@ En cours de route, il a demandé de lancer les subagents plus séquentiellement 
 | 5. Écriture (8 writers W1-W7) | fait : 5 context, 20 projets, 76 clients, 60 people, 4 wiki |
 | 6. decisions.md (55), notes/ideas.md, hot.md, AGENTS.md (34 lignes), config.md | fait par le coordinateur à partir de `brain-setup/writer-reports/` |
 | 7. index + lint | fait : health 99/100, seul avertissement : review dépassée de `clients/ville-de-la-haye.md` (signal réel) |
-| 8. Passe Granola | **BLOQUÉE** : le connecteur répond « user has not created a Granola account yet » (revérifié le 2026-11-18 en fin de session) |
+| 8. Passe Granola | **BLOQUÉE** : le connecteur répond « user has not created a Granola account yet » (revérifié le 2026-11-19 à 12:19 UTC) |
 | 9. Veille Drive | **faite le 2026-11-18** : skill brain-watch (evals 4/4, essai à blanc puis premier passage réel : 9 entrées en file). Planification : brain-daily fait la veille chaque matin (voir « Veille : état ») |
 | 10. Veille Granola | **à faire** quand le compte Granola existe |
 
@@ -56,6 +59,8 @@ Contrôles faits : aucun email, téléphone, mot de passe, numéro de passeport 
 - Connecteur Google Drive et repo `marechaladvisory/second-brain-os` ajoutés **par Guillaume dans l'interface des routines le 2026-11-19** (l'outil create_trigger ne peut pas les attacher pour cette organisation ; get_trigger montre le connecteur mais pas les sources).
 
 **Incident du 2026-11-19** : le brain-daily de 07:18 a tourné avant l'ajout du repo. Intégration faite, mais push refusé (403, repo hors sources) → travail perdu avec le conteneur. Rien de cassé : les 9 entrées Drive restent `new` sur `main`.
+
+**Contrôle du 2026-11-19 à 12:19 UTC** : brain-daily et brain-lint actifs (prochains passages 2026-11-20 06:18Z et 14:49Z), connecteur Google Drive présent sur les deux, veille 4 h désactivée ; 9 entrées `new` en file. On laisse le brain-daily de demain les intégrer (pas d'intégration manuelle).
 
 **À vérifier à la prochaine session**
 1. Le brain-daily du 2026-11-20 a-t-il poussé ? `git fetch origin main && git log origin/main -3` doit montrer « brain: daily 2026-11-20 », et `python3 brain/queue.py list --status new` doit être vide. Sinon : `list_events` de la session du run (via `get_trigger` → `last_run.session_id`, kinds ["result"]) pour lire le rapport.
@@ -102,19 +107,22 @@ Granola et Google Drive sont les **deux entrées principales** du brain. Il faut
    - Le brain est dans le repo, donc la tâche doit pouvoir committer et pousser. Une règle `Bash(git push:*)` dans `.claude/settings.json` commité est nécessaire : `.claude/settings.local.json` n'existe que dans un conteneur.
 6. **Rattrapage initial** : au premier lancement, horodatage Drive = 2026-11-18 (date du setup). Pour Granola, tout l'historique (passe initiale décrite ci-dessous).
 
-## Prochaines étapes
-1. **Passe Granola initiale**, une fois le compte relié (voir PRIORITÉ ci-dessus).
-   - Lister toutes les réunions.
-   - Un agent extrait par période, au format extract-brief, centré sur les mises à jour des entités du registre, en datant chaque fait.
-   - Un seul writer intègre ensuite dans les notes existantes. Il cherche d'abord avec `brain.py search`, étend la note existante, et remplace l'ancienne version d'un fait plutôt que de la garder en double. Il met à jour hot.md, decisions.md et log.md.
-   - Puis index et lint.
-2. **Session de questions (grill mode de brain-setup)** avec Guillaume, une question à la fois, sur les questions ouvertes ci-dessous. Chaque réponse est mise à jour dans la note concernée, avec la source « (Guillaume, 2026-11-xx) ».
-3. **Installation et routines** sur sa machine :
-   - `skill-lab/build/install.sh` ;
-   - ouvrir `brain/` dans Claude Code ;
-   - programmer brain-daily (07:30) et brain-lint (vendredi 16:00) comme indiqué dans `skill-lab/build/INSTALL.md` ;
-   - puis le test de contexte : « What does my business do and who works there? ».
-4. **brain-evals** : écrire 5 cas réels dans `brain/evals.md` après la première semaine d'usage.
+## Prochaines étapes (revues le 2026-11-19, dans l'ordre)
+1. **Vérifier les tâches planifiées du 2026-11-20** : voir « À vérifier à la prochaine session » ci-dessus (daily poussé, file vide, lint poussé, pas de blocage sur une permission).
+2. **Trancher les 4 conflits de la veille** (EIC, PEF, Cotonou, onglet Automobile AP27) : à partir du rapport du brain-daily ; ce qui demande Guillaume passe par l'étape 7.
+3. **Débloquer Granola** (action de Guillaume) : compte sur https://granola.ai/mcp-signup, puis reconnecter le connecteur dans claude.ai (Settings → Connectors) avec la même adresse que l'app. Vérifier avec `get_account_info`.
+4. **Construire la veille Granola dans `skill-lab/`**, faisable avant le déblocage avec un Granola simulé : section Granola de brain-watch, clés Watch dans config, cas d'eval simulé, evals, puis recopie dans `brain/.claude/skills/` (détail dans « Veille : état », dernier bloc).
+5. **Passe Granola initiale**, une fois le compte relié :
+   - lister toutes les réunions ;
+   - un agent extrait par période, au format extract-brief, centré sur les mises à jour des entités du registre, en datant chaque fait (2 agents au maximum) ;
+   - un seul writer intègre ensuite dans les notes existantes : il cherche d'abord avec `brain.py search`, étend la note existante et remplace l'ancienne version d'un fait plutôt que de la garder en double ; il met à jour hot.md, decisions.md et log.md ;
+   - puis index et lint, et avancer le curseur Granola.
+6. **Ajouter le connecteur Granola à la tâche brain-daily** dans l'interface des routines (action de Guillaume).
+7. **Session de questions (grill mode de brain-setup)** avec Guillaume, une question à la fois, sur les questions ouvertes ci-dessous et les conflits de l'étape 2. Chaque réponse est mise à jour dans la note concernée, avec la source « (Guillaume, 2026-11-xx) ».
+8. **Nettoyage du Drive** (action de Guillaume) : voir « À signaler à Guillaume ».
+9. **brain-evals** : écrire 5 cas réels dans `brain/evals.md` après la première semaine d'usage, puis lancer brain-evals.
+
+Abandonné : l'installation sur la machine de Guillaume (`install.sh`, routines locales). Les routines cloud la remplacent ; le test de contexte « What does my business do and who works there? » peut se faire dans une session cloud.
 
 ## Questions ouvertes (aussi dans hot.md et dans les notes)
 - Honoraires réellement facturés :
