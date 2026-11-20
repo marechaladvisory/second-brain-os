@@ -8,7 +8,7 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 ---
 # Capture queue
 
-## q-20261118-230801 | new
+## q-20261118-230801 | integrated
 - date: 2026-11-18
 - source: drive
 - session: drive:1b6I6SHFjOnoY0m22USLLDxGNRrs_fxYTUUZDDpOIC58@2026-11-18T10:16:59.506Z
@@ -18,9 +18,9 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - decisions: Rencontre physique Renault le 2026-12-10 à 17h30 portée par Audrey et Léonie, GM en copie | why: GM indisponible ce jour-là et Renault ferme ses budgets 2027 fin d'année
 - open_loops: Léonie : mail récap à Renault (pistes, deck, flotte, dates) et à Audrey (montants) ; call de suivi Renault 2026-11-26 ou 27 ; second rendez-vous Renault avec Guillaume Piens en décembre ; préciser vite volume et types de flotte (GR parle d'environ 40 véhicules, Art Paris juge 40 trop élevé et 10 idéal) ; préparer la proposition UGGC (~30 k€ Promesses + petit-déjeuner) ; point Diptyque le 2026-11-24 (Audrey) ; le rendez-vous Renault du 10/12 tombe juste avant le départ de Léonie mi-décembre
 - verbatim: 
-- result: 
+- result: projects/art-paris-2027/about.md, clients/renault.md, decisions.md
 
-## q-20261118-230837 | new
+## q-20261118-230837 | integrated
 - date: 2026-11-18
 - source: drive
 - session: drive:1rkj_SJMiMrrEJgdjq7bmtzKbe5AX9wL6oSqxkk5SfLs@2026-11-18T11:17:57.118Z
@@ -30,9 +30,9 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - decisions: 
 - open_loops: Arbitrages en attente de Ludovic au 18/11 : De Pardieu, APF France Handicap, ICS Bégué (IONIS Education Group) ; modifier le formulaire pour le Studio (disponible à partir de juin 2027) ; pistes du CR du 11/11 : Richemont Copilot, nouvelle plaquette et mailing plus large pour l'exposition Pessoa Suga
 - verbatim: 
-- result: 
+- result: projects/fondation-cartier-privatisations/about.md
 
-## q-20261118-230909 | new
+## q-20261118-230909 | integrated
 - date: 2026-11-18
 - source: drive
 - session: drive:1qJjdNbYXckCABX49hfUsHjPpeYlofypOM05D36B1dSY@2026-11-18T11:37:31.328Z
@@ -42,9 +42,9 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - decisions: 
 - open_loops: CONFLICT eic: Level 1 EIC Energy House 40 k€ (concept note 2026-10-28) vs pavillon 50 k€ tout compris (prépa RDV Ouaki, 2026-11-18) ; CONFLICT changenow-cn27: Ukraine « proposition envoyée 21/09, issue inconnue » vs Ukraine House confirmée (2026-11-18) ; Nouvelle-Calédonie : quelle stratégie commune avec La French Tech et la Nouvelle-Zélande ? ; partager les bullet points CMA CGM avec Ian ; mémo EIC Accelerate House
 - verbatim: 
-- result: 
+- result: projects/changenow-cn27/about.md, clients/eic.md
 
-## q-20261118-230946 | new
+## q-20261118-230946 | integrated
 - date: 2026-11-18
 - source: drive
 - session: drive:1tYM_qIAYSpS_o-M3zi3iTXbZU2dfwFvcfcJHigFsN2w@2026-11-18T13:52:55.424Z
@@ -54,9 +54,9 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - decisions: 
 - open_loops: CONFLICT paris-economic-forum-2026 et paris-economic-forum: « seul deal = Nigeria via Bridge and Value » vs KPI du 18/11 « participations 2026 : Hong Kong, Égypte ; Nigeria = lead 2027 » (le deal Nigeria à 8 000 € HT est-il perdu ou reporté ?) ; Nigeria : tester avec Abi l'idée d'une prise de parole de l'ambassadeur avant l'envoi de l'ODJ (pas d'accréditation côté Abi pour l'ambassadeur ; proposer de venir la veille) ; envoyer bio et photo des intervenants de « The Other Growth » ; vérifier si les ambassadeurs speakers sont invités au format Élysée
 - verbatim: 
-- result: 
+- result: projects/paris-economic-forum-2026/about.md
 
-## q-20261118-231006 | new
+## q-20261118-231006 | integrated
 - date: 2026-11-18
 - source: drive
 - session: drive:130oMA3Gkg5y0vQr_4BfCWBywUbMjPYQVUlx-GUYMVn8@2026-11-18T15:08:14.158Z
@@ -66,9 +66,9 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - decisions: 
 - open_loops: ODJ du point avec Audrey : prospection Art Paris (Zimmermann, AFBA, Aston Martin), disponibilités de Guillaume Piens pour un rendez-vous physique Renault en décembre, discussions Apple et Isabel Marant, activation du compte Australie
 - verbatim: 
-- result: 
+- result: projects/art-paris-2027/about.md
 
-## q-20261118-231007 | new
+## q-20261118-231007 | integrated
 - date: 2026-11-18
 - source: drive
 - session: drive:130oMA3Gkg5y0vQr_4BfCWBywUbMjPYQVUlx-GUYMVn8@2026-11-18T15:08:14.158Z
@@ -78,9 +78,9 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - decisions: 
 - open_loops: Volume de la flotte Renault : une vingtaine de véhicules (brouillon de mail) vs environ 40 (GR, réunion du 17/11) vs 10 idéal (Art Paris, 18/11) : à trancher avant l'envoi
 - verbatim: 
-- result: 
+- result: projects/art-paris-2027/about.md (questions ouvertes)
 
-## q-20261118-231026 | new
+## q-20261118-231026 | integrated
 - date: 2026-11-18
 - source: drive
 - session: drive:1QqIBlc8TAPfJtV6KDi1QjXTHyafW4vayjbu1OCaeeT0@2026-11-18T16:27:11.171Z
@@ -90,9 +90,9 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - decisions: 
 - open_loops: Rôle d'Assia non précisé (Station F ? remplaçante ou renfort d'Abigaïl Bouaziz ?) ; créneau MA x Station F : 18h-18h30 dans la note vs 18h30-19h dans le mail d'onboarding
 - verbatim: 
-- result: 
+- result: projects/global-ocean-accelerator/about.md
 
-## q-20261118-231045 | new
+## q-20261118-231045 | integrated
 - date: 2026-11-18
 - source: drive
 - session: drive:1F3pD-womSA_oLW5mypxQ-1DhsNmkwYWa@2026-11-18T22:33:01.720Z
@@ -102,9 +102,9 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - decisions: 
 - open_loops: CONFLICT choiseul-cotonou-2027 et virginie-augagneur: cheffe de projet 69 j (note de cadrage du 13/11, forfait 76 150 € HT) vs « 60 jours vendus » (rétroplanning du 18/11) ; les notes de réunion parlaient d'environ 70 jours : tout dépassement passe par l'avenant au-delà de +15 % ; engager Cassandre (protocole présidentiel) avant la fermeture du 18/12 ; Tiana et le ou la stagiaire doivent prendre Airtable, dédoublonnage et lettres de visa dès janvier
 - verbatim: 
-- result: 
+- result: projects/choiseul-cotonou-2027/about.md
 
-## q-20261118-231046 | new
+## q-20261118-231046 | integrated
 - date: 2026-11-18
 - source: drive
 - session: drive:1F3pD-womSA_oLW5mypxQ-1DhsNmkwYWa@2026-11-18T22:33:01.720Z
@@ -114,4 +114,28 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - decisions: 
 - open_loops: Choisir entre l'option 60 JH et l'option 45 JH avec Choiseul ; si option 45, inscrire par écrit les transferts de périmètre (postes n°67 collecte des supports et n°97 plans de table)
 - verbatim: 
-- result: 
+- result: projects/choiseul-cotonou-2027/about.md (calendrier, propositions)
+
+## q-20261120-062005 | integrated
+- date: 2026-11-20
+- source: drive
+- session: drive:18nVSKWP4mcS1zctq_igD5tS67F8es0rV2h1mDEGcqrM@2026-11-19T16:17:12.813Z
+- certainty: fact
+- entities: changenow-cn27; bridge-and-value; abiodun-odunuga; smart-africa; ambassade-egypte; stephane-ouaki
+- facts: Nigeria CN27 : visio de 30 min le 4/11/2026 à 15h30 avec Abiodun, l'équipe ChangeNOW et Maxime Bieliaeff (directeur Business France Nigeria), suite à Spotlight Nigeria (Drive: CN27 - Mails personnalisés, 2026-11-19); Smart Africa CN27 : mécanique proposée = appel à candidatures Smart Africa x ChangeNOW, 5 startups en World Expo, session de pitch, bilatérales Afrique-Europe, ordre de 20 k€ (Drive: CN27 - Mails personnalisés, 2026-11-19); Créneaux proposés pour Santiago Lefebvre : Stéphane Ouaki (EIC) à Bruxelles les 6/11, 19/11 ou 20/11 ; ambassadeur d'Égypte Tarek Dahroug les 6/11 ou 18/11 (Drive: CN27 - Mails personnalisés, 2026-11-19)
+- decisions: 
+- open_loops: Vérifier si les RDV Santiago x Ouaki (EIC) et Santiago x Dahroug (Égypte) ont eu lieu en novembre
+- verbatim: 
+- result: projects/changenow-cn27/about.md, clients/eic.md
+
+## q-20261120-062022 | integrated
+- date: 2026-11-20
+- source: drive
+- session: drive:1-pN6mQQEri_vDtA7dbR1-tZdUz8T1TV3bVLi5Uca2QE@2026-11-19T16:59:19.978Z
+- certainty: hypothesis
+- entities: edl-generation-2030; fonds-ecole-du-louvre; claire-barbillon; sandrine-arrecgros; camille-desprez
+- facts: Script du deck pour le COMEX FEDL de novembre 2026 (brouillon) : édito bilan « non polémique, valorisant » de l'action MA ; deux missions complémentaires (structuration du fonds ; ouverture et accélération USA avec Sue) ; montée en puissance du community engagement ; campagne de lettres ciblées : vivier de 20 prospects très qualifiés et base de 400 ; axes de recommandation pour les années à venir ; remerciements à Claire Barbillon, Sandrine, Sandie et Camille (Drive: FEDL - COMEX Nov - Script pour deck, 2026-11-19)
+- decisions: 
+- open_loops: Finaliser le deck du COMEX FEDL de novembre (date du COMEX non précisée dans le script) ; il prépare le livre blanc et la reconduction 2027
+- verbatim: 
+- result: projects/edl-generation-2030/about.md (prochaines étapes)

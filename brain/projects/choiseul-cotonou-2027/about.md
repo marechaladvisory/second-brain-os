@@ -3,8 +3,8 @@ title: Sommet Choiseul x Ecobank Cotonou 2027
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-13
-review_by: 2026-12-13
+updated: 2026-11-18
+review_by: 2026-12-18
 importance: 5
 supersedes: ""
 superseded_by: ""
@@ -48,6 +48,12 @@ Quatre chiffrages successifs, du plus ancien au plus récent ; le prix final env
 - 2026-10-05 : cahier des charges Choiseul (rétroplanning oct. 2026 → avr. 2027).
 - 2026-11-02 : mail et premier chiffrage. 2026-11-12 : réunion de cadrage. 2026-11-13 : note de cadrage à 76 150 € HT.
 - Réalité : ~5 mois restants, pas 8. RFP agence locale immédiat, rencontres sur place début décembre 2026 ; tableau « qui décide quoi » + mandat écrit à signer dans les 15 premiers jours ; créneau récurrent proposé le jeudi 9h-11h.
+- Rétroplanning du 18/11/2026 (Sofitel Cotonou) : 94 jours ouvrés entre le 23/11/2026 et J2, dont 8 perdus à la fermeture de fin d'année ; « Les 60 jours vendus pour la cheffe de projet tiennent, avec 6,5 jours de réserve » (Drive: Retroplanning Cotonou.docx, 2026-11-18).
+- Chemin critique : agence locale retenue le 17/12/2026, contrat agence le 08/01/2027, plan d'implantation v1 le 22/01 ; un glissement après la fermeture (21/12-01/01) décale tout de 3 semaines (même source).
+- Plateforme d'inscription en ligne le 15/01/2027 : Florian (CTO pressenti) est à plein temps chez Schneider / ChangeNOW jusqu'à fin avril 2027, go/no-go le 11/12 avec repli HubSpot (déjà utilisé par Choiseul) (même source).
+- Contraintes locales : 9-10/01 fériés au Bénin (Vodun Days), Ramadan ~8/02-9/03 et Aïd ~9-10/03, lundi de Pâques 29/03 férié ; J1 un lundi, donc filages le week-end des 3-4/04 (vérifier la disponibilité du Dôme dès le 1/04 et les majorations) (même source).
+- Planning proposé (option 60 JH, proposition) : kick-off Choiseul x MA le jeudi 26/11/2026 (COPIL hebdo le jeudi 9h-11h), RFP à 2-3 agences béninoises le 27/11, contrat Sofitel le 4/12, mission Cotonou n°1 du 7 au 10/12, agence retenue et mandat « qui décide quoi » signé le 17/12, save-the-date le 05/01/2027, mission n°2 du 1er au 4/03, débrief le 23/04 (même source).
+- Variante option B (proposition) : 42-45 JH à partir du 1/12, appel d'offres avant le kick-off (3/12), une seule mission de reconnaissance (14-16/12), renforts Tiana et stagiaire indispensables ; à présenter comme un périmètre réduit (36 % de jours en moins), pas comme le même service moins cher (même source).
 - **5-6 avril 2027 : sommet.** Avril-mai 2027 : clôture.
 
 ## Décisions
@@ -57,6 +63,8 @@ Quatre chiffrages successifs, du plus ancien au plus récent ; le prix final env
 - Exigence MA : droit de validation sur devis, BAT et bons à payer de l'agence locale, et participation à sa sélection (pas seulement consultative). Pourquoi : l'agence porte ~48 postes.
 
 ## Prochaines étapes
+- Choisir avec Choiseul entre l'option 60 JH et l'option 45 JH ; si option 45, inscrire par écrit les transferts de périmètre (postes n°67 collecte des supports et n°97 plans de table) (Drive: Retroplanning Cotonou.docx, 2026-11-18).
+- Engager Cassandre (protocole présidentiel) avant la fermeture du 18/12 ; Tiana et le ou la stagiaire prennent Airtable, dédoublonnage et lettres de visa dès janvier (même source).
 - Envoyer les retours sur le CDC à Léa — GM.
 - Lancer le RFP agence locale béninoise (2-3 agences, brief précis), rencontres début décembre avec Virginie — Léa, en concertation avec MA.
 - Revalider avec Ecobank les partenaires additionnels / co-financement — Léa.
@@ -65,6 +73,7 @@ Quatre chiffrages successifs, du plus ancien au plus récent ; le prix final env
 - Points à trancher : qui avance les achats (trésorerie, marge, responsabilité), pilotage du budget maître, assurances au Bénin (RC organisateur, annulation, matériel), risque de salle vide, bénévoles via une école locale (modèle ChangeNOW), cellule de crise / plan sanitaire.
 
 ## Questions ouvertes
+- Jours de la cheffe de projet : 69 j dans la note de cadrage du 13/11 (forfait 76 150 € HT) vs « 60 jours vendus » dans le rétroplanning du 18/11 (les notes de réunion parlaient d'environ 70 j) ; le forfait a-t-il été revu à 60 JH ? Tout dépassement passe par l'avenant au-delà de +15 %.
 - Quel prix final a été envoyé à Choiseul : 76 150 € HT (13/11), 88 250 € HT (02/11) ou un montant dans la fourchette 70-80 k€ (12/11) ? Le contrat est-il signé ?
 - La remise est-elle comptée deux fois dans la note du 13/11 ?
 - Statut de Virginie Augagneur vis-à-vis de MA (freelance, associée, salariée ?) : elle porte 69 des 79 jours.

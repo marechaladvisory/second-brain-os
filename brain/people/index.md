@@ -1,4 +1,4 @@
-# people/ index (generated 2026-11-18, 60 notes)
+# people/ index (generated 2026-11-20, 60 notes)
 
 ## active
 - [[ileana-santos]] (updated 2026-11-14, imp 2): Cofondatrice-présidente de Je m'engage pour l'Afrique (JMA), association dont GM est membre du board ; GM est dans la core team de la soirée des 5 ans (1er février 2027, à confirmer).

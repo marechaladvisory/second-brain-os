@@ -1,4 +1,4 @@
-# notes/ index (generated 2026-11-18, 2 notes)
+# notes/ index (generated 2026-11-20, 2 notes)
 
 ## active
 - [[ideas]] (updated 2026-11-18, imp ?): Idées et pistes non engagées repérées dans le Drive au setup (2026-11-18), groupées par thème ; à trier en revue.

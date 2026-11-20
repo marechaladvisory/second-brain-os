@@ -3,8 +3,8 @@ title: EDL Génération 2030
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-12
-review_by: 2026-12-12
+updated: 2026-11-19
+review_by: 2026-12-19
 importance: 5
 supersedes: ""
 superseded_by: ""
@@ -102,6 +102,7 @@ Mécènes existants cités dans l'argumentaire : [[francis-bacon-mb-art-foundati
 
 ## Prochaines étapes
 - Rédiger et remettre le livre blanc / bilan 2 ans (GM, nov.-déc. 2026).
+- Finaliser le deck du COMEX FEDL de novembre 2026 (brouillon de script du 19/11, date du COMEX non précisée) : édito bilan « non polémique, valorisant » de l'action MA ; deux missions complémentaires (structuration du fonds ; ouverture et accélération USA) ; montée en puissance du community engagement ; campagne de lettres ciblées = vivier de 20 prospects très qualifiés et base de 400 ; axes de recommandation pour les années à venir ; remerciements à Claire Barbillon, Sandrine, Sandie et Camille (Drive: FEDL - COMEX Nov - Script pour deck, 2026-11-19).
 - Négocier la reconduction du retainer 2027 (GM, décembre 2026).
 - Nouvelle grille de contreparties (pack 60 k€ Maison des élèves) ; note d'orientations mécénat 2027 avec Camille et Sue ; programme de cultivation 2027 (Drive: FEDL - Bilan Septembre 2026).
 - Suivi HFF et Dentressangle ; transmettre les dossiers de Léonie avant son départ.

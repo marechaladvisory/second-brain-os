@@ -3,8 +3,8 @@ title: Fondation Cartier Privatisations
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-16
-review_by: 2026-12-16
+updated: 2026-11-18
+review_by: 2026-12-18
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -15,7 +15,7 @@ summary: Depuis le 25/03/2026, MA gère le premier niveau des demandes de privat
 # Fondation Cartier Privatisations
 
 ## Statut
-Actif au 2026-11-11 (dernier ODJ) : vitesse de croisière depuis juin, 14 demandes traitées dans la semaine du 11/11 ; Airtable et dashboard « en attente » (Drive: FC - ODJ et compte rendu, 2026-11-10).
+Actif au 2026-11-18 (dernier ODJ, Ludovic et Armand) : 11 demandes traitées dans la semaine, 1 refusée, 10 ajoutées au fichier ; plaquettes mises à jour bien reçues par MA (Drive: FC - ODJ et compte rendu, 2026-11-18). Semaine du 11/11 : 14 demandes traitées ; plusieurs demandes de privatisation du Studio refusées à cause des travaux (Drive: FC - ODJ et compte rendu, 2026-11-11). Airtable et dashboard « en attente » (Drive: FC - ODJ et compte rendu, 2026-11-10).
 
 ## Objectif
 - Client : [[fondation-cartier]] (groupe Richemont), 2 place du Palais-Royal depuis octobre 2025.
@@ -61,7 +61,9 @@ Actif au 2026-11-11 (dernier ODJ) : vitesse de croisière depuis juin, 14 demand
 ## Prochaines étapes
 - Nouveau format de reporting (« montrer le nombre de privat + CA »), slides « à compléter par Ludovic ».
 - Campagne de marketing direct (CP semi-personnalisé) ; migration Airtable et dashboard.
-- Arbitrages en attente : BYLG (NDA), Groupe Beaumonde, Fashion Week, Abondance Experience, Kitty Events, AMOMENTO.
+- Arbitrages en attente de Ludovic au 18/11 : De Pardieu, APF France Handicap, ICS Bégué (IONIS Education Group) (Drive: FC - ODJ et compte rendu, 2026-11-18). Liste antérieure : BYLG (NDA), Groupe Beaumonde, Fashion Week, Abondance Experience, Kitty Events, AMOMENTO.
+- Modifier le formulaire pour le Studio (disponible à partir de juin 2027) (Drive: FC - ODJ et compte rendu, 2026-11-18).
+- Pistes du CR du 11/11 : Richemont Copilot, nouvelle plaquette et mailing plus large pour l'exposition Pessoa Suga (Drive: FC - ODJ et compte rendu, 2026-11-11).
 - Nouvelle plaquette du Studio (en travaux pendant l'exposition Pessoa Suga).
 - Extension de mission : piste [[choiseul]] Africa (« pas possible parce que pile une date », 02/11) ; synergie « invitation Art Paris » avec [[art-paris-2027]] ; plusieurs demandeurs (Carmignac, Latham & Watkins) sont aussi prospects AP27 (Drive: FC - ODJ et compte rendu ; FC - May Stats).
 

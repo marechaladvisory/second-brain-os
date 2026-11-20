@@ -3,12 +3,15 @@ title: Decisions
 type: decision
 status: active
 created: 2026-11-17
-updated: 2026-11-18
+updated: 2026-11-20
 summary: Décisions datées de Maréchal Advisory avec leur raison, les plus récentes d'abord (reprises du Drive au setup du 2026-11-18).
 ---
 # Decisions
 Format: `## YYYY-MM-DD <décision>` puis `Why:` et `Replaces:` si besoin. Source Drive en fin de ligne.
 Décisions antérieures au 2026-11-18 : reprises du Drive lors du setup (raw/2026-11-18-drive-setup/).
+
+## 2026-11-18 Art Paris : rencontre physique Renault le 10/12/2026 à 17h30, portée par Audrey Keita et Léonie, GM en copie
+Why: GM indisponible ce jour-là et Renault boucle ses budgets 2027 fin 2026 (fenêtre courte). [[art-paris-2027]] [[renault]] (Drive: Art Paris 2027 - Suivi, 2026-11-18)
 
 ## 2026-11-13 Cotonou : proposer 76 150 € HT au forfait, en marque blanche, TJM de GM à 1 750 € au lieu de 2 500 € (−30 % partenaire)
 Why: rester dans l'enveloppe Choiseul de 70-80 k€ et entrer chez Choiseul. Proposition non signée au 2026-11-13. [[choiseul-cotonou-2027]] (Drive: Interne - Note de cadrage Bénin, 2026-11-13)

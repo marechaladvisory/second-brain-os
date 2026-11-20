@@ -3,8 +3,8 @@ title: Paris Economic Forum 2026
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-16
-review_by: 2026-12-16
+updated: 2026-11-18
+review_by: 2026-12-18
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -16,9 +16,10 @@ summary: Mission MA « participation internationale » au PEF des 1-2/12/2026 ; 
 
 ## Statut
 Actif, « last mile » avant le forum (au 2026-11-16) : 1 deal (Nigeria, 8 000 € HT), MoU tripartite daté mais signature non confirmée, invitations d'ambassadeurs envoyées (Drive: PEF - ODJ et compte rendu, 2026-11-16).
+- KPIs de l'ODJ du 18/11/2026 avec Vincent Ducrey : participations internationales 2026 = 2 (Hong Kong, Égypte) ; leads 2027 = Italie, Singapour, Nigeria ; 12 rendez-vous externes depuis le début de la mission (Drive: PEF - ODJ et compte rendu, 2026-11-18). Contradiction avec « seul deal = Nigeria » : voir Questions ouvertes.
 
 ## Objectif
-- Mandat de [[paris-economic-forum]] (HUB Institute SAS, président [[vincent-ducrey]]) : « Faire venir 1 pays à 15k€. Plus faire venir 2 à 3 prospects » (Drive: PEF - Fiche posture, 2026-10-28). Rappel en ODJ : « Rappel mission MA : ramener 1 pays » (Drive: PEF - ODJ et compte rendu, 2026-11-16).
+- Mandat de [[paris-economic-forum]] (HUB Institute SAS, président [[vincent-ducrey]]) : « Faire venir 1 pays à 15k€. Plus faire venir 2 à 3 prospects » (Drive: PEF - Fiche posture, 2026-10-28). Rappel en ODJ du 18/11 : « ramener 1 à 2 participations pays » (au lieu de « ramener 1 pays » le 16/11) (Drive: PEF - ODJ et compte rendu, 2026-11-18).
 - Terminologie fixée le 26/10 : « PARTICIPATION INTERNATIONALE » ; on parle d'« accréditation », jamais de « pass » (Drive: PEF - Fiche posture, 2026-10-28).
 - Objectifs propres à MA : visibilité via l'image du PEF, confirmer l'offre « délégation internationale » (DTW, ChangeNOW, PEF), alliances internationales, invitations à d'autres événements (Italie en juin, Climate Week), « Test de collaboration avec Abi suite au MoU » (même source).
 - Forum : 1-2/12/2026, Automobile Club de France, 300 participants, thème « Time for New Coalitions » (Drive: Copie de (GM) 2026 PEF & Board Dinners, 2026-08-06).
@@ -82,6 +83,11 @@ Actif, « last mile » avant le forum (au 2026-11-16) : 1 deal (Nigeria, 8 000 �
 - 2026-11-04 : MoU tripartite réduit à 1 an (au lieu de 2). Pourquoi : sécuriser le rôle de MA (Drive: Tripartite MoU PDF).
 
 ## Prochaines étapes
+- Égypte (en KAM) : MA attend les 2 devis pour les deux CEOs égyptiens ; prise de parole de l'ambassadeur à confirmer (Drive: PEF - ODJ et compte rendu, 2026-11-18).
+- Hong Kong : 1 participation HKETO sans bilatéral ni interview TV, mail de confirmation en anglais à envoyer (même source).
+- Singapour : sécuriser la prise de parole de l'ambassadeur et 1 participation Enterprise Singapore ; le PEF peut annoncer la présence de l'ambassadeur (même source).
+- « The Other Growth » le 2/12 de 18h00 à 18h30 (KAM : Marion Joubert) : envoyer bio et photo des intervenants ; vérifier si les ambassadeurs speakers sont invités au format Élysée (même source).
+- Nigeria : tester avec Abi l'idée d'une prise de parole de l'ambassadeur avant l'envoi de l'ODJ (pas d'accréditation côté Abi pour l'ambassadeur ; proposer de venir la veille) (même source).
 - Signature du MoU tripartite (« Urgent » au 04/11) — GM.
 - Liste des CEOs nigérians et visas avant le 25/11 — Abi / Armand.
 - Confirmer les prises de parole des ambassadeurs (Égypte, Singapour, Nigeria) et le KAM avec Marion (panel « The Other Growth ») ; panel d'ambassadeurs modéré par BFM/CNN avec Geoffroy Boulard (VP Métropole du Grand Paris).
@@ -90,6 +96,8 @@ Actif, « last mile » avant le forum (au 2026-11-16) : 1 deal (Nigeria, 8 000 �
 - Idées non engagées : workshop à l'ambassade d'Égypte la veille du PEF ; table ronde animée par GM ; « Il faut qu'on choppe un maire de Lagos au PEF ».
 
 ## Questions ouvertes
+- Nigeria : « seul deal » (8 000 € HT via B&V, ODJ du 16/11) vs KPI du 18/11 qui classe le Nigeria en lead 2027 et compte Hong Kong et l'Égypte comme les 2 participations 2026 : le deal Nigeria est-il perdu ou reporté ? (Drive: PEF - ODJ et compte rendu, 2026-11-18).
+- Session « The Other Growth » : 12h50 (lettre du 4/11 à l'ambassadeur d'Égypte) ou 18h00-18h30 (ODJ du 18/11) ?
 - Honoraires MA : montant et forme (fixe, success fee, part des packages) ? Les montants 5/8/15k sont-ils des packages PEF dont MA touche une part, ou des honoraires MA ?
 - Le devis Nigeria de 8 000 € HT (expiré le 31/10) a-t-il été accepté et payé par B&V ? Quelle part revient à MA ?
 - MoU tripartite : signé ou seulement daté ?

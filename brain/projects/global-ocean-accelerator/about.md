@@ -3,8 +3,8 @@ title: Global Ocean Accelerator
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-12
-review_by: 2026-12-12
+updated: 2026-11-18
+review_by: 2026-12-18
 importance: 5
 supersedes: ""
 superseded_by: ""
@@ -16,6 +16,7 @@ summary: Programme d'accélération BlueTech porté par MA à Station F (promo 1
 
 ## Statut
 En construction active : prospection lancée le 12/10/2026, **aucun sponsor signé au 12/11/2026** ; accords de principe visés pour décembre 2026 (Drive: OA - Suivi, 2026-11-12).
+- Au 18/11/2026 : rendez-vous [[cma-cgm]] fixé au 24/11 ; second rendez-vous [[fondation-prince-albert-ii]] débloqué pour début décembre ; [[axa]] : MA cherche un call avec le pôle Nature du Fonds de dotation ; prospection élargie à Michelin et Evian (Drive: OA - Mails/WhatsApp, 2026-11-18).
 
 ## Objectif
 - Créer la verticale océan de [[station-f]] : le « Global Ocean Accelerator ». BlueTech Seed+ à Série A ; 10-12 startups par cohorte ; 6-8 mois ; 1 thématique par an co-définie avec les partenaires (Drive: Global Ocean Accelerator Deck FR.pptx, 2026-11-12).
@@ -42,7 +43,7 @@ En construction active : prospection lancée le 12/10/2026, **aucun sponsor sign
 
 ## Équipe et contacts
 - MA : [[me]] (directeur de projet) ; [[virginie-augagneur]] (responsable de programme, adresse MA) ; [[leonie-vankemmel]] (responsable partenariats, porte les next steps, toolkit, mails à Abigaïl).
-- Station F : [[abigail-bouaziz]] (directrice des programmes business, décisionnaire go/no-go, référente) ; Roxane (DG), qui « ne valide que si le contrat est signé » (Drive: Compte rendu et suivi réunion, 2026-09-22).
+- Station F : nouvelle interlocutrice Assia (rôle non précisé), onboardée le 18/11/2026 avec accès à l'Airtable de suivi et au deck, présente au RDV CMA CGM du 24/11 (Drive: OA - Mails/WhatsApp, 2026-11-18) ; [[abigail-bouaziz]] (directrice des programmes business, décisionnaire go/no-go, référente) ; Roxane (DG), qui « ne valide que si le contrat est signé » (Drive: Compte rendu et suivi réunion, 2026-09-22).
 - INSKIP : [[maxime-guillaud]] (CEO) et Alban Rousselin (chargé de programme, « peu réactif »). Maxime veut attendre la Deep Tech Week (mars 2027).
 - Écosystème : [[changenow]] (océan = 1 des 13 thématiques), [[waves-of-change]] (100 % bénévole, coordonnée par Virginie).
 
@@ -56,7 +57,7 @@ En construction active : prospection lancée le 12/10/2026, **aucun sponsor sign
 
 ## Calendrier
 - 2026-09-22 : cadrage GM-Virginie. 05/10 : 1re réunion à 4. 09/10 : deck finalisé. 12/10 : lancement de la prospection.
-- Rythme : weekly MA x INSKIP le lundi 17h30-18h ; MA x Abigaïl un lundi sur deux 18h-18h30.
+- Rythme : weekly MA x INSKIP le lundi 17h30-18h ; MA x Station F un lundi sur deux, 18h30-19h selon le mail d'onboarding du 18/11 (18h-18h30 auparavant) ; prochaine le lundi 23/11/2026 (Drive: OA - Mails/WhatsApp, 2026-11-18).
 - Décembre 2026 : accords de principe et signature ; proposition de bloquer les jeudis 3 et 10/12 pour des RDV physiques à Station F.
 - 11-22/01/2027 : annonce à la COP1 Océans (ONU, New York). Février-mars 2027 : sourcing. **Avril 2027 : lancement à Station F.**
 - (Drive: OA - Fiche Argumentaire, 2026-11-12 ; OA - Mails/WhatsApp, 2026-11-10)
@@ -79,6 +80,7 @@ En construction active : prospection lancée le 12/10/2026, **aucun sponsor sign
 - Idées non engagées : modèle 2 de co-innovation si un tier 1 met 400K+ ; prix en numéraire au Demo Day ; lettre signée par le DG de Station F. Offre dérivée « ~10 startups à 4K/mois = ~400K/an » (réunion du 02/11) : voir [[offre-open-doors-startups]].
 
 ## Questions ouvertes
+- Rôle d'Assia à Station F : remplaçante ou renfort d'Abigaïl Bouaziz ?
 - Rémunération effective de MA : les 50 k€ du budget kickstart ? marges arrière ? Aucun contrat Station F ↔ MA trouvé.
 - Contrat INSKIP envoyé et signé ?
 - Départ de Léonie mi-décembre 2026 : qui reprend les next steps partenaires en pleine phase de closing ?

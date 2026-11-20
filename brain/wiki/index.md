@@ -1,4 +1,4 @@
-# wiki/ index (generated 2026-11-18, 4 notes)
+# wiki/ index (generated 2026-11-20, 4 notes)
 
 ## active
 - [[process-ma]] (updated 2026-11-15, imp 4): Manuel de fonctionnement de MA au 2026-11-15 : tout passe par la validation de GM, Airtable est le CRM unique (« un enjeu = une mission = une ligne »), aucune V1 ne part sans passage IA, mails courts avec next steps, RDV visio de 20-30 min, CRP par compte, onboarding en 3 semaines, point à 2 mois et recrutement en entretien collectif puis présentiel.

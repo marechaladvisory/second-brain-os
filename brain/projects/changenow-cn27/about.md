@@ -3,19 +3,19 @@ title: ChangeNOW 2027 - Délégations internationales et pavillons (CN27)
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-16
-review_by: 2026-12-16
+updated: 2026-11-19
+review_by: 2026-12-19
 importance: 5
 supersedes: ""
 superseded_by: ""
 sources: []
 aliases: [CN27, ChangeNOW 2027, ChangeNOW 10e édition, 10th Anniversary, Team Instit CN27]
-summary: Mission MA pour ChangeNOW 2027 (26-28/04/2027, Grand Palais) - MA vise 250-300 k€ de CA apporté sur un pipe de 500 k€ ; Taïwan et Afrique du Sud confirmés, Nigeria sous MoU, Égypte (60 k€), EIC (40/100 k€) et Suisse (60 k€) en négociation ; contrat MA CN27 non retrouvé.
+summary: Mission MA pour ChangeNOW 2027 (26-28/04/2027, Grand Palais) - MA vise 250-300 k€ de CA apporté sur un pipe de 500 k€ ; Taïwan, Afrique du Sud et Ukraine (House) confirmés, Nigeria sous MoU, Égypte (60 k€), EIC (50/100 k€) et Suisse (60 k€) en négociation ; contrat MA CN27 non retrouvé.
 ---
 # ChangeNOW 2027 - Délégations internationales et pavillons (CN27)
 
 ## Statut
-Actif au 2026-11-16 : commercialisation en cours, clôture des partenariats visée « mi-décembre » ; lettres envoyées le 3/11/2026 (Drive: CN27 - ODJ et prise de note, 2026-11-16).
+Actif au 2026-11-18 : commercialisation en cours, clôture des partenariats visée « mi-décembre » ; lettres envoyées le 3/11/2026 (Drive: CN27 - ODJ et prise de note, 2026-11-16). Revue du pipe désormais dans Airtable avec commentaires à jour ; semaine du 18/11 : 4 rendez-vous (Japon, Maroc, UM6P, CCI Égypte), 6 prévus la semaine suivante (Drive: CN27 - ODJ et prise de note, 2026-11-18).
 
 ## Objectif
 - Client : [[changenow]] (10e édition, 26-28/04/2027, Grand Palais). Mission confiée à [[business]] depuis CN24 ; édition précédente : [[changenow-cn26]].
@@ -40,21 +40,21 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 | Afrique du Sud, Lesotho, Malawi | Confirmé, annoncé au kick-off 14/10/2026 | Booth 9 m², 6-7 startups du Shift Lab | 20 k (valeur 39 750, -5 000 de speaking 2026 non activé) (2026-09-02) ; juin 7,2 k (7,2 k) | Sélection des startups (Pitch Day mars 2027) ; Wesgro | [[ambassade-france-afrique-du-sud]], [[geoffroy-berson]] |
 | Nigeria | MoU B&V signé 5/10 (SL) et 13/10/2026 (ADO), sans montant | Partenariat + pavillon, sponsoring AccessBank | 20 k proposés (Fiche projet) ; juin 30 k (7 k) | Visite de Santiago à Lagos (avion présidentiel), MoU OCCE et NCCC ; « Frilosité Santi » | [[bridge-and-value]], [[abiodun-odunuga]], [[friends-of-nigeria-europe]] |
 | Égypte | Prospect avancé, RDV 28/10/2026 | Egypt House inaugurée par la ministre Manal Awad Mikhail, workshop COP18 UNCCD, LEX | 60 k « valorisée à 100 000 € » | Trouver l'entité qui finance ; rencontre Santiago x Ambassadeur Dahroug (3, 4 ou 6/11) ; déplacement GM mi/fin décembre | [[ambassade-egypte]], [[bassem-badr]] |
-| EIC | Renouvellement en négociation, concept note 28/10/2026 | L1 EIC Energy House 18 m² ; L2 House + Major Partner Electrification Forum | 40 k ou 100 k ; « EIC 30 k€ » dans le résumé de l'ODJ ; juin 30 k (15 k) | Finaliser la lettre Santiago (brouillon 21/10) ; RDV Ouaki x Santiago ; choix L1/L2 | [[eic]], [[stephane-ouaki]], [[paolo-bondavalli]] |
+| EIC | Renouvellement en négociation, concept note 28/10/2026 ; RDV Ouaki x Santiago en préparation (18/11) | L1 EIC Energy House 18 m² ; L2 House + Major Partner Electrification Forum | 50 k pavillon tout compris ou 100 k Forum (prépa du 18/11 ; concept note du 28/10 : 40 k ou 100 k) ; « EIC 30 k€ » dans le résumé de l'ODJ ; juin 30 k (15 k) | Finaliser la lettre Santiago (brouillon 21/10) ; RDV Ouaki x Santiago ; choix L1/L2 | [[eic]], [[stephane-ouaki]], [[paolo-bondavalli]] |
 | Suisse | Prospect chaud, concept note 28/10/2026 | AI for Impact Switzerland House 18 m² + sponsoring AI & Data Forum (27/04/2027) | 60 k ; juin 15 k | Regrouper Vaud, Innosuisse, Technopark ; contact Yachar Nafissi-Azar (ambassade) | [[presence-suisse]], [[alexandre-edelmann]] |
 | Côte d'Ivoire | Proposition en cours | Partenariat + note stratégique (agence Image 7) | 10 k ; juin 30 k (10 k) | « Revoir prix/contrat avec Image 7 » (jugée « très chronophage ») | [[cote-divoire-ministere-jeunesse]], [[image-7]] |
-| Ukraine | Proposition envoyée 21/09/2026, issue inconnue | Institutional House 12 m², pavillon remisé à 17 k (-8 000) | 20 k (valeur 73 750) ; juin 16 k (16 k) | Relance | [[ukrainian-startup-fund]] |
+| Ukraine | Ukraine House confirmée (ODJ du 18/11/2026) ; proposition du 21/09/2026 | Institutional House 12 m², pavillon remisé à 17 k (-8 000) | 20 k (valeur 73 750) ; juin 16 k (16 k) | Relance | [[ukrainian-startup-fund]] |
 | Pacific Tech (Nouvelle-Calédonie) | Proposition 16/07/2026, issue inconnue | Pavillon 18 m² | 36 k (40 k -4 k « same price as in 2025 and 2026 ») ; juin 30 k (10 k) | Relance | [[pacific-tech]], [[jean-simon-chaudier]] |
 | Région Réunion | Proposition (simulation 26/08/2026) | Pavillon « Digital Réunion » 18 m² | 40 k (valeur 64 000) ; juin 30 k | Lettre de Santiago | [[region-reunion]] |
 | IOM | Proposition 8/10/2026 | Booth 3 m², speaking main stage, workshop | 18 k (valeur 20 950) ; juin 10 k | Relance | [[iom]] |
 | Smart Africa | Proposition en cours | 5 startups | 20-25 k ; juin 30 k | Lien Africa for Change | [[smart-africa]] (Rym Jarou, Lacina Koné) |
-| Italie (ITA) | Prospect, RDV 10/06/2026 (Giacinto Ferrero) | Startups sponsorisées | propositions de 9, 15 ou 32 k ; juin 30 k (9 k) | Point groupé startups Italie/Japon/Grand Est « pour être en position de force » | [[ita]] |
+| Italie (ITA) | Prospect prioritaire : budget à négocier d'ici fin novembre 2026 (ODJ du 18/11) | Startups sponsorisées ; idée de proposer un pavillon | propositions de 9, 15 ou 32 k ; juin 30 k (9 k) | Point groupé startups Italie/Japon/Grand Est « pour être en position de force » | [[ita]] |
 | Turquie | Prospect, deck EYDK (2026-06-10) | Continuité Hub Istanbul (10/09/2026) → COP31 → CN27 | juin 25 k (15 k) | RDV Ayse x GM | [[invest-in-turkiye]] |
 | Belgique (AWEX, FIT, hub.brussels) | Prospect, RDV FIT 20/05 et AWEX 3/06/2026 | Corners Wallonie : « 4.000 euros le corner - 16.000 pour 4 » | juin 15 k (AWEX 5 k) | Dimensions de booth, Startup Flanders ; « On change de technique », café avec Patrice Le Grelle | [[awex]], [[flanders-investment-trade]] |
 | ITC | Compte à risque : « ITC disappointed and looking to scale down » (2026-06-23) | Pitch dédié / YECO | juin 30 k (30 k) | Relation « froide » (Milena Niehaus) | [[itc]] |
-| Maroc (UM6P) | Cible | « Créer FOMO UM6P avec exemples d'écosystèmes égyptiens » | juin 15 k (2,5 k) | - | [[um6p]] |
+| Maroc (UM6P) | RDV la semaine du 18/11/2026 ; speaker potentiel Amal El Fallah Seghrouchni (ancienne ministre du Numérique) | « Créer FOMO UM6P avec exemples d'écosystèmes égyptiens » | juin 15 k (2,5 k) | - | [[um6p]] |
 | Tunisie (CDC) | Prospect, RDV 29/06/2026 (Sahbi Arfaoui) | Délégation, wishlist de 6 startups | juin 15 k | CN Hub Tunis début décembre 2026 | [[cdc-tunisie]] |
-| Deloitte Africa | Idée / prospect, RDV 29/06/2026 (Aymen Mtimet) | « Africa for Change powered by Deloitte » | juin 15 k ; sponsor 100 k (hypothèse) | Lettre à David Dupont-Noel | [[deloitte-africa]] |
+| Deloitte Africa | Prospect, RDV 29/06/2026 (Aymen Mtimet) ; Deloitte veut positionner son Managing Partner, MA veut proposer aussi une LEX haut niveau (18/11) | « Africa for Change powered by Deloitte » | juin 15 k ; sponsor 100 k (hypothèse) | Lettre à David Dupont-Noel | [[deloitte-africa]] |
 | Impact Hub (réseau) | Prospect | Partenariat + soft-landing (piste MA) | 25 à 34 k | - | [[impact-hub-network]] |
 | OIF / Japon (JETRO via SINEORA) | Prospects | - | OIF juin 14 k ; JETRO a refusé en 2026 (année fiscale 1/04-31/03) | Mail pour obtenir une « place pour CN dans le budget JETRO » | [[oif]], [[sineora]] |
 | Autres | Prospects | Régions françaises (MGP 15 k, Grand Est, CVL, MEL, AURA), Suède (RDV ambassadrice 4/09/2026), Allemagne 20 k, Autriche 10 k, Bénin 7 k, Outre-mer 5 k (juin) | - | Offre « bring 5 to CN27 » pour les régions | - |
@@ -113,18 +113,26 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 - 2026-10-28 : calendrier de la campagne de lettres validé (envoi 3/11) et prochain kick-off le 20/01/2027 (Drive: CN - Weekly Team Instit x MA 2810, 2026-10-27).
 
 ## Prochaines étapes
+- EIC : préparer la rencontre Ouaki x Santiago (screening, agenda Europe de CN, 3 slides : aftermovie, prototype de pavillon EIC, prise de parole ; chiffres 50 k€ pavillon tout compris et 100 k€ Forum) ; mémo EIC Accelerate House (Drive: CN27 - ODJ et prise de note, 2026-11-18). Créneaux proposés à Ouaki : 6, 19 ou 20/11 ; à l'ambassadeur d'Égypte : 6 ou 18/11 (Drive: CN27 - Mails personnalisés, 2026-11-19) : vérifier s'ils ont eu lieu.
+- [[cma-cgm]] : intéressé par un partenariat CN dans le cadre de son programme d'électrification pour promouvoir deux événements ; GM garde le lead (contact déjà travaillé sur le [[global-ocean-accelerator]]) ; partager les bullet points avec [[ian-hartmann]] (même source, 2026-11-18).
+- Égypte : deuxième échange positif avec la CCI, piste menée en parallèle de l'ambassade (même source).
+- Bénin réactivé ; Nouvelle-Calédonie : quelle stratégie commune avec La French Tech et la Nouvelle-Zélande ? (même source).
+- Smart Africa : mécanique proposée = appel à candidatures, 5 startups en World Expo, pitch, bilatérales Afrique-Europe, ordre de 20 k€ ([[smart-africa]]) (Drive: CN27 - Mails personnalisés, 2026-11-19).
+- Nigeria : visio du 4/11/2026 avec Abiodun, l'équipe CN et Maxime Bieliaeff (directeur Business France Nigeria) après Spotlight Nigeria (même source).
+- Idée de Ian Hartmann : MA à Smart Cities en 2027 (le gouverneur de Tokyo y était et se déplace) (Drive: CN27 - ODJ et prise de note, 2026-11-18).
 - Égypte : financeur du pavillon, rencontre Santiago x Ambassadeur, déplacement GM (GM, AD).
 - EIC : envoyer la lettre à Stéphane Ouaki (noms des 3 startups « XX » à compléter) et faire choisir L1 ou L2 (GM).
 - Nigeria : 20 k€ et sponsoring AccessBank ; visite Lagos.
 - Suisse : concept note AI for Impact / Geneva AI Summit 2027.
-- Relancer Ukraine, IOM, Réunion, Pacific Tech après les lettres (AD), avant la deadline mi-décembre ; tenir compte de l'absence de Charlotte du 20/11 au 8/12/2026.
+- Relancer IOM, Réunion, Pacific Tech après les lettres (AD), avant la deadline mi-décembre ; tenir compte de l'absence de Charlotte du 20/11 au 8/12/2026.
 - Préparer le kick-off du 20/01/2027.
 - Obtenir un contrat / des conditions MA CN27 écrits (GM).
 
 ## Questions ouvertes
+- Montant signé de la Ukraine House (proposition 20 k€, pavillon remisé à 17 k€ le 21/09) : à confirmer.
 - Honoraires et contrat MA CN27 : réengagement signé ? retainer accepté ?
 - Montant final signé de la Taiwan House (40 k€ + 10-20 k€ ?) ; facturation via MA ?
-- Statut réel de l'Égypte, de l'EIC (lettre envoyée ?), de la Suisse, de l'Ukraine, de l'IOM, de la Réunion et de Pacific Tech après les lettres.
+- Statut réel de l'Égypte, de l'EIC (lettre envoyée ?), de la Suisse, de l'IOM, de la Réunion et de Pacific Tech après les lettres.
 - China House de GREENEXT : acceptée à côté de la Taiwan House ?
 - Africa for Change 2027 : MA reste-t-il impliqué (« pull out ») ?
 - Modèle économique de Bridge and Value (commission ?) : absent du MoU.

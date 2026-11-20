@@ -1,6 +1,8 @@
-# clients/ index (generated 2026-11-18, 76 notes)
+# clients/ index (generated 2026-11-20, 77 notes)
 
 ## active
+- [[eic]] (updated 2026-11-18, imp 4): Agence européenne de l'innovation ; client de ChangeNOW via MA depuis CN26 (premier partenariat, 15 k€ selon le reporting), proposition CN27 à 40 k€ ou 100 k€, et prescripteur de startups pour l'offre Open Doors.
+- [[renault]] (updated 2026-11-18, imp 4): Constructeur automobile, prospect chaud d'Art Paris 2027 (partenariat hybride mobilité + cash + Art Car) ; 1er rendez-vous le 17/11/2026, rencontre physique le 10/12/2026, budgets 2027 bouclés fin 2026.
 - [[francis-bacon-mb-art-foundation]] (updated 2026-11-17, imp 3): Fondation de Majid Boustany, mécène existant de l'École du Louvre (bibliothèque, amphithéâtre inauguré le 17/11/2026) ; Boustany siège au CA du FEDL.
 - [[awpi]] (updated 2026-11-16, imp 3): Association co-initiatrice d'Africa for Change avec ChangeNOW ; modère le powerlunch 2026 et reste co-organisatrice pour 2027 (édition jugée fragile par MA).
 - [[bridge-and-value]] (updated 2026-11-16, imp 5): Société de facilitation France-Nigeria (CEO Abiodun Odunuga) ; partenaire de MA (MoU signé le 23/07/2026, partage des revenus 50/50 ou 60/40), partenaire national exclusif de ChangeNOW au Nigeria et client du seul deal PEF 2026 (8 000 € HT).
@@ -23,7 +25,6 @@
 - [[art-paris]] (updated 2026-11-05, imp 5): Foire d'art moderne et contemporain (Grand Palais), cliente de MA depuis 2023 via le Prix Her Art ; mission AP27 de recherche de sponsors rémunérée uniquement à la commission, aucun partenaire signé au 2026-11-17.
 - [[cote-divoire-ministere-jeunesse]] (updated 2026-11-04, imp 3): Client ivoirien de ChangeNOW via MA (10 000 € à CN26, ministre Mamadou Touré invité d'honneur), cible CN27 de 10-30 k€ avec l'agence Image 7.
 - [[ita]] (updated 2026-11-04, imp 3): Agence italienne du commerce extérieur ; client de ChangeNOW via MA (9 k€ à CN26), prospect CN27 (9-32 k€) et piste à 15 k€ pour le PEF 2026.
-- [[eic]] (updated 2026-10-28, imp 4): Agence européenne de l'innovation ; client de ChangeNOW via MA depuis CN26 (premier partenariat, 15 k€ selon le reporting), proposition CN27 à 40 k€ ou 100 k€, et prescripteur de startups pour l'offre Open Doors.
 - [[presence-suisse]] (updated 2026-10-28, imp 3): Organe de promotion de l'image de la Suisse ; prospect chaud de ChangeNOW 2027 (« AI for Impact House » à 60 000 €), grâce au lien personnel de GM avec Alexandre Edelmann.
 - [[fondation-culture-et-diversite]] (updated 2026-10-21, imp 3): Mécène historique de l'École du Louvre (égalité des chances depuis 19-20 ans, soutien de la Chaire UNESCO).
 - [[myriad-usa]] (updated 2026-10-21, imp 3): Sponsor fiscal 501(c)(3) (ex-King Baudouin Foundation US) qui héberge l'American Friends Fund du FEDL et est partie au contrat de Sue Devine.

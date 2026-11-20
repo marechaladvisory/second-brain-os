@@ -3,19 +3,20 @@ title: Art Paris 2027
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-12
-review_by: 2026-12-12
+updated: 2026-11-18
+review_by: 2026-12-18
 importance: 5
 supersedes: ""
 superseded_by: ""
 sources: []
 aliases: [AP27, Art Paris, mission Art Paris 2027]
-summary: MA cherche des sponsors pour Art Paris 2027 (Grand Palais, 1-4 avril 2027) avec Guillaume Robic, payée uniquement à la commission ; offre refondue (30 k€ à 150 k€), 60 lettres FR + 7 EN parties en novembre 2026, aucun partenaire signé au 2026-11-05.
+summary: MA cherche des sponsors pour Art Paris 2027 (Grand Palais, 1-4 avril 2027) avec Guillaume Robic, payée uniquement à la commission ; offre refondue (30 k€ à 150 k€), 60 lettres FR + 7 EN parties en novembre 2026, aucun partenaire signé au 2026-11-18 ; Renault (1er RDV le 17/11, RDV physique le 10/12) et UGGC (~30 k€, RDV le 25/11) sont les pistes chaudes.
 ---
 # Art Paris 2027
 
 ## Statut
-Actif au 2026-11-05 : lettres en cours d'envoi, phoning à lancer, aucun partenaire signé dans les documents (Drive: Art Paris 2027 - Suivi, 2026-11-05).
+Actif au 2026-11-18 : aucun partenaire signé ; pistes chaudes [[renault]] (1er rendez-vous le 17/11, rencontre physique le 10/12) et UGGC (~30 k€ sur Promesses, rendez-vous le 25/11) (Drive: Art Paris 2027 - Suivi, 2026-11-18 ; Art Paris 2027 - Mails, 2026-11-18).
+- Chiffres utilisés dans les mails AP27 : Art Paris 2026 = 87 000 visiteurs, près de 900 artistes, 165 galeries de 20 pays ; 86 975 visiteurs en 2025 (+25 %), plan média valorisé 4 M€ (Drive: Art Paris 2027 - Mails, 2026-11-18).
 
 ## Objectif
 - Client : [[art-paris]], 29e édition au Grand Palais du 1er au 4 avril 2027 ; Australie à l'honneur, secteurs Promesses, Multitudes, Histories, Design x Art Edition (Drive: AP27 - Communiqué d'annonce, 2026-09-29).
@@ -44,6 +45,15 @@ Actif au 2026-11-05 : lettres en cours d'envoi, phoning à lancer, aucun partena
 Source : Drive: Art Paris - Offre commerciale & Grille prospection, 2026-10-27 ; même structure dans AP27 - Deck, 2026-11-12.
 - Offre d'origine d'Art Paris : Partenaire officiel 75 000 € HT (4 max), Sponsor Promesses 120 000 € HT, projets spéciaux 20 000 à 100 000 € HT (Drive: AP27 - Deck original PDF, 2026-09-29). GM jugeait les 120 k€ « trop élevé » le 16/07/2026.
 - Références de valorisation d'Art Paris : Daily Preview 500 € pour 2, Prestige 750 € ; masterclass 800 € HT (entreprises) ; Club Entreprise : Rotonde 15 000 € HT, Club 35 000 € HT, balcon de l'Horloge 65 000 € HT (Drive: AP27 - Infos, 2026-10-05 ; AP27 - Club Entreprise privatisation, 2026-09-29).
+
+### Pipeline (au 2026-11-18)
+- [[renault]] : 1er rendez-vous le 17/11/2026, intérêt confirmé mais budgets sous pression, budgets 2027 bouclés fin 2026. Partenariat hybride souhaité : fournisseur officiel mobilité (flotte avec chauffeurs, 3 premiers jours à confirmer) + contribution financière + espace d'expression (Art Car au Grand Palais, angle « objet d'art ») + flagship du 53 Champs-Élysées dans le parcours VIP. Contraintes Art Paris : Promenoir Nord disponible, Art Car faisable si technique OK (référence Vilebrequin : 55 k€ hors technique), prise de parole avec lien artistique et créneau 10h-12h seulement, flotte historique 8 voitures max, 10 idéal, 40 trop élevé (Drive: Art Paris 2027 - Suivi, 2026-11-17 ; 2026-11-18). Offre modulaire envisagée en trois briques (flotte ; espace d'expression ; privatisation ou petit-déjeuner VIP avec prise de parole 10h-12h), intégration au parcours VIP plutôt qu'un fléchage grand public vers le 53 (retex Marni) (Drive: Art Paris 2027 - Mails, 2026-11-18).
+- UGGC : rendez-vous le 25/11/2026 avec Laure Assoum-Saou (associée propriété intellectuelle) ; proposition visée autour de 30 k€ sur Promesses avec petit-déjeuner, objectif : vendre un positionnement supérieur (Drive: Art Paris 2027 - Suivi, 2026-11-18 ; Art Paris 2027 - Mails, 2026-11-18).
+- [[zimmermann]] (côté Art Paris, programme Australie) : budget bouclé en juillet (année fiscale décalée), activation au Promenoir annulée, talk du jeudi matin au balcon de l'Horloge maintenu (Drive: Art Paris 2027 - Suivi, 2026-11-18).
+- AFBA : bloquée par le lundi de Pâques (29/03/2027), seul un side event ce soir-là possible, budget 2-5 k€ (même source).
+- Diptyque (portefeuille Art Paris) : call le 24/11/2026 mené par Audrey, l'occasion de parler d'[[aesop]] (Drive: Art Paris 2027 - Mails, 2026-11-18).
+- Apple : piste via Julien, directeur affaires publiques basé à Londres (idée : dispositif expérientiel sur le balcon) ; mail proposant une visio le 25/11 à 15h30, envoi non confirmé (Drive: Art Paris 2027 - Suivi, 2026-11-18 ; Art Paris 2027 - Mails, 2026-11-18).
+- Programme Australie AP27 : Fondation Opale en stand, 13 exposants (Melbourne, Sydney), œuvre monumentale sur le parvis, cocktail à l'ambassade d'Australie le jeudi soir (Drive: Art Paris 2027 - Suivi, 2026-11-18).
 
 ### Pipeline (au 2026-11-05)
 - [[groupe-adp]] / Paris Aéroport : « fort potentiel, budget estimé 20-30K » (05/10/2026) ; lettre adressée à Philippe Pascal (PDG) (Drive: Art Paris 2027 - Mails, 2026-11-10).
@@ -80,9 +90,14 @@ Source : Drive: Art Paris - Offre commerciale & Grille prospection, 2026-10-27 ;
 - 2026-09 : Rio Tinto exclu (Juukan Gorge, focus art aborigène 2027) (Drive: Art Paris - Offre commerciale & Grille prospection).
 - 2026-10-05 : proposer systématiquement le créneau conférence 10h-12h aux cabinets d'avocats, testé avec CMS (Drive: Art Paris 2027 - Suivi).
 - 2026-11-03 : lettre ramenée de 3 à 2 pages (« trop longue à 3 pages pour une première approche ») ; tout passe par email (même source ; Drive: MA - RETEX Campagnes de lettres, 2026-11-05).
+- 2026-11-18 : rencontre physique Renault le 10/12/2026 à 17h30 (locaux d'Art Paris) portée par Audrey et Léonie, GM en copie, car GM est indisponible ce jour-là et Renault ferme ses budgets 2027 en fin d'année (Drive: Art Paris 2027 - Suivi, 2026-11-18). Voir [[decisions]].
 - 2026-11-04 : envoyer avant le 5-6 décembre, car Léonie part mi-décembre et un envoi en janvier ferait perdre un mois (Drive: Art Paris 2027 - Suivi).
 
 ## Prochaines étapes
+- Léonie : mail récap à Renault (pistes, deck, flotte, dates) et à Audrey (montants) ; call de suivi Renault le 26 ou 27/11 ; second rendez-vous Renault avec Guillaume Piens en décembre (Drive: Art Paris 2027 - Suivi, 2026-11-18).
+- Préparer la proposition UGGC (~30 k€ Promesses + petit-déjeuner) pour le 25/11.
+- Point avec Audrey : prospection (Zimmermann, AFBA, Aston Martin), Apple, Isabel Marant, activation du compte Australie (Drive: Art Paris 2027 - Mails, 2026-11-18).
+- Le rendez-vous Renault du 10/12 tombe juste avant le départ de Léonie : prévoir la reprise du dossier.
 - Rétroplanning de la campagne de lettres (Léonie) ; intégrer les signatures JPEG d'Audrey ; lancer le phoning (avocats et auto d'abord).
 - Faire traduire la plaquette en anglais par le client, pour activer les réseaux australiens.
 - Relancer Zimmermann, ADP, Aesop, Lexus ; préparer l'AFBA du 4/12.
@@ -90,6 +105,7 @@ Source : Drive: Art Paris - Offre commerciale & Grille prospection, 2026-10-27 ;
 - Organiser la passation après le départ de Léonie (GM, GR).
 
 ## Questions ouvertes
+- Volume de la flotte Renault : une vingtaine de véhicules (brouillon de mail du 18/11) vs environ 40 (GR, réunion du 17/11) vs 10 idéal et 8 max pour une flotte historique (Art Paris, 18/11) : à trancher avant l'envoi du récap (Drive: Art Paris 2027 - Mails, 2026-11-18 ; Art Paris 2027 - Suivi, 2026-11-18).
 - Contrat : « signé en juin » (point du 04/11/2026, plus récent) contre « signature en attente » (23/09/2026) ; taux de commission et termes exacts inconnus, aucun contrat dans le Drive.
 - Prix du fournisseur auto : 65 000 € (version d'août, Drive: CONTACT PROSPECTION, 2026-08-07 ; reprise dans la fiche argumentaire du 2026-11-03) ou 95 000 € (offre VF du 2026-10-27 et deck du 2026-11-12, plus récents) ?
 - Sens de « Les 20 000 € de ticket financier doivent revenir intégralement à Maréchal Advisory » (26/06).
