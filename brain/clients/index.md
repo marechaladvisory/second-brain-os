@@ -1,6 +1,7 @@
 # clients/ index (generated 2026-11-20, 77 notes)
 
 ## active
+- [[ville-de-la-haye]] (updated 2026-11-20, imp 2): Ville néerlandaise ; House Pays-Bas à ChangeNOW en 2025 et 2026 (avec Amsterdam Impact), contactée aussi pour le forum Waves of Change.
 - [[eic]] (updated 2026-11-18, imp 4): Agence européenne de l'innovation ; client de ChangeNOW via MA depuis CN26 (premier partenariat, 15 k€ selon le reporting), proposition CN27 à 40 k€ ou 100 k€, et prescripteur de startups pour l'offre Open Doors.
 - [[renault]] (updated 2026-11-18, imp 4): Constructeur automobile, prospect chaud d'Art Paris 2027 (partenariat hybride mobilité + cash + Art Car) ; 1er rendez-vous le 17/11/2026, rencontre physique le 10/12/2026, budgets 2027 bouclés fin 2026.
 - [[francis-bacon-mb-art-foundation]] (updated 2026-11-17, imp 3): Fondation de Majid Boustany, mécène existant de l'École du Louvre (bibliothèque, amphithéâtre inauguré le 17/11/2026) ; Boustany siège au CA du FEDL.
@@ -48,7 +49,6 @@
 - [[um6p]] (updated 2026-06-23, imp 2): Université marocaine ; package ChangeNOW à 72 k€ HT non conclu en 2025, 2 500 € à CN26, cible CN27 de 15 k€.
 - [[je-mengage-pour-lafrique]] (updated 2026-05-31, imp 3): Association franco-africaine (2021) dont GM est « Board Member » et membre de la core team de la soirée des 5 ans (Fondation Cartier, 1er février 2027) ; citée comme client dans les offres MA mais aucune relation commerciale documentée.
 - [[ecolab-cgdd]] (updated 2026-05-30, imp 2): Laboratoire d'innovation du ministère de la Transition écologique ; co-organisateur du forum Waves of Change 2026 et co-pilote de la verticale « AI & Ocean » de la Coalition pour une IA durable.
-- [[ville-de-la-haye]] (updated 2026-05-13, imp 2): Ville néerlandaise ; House Pays-Bas à ChangeNOW en 2025 et 2026 (avec Amsterdam Impact), contactée aussi pour le forum Waves of Change.
 
 ## draft
 - [[edb-singapore]] (updated 2026-11-16, imp 2): Agence singapourienne ; prospect récurrent (VIP lunch CN 2025, speaker DTW 2026), refus pour le PEF 2026 (« ne veulent jamais être early-adopter »), prospect 2027.
