@@ -1,6 +1,8 @@
-# clients/ index (generated 2026-11-20, 77 notes)
+# clients/ index (generated 2026-11-21, 77 notes)
 
 ## active
+- [[choiseul]] (updated 2026-11-20, imp 4): Think tank et plateforme d'événements (85+ événements/an) ; client en cours de signature pour l'AMO du sommet Choiseul x Ecobank de Cotonou (forfait proposé 76 150 € HT au 13/11/2026), MA en marque blanche.
+- [[ecobank]] (updated 2026-11-20, imp 3): Groupe bancaire panafricain, commanditaire du sommet économique international de Cotonou (5-6 avril 2027) ; client final de MA via Choiseul, sans relation directe.
 - [[ville-de-la-haye]] (updated 2026-11-20, imp 2): Ville néerlandaise ; House Pays-Bas à ChangeNOW en 2025 et 2026 (avec Amsterdam Impact), contactée aussi pour le forum Waves of Change.
 - [[eic]] (updated 2026-11-18, imp 4): Agence européenne de l'innovation ; client de ChangeNOW via MA depuis CN26 (premier partenariat, 15 k€ selon le reporting), proposition CN27 à 40 k€ ou 100 k€, et prescripteur de startups pour l'offre Open Doors.
 - [[renault]] (updated 2026-11-18, imp 4): Constructeur automobile, prospect chaud d'Art Paris 2027 (partenariat hybride mobilité + cash + Art Car) ; 1er rendez-vous le 17/11/2026, rencontre physique le 10/12/2026, budgets 2027 bouclés fin 2026.
@@ -11,8 +13,6 @@
 - [[image-7]] (updated 2026-11-16, imp 2): Agence de communication travaillant sur le dossier Côte d'Ivoire de ChangeNOW (« très chronophage ») et concurrent cité de l'offre startups (TJM 2 500 €/jour).
 - [[paris-economic-forum]] (updated 2026-11-16, imp 4): Forum économique de Vincent Ducrey (HUB Institute) ; client de MA pour la « participation internationale » du PEF 2026 (2/12/2026), un seul deal (Nigeria via Bridge and Value, 8 000 € HT), honoraires MA non retrouvés.
 - [[bergman-advisory-group]] (updated 2026-11-13, imp 2): Cabinet américain de conseil en philanthropie ; pair de MA, Andrew Bergman partage des digests RFP/RFI (exemple de conseil en philanthropie).
-- [[choiseul]] (updated 2026-11-13, imp 4): Think tank et plateforme d'événements (85+ événements/an) ; client en cours de signature pour l'AMO du sommet Choiseul x Ecobank de Cotonou (forfait proposé 76 150 € HT au 13/11/2026), MA en marque blanche.
-- [[ecobank]] (updated 2026-11-13, imp 3): Groupe bancaire panafricain, commanditaire du sommet économique international de Cotonou (5-6 avril 2027) ; client final de MA via Choiseul, sans relation directe.
 - [[firetracking]] (updated 2026-11-13, imp 3): Startup de Nouméa (détection des feux par IA) ; exposant ChangeNOW via Pacific Tech et cas pilote de l'offre startups de MA (contrat d'apporteur d'affaires à 5-7 %, non signé).
 - [[centre-pompidou-metz]] (updated 2026-11-12, imp 4): EPCC muséal (Metz) ; mission de prospection mécénat avec Guillaume Robic en cadrage (visite du 16/11/2026, campagne de lettres avant le 5-6/12), aucun contrat ni prix écrit.
 - [[fonds-ecole-du-louvre]] (updated 2026-11-12, imp 5): Client de MA depuis octobre 2024 pour la levée de fonds Génération 2030 (objectif > 10 M€) ; MA payée à la commission + retainer 800 €/mois, relation jugée dégradée, reconduction 2027 à sécuriser.

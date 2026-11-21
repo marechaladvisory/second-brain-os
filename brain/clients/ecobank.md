@@ -3,8 +3,8 @@ title: Ecobank
 type: entity
 status: active
 created: 2026-11-18
-updated: 2026-11-13
-review_by: 2027-05-12
+updated: 2026-11-20
+review_by: 2027-05-19
 importance: 3
 supersedes: ""
 superseded_by: ""
@@ -23,7 +23,9 @@ summary: Groupe bancaire panafricain, commanditaire du sommet économique intern
 - Rôle d'Ecobank dans la répartition validée le 12/11/2026 : thème, audience, KPI, interventions des dirigeants (Drive: 1- Pilotage Bénin Choiseul Ecobank, 2026-11-13).
 - « Jérémy Awori, patron mondial » cité pour le protocole (même source).
 - Co-financement par des partenaires additionnels non confirmé ; à revalider avec Ecobank par [[lea-gallee]].
-- Le Sofitel Cotonou est confirmé comme lieu, contrat en attente de signature du client.
+- Appel d'offres pour son forum éponyme remporté par [[choiseul]] (confidentiel, en cours de signature au 20/11/2026), face à AFIS de Jeune Afrique ; 1re édition à Cotonou, puis annuelle ou biannuelle si succès (Drive: 1- Pilotage Bénin Choiseul Ecobank, 2026-11-20).
+- PDG : Jérémy Awori ; interlocutrice projet : directrice communication corporate du groupe, basée à Lomé. Événement gratuit sur invitation Ecobank, 300-500 personnes visées, 100 chambres VIP à son budget (Drive: 1- Pilotage Bénin Choiseul Ecobank, 2026-11-20).
+- Lieu : Sofitel Cotonou pressenti, hôtel pas encore signé, mise en concurrence prévue (20/11/2026 ; le 13/11 il était dit « confirmé »).
 
 ## Projets liés
 - [[choiseul-cotonou-2027]].
