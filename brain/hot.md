@@ -1,5 +1,5 @@
 # hot.md (rewritten daily by brain-daily, max 500 words)
-Updated 2026-11-21 (daily ; sources Drive jusqu'au 20/11).
+Updated 2026-11-22 (daily ; sources Drive jusqu'au 21/11).
 
 ## Priorities
 - [[choiseul-cotonou-2027]] : Choiseul a remporté l'appel d'offres Ecobank (confidentiel, en signature) ; MA = chef de projet 360° (RDV du 20/11) ; 300-500 invités, Sofitel non signé. À faire : RFP et répartition des rôles (Léa), puis proposition affinée (76 150 € HT, 60 ou 45 JH) ; créneaux Cotonou avant le 20/12 ; Cassandre le 21/11, call Florian.
@@ -13,7 +13,7 @@ Updated 2026-11-21 (daily ; sources Drive jusqu'au 20/11).
 
 ## Open loops
 - Cotonou : le rôle « 360° de A à Z » élargit-il le périmètre chiffré (79 j au 13/11, 60 JH au 18/11) ? Cheffe de projet 69 j vs 60 j vendus.
-- Conflits à trancher : PEF Nigeria (« seul deal » vs lead 2027) ; flotte Renault (10, ~20 ou ~40 véhicules).
+- Conflits à trancher : PEF Nigeria (« seul deal » vs lead 2027) ; flotte Renault (10, ~20 ou ~40 véhicules) ; AP27 constructeurs chinois (exclus le 27/07 vs ciblés dans la grille modifiée le 21/11).
 - Départ de Léonie mi-décembre : passation EDL, AP27 (RDV Renault du 10/12), CPM, WoC, GOA, Friendship.
 - Sécurité Drive : identifiants et numéros de passeport en clair dans plusieurs docs.
 - Honoraires non documentés : CN25-CN27, PEF, GOA, WoC, CPM ; taux de commission AP27 et EDL.

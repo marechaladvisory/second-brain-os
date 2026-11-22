@@ -10,3 +10,5 @@
 ## [2026-11-20] lint | health 99 -> 100, 1 fixed, 6 for you | touched: clients/ville-de-la-haye.md
 ## [2026-11-21] watch | drive: 2 listed, 0 excluded, 1 read, 1 entry queued, 1 skipped (Deck AP27 x Renault.pptx, 31,9 Mo > 25 Mo) | touched: notes/inbox.md, notes/sync-state.md
 ## [2026-11-21] daily | 1 capture, 0 connector items | touched: projects/choiseul-cotonou-2027/about.md, clients/ecobank.md, clients/choiseul.md, notes/daily/2026-11-21.md, hot.md, notes/inbox.md
+## [2026-11-22] watch | drive: 1 listed, 0 excluded, 1 read (partiel : en-têtes seuls), 1 entry queued, 0 skipped | touched: notes/inbox.md, notes/sync-state.md
+## [2026-11-22] daily | 1 captures, 0 connector items | touched: projects/art-paris-2027/about.md, hot.md

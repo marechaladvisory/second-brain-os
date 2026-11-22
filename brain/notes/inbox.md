@@ -151,3 +151,15 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - open_loops: Léa envoie le RFP agences locales et le document de répartition des rôles; MA propose 2-3 créneaux pour un déplacement de 2 jours à Cotonou avant le 20/12 (hôtel, agence locale, Ecobank); Call exploratoire Cassandre (protocole) et Florian (CTO) ; petit-déjeuner avec Cassandre samedi 21/11; Valider le programme définitif avec Ecobank : 2 options (gala lundi vs mardi soir) et rétroplanning de validation des speakers, plan B si Ecobank lent; CONFLICT choiseul-cotonou-2027: Sofitel « lieu confirmé, contrat en attente » vs « hôtel pas encore signé, mise en concurrence prévue » (20/11); CONFLICT choiseul-cotonou-2027: base 500 participants vs 300-500 visés, hôtel pour 350 (20/11); CONFLICT choiseul-cotonou-2027: gala J2 soir vs gala lundi soir J1 (20/11); CONFLICT choiseul-cotonou-2027: MA conception/AMO en marque blanche vs chef de projet 360° direction opérationnelle A à Z (20/11)
 - verbatim: 
 - result: projects/choiseul-cotonou-2027/about.md, clients/ecobank.md, clients/choiseul.md
+
+## q-20261122-061903 | integrated
+- date: 2026-11-22
+- source: drive
+- session: drive:1Z4_9xnK3fds1ZFSZQIubr8lR_pPXYN5WTrPQD-vSfJQ@2026-11-21T09:18:58.173Z
+- certainty: fact
+- entities: art-paris-2027
+- facts: Grille de prospection AP27 modifiée le 21/11/2026 ; lecture partielle (en-têtes seuls) : onglet Automobile intitulé « viser le segment électrique, notamment chinois & coréen / directeur communication et le CEO » (Drive: Art Paris - Offre commerciale & Grille prospection, 2026-11-21)
+- decisions: 
+- open_loops: CONFLICT art-paris-2027: « pas de constructeurs chinois (sortis du marché) » (décision 2026-07-27) vs en-tête de l'onglet Automobile « viser le segment électrique, notamment chinois & coréen » (grille modifiée le 21/11/2026, date de l'en-tête inconnue)
+- verbatim: 
+- result: projects/art-paris-2027/about.md

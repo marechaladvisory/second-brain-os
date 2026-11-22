@@ -3,8 +3,8 @@ title: Art Paris 2027
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-18
-review_by: 2026-12-18
+updated: 2026-11-22
+review_by: 2026-12-22
 importance: 5
 supersedes: ""
 superseded_by: ""
@@ -112,6 +112,7 @@ Source : Drive: Art Paris - Offre commerciale & Grille prospection, 2026-10-27 ;
 - Visa, Mastercard et CB ont reçu des lettres malgré l'exclusion bancaire (« CB : prio pas de contact » le 27/10).
 - Le point du 04/11 mentionne « faire valider la lettre par le Centre Pompidou-Metz » et « Lettre signée par Carré » : hypothèse d'un mélange avec [[centre-pompidou-metz-mecenat]] (même cible de 50-60 entreprises FR/BE/LU, même échéance du 5-6/12).
 - Adresse mail dédiée Art Paris (alias GM, GR, Léonie) demandée à Justin : créée ou non ?
+- Constructeurs chinois : exclus le 2026-07-27 (« sortis du marché ») alors que l'onglet Automobile de la grille, modifiée le 21/11/2026, vise « le segment électrique, notamment chinois & coréen » (en-tête seul lisible, date de l'en-tête inconnue) : à confirmer (Drive: Art Paris - Offre commerciale & Grille prospection, 2026-11-21).
 
 ## Documents Drive
 - Art Paris - Fiche projet (1gGFpQiWtfexgyPO_QkLJ0xsuX2xR_Hw1cFts2jAxZX8)

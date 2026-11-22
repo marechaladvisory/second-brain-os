@@ -1,4 +1,4 @@
-# clients/ index (generated 2026-11-21, 77 notes)
+# clients/ index (generated 2026-11-22, 77 notes)
 
 ## active
 - [[choiseul]] (updated 2026-11-20, imp 4): Think tank et plateforme d'événements (85+ événements/an) ; client en cours de signature pour l'AMO du sommet Choiseul x Ecobank de Cotonou (forfait proposé 76 150 € HT au 13/11/2026), MA en marque blanche.
