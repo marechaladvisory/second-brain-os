@@ -1,6 +1,6 @@
-# HANDOFF — second brain de Maréchal Advisory (mis à jour le 2026-11-19)
+# HANDOFF — second brain de Maréchal Advisory (mis à jour le 2026-11-23)
 
-Branche de travail : **`main`** (créée le 2026-11-18 à la demande de Guillaume ; `claude/clever-euler-y95o7a` est l'ancienne). Tout est commité et poussé.
+Branche de travail : **`main`** (créée le 2026-11-18 à la demande de Guillaume). Le travail Gmail du 2026-11-23 est sur `claude/second-brain-gmail-0qsq6q`, **à fusionner dans `main`** (les routines tournent sur `main`).
 Brain : `brain/` (racine du repo). Skills utilisés : `skill-lab/build/skills/` (brain-setup + `_shared/contracts.md`).
 Artefacts du setup : `brain-setup/` (ce dossier).
 `skill-lab/HANDOFF.md` (2026-11-10, autre repo, essai de Florian) est un historique du lab, pas une consigne pour ce brain.
@@ -29,7 +29,9 @@ En cours de route, il a demandé de lancer les subagents plus séquentiellement 
 | 7. index + lint | fait : health 99/100, seul avertissement : review dépassée de `clients/ville-de-la-haye.md` (signal réel) |
 | 8. Passe Granola | **BLOQUÉE** : le connecteur répond « user has not created a Granola account yet » (revérifié le 2026-11-19 à 12:19 UTC) |
 | 9. Veille Drive | **faite le 2026-11-18** : skill brain-watch (evals 4/4, essai à blanc puis premier passage réel : 9 entrées en file). Planification : brain-daily fait la veille chaque matin (voir « Veille : état ») |
-| 10. Veille Granola | **à faire** quand le compte Granola existe |
+| 10. Veille Granola | **à faire** quand le compte Granola existe (encore « no account » le 2026-11-23) |
+| 11. Gmail (2026-11-23) | **fait** : veille Gmail dans brain-watch §3 (lecture seule, synthèse recrutement), Gmail live dans brain-ask, evals 5/5 (`skill-lab/evals/results/2026-11-23.md`) ; passe initiale sur toute la boîte (début 2026-10-26 → 2026-11-23T08:51Z) : extractions `brain-setup/gmail/extracts/` (A1, A2, B recrutement), un writer unique ; curseur `gmail` posé à la fin de la passe |
+| 12. Sécurité injection (2026-11-23) | **fait** : hook `guard-connectors.sh` (bloque toujours envoi/partage/suppression ; lecture seule des connecteurs en exécution automatique) + `protect.sh` étendu à AGENTS.md, CLAUDE.md, .claude/ ; réseau de l'environnement limité |
 
 Contrôles faits : aucun email, téléphone, mot de passe, numéro de passeport ni donnée de santé dans les notes. Les candidats sont notés prénom + initiale, uniquement dans les notes de recrutement.
 
@@ -47,7 +49,15 @@ Contrôles faits : aucun email, téléphone, mot de passe, numéro de passeport 
    - Toujours « écrire chaque fichier dès qu'on a la matière ».
    - Collision de slug : un projet et un client ne doivent jamais partager le même nom. Le projet WoC a été renommé `mission-waves-of-change`.
 
-## Veille : état au 2026-11-19 (lire en premier)
+## Gmail : état au 2026-11-23 (lire en premier)
+**Demande** : Gmail à la fois intégré aux données actuelles, comme connecteur live, et comme entrée continue. Choix de Guillaume : connecteur live (pas de plugin empaqueté) ; veille dans le brain-daily du matin (pas de tâche séparée) ; recrutement en synthèse seulement, aucun candidat nommé depuis les mails.
+**Boîte** : guillaume.marechal@ (≈ 380 fils, premier message 2026-10-26 ; ≈ 90 fils de recrutement). Les candidatures arrivent sur l'adresse « hello » et JobTeaser, pas dans cette boîte.
+**Fonctionnement** : brain-daily rattrape la veille Gmail chaque matin (curseur `gmail` dans `notes/sync-state.md`), file `source: gmail`, clé `gmail:<threadId>@<dernier message>`. Config : Watch section de `context/config.md` (`watch_gmail_*`). `budget_reads` 60 → 80.
+**Limites du connecteur trouvées** : pas de recherche à la seconde (`after:<epoch>` ne renvoie rien) → recherche au jour avec un jour de marge + dates via `get_thread METADATA_ONLY` ; pas de `pageToken` (50 fils max) → découper par dates.
+**Sécurité (prompt injection)** : les consignes des skills ne suffisent pas, donc limites mécaniques : `brain/.claude/hooks/guard-connectors.sh` câblé dans `.claude/settings.json` (racine) et `brain/.claude/settings.json` ; `protect.sh` ; dans brain-daily, un mail qui change un montant, une condition de contrat ou une coordonnée bancaire, ou qui vient d'un inconnu, n'est jamais appliqué seul. Réseau : environnement « Default » en accès limité (registres de paquets, serveurs MCP). Le skill d'Airtable (SAS) reste utilisable en interactif ; en automatique, seules les lectures passent.
+**Action de Guillaume** : ajouter le connecteur **Gmail** à la tâche brain-daily `trig_018EsRWDjMpJCsaZovDs9xYx` dans l'interface des routines (comme Drive le 2026-11-19), après la fusion dans `main`.
+
+## Veille Drive : état au 2026-11-19
 **Fonctionnement retenu**
 - `brain-daily` fait tout en une session par jour : `watch_interval_hours: 12` dans `brain/context/config.md` → la dernière veille a toujours plus de 18 h le matin → il lance la veille Drive (brain-watch §2), puis intègre la file. Choix de Guillaume le 2026-11-18 pour économiser le quota (le Drive bouge peu : 17 fichiers modifiés un jour chargé).
 - La tâche « brain-watch Drive (toutes les 4 h) » `trig_018odBvVmysP8AHxGgdsjprm` est **désactivée** (pas supprimée). La réactiver seulement si Guillaume veut des notes plus fraîches dans la journée.
