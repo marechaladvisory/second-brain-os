@@ -13,6 +13,8 @@ Aucune adresse mail, aucun téléphone et aucun identifiant n'est recopié ici.
   - la table « 7-Team (NEW) » a été créée d'un bloc le 2026-09-05 (refonte en cours) ;
   - depuis septembre, seuls le SAS (73 lignes, des tests E2E du 08/10 au 11/11) et une vingtaine de contacts ont bougé.
 - **Conséquence** : cette base convient pour comprendre la structure, mais pas comme source continue. Le CRM réel (dans les notes, Armand, Léonie et Tiana y travaillent chaque jour en novembre) n'est pas visible.
+- **Confirmé par Guillaume le 2026-11-23** : « Dev Flo 2 » n'est pas la base de production, mais **le schéma et les apprentissages sont les mêmes**. Tout ce document vaut donc pour la production (tables, champs, formats du CR, contraintes de veille). Seuls les chiffres et les dates de ce document viennent de la copie de septembre.
+- Usage retenu : « Dev Flo 2 » sert de **base de test** pour construire et évaluer la veille et la lecture en direct (comme le Drive simulé du skill-lab, mais avec de vraies données). La production sert à la passe initiale et à la veille réelle, une fois partagée avec le connecteur.
 
 ## 2. Les tables (14 tables, ≈ 10 600 lignes)
 
@@ -87,7 +89,7 @@ Liens principaux : Contact → Organisation, Client (`Client (à utiliser)`), Cl
 3. **Veille continue** (brain-watch, section Airtable, chaque matin dans brain-daily) : `list_records` filtré sur « Modifié le » > curseur, pour les 3 tables. Une entrée de file par record modifié, avec la clé `airtable:<recId>@<modifié le>`. On ne lit que la tête du CR (les entrées postérieures au curseur). Curseur `airtable` dans `notes/sync-state.md`.
 
 ## 7. Questions bloquantes pour Guillaume
-1. **Quelle est la base de production ?** Il faut la partager avec le compte du connecteur Airtable (ou reconnecter le connecteur avec le compte qui la possède). Faut-il aussi garder « Dev Flo 2 » ?
+1. **Accès à la base de production** : il faut la partager avec le compte du connecteur Airtable, ou reconnecter le connecteur avec le compte qui la possède. « Dev Flo 2 » reste la base de test (réponse du 2026-11-23 : même schéma, mêmes apprentissages).
 2. Peut-on ajouter un champ « Modifié le » (`lastModifiedTime`) dans 4-Contacts, 1-Next steps et 6- Cluster CN de la production ?
 3. Périmètre : quelles catégories de « 2 - Clients » exclure en plus de Personnel ? (Finance ? Recrutement ? TALENTS ?)
 4. « Plugin » : une veille par le connecteur (comme Gmail) suffit-elle, ou voulez-vous un plugin empaqueté (skill Airtable dédié, à partager avec l'équipe) ?
