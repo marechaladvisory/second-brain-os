@@ -3,8 +3,8 @@ title: Léonie Vankemmel
 type: entity
 status: active
 created: 2026-11-18
-updated: 2026-11-12
-review_by: 2027-05-11
+updated: 2026-11-13
+review_by: 2027-05-12
 importance: 5
 supersedes: ""
 superseded_by: ""
@@ -23,7 +23,8 @@ summary: Cheffe de projet MA depuis le 8 juin 2026 (EDL, Art Paris 2027, Centre 
 ## Faits clés
 - Pilote opérationnelle : Airtable, comptes rendus, lettres, publipostage, invitations, phoning (Drive: Art Paris - Fiche posture ; EDL - Fiche posture, 2026-07-02).
 - Temps alloué : 1,5 à 2 j/semaine sur l'EDL (Drive: EDL - Fiche posture, 2026-07-02) ; 1 jour par semaine sur AP27 (Drive: Art Paris - Fiche projet, 2026-09-03).
-- Utilise une adresse de GM pour les premiers contacts puis l'adresse « international » de MA (Drive: MA - PROCESS).
+- Utilise une adresse de GM pour les premiers contacts puis l'adresse « international » de MA (Drive: MA - PROCESS). Signature mail : « International Project Manager, Maréchal Advisory » (Gmail: Global Ocean Accelerator - Station F, 2026-11-12).
+- En copie des 67 lettres AP27 envoyées par GM le 05/11/2026 ; consigne de GM du 06/11 : renvoyer chaque lettre à l'adresse donnée par une réponse d'absence, en gardant les autres en boucle (Gmail: Art Paris Avril 2027 - Letter from Guillaume Piens, Valentine and Julien Lecêtre, 2026-11-06). Destinataire du test du gabarit d'invitation officielle CN27 (05/11).
 - Mails au client en vouvoiement, structurés, avec une question de validation (« Guillaume et moi avons fait le point… Que pensez-vous de cette sélection ? ») (Drive: WoC - Mails, 2026-11-10).
 - Son départ fixe des échéances : lettres AP27 et CPM à envoyer avant le 5-6 décembre 2026 (Drive: Art Paris 2027 - Suivi ; CPM - Suivi, 2026-11-05).
 
@@ -32,7 +33,7 @@ summary: Cheffe de projet MA depuis le 8 juin 2026 (EDL, Art Paris 2027, Centre 
 - [[art-paris-2027]] : pilote opérationnelle de la campagne de lettres (rétroplanning, Airtable, CR) ; kick-off avec [[guillaume-robic]], [[audrey-keita]] et [[justin-lagniez]] le 16/07/2026 (Drive: Art Paris 2027 - Suivi).
 - [[centre-pompidou-metz-mecenat]] : rédaction des mails, lettre type et publipostage (30/11-03/12/2026) ; visite du CPM le 16/11/2026 avec GM et GR (Drive: CPM - Suivi, 2026-11-05).
 - [[mission-waves-of-change]] : tri des candidatures du recrutement stagiaire mécénat, mails de point d'étape au client (Drive: WIP - Recrutement WoC, 2026-10-29 ; WoC - Mails, 2026-11-10).
-- [[global-ocean-accelerator]] : responsable partenariats, porteuse des next steps, toolkit, mails à [[abigail-bouaziz]] (Drive: Deck FR GOA, 2026-11-12).
+- [[global-ocean-accelerator]] : responsable partenariats, porteuse des next steps, toolkit, mails à [[abigail-bouaziz]] (Drive: Deck FR GOA, 2026-11-12) ; fixe le RDV [[cma-cgm]] du 24/11/2026 à 16h (13/11) ; GM lui demande le 02/11 d'appeler Ulrich Mohrle ([[societe-generale]]) et le Fonds AXA « pour OA » (Gmail: Global Ocean Accelerator - Station F, 2026-11-13 ; Suite à notre échange - Société Générale x FEDL, 2026-11-02).
 - [[changenow-cn27]] : campagne lettres CN27 x AP27 avec [[armand-dogra]] (point du 05/11/2026).
 - [[friendship-bangladesh-2027]] : directrice de projet proposée (Drive: Friendship Bangladesh x Maréchal Advisory - Scope of Work, 2026-10-14).
 - [[conseil-philanthropie]] et [[offre-affaires-publiques]] : fiches Gide Pro Bono et Expertise France (recherche, benchmark) (Drive: Fiche Gide Pro Bono ; Fiche Expertise France).

@@ -3,8 +3,8 @@ title: Process internes MA
 type: concept
 status: active
 created: 2026-11-18
-updated: 2026-11-15
-review_by: 2027-11-15
+updated: 2026-11-19
+review_by: 2027-11-19
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -89,6 +89,9 @@ Synthèse des règles écrites de fonctionnement de [[business]]. Source princip
 ## Recrutement
 - Étapes constantes depuis 2025 : fiche de poste (Google Doc + PDF) ; diffusion sur JobTeaser, Profilculture, mail aux écoles (répertoire des formations) et relais WhatsApp au board advisory ; candidatures à l'adresse hello@ ; tri puis mail de convocation ou de refus type ; entretien collectif en visio (~1h30, en fin de journée) ; second et dernier entretien individuel en présentiel, avec références (Drive: MA - Recrutement Janvier 2027 - Mail, 2026-10-29 ; MA - PROCESS, 2026-11-15).
 - Depuis 2026 : cas pratique écrit entre les deux entretiens, classé dans une note d'analyse (Drive: Note d'analyse - cas pratiques, 2026-11-12). Cas en cours : [[recrutement-janvier-2027]].
+- Pratique observée en novembre 2026 (boîte de GM) : présélection écrite par 2 questions (motivation, intérêt pour les ICC) → entretien collectif en visio en 2 créneaux d'1 h à 1 h 30 → cas pratique rendu le soir même → remerciement groupé en Cci → entretien individuel de 45 min (présentiel à la Climate House ou visio) avec 1-2 références du dernier stage → session collective de rattrapage pour les absents et nouveaux candidats. Contrairement au « tri puis mail de convocation ou de refus type » ci-dessus, aucun refus n'est envoyé tant que le choix n'est pas fait (Gmail: Next step - process RH, 2026-11-12 ; Nouvelle session d'entretien collectif…, 2026-11-19).
+- Code couleur du tableau de suivi des candidats (12/11/2026) : vert = sélectionné, jaune = back-up, sans couleur = « a priori non (mais on leur dit pas) » ; la logistique candidats est confiée à [[tiana]] depuis la boîte de GM (même source).
+- 02/11/2026 : GM demande de « mettre en validation le fichier de suivi des écoles pour les stages, pour faciliter le travail la prochaine fois » (Gmail: Offre de stage – International Impact Innovation…, 2026-11-02).
 - Profils recrutés : stagiaires et apprentis en BD, affaires publiques, délégations, partenariats, veille ; gratification légale ; 100 % télétravail en 2025, Climate House et semaine de 4 jours (35 h) en 2026.
 
 ## Outils

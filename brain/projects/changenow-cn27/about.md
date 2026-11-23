@@ -95,12 +95,13 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 ## Campagne de lettres CN27
 - 63 lettres officielles bilingues FR/EN signées Santiago Lefebvre (« Founder and President »), 63 paragraphes personnalisés + 4 paragraphes par zone, 2 lettres types ; publipostage de 29 lettres EN et du pendant FR (Drive: CN27 Campagne lettre Nov26 - modèle type 291026, 2026-10-29 ; Lettres Publipostées EN.docx, 2026-11-04). La liste « CN - Campagne Lettres » (2026-09-11) ne compte qu'environ 32 destinataires : version antérieure.
 - But : « sésame PDF pour faire avancer les discussions commerciales et validation par le haut du partenariat ». Règles : vérifier les élections imminentes, ne pas préciser l'offre, tout en français avec vouvoiement (Drive: CN27 - Projet campagne lettre, 2026-10-26).
+- Gabarit d'« Invitation Officielle - ChangeNOW Avril 2027 - 10e anniversaire » (test envoyé à Léonie depuis l'adresse ChangeNOW, 05/11/2026) : lettre signée Santiago Lefebvre ; « 40 000 participants, 1 400 investisseurs, 1 000 startups à fort impact » ; « 60 acteurs publics internationaux [...] attendus dont l'Égypte, le Conseil européen de l'innovation (EIC), l'Italie, le Maroc, le Nigeria, l'Afrique du Sud, la Suisse, Taïwan » ; un « court échange téléphonique la semaine prochaine » proposé à chaque acteur ; signature de GM « International and Strategic Advisor » (Gmail: Invitation Officielle - ChangeNOW Avril 2027 - 10e anniversaire, 2026-11-05).
 - Rétroplanning : validation GM mardi 27/10, publipostage 28/10, validation Team Instit 29/10-3/11, envoi 3/11/2026, mails d'accompagnement et WhatsApp « pour doubler ».
 - RETEX du 5/11/2026 (Armand x Léonie, commun avec [[art-paris-2027]]) : coquilles et répétitions, manque d'anticipation ; checkpoints 1-1 par phase, matrice de lettre type, grid Airtable dédiée, « mettre la pression sur le client pour validation » (Drive: MA - RETEX Campagnes de lettres, 2026-11-05). Méthode : [[playbook-campagne-lettres]].
 
 ## Calendrier
 - 27/05/2026 séminaire Team Instit ; juin-juillet réénergiser les partenaires ; 22/07 Summer Session ; 8/09 MoU Taipei ; 14/10 kick-off ; octobre-décembre négociation ; 3/11 envoi des lettres ; mi-décembre deadline ; décembre-février clôture ; 20/01/2027 kick-off suivant (Drive: CN27 - Fiche projet, 2026-10-27).
-- Sommet : 26-28/04/2027 (lettre, mails KAM) ; certains mails d'accompagnement disent « 26–27 avril » : incohérence non tranchée.
+- Sommet : 26-28/04/2027 (lettre, mails KAM) ; certains mails d'accompagnement disent « 26–27 avril », de même que le gabarit d'invitation officielle testé depuis l'adresse ChangeNOW le 05/11/2026 (Gmail: Invitation Officielle - ChangeNOW Avril 2027 - 10e anniversaire, 2026-11-05) : incohérence non tranchée, voir Questions ouvertes.
 
 ## Décisions
 - 2026-05-06 : « Tout ce qui n'est pas un pays/délégation n'est pas ChangeNow » (AD), pour clarifier le périmètre (Drive: MA - Modélisation MAJ BDD, 2026-05-12).
@@ -119,6 +120,8 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 - Bénin réactivé ; Nouvelle-Calédonie : quelle stratégie commune avec La French Tech et la Nouvelle-Zélande ? (même source).
 - Smart Africa : mécanique proposée = appel à candidatures, 5 startups en World Expo, pitch, bilatérales Afrique-Europe, ordre de 20 k€ ([[smart-africa]]) (Drive: CN27 - Mails personnalisés, 2026-11-19).
 - Nigeria : visio du 4/11/2026 avec Abiodun, l'équipe CN et Maxime Bieliaeff (directeur Business France Nigeria) après Spotlight Nigeria (même source).
+- ESA : le 30/10/2026, GM propose à Donatella Ponziani (ESA, ancienne collaboration VivaTech) le programme « Down to Earth » et le réseau BIC ESA pour ChangeNOW, en même temps que le GOA (Gmail: Nouvelles depuis vivatech - Global Ocean Accelerator + ChangeNOW, 2026-10-30) ; réponse non vue.
+- Décliner le gabarit d'invitation officielle du 05/11 pour chaque acteur public, avec le court échange téléphonique proposé (Léonie, Armand) : fait ou non ?
 - Idée de Ian Hartmann : MA à Smart Cities en 2027 (le gouverneur de Tokyo y était et se déplace) (Drive: CN27 - ODJ et prise de note, 2026-11-18).
 - Égypte : financeur du pavillon, rencontre Santiago x Ambassadeur, déplacement GM (GM, AD).
 - EIC : envoyer la lettre à Stéphane Ouaki (noms des 3 startups « XX » à compléter) et faire choisir L1 ou L2 (GM).
@@ -137,6 +140,7 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 - Africa for Change 2027 : MA reste-t-il impliqué (« pull out ») ?
 - Modèle économique de Bridge and Value (commission ?) : absent du MoU.
 - Grille qui fait foi (deck vs argumentaire vs séminaire) : voir [[changenow-grille-tarifaire]].
+- Dates du sommet : 26-28/04/2027 (lettres, mails KAM) ou 26-27/04/2027 (gabarit d'invitation officielle du 05/11/2026, Gmail) ? À confirmer avec ChangeNOW avant tout nouvel envoi.
 
 ## Documents Drive
 - CN27 - Fiche projet (1X3lyZTqxn3UudVwBLZPXkSdw3XyfBVTpCpkvapfzLkU)

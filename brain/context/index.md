@@ -1,7 +1,7 @@
-# context/ index (generated 2026-11-22, 6 notes)
+# context/ index (generated 2026-11-23, 6 notes)
 
 ## active
-- [[config]] (updated 2026-11-18, imp ?): Settings every brain routine reads. Change values here, never in skills.
+- [[config]] (updated 2026-11-23, imp ?): Settings every brain routine reads. Change values here, never in skills.
 - [[business]] (updated 2026-11-16, imp 5): Boutique de conseil parisienne (Climate House) fondée en 2023 par Guillaume Maréchal, « building bridges » entre continents, secteurs et personnes ; 3 sphères Impact / Innovation / Industries créatives ; client pivot ChangeNOW ; Cap 2027 = alliances Taiwan, Égypte, Nigeria, Ukraine et montée en gamme.
 - [[me]] (updated 2026-11-15, imp 5): Fondateur et CEO de Maréchal Advisory (fondé en 2023 selon les offres), ex-VivaTech, Ville de Paris et Musée d'Orsay ; porte aussi des titres chez ses clients (ChangeNOW, École du Louvre, Art Paris, Waves of Change) ; valide tout et ramène le business.
 - [[icp]] (updated 2026-11-13, imp 5): MA sert quatre familles - acteurs publics internationaux (pays, ambassades, agences) via des organisateurs de sommets, institutions culturelles en levée de fonds, organisateurs d'événements à impact, et (offre en construction) startups deep tech en expansion internationale ; interlocuteurs C-level.

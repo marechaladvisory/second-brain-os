@@ -10,12 +10,21 @@ summary: Décisions datées de Maréchal Advisory avec leur raison, les plus ré
 Format: `## YYYY-MM-DD <décision>` puis `Why:` et `Replaces:` si besoin. Source Drive en fin de ligne.
 Décisions antérieures au 2026-11-18 : reprises du Drive lors du setup (raw/2026-11-18-drive-setup/).
 
+## 2026-11-19 Recrutement janvier 2027 : nouvelle session d'entretien collectif le 24/11/2026 (18h30-20h, visio), avec de nouveaux candidats
+Why: candidats absents le 10/11 ; élargir le vivier. [[recrutement-janvier-2027]] (Gmail: Nouvelle session d'entretien collectif… – mardi 24 novembre à 18h30, 2026-11-19)
+
 ## 2026-11-18 Art Paris : rencontre physique Renault le 10/12/2026 à 17h30, portée par Audrey Keita et Léonie, GM en copie
 Why: GM indisponible ce jour-là et Renault boucle ses budgets 2027 fin 2026 (fenêtre courte). [[art-paris-2027]] [[renault]] (Drive: Art Paris 2027 - Suivi, 2026-11-18)
+
+## 2026-11-16 GOA : visio Fondation Prince Albert II le vendredi 4/12/2026 à 9h30 plutôt qu'en janvier
+Why: premier créneau proposé, avant les accords de principe visés en décembre. [[global-ocean-accelerator]] [[fondation-prince-albert-ii]] (Gmail: Mise en relation - 2050 x Fondation Prince Albert II, 2026-11-16)
 
 ## 2026-11-13 Cotonou : proposer 76 150 € HT au forfait, en marque blanche, TJM de GM à 1 750 € au lieu de 2 500 € (−30 % partenaire)
 Why: rester dans l'enveloppe Choiseul de 70-80 k€ et entrer chez Choiseul. Proposition non signée au 2026-11-13. [[choiseul-cotonou-2027]] (Drive: Interne - Note de cadrage Bénin, 2026-11-13)
 Replaces: chiffrage du 2026-11-02 à 88 250 € HT.
+
+## 2026-11-13 GOA : RDV CMA CGM le mardi 24/11/2026 à 16h (fixé par Léonie)
+Why: report demandé par CMA CGM le 10/11 pour que Caroline Roux (référente environnement) assiste. [[global-ocean-accelerator]] [[cma-cgm]] (Gmail: Global Ocean Accelerator - Station F, 2026-11-13)
 
 ## 2026-11-12 Cotonou : enveloppe 70-80 k€ ; +10 % absorbé, au-delà de +15 % avenant
 Why: cadrage budgétaire avec Choiseul. [[choiseul-cotonou-2027]] (Drive: 1- Pilotage Bénin Choiseul Ecobank, 2026-11-12)
@@ -23,11 +32,20 @@ Why: cadrage budgétaire avec Choiseul. [[choiseul-cotonou-2027]] (Drive: 1- Pil
 ## 2026-11-12 Recrutement Founder's Associate : 3 candidats à faire avancer, 2 en réserve
 Why: qualité des cas pratiques. [[recrutement-janvier-2027]] (Drive: Note d'analyse - cas pratiques, 2026-11-12)
 
+## 2026-11-12 Recrutement janvier 2027 : chercher un 4e candidat pour l'individuel (45 min, 1-2 références), garder les back-ups, ne pas encore prévenir les non-retenus ; logistique confiée à Tiana
+Why: qualité des échanges et des cas pratiques ; garder le vivier tant que le choix n'est pas fait (« on les fait patienter »). [[recrutement-janvier-2027]] [[tiana]] (Gmail: Next step - process RH, 2026-11-12)
+
 ## 2026-11-06 Offre vins : contrat de collaboration léger MA x Sylvain, sans société ; activité France en France
 Why: lancer vite, structurer plus tard (Estonie seulement si l'activité devient surtout internationale). Posture : « facilitateurs/journalistes, pas commerciaux ». [[offre-vins-mecenat]] (Drive: Pilotage Suivi Offre Vins mécénat et plateforme de marque, 2026-11-06)
 
+## 2026-11-06 AP27 : toute réponse d'absence qui donne une autre adresse est renvoyée à cette adresse, les autres destinataires gardés en boucle
+Why: ne perdre aucun destinataire de la campagne. [[art-paris-2027]] [[playbook-campagne-lettres]] (Gmail: Art Paris Avril 2027 - Letter from Guillaume Piens, Valentine and Julien Lecêtre, 2026-11-06)
+
 ## 2026-11-05 Campagnes de lettres : 2 pages max, checkpoints 1-1 par phase, matrice de lettre type, grid Airtable dédiée
 Why: coquilles et manque d'anticipation sur les campagnes CN27/AP27. [[playbook-campagne-lettres]] (Drive: MA - RETEX Campagnes de lettres, 2026-11-05)
+
+## 2026-11-05 AP27 : les 67 lettres partent en un seul envoi depuis la boîte de GM, Léonie en copie
+Why: cohérent avec « tout passe par email » (03/11) ; envoi fait avant la fin des envois fixée au 5-6/12. [[art-paris-2027]] (Gmail: Art Paris Avril 2027 - Lettre de Guillaume Piens, Valentine et Julien Lecêtre, 2026-11-05)
 
 ## 2026-11-04 Offre startups : retainer mensuel plutôt qu'un % ; « affaires publiques » devient une composante ; EIC prescripteur et non client ; cible CEO ingénieurs deep tech
 Why: le % fait peur aux startups et 50 Partners prend 6,5 % ; terme « affaires publiques » mal compris ; procurement EIC trop complexe ; portefeuille homogène pour industrialiser. [[offre-open-doors-startups]] (Drive: brainstorming d'équipes - 4 novembre - OS)
@@ -41,11 +59,17 @@ Why: sécuriser le rôle de MA (facilitateur obligatoire, non-contournement). [[
 ## 2026-11-04 AP27 et Centre Pompidou-Metz : lettres envoyées avant le 5-6 décembre
 Why: Léonie part mi-décembre ; un envoi en janvier fait perdre un mois. [[art-paris-2027]] [[centre-pompidou-metz-mecenat]] (Drive: Art Paris 2027 - Suivi ; CPM - Suivi)
 
+## 2026-11-03 Recrutement janvier 2027 : présélection écrite (motivation + intérêt pour les ICC) avant l'entretien collectif
+Why: « mieux apprécier l'adéquation de votre profil avec le poste ». [[recrutement-janvier-2027]] (Gmail: Stage International Impact Innovation… - Votre candidature, 2026-11-03)
+
 ## 2026-10-28 CN27 : lettres envoyées le 3/11, prochain kick-off le 20/01/2027
 Why: calendrier de la campagne. [[changenow-cn27]] (Drive: Weekly 2810)
 
-## 2026-10-27 Recrutement janvier 2027 : passage de 1 à 2 postes
-Why: non écrit. [[recrutement-janvier-2027]] (Drive: 2027 - january - internship)
+## 2026-10-27 Recrutement janvier 2027 : passage de 1 à 2 postes, le second « en décalé » (printemps/été 2027)
+Why: « Notre priorité est la qualité du profil » ; certains masters ne libèrent leurs étudiants qu'en avril (raison écrite par GM, connue depuis la passe Gmail du 2026-11-23). [[recrutement-janvier-2027]] (Drive: 2027 - january - internship ; Gmail: Offre de stage – International Impact Innovation…, 2026-10-27)
+
+## 2026-10-27 Signature de GM : « CEO and Founder » au lieu de « Global Development Director » sur les mails MA
+Why: non écrit (consigne de GM à l'équipe : « Pour MAJ de ma signature, fonction : CEO and Founder ») ; la signature EDL « Global Development Director » reste utilisée pour le FEDL (05/11). [[me]] (Gmail: FW: Offre de stage – International Impact Innovation…, 2026-10-27)
 
 ## 2026-10-20 GOA : marque « led by Marechal Advisory, in partnership with Inskip », budget de lancement 350 k€ (minimum 300 k€)
 Why: retours d'Abigaïl (Station F). [[global-ocean-accelerator]] (Drive: OA - Suivi)

@@ -3,8 +3,8 @@ title: Playbook des campagnes de lettres MA
 type: concept
 status: active
 created: 2026-11-18
-updated: 2026-11-12
-review_by: 2027-11-12
+updated: 2026-11-20
+review_by: 2027-11-20
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -71,9 +71,11 @@ Séance [[armand-dogra]] x [[leonie-vankemmel]] (Drive: MA - RETEX Campagnes de 
 ## Ce qui marche (constats)
 - Une invitation à un événement suscite plus de réponses qu'une sollicitation à froid : « une invitation à un événement suscite bien plus d'intérêt qu'une sollicitation à froid » (Drive: EDL - Mail point invitations Chaire UNESCO, 2026-06-19).
 - Garder les refus dans la boucle : tous les contacts EDL, y compris ceux qui ont décliné, sont invités à l'inauguration de l'amphithéâtre (« Le mécénat est un temps long ») (Drive: EDL - Mails, 2026-11-12).
+- AP27, premiers chiffres (boîte de GM, au 23/11/2026) : 67 lettres envoyées le 05/11 en 3 minutes ; 3 non distribuées (adresses à vérifier avant envoi) ; 7 réponses humaines (Renault, UGGC, Isabel Marant, BMW et August Debouzy en 24 h, puis Matmut le 09/11 et Apple le 16/11), soit environ 10 %, dont 2 refus, 2 rendez-vous obtenus (Renault le 17/11, UGGC le 25/11) et 1 café à fixer ; les réponses viennent des contacts réseau de GM ou d'une intro personnalisée (Gmail: Art Paris Avril 2027 - Lettre de Guillaume Piens, Valentine et Julien Lecêtre, 2026-11-05 à 2026-11-18). Voir [[art-paris-2027]].
+- Hygiène d'envoi (décision du 06/11/2026) : toute réponse d'absence qui donne une autre adresse est renvoyée à cette adresse, les autres destinataires gardés en boucle ; les non-remises sont renvoyées à un autre contact (Vinci, Matmut le 09/11) (Gmail: Art Paris Avril 2027 - Letter…, 2026-11-06 ; Lettre…, 2026-11-09).
 - Relances à valeur ajoutée plutôt que rappels : article, deck, aftermovie, présence de GM à un événement, lettre du CEO (Drive: CN 25 - un bon business developper, 2026-08-08).
 
 ## Questions ouvertes
-- Taux de réponse et rendez-vous issus des campagnes CN27 et AP27 : non mesurés au 2026-11-17.
+- Taux de réponse et rendez-vous issus des campagnes : AP27 compté à la main depuis la boîte de GM (environ 10 % de réponses au 23/11) ; CN27 non mesuré ; pas de mesure dans Airtable.
 - La consigne « envoyer avant le 5-6 décembre » figure dans le suivi AP27 du 04/11/2026 et dans la timeline CPM ; elle vise probablement la campagne CPM (note CPM rangée dans le suivi AP27, hypothèse), voir [[centre-pompidou-metz-mecenat]].
 - Qui reprend le publipostage après le départ de Léonie mi-décembre 2026 ?

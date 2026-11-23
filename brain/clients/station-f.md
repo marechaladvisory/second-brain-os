@@ -3,8 +3,8 @@ title: Station F
 type: entity
 status: active
 created: 2026-11-18
-updated: 2026-11-12
-review_by: 2027-05-11
+updated: 2026-11-13
+review_by: 2027-05-12
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -31,7 +31,7 @@ summary: Campus de startups parisien ; « notre client Station F » pour le Glob
 - [[global-ocean-accelerator]] ; [[offre-open-doors-startups]] ; [[offre-affaires-publiques]].
 
 ## Contacts
-- [[abigail-bouaziz]] (directrice des programmes, référente) ; Roxane (DG, nom non documenté).
+- [[abigail-bouaziz]] (« Partners & Business Development Lead » en signature, référente ; à l'étranger du 17 au 30/11/2026) ; [[assia-dalla-vedova]] (Business Development Associate - Corporate Partnerships, relaie Abigaïl sur CMA CGM) ; Roxane (DG, nom non documenté) (Gmail: Global Ocean Accelerator - Station F, 2026-11-10 à 2026-11-13).
 
 ## Historique
 - Avant 2026 : accélérateur Future of Tourism pour AFALULA à Station F (« de A à Z : sourcing, PR, Demo Day », Drive: Pitch Deck - a retravailler, 2026-09-24).

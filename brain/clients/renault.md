@@ -3,14 +3,14 @@ title: Renault
 type: entity
 status: active
 created: 2026-11-20
-updated: 2026-11-18
-review_by: 2027-05-17
+updated: 2026-11-20
+review_by: 2027-05-19
 importance: 4
 supersedes: ""
 superseded_by: ""
 sources: []
 aliases: [Groupe Renault, Fonds Renault pour l'Art et la Culture]
-summary: Constructeur automobile, prospect chaud d'Art Paris 2027 (partenariat hybride mobilité + cash + Art Car) ; 1er rendez-vous le 17/11/2026, rencontre physique le 10/12/2026, budgets 2027 bouclés fin 2026.
+summary: Constructeur automobile, prospect chaud d'Art Paris 2027 (partenariat hybride mobilité + cash + Art Car) ; visio le 17/11/2026, Renault demande le 20/11 support, pistes d'activation et confirmation d'un besoin de 30-40 véhicules ; rencontre physique le 10/12/2026, budgets 2027 bouclés fin 2026.
 ---
 # Renault
 
@@ -20,11 +20,19 @@ summary: Constructeur automobile, prospect chaud d'Art Paris 2027 (partenariat h
 
 ## Historique
 - 2026-09-23 : Art Paris donne son feu vert pour reprendre Renault (approche initiale via Jean-Dominique Senard) (Drive: Art Paris 2027 - Suivi, 2026-11-05).
-- 2026-11-17 : 1er rendez-vous avec Naomi Nascimento (Partnerships & Brand Image, pilote les Art Cars depuis 2021), Annejela Royoux (partenariats, dont Roland-Garros) et Stéphane Barbat (directeur Partenariats) : intérêt confirmé, budgets sous pression, fenêtre courte. Idée de Stéphane Barbat : une thématique commencée à Art Paris et poursuivie au 53 (Drive: Art Paris 2027 - Suivi, 2026-11-17).
+- 2026-11-05 : lettre AP27 adressée à Jean-Pierre Diernaz (rôle non précisé) ; le 06/11, Stéphane Barbat propose une visio le 17/11 de 16h à 16h30, GM propose 16h30 puis accepte 16h (Gmail: Art Paris Avril 2027 - Lettre de Guillaume Piens, Valentine et Julien Lecêtre, 2026-11-06).
+- 2026-11-17 : 1er rendez-vous (Teams, 16h-16h30) avec Naomi Nascimento (Partnerships Manager, pilote les Art Cars depuis 2021), Annejela Royoux (partenariats, dont Roland-Garros) et Stéphane Barbat (Partnerships & Brand Image Director, Renault Global Marketing) : intérêt confirmé, budgets sous pression, fenêtre courte. Idée de Stéphane Barbat : une thématique commencée à Art Paris et poursuivie au 53 (Drive: Art Paris 2027 - Suivi, 2026-11-17).
+- 2026-11-20 : Naomi Nascimento écrit à GM et Guillaume-Olivier Robic ([[guillaume-robic]]) : elle demande le support de présentation, « une synthèse des quelques pistes d'activation imaginables dans l'éventualité d'une association » et la confirmation du « besoin en véhicules évoqué (30-40u) » (Gmail: Art Paris Avril 2027, 2026-11-20).
 - 2026-12-10 à 17h30 : rencontre physique prévue dans les locaux d'Art Paris avec Guillaume Piens et Audrey Keita, Léonie, GM en copie (Drive: Art Paris 2027 - Suivi, 2026-11-18 ; Art Paris 2027 - Mails, 2026-11-18).
 
 ## Offre en discussion
 Détail et contraintes dans [[art-paris-2027]] (pipeline au 2026-11-18).
 
 ## Contacts
-- Naomi Nascimento, Annejela Royoux, Stéphane Barbat (rôles ci-dessus).
+- Naomi Nascimento (Partnerships Manager, Renault Global Marketing), Stéphane Barbat (Partnerships & Brand Image Director, Renault Global Marketing), Annejela Royoux (partenariats), Jean-Pierre Diernaz (destinataire de la lettre) (Gmail: Art Paris Avril 2027, 2026-11-20 ; Art Paris Avril 2027 - Lettre…, 2026-11-06).
+
+## Prochaines étapes
+- Envoyer support, pistes d'activation et confirmation du nombre de véhicules avant le call de suivi du 26 ou 27/11/2026 (GM, Léonie) ; le chiffre de 30-40 demandé par Renault est à concilier avec la contrainte d'Art Paris (flotte historique 10 idéal, 8 max), voir [[art-paris-2027]].
+
+## History
+- Jusqu'au 2026-11-23 : Naomi Nascimento notée « Partnerships & Brand Image » et Stéphane Barbat « directeur Partenariats » (Drive: Art Paris 2027 - Suivi, 2026-11-17) ; titres remplacés par ceux des signatures mail (Gmail, 2026-11-06 et 2026-11-20).

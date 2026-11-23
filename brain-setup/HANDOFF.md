@@ -117,6 +117,12 @@ Granola et Google Drive sont les **deux entrées principales** du brain. Il faut
    - Le brain est dans le repo, donc la tâche doit pouvoir committer et pousser. Une règle `Bash(git push:*)` dans `.claude/settings.json` commité est nécessaire : `.claude/settings.local.json` n'existe que dans un conteneur.
 6. **Rattrapage initial** : au premier lancement, horodatage Drive = 2026-11-18 (date du setup). Pour Granola, tout l'historique (passe initiale décrite ci-dessous).
 
+## Prochaines étapes Gmail (2026-11-23, avant la liste du 2026-11-19)
+1. **Fusionner `claude/second-brain-gmail-0qsq6q` dans `main`** (accord de Guillaume), puis Guillaume ajoute le connecteur Gmail à la tâche brain-daily dans l'interface des routines.
+2. Le lendemain : vérifier que le brain-daily a poussé, que `queue.py cursor status` montre `gmail` avancé, et qu'aucune tâche n'a été bloquée par le hook (rapport de la session via `get_trigger` → `last_run.session_id`).
+3. Conflits ouverts par la passe Gmail (dans les notes, section Questions ouvertes) : flotte Renault 30-40 vs Art Paris 10 (8 max) ; lettres AP27 envoyées à BYD, MG, Xiaomi, Visa, Mastercard, CB, Ardian, Carmignac, Eurazeo malgré les exclusions ; 87 000 visiteurs / 165 galeries vs 90 000 / 170 ; dates CN27 26-27 vs 26-28/04 ; AFALULA ancien client vs demo day du 09/12 ; contact Stellantis ; AXA « interlocuteur unique ». À passer en grill mode avec Guillaume.
+4. Propositions pour context/ (non écrites, à valider par Guillaume) : fondation 2023 (deux mails de GM) et sens de la soirée « 10 ans » ; signatures de GM selon les casquettes (MA « CEO and Founder » depuis le 27/10) ; Tiana assistante recrutement depuis le 12/11 ; motifs de voix (voir log de la passe dans le rapport du writer, résumé dans le message de session du 2026-11-23).
+
 ## Prochaines étapes (revues le 2026-11-19, dans l'ordre)
 1. **Vérifier les tâches planifiées du 2026-11-20** : voir « À vérifier à la prochaine session » ci-dessus (daily poussé, file vide, lint poussé, pas de blocage sur une permission).
 2. **Trancher les 4 conflits de la veille** (EIC, PEF, Cotonou, onglet Automobile AP27) : à partir du rapport du brain-daily ; ce qui demande Guillaume passe par l'étape 7.

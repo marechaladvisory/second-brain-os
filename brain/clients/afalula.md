@@ -25,12 +25,15 @@ summary: Agence française pour AlUla (Arabie saoudite) ; ancien client de MA (a
 - Stratégie « Caméléon » : utiliser la casquette AFALULA pour la géopolitique et le soft power (doc de préparation, hypothèse IA) (Drive: ma-core).
 - DTW 2026 : un AFALULA Industry Dinner (17/03/2026) a accueilli des invités MA ; Gwénaëlle Delos (AFALULA) dans la liste des invités.
 - Honoraires et dates de la mission : non documentés.
+- Relation active en novembre 2026 : GM annonce à AXA un « Save the date : demo day Future of Tourism x AlUla x Galeries Lafayette le mercredi 9 décembre » 2026 (Gmail: Axa x Global Ocean Accelerator, 2026-11-04) et cite le 05/11 « AlUla en Arabie Saoudite » parmi les projets stratégiques qu'il accompagne (Gmail: Art Paris Avril 2027 - Lettre…, 2026-11-05).
+- Gwénaëlle Delos : « Directrice Hospitalité, Tourisme et Innovation, membre du COMEX » d'AFALULA ; GM propose à [[bmw]] qu'elle aille au petit-déjeuner BMW du 11/11 à sa place (Gmail: Art Paris Avril 2027 - Letter…, 2026-11-06).
 
 ## Projets liés
 - Aucun projet actif dans le brain ; références dans [[global-ocean-accelerator]] et [[offre-open-doors-startups]].
 
 ## Contacts
-- Gwénaëlle Delos (AFALULA) ; Anna Mekachera (rattachement à clarifier).
+- Gwénaëlle Delos (Directrice Hospitalité, Tourisme et Innovation, membre du COMEX) ; Anna Mekachera (rattachement à clarifier).
 
 ## Questions ouvertes
 - Dates, périmètre et rémunération de la mission AFALULA ; AlUla (RCU) est-elle la même entité que l'agence ?
+- Statut « ancien client » à revoir ? Le demo day Future of Tourism du 09/12/2026 et le « projets stratégiques qu'[il] accompagne » du 05/11 suggèrent une mission en cours : laquelle, avec quels honoraires ? (Gmail, 2026-11-04 et 2026-11-05 ; non tranché, la note garde « ancien client, relation encore vivante »).

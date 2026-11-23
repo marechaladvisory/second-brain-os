@@ -1,26 +1,37 @@
 # hot.md (rewritten daily by brain-daily, max 500 words)
-Updated 2026-11-22 (daily ; sources Drive jusqu'au 21/11).
+Updated 2026-11-23 (passe Gmail initiale : boîte de GM du 26/10 au 23/11 08:51 UTC ; Drive jusqu'au 21/11).
+
+## Cette semaine
+- Lun 23/11 : entretien collectif WoC 17h30-19h ([[mission-waves-of-change]]) ; point MA x Station F 18h30.
+- Mar 24/11 : RDV [[cma-cgm]] 16h (GOA) ; session d'entretien collectif recrutement 18h30-20h ([[recrutement-janvier-2027]]) ; call Diptyque (Audrey).
+- Mer 25/11 : RDV [[uggc]] 16h30 (AP27, ~30 k€ Promesses à préparer).
+- 26 ou 27/11 : call de suivi [[renault]].
 
 ## Priorities
-- [[choiseul-cotonou-2027]] : Choiseul a remporté l'appel d'offres Ecobank (confidentiel, en signature) ; MA = chef de projet 360° (RDV du 20/11) ; 300-500 invités, Sofitel non signé. À faire : RFP et répartition des rôles (Léa), puis proposition affinée (76 150 € HT, 60 ou 45 JH) ; créneaux Cotonou avant le 20/12 ; Cassandre le 21/11, call Florian.
-- [[changenow-cn27]] : clôture visée mi-décembre ; Taïwan, Afrique du Sud et Ukraine (House) confirmés ; Italie prioritaire (budget d'ici fin novembre) ; EIC : RDV Ouaki x Santiago (50 k€ ou 100 k€) ; CMA CGM intéressé (lead GM) ; kick-off 20/01/2027.
-- [[art-paris-2027]] : aucun partenaire signé ; [[renault]] chaud (call 26-27/11, RDV 10/12) ; Diptyque le 24/11 ; UGGC le 25/11 (~30 k€ Promesses) ; lettres avant le 5-6/12, AFBA le 4/12.
-- [[paris-economic-forum-2026]] : forum les 1-2/12 ; KPI du 18/11 = 2 participations (Hong Kong, Égypte) ; « The Other Growth » le 2/12.
-- [[global-ocean-accelerator]] : aucun sponsor signé ; CMA CGM le 24/11, Fondation Prince Albert II début décembre, AXA (pôle Nature) à décrocher ; nouvelle interlocutrice Assia côté Station F.
-- [[edl-generation-2030]] : deck du COMEX de novembre (script du 19/11) et livre blanc pour la reconduction 2027.
-- [[fondation-cartier-privatisations]] : 11 demandes traitées la semaine du 18/11 ; arbitrages Ludovic en attente.
-- [[recrutement-janvier-2027]] ; WoC : entretien collectif le 23/11 ([[mission-waves-of-change]]).
+- [[art-paris-2027]] : aucun partenaire signé ; 67 lettres parties le 05/11, ~10 % de réponses. Renault attend support, pistes d'activation et confirmation de 30-40 véhicules (Art Paris : 10 idéal, 8 max) ; RDV physique le 10/12. Refus : August Debouzy, Matmut.
+- [[global-ocean-accelerator]] : aucun sponsor ; CMA CGM le 24/11, visio Fondation Prince Albert II le 4/12 à 9h30 ; AXA veut un « interlocuteur unique » (Joséphine de Fontaines) et renvoie vers Ariane (pilier Nature) ; 19 prospections des 10-12/11 sans réponse.
+- [[choiseul-cotonou-2027]] : RFP et rôles (Léa), proposition affinée (76 150 € HT) ; créneaux Cotonou avant le 20/12.
+- [[changenow-cn27]] : clôture mi-décembre ; Italie (budget fin novembre), EIC (RDV Ouaki x Santiago), CMA CGM ; dates du sommet à confirmer (26-27 ou 26-28/04).
+- [[recrutement-janvier-2027]] : 4 individuels tenus les 16-18/11, aucun choix ni refus envoyé ; session du 24/11.
+- [[edl-generation-2030]] : deck COMEX, livre blanc (reconduction 2027).
+
+## Engagements en retard
+- Répondre à Apple France : en attente depuis le 16/11.
+- Revenir vers les 9 candidats du 10/11 : réponse promise le 12/11 « dans les prochains jours ».
+- Ariane (AXA) : visio proposée pour le 20/11, pas de réponse : relancer via Joséphine de Fontaines.
+- Café Isabel Marant (23, 25 ou 27/11 au matin) : à confirmer.
+- Renvoyer la lettre Mastercard ; relancer Tesla, Vinci, Eurazeo, Hyundai, Toyota avant le 5-6/12.
+
+## Échéances
+- 1-2/12 : [[paris-economic-forum-2026]] ; 4/12 : FPA2 9h30, AFBA ; 5-6/12 : fin des envois de lettres ; 9/12 : demo day Future of Tourism x AlUla ; 10/12 : Renault ; mi-décembre : départ de Léonie (passation EDL, AP27, CPM, WoC, GOA).
 
 ## Open loops
-- Cotonou : le rôle « 360° de A à Z » élargit-il le périmètre chiffré (79 j au 13/11, 60 JH au 18/11) ? Cheffe de projet 69 j vs 60 j vendus.
-- Conflits à trancher : PEF Nigeria (« seul deal » vs lead 2027) ; flotte Renault (10, ~20 ou ~40 véhicules) ; AP27 constructeurs chinois (exclus le 27/07 vs ciblés dans la grille modifiée le 21/11).
-- Départ de Léonie mi-décembre : passation EDL, AP27 (RDV Renault du 10/12), CPM, WoC, GOA, Friendship.
-- Sécurité Drive : identifiants et numéros de passeport en clair dans plusieurs docs.
-- Honoraires non documentés : CN25-CN27, PEF, GOA, WoC, CPM ; taux de commission AP27 et EDL.
-- Date de fondation : « fondé en 2023 » vs soirée « 10 ans de Maréchal Advisory » le 18/12/2026.
+- AP27 : lettres envoyées à BYD, MG, Xiaomi et à Visa, Mastercard, CB, Ardian, Carmignac, Eurazeo malgré les exclusions : levée ou erreur ?
+- AFALULA : le demo day du 9/12 suppose-t-il une mission en cours ?
+- Date de fondation : mails de GM « depuis 2023 » vs soirée « 10 ans » du 18/12.
 
 ## Decisions this week
-- 2026-11-18 AP27 : RDV physique Renault le 10/12 porté par Audrey et Léonie, GM en copie.
-- 2026-11-13 Cotonou : 76 150 € HT, TJM GM remisé de 30 %.
-- 2026-11-12 Founder's Associate : 3 candidats avancent, 2 en réserve.
-- 2026-11-12 Cotonou : enveloppe 70-80 k€, avenant au-delà de +15 %.
+- 2026-11-19 Recrutement : nouvelle session collective le 24/11.
+- 2026-11-18 AP27 : RDV physique Renault le 10/12 porté par Audrey et Léonie.
+- 2026-11-16 GOA : visio FPA2 le 4/12 plutôt qu'en janvier.
+- 2026-11-13 GOA : RDV CMA CGM le 24/11 ; Cotonou : 76 150 € HT.

@@ -3,8 +3,8 @@ title: Mission Waves of Change
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-10
-review_by: 2026-12-10
+updated: 2026-11-15
+review_by: 2026-12-15
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -44,6 +44,7 @@ Actif au 2026-11-10 : volet forum 2026 terminé ; recrutement du stagiaire méc�
   - Dossier Drive « OUI » (7, comme les « 7 candidats » du mail) : Axelle M.-J., Bastien D., Gabriel K. P., Inès D., Maëlys D., Ninon S., Romane G. ; Nathan K. et Hadi C. sont rangés en MAYBE. Écart non résolu (voir Questions ouvertes).
   - 13 MAYBE, 19 NON (alternance, finance/audit, dates incompatibles, français insuffisant…).
   - Le stagiaire participera au Tideline Ecosystem Kickoff ([[bpifrance]], Paris, 11/01/2027) et au Forum WoC (Biarritz, 31/05-02/06/2027).
+- Boîte de GM (Gmail, au 23/11/2026) : aucun mail de la vague 3 (sélection de 7 candidats, entretien collectif du 23/11), qui passe probablement par l'adresse WoC de GM. Un seul fil WoC : le 15/11/2026, GM (adresse WoC) répond à un ancien candidat WoC, qui envisage plutôt l'étranger pour la suite de sa césure, propose de « rest[er] en contact, notamment pour décembre » et écrit : « Si l'activité continue de se développer, nous continuerons à chercher des forces vives, déjà en stage. » Aucun recrutement en vue par ce fil (Gmail: Suite à notre échange, 2026-11-15).
 
 ## Argent
 - Aucun contrat ni honoraire MA ↔ WoC dans les documents (Drive, dossier Waves of Change, lu le 2026-11-17).
@@ -74,6 +75,7 @@ Actif au 2026-11-10 : volet forum 2026 terminé ; recrutement du stagiaire méc�
 ## Prochaines étapes
 - Validation par WoC de la sélection de 7 candidats, puis entretien collectif du 23/11/2026 — GM, Léonie.
 - Entretiens individuels avec demande de 1-2 références, choix du stagiaire pour janvier 2027 — GM.
+- Reprendre contact en décembre 2026 avec un ancien candidat WoC, comme proposé le 15/11 — GM (Gmail: Suite à notre échange, 2026-11-15).
 - **Sécurité** : retirer du Doc « WIP - Recrutement WoC - Juillet 2026 » les identifiants et mots de passe stockés en clair (boîte WoC, comptes des plateformes d'annonces).
 - Vérifier la signature du MOU Taipei et le lancement du plan d'action (projet pilote, ex. échange de startups blue economy, hypothèse).
 
