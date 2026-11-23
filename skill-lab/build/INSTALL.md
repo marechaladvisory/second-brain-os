@@ -26,8 +26,9 @@ Create two scheduled tasks (Claude desktop scheduled tasks, or cloud routines if
 - Weekly at `lint_day lint_time` (default Friday 16:00): "Run the brain-lint skill on this brain."
 The skills create `.claude/automated-run` during the run, so the hook keeps `context/` read-only; lint warns if a crashed run left it behind.
 Connectors (calendar, email, meeting notes, CRM): add them to Claude, then list them in `context/config.md` `connectors`.
-- Every `watch_interval_hours` (default 4 h) if a connector is watched (Drive, Granola): "Run the brain-watch skill on this brain." It only fills the queue; brain-daily integrates and catches up if a watch run was missed.
-Cloud routines: the session starts at the repo root, so the prompt says `cd <brain folder>` and ends with `git pull --rebase` then `git push` (needs `Bash(git push:*)` in the repo's `.claude/settings.json`). Fill the Watch section of `context/config.md` first (folder id to watch, excluded folders, first resume point).
+- Every `watch_interval_hours` (default 4 h) if a connector is watched (Drive, Gmail, Granola): "Run the brain-watch skill on this brain." It only fills the queue; brain-daily integrates and catches up if a watch run was missed.
+Cloud routines: the session starts at the repo root, so the prompt says `cd <brain folder>` and ends with `git pull --rebase` then `git push` (needs `Bash(git push:*)` in the repo's `.claude/settings.json`). Fill the Watch section of `context/config.md` first (folder id to watch, excluded folders, first resume point; for Gmail `watch_gmail_start` and the skip/recruiting keys). The routine needs each watched connector attached (Drive, Gmail).
+Security: `.claude/hooks/guard-connectors.sh` (PreToolUse `mcp__.*`) blocks connector tools that send, share or delete, and allows only read-only connector tools in automated runs; keep it wired in the settings that the routine's session loads (repo root `.claude/settings.json` when the brain is a subfolder).
 
 ## 5. After any change
 Change of AGENTS.md, folders, decay settings, skills or model → run brain-evals ("test my brain"). Add a case to `evals.md` each time the brain gets something important wrong.
