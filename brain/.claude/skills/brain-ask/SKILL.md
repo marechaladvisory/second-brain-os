@@ -19,6 +19,7 @@ Search before answering: a wrong answer from guessing costs more than a search. 
 - Two active notes disagree → give the one with the newer `updated` and newer source, say there is a conflict, name both notes. Add one line to the answer: "brain-lint will list it" (do not fix it here).
 - `certainty`/draft or `## Open questions` content → present it as unconfirmed.
 - Changing operational data (a specific email, today's pipeline) → read the connector; the brain stores insights, not that data.
+- Status of an exchange (did X reply, was the quote sent, what is the latest on a thread) with Gmail in `connectors` → `search_threads` with `view: THREAD_VIEW_SUMMARY` (latest message per thread; the default view shows only the oldest ones) on organisation, person or subject words (`in:sent` for what we sent), then `get_thread` on the 1-3 best threads. Answer with the date of the latest message, and flag a promise of ours that is past due. Compare with the note and say if it is behind: the Gmail watch queues it and brain-daily integrates, so do not file it back (§4) and do not log it as a miss (§5). Read-only: never send, reply or label; a draft only when the user asks for one.
 
 ## 3. Answer
 Answer first, in one or two sentences, then the detail. Cite the notes used as `[[note-name]]` (with `updated` date when freshness matters). Say plainly when the brain has no answer, and which note would be the right home for it.

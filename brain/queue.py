@@ -17,7 +17,7 @@ from pathlib import Path
 
 INBOX = Path(__file__).resolve().parent / "notes" / "inbox.md"
 STATE = Path(__file__).resolve().parent / "notes" / "sync-state.md"
-SOURCES = ["claude-code", "claude.ai", "drive", "granola", "other"]
+SOURCES = ["claude-code", "claude.ai", "drive", "gmail", "granola", "other"]
 CURSOR = re.compile(r"^- ([\w.-]+): (\S+) \| last_run: (\S+)\s*$", re.M)
 HEAD = re.compile(r"^## (q-\d{8}-\d{4,6}) \| (\w+)\s*$", re.M)
 FIELDS = ["date", "source", "session", "certainty", "entities", "facts", "decisions",
