@@ -49,7 +49,21 @@ Contrôles faits : aucun email, téléphone, mot de passe, numéro de passeport 
    - Toujours « écrire chaque fichier dès qu'on a la matière ».
    - Collision de slug : un projet et un client ne doivent jamais partager le même nom. Le projet WoC a été renommé `mission-waves-of-change`.
 
-## Gmail : état au 2026-11-23 (lire en premier)
+## Airtable : état au 2026-11-23 (lire en premier)
+**Demande** : ajouter Airtable comme les autres sources, avec 3 volets : intégration aux données actuelles, connecteur, entrée continue. Choix de Guillaume : « plugin = connecteur » (comme Gmail : lecture live dans brain-ask, veille dans le brain-daily du matin, pas de plugin empaqueté).
+**Fait** :
+- Analyse de la structure : `brain-setup/airtable/analyse-structure.md`.
+- Champ `Modifié le (brain)` (`lastModifiedTime`, colonnes porteuses de sens seulement) ajouté dans 4-Contacts, 1-Next steps et 6- Cluster CN de « Dev Flo 2 » ; filtre et tri vérifiés.
+**Base** : le connecteur ne voit que « 🚀Dev Flo 2 » (`appJh4Mv3oVmstfzW`), copie de dev figée au 2026-09-11. Guillaume : « même schéma, mêmes apprentissages » → c'est la base de test.
+**Bloquant pour la passe initiale et la veille réelle** : partager la base de production avec le compte du connecteur Airtable, puis y recréer le champ `Modifié le (brain)` (mêmes colonnes, voir §5 de l'analyse).
+**Prochaines étapes** :
+1. Construire la veille Airtable dans `skill-lab/` (section Airtable de brain-watch, clés `watch_airtable_*` dans config, source `airtable` dans queue.py, clé `airtable:<recId>@<Modifié le>`, evals sur « Dev Flo 2 »).
+2. Ajouter la lecture Airtable live dans brain-ask.
+3. Passe initiale sur la production, avec la méthode habituelle (extraction, registre, writer).
+4. Ajouter le connecteur Airtable à la tâche brain-daily dans l'interface des routines (action de Guillaume).
+**Question ouverte** : quelles catégories de « 2 - Clients » exclure en plus de Personnel (Finance, Recrutement, TALENTS) ?
+
+## Gmail : état au 2026-11-23
 **Demande** : Gmail à la fois intégré aux données actuelles, comme connecteur live, et comme entrée continue. Choix de Guillaume : connecteur live (pas de plugin empaqueté) ; veille dans le brain-daily du matin (pas de tâche séparée) ; recrutement en synthèse seulement, aucun candidat nommé depuis les mails.
 **Boîte** : guillaume.marechal@ (≈ 380 fils, premier message 2026-10-26 ; ≈ 90 fils de recrutement). Les candidatures arrivent sur l'adresse « hello » et JobTeaser, pas dans cette boîte.
 **Fonctionnement** : brain-daily rattrape la veille Gmail chaque matin (curseur `gmail` dans `notes/sync-state.md`), file `source: gmail`, clé `gmail:<threadId>@<dernier message>`. Config : Watch section de `context/config.md` (`watch_gmail_*`). `budget_reads` 60 → 80.

@@ -77,6 +77,18 @@ Liens principaux : Contact → Organisation, Client (`Client (à utiliser)`), Cl
 - **Aucune table n'a de champ « Last modified time »**. Or le connecteur ne filtre ni ne trie que sur des champs réels (pas de formule `LAST_MODIFIED_TIME()` dans `list_records`). `analyze_table` accepte une formule, mais seulement pour regrouper ou compter.
   → Pour une veille fiable par curseur, il faut **ajouter un champ `lastModifiedTime`** (par exemple « Modifié le », qui suit les champs CR, Next steps, Done, Priorité, valeurs) dans 4-Contacts, 1-Next steps et 6- Cluster CN **de la base de production**. Cette écriture de schéma demande l'accord de Guillaume ; elle se fait en interactif ou à la main.
   → Sans ce champ, la seule solution de repli est une relecture large chaque jour, trop coûteuse sur 4 000 contacts.
+- **Fait le 2026-11-23 dans « Dev Flo 2 » (accord de Guillaume)** : champ `Modifié le (brain)` (type `lastModifiedTime`) ajouté dans les 3 tables. Il ne suit que les colonnes porteuses de sens, pour que les colonnes de campagne (RSVP, lettres, cases temporaires) ne déclenchent pas la veille :
+  | Table | ID du champ | Colonnes suivies |
+  | --- | --- | --- |
+  | 4-Contacts | `fldIZRAC2XCy7UBOE` | CR, Prénom, Nom, Fonction, Organisation, Client (à utiliser), Next Steps Commerciales, Team (Contact), ? GM, ODJ Client, Priorité MA Alchimie, mémo 2027, Revoir GM, Préparation RDV, Objectif du partenariat 26, MAJ contact / retours GM, Retours GM - CN27 lettres |
+  | 1-Next steps | `fldRtxNyKJ3R9p1VF` | Tâches, Done, CR, Next steps, Deadline, Priorité Tâches, Client - OK - tache, Contacts - OK, Team, ODJ Client, Type de next steps, ODJ 1-1 |
+  | 6- Cluster CN | `fldMiVxuGOIjlA68M` | Cluster Name, Value CN27, % CN27, Produits CN27, Priorité Commercialisation CN27, 🌳 P. Cluster CN27, Philosophie du partenariat, MAJ, Activation CN27, Réaliste CN27, Team (Cluster), 🥵 |
+- **Vérifié** :
+  - Airtable remplit le champ rétroactivement à partir de l'historique (seuls 85 contacts restent vides : aucune colonne suivie n'y a jamais été remplie).
+  - Un record créé reçoit sa date de création (les contacts créés par le SAS le 09/11 l'ont).
+  - `list_records_for_table` avec le filtre `>` sur ce champ (`{"mode":"exactDate",...}`) et un tri croissant fonctionne : 7 contacts depuis le 2026-10-01.
+- **À refaire en production** avec le même nom et les mêmes colonnes. Les ID de champ y seront différents : la veille doit les relire avec `list_tables_for_base` au premier passage, puis les noter dans `context/config.md`.
+- Limite : une colonne ajoutée plus tard n'est pas suivie tant qu'on ne l'ajoute pas au champ.
 - Les valeurs `singleSelect` reviennent sous forme d'objets ; les filtres passent par les ID de champ.
 - Les tableaux de la table Contacts sont énormes (228 colonnes) : il faut toujours passer `fieldIds` (une dizaine de colonnes utiles).
 
@@ -90,6 +102,6 @@ Liens principaux : Contact → Organisation, Client (`Client (à utiliser)`), Cl
 
 ## 7. Questions bloquantes pour Guillaume
 1. **Accès à la base de production** : il faut la partager avec le compte du connecteur Airtable, ou reconnecter le connecteur avec le compte qui la possède. « Dev Flo 2 » reste la base de test (réponse du 2026-11-23 : même schéma, mêmes apprentissages).
-2. Peut-on ajouter un champ « Modifié le » (`lastModifiedTime`) dans 4-Contacts, 1-Next steps et 6- Cluster CN de la production ?
+2. ~~Champ « Modifié le »~~ : accord le 2026-11-23, fait dans « Dev Flo 2 » ; à reproduire en production (voir §5).
 3. Périmètre : quelles catégories de « 2 - Clients » exclure en plus de Personnel ? (Finance ? Recrutement ? TALENTS ?)
-4. « Plugin » : une veille par le connecteur (comme Gmail) suffit-elle, ou voulez-vous un plugin empaqueté (skill Airtable dédié, à partager avec l'équipe) ?
+4. ~~Plugin~~ : **« plugin = connecteur »** (Guillaume, 2026-11-23). On fait comme pour Gmail : connecteur live dans brain-ask, veille dans le brain-daily du matin, pas de plugin empaqueté.
