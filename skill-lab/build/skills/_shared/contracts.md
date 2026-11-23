@@ -64,8 +64,8 @@ brain.py reads the first three at every run; skills read `review_days`.
 ```
 ## q-20261110-1432 | new
 - date: 2026-11-10
-- source: claude-code          # claude-code|claude.ai|drive|granola|other
-- session: <id or short title>   # watch entries: drive:<fileId>@<modifiedTime>, granola:<meetingId>@<updated>
+- source: claude-code          # claude-code|claude.ai|drive|gmail|granola|other
+- session: <id or short title>   # watch entries: drive:<fileId>@<modifiedTime>, gmail:<threadId>@<latestMessageId>, granola:<meetingId>@<updated>
 - certainty: fact               # fact|hypothesis (hypothesis = mostly exploratory)
 - entities: acme-corp; pricing
 - facts: Acme accepted 1 200 EUR/month from January (call 2026-11-10)
@@ -76,7 +76,7 @@ brain.py reads the first three at every run; skills read `review_days`.
 ```
 `verbatim`: 1-3 exact user sentences worth keeping for voice, or empty. brain-daily stores `hypothesis` entries as draft notes or open questions, never as active facts.
 Statuses: `new` → `integrated` (result = touched notes) or `rejected` (result = reason). Only brain-daily integrates.
-Connector watch (brain-watch): resume point per connector in `notes/sync-state.md`, read and written only through `queue.py cursor get|set|status|stale` (a cursor never moves back). Before adding a watch entry, `queue.py has "<session key>"`: exit 0 means already queued, skip. brain-watch only queues; it never edits notes.
+Connector watch (brain-watch): resume point per connector in `notes/sync-state.md`, read and written only through `queue.py cursor get|set|status|stale` (a cursor never moves back). Before adding a watch entry, `queue.py has "<session key>"`: exit 0 means already queued, skip. brain-watch only queues; it never edits notes, and it never sends or changes mail (Gmail is read-only for every brain skill except a draft the user asks for).
 
 ## 7. Write discipline (all writing skills)
 1. Search first: `python3 brain.py search "<entity or topic>"`; extend the best match, never create a near-duplicate.
@@ -88,4 +88,4 @@ Connector watch (brain-watch): resume point per connector in `notes/sync-state.m
 7. After creating or renaming notes: `python3 brain.py index`.
 
 ## 8. config.md keys
-`timezone, daily_time, lint_day, lint_time, connectors[], budget_reads, budget_writes, budget_fixes, proactivity (observer|advisor|assistant|partner), queue (inbox), capture_confirm (false)`; Watch section: `watch_interval_hours, watch_budget_files, watch_drive_root, watch_drive_exclude[], watch_drive_skip_titles[], watch_drive_max_mb, watch_start`. Skills read values here; never hard-code them. [Ben AI conventions; Cole proactivity levels]
+`timezone, daily_time, lint_day, lint_time, connectors[], budget_reads, budget_writes, budget_fixes, proactivity (observer|advisor|assistant|partner), queue (inbox), capture_confirm (false)`; Watch section: `watch_interval_hours, watch_budget_files, watch_drive_root, watch_drive_exclude[], watch_drive_skip_titles[], watch_drive_max_mb, watch_start, watch_gmail_start, watch_gmail_query, watch_gmail_skip_senders[], watch_gmail_budget_threads, watch_gmail_recruiting (summary|candidates|skip), watch_gmail_recruiting_markers[]`. Skills read values here; never hard-code them. [Ben AI conventions; Cole proactivity levels]

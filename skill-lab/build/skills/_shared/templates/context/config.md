@@ -26,6 +26,12 @@ summary: Settings every brain routine reads. Change values here, never in skills
 - watch_drive_skip_titles: []   # title prefixes never read, e.g. ["CV "]
 - watch_drive_max_mb: 25        # larger files are listed in the report, not read
 - watch_start: ""               # first resume point (ISO date) when sync-state has none
+- watch_gmail_start: ""         # Gmail watched when set: first resume point (ISO date); older mail = initial pass or ignored
+- watch_gmail_query: "-category:promotions -category:social -category:forums"   # added to after:<cursor>
+- watch_gmail_skip_senders: [noreply, no-reply, notification, mailer-daemon]   # automated senders, never read
+- watch_gmail_budget_threads: 30   # threads read per run
+- watch_gmail_recruiting: summary  # summary (one entry per run, no candidate named) | candidates (first name + initial) | skip
+- watch_gmail_recruiting_markers: ["candidature", "offre de stage"]   # subject words that mark a recruiting thread
 ## Decay (read by brain.py; days; 0 = no decay)
 - decay_half_life: project=30, entity=180, concept=365, source=365, log=7, inbox=3, context=0, decision=0
 - decay_status_mult: active=1, draft=0.8, archived=0.3, superseded=0
