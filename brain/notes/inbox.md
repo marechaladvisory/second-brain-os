@@ -163,3 +163,63 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - open_loops: CONFLICT art-paris-2027: « pas de constructeurs chinois (sortis du marché) » (décision 2026-07-27) vs en-tête de l'onglet Automobile « viser le segment électrique, notamment chinois & coréen » (grille modifiée le 21/11/2026, date de l'en-tête inconnue)
 - verbatim: 
 - result: projects/art-paris-2027/about.md
+
+## q-20261124-062002 | integrated
+- date: 2026-11-24
+- source: drive
+- session: drive:130oMA3Gkg5y0vQr_4BfCWBywUbMjPYQVUlx-GUYMVn8@2026-11-23T15:40:29.770Z
+- certainty: hypothesis
+- entities: art-paris-2027; renault
+- facts: Brouillon de mail de GM à Renault (Stéphane, Naomi, Annejela), non daté, ajouté au Doc au 23/11 : pistes de partenariat sur mesure en « fournisseur officiel » : flotte VIP avec chauffeurs + contribution financière, Art Car à l'intérieur du Grand Palais (autorisation obtenue) et/ou espace d'expression pour la collection Renault, mise en avant d'un nouveau modèle lié à une collaboration avec un grand créateur, synergies avec le flagship du 53 Champs-Élysées (side event design, petit-déjeuner conférence avant l'ouverture) ; flotte « a priori une vingtaine de véhicules » ; propose une visio de brainstorming le lundi 30/11/2026 à 16h30 et une réunion avec Guillaume Piens et Audrey Keita dans les locaux d'Art Paris le jeudi 10/12/2026 à 17h30 (Drive: Art Paris 2027 - Mails, 2026-11-23)
+- decisions: 
+- open_loops: Ce brouillon était-il envoyé ? La visio du 30/11 16h30 remplace-t-elle le call de suivi du 26 ou 27/11 ?; CONFLICT art-paris-2027: flotte 30-40 véhicules (Renault, Gmail 20/11) vs « une vingtaine » (brouillon de mail, Drive 23/11)
+- verbatim: 
+- result: projects/art-paris-2027/about.md, clients/renault.md
+
+## q-20261124-062003 | integrated
+- date: 2026-11-24
+- source: drive
+- session: drive:11SOm2dOOKXgsiEWNddastiQ2MlmZeFDq@2026-11-23T15:16:44.769Z
+- certainty: fact
+- entities: edl-generation-2030; majid-boustany; claire-barbillon
+- facts: Article du Figaro (Carole Bellemare, 20/11/2026), classé au Drive : l'amphithéâtre historique de l'École du Louvre, rénové grâce à près d'un million d'euros de Majid Boustany, rebaptisé « Louise-Bourgeois » (ex-Cézanne), inauguré le 18/11/2026 au soir ; plus de quatre mois de travaux, architecte Caroline Géhu ; Boustany offre aussi des œuvres de sa collection, dont un bronze de Rodin (La Méditation) et trois photographies de Louise Bourgeois par Jean-François Jaussaud ; il avait déjà donné plus de 2 M€ en 2020 (programme École du Louvre 2021-2022 : bibliothèque, cafétéria, centre de recherche) ; autres mécènes cités : Fondation Culture et Diversité, Fondations Malatier-Jacquet, Etrillard, Daniel et Nina Carasso, Antoine de Galbert, Louis Vuitton Malletier (Drive: Le Figaro L'École du Louvre parachève sa modernisation avec un nouvel amphithéâtre.pdf, 2026-11-23)
+- decisions: 
+- open_loops: CONFLICT edl-generation-2030: inauguration le 17/11/2026 à 18h15 (invitation) vs 18/11/2026 au soir (Figaro du 20/11) ; Retombée presse utilisable pour le deck COMEX / livre blanc FEDL
+- verbatim: 
+- result: projects/edl-generation-2030/about.md, people/majid-boustany.md
+
+## q-20261124-062004 | rejected
+- date: 2026-11-24
+- source: drive
+- session: drive:1qJjdNbYXckCABX49hfUsHjPpeYlofypOM05D36B1dSY@2026-11-23T16:58:02.446Z
+- certainty: fact
+- entities: changenow-cn27; cma-cgm; eic
+- facts: Section non datée la plus récente (après l'ODJ du 18/11) : rappel de posture « ni paillasson, ni hérisson », ne pas fabriquer les outils de CN (deck kick-off), garder le lead sur nos comptes et anticiper nos besoins (deck, offre commerciale) ; préparation du RDV Stéphane Ouaki inchangée (screening, agenda Europe, 3 slides, mémo EIC Accelerate House, 50 k€ pavillon / 100 k€ Forum) (Drive: CN27 - ODJ et prise de note, 2026-11-23)
+- decisions: 
+- open_loops: CMA CGM : partager des bullet points avec Ian (CN27 - ODJ et prise de note, 2026-11-23)
+- verbatim: 
+- result: déjà dans les notes (posture CN27, prépa Ouaki, bullet points CMA CGM)
+
+## q-20261124-062005 | integrated
+- date: 2026-11-24
+- source: drive
+- session: drive:1RRa9cwqv00oGNgJKgMXbCsBVTQB7Yo4hex5mXQRUuKs@2026-11-23T17:07:57.647Z
+- certainty: fact
+- entities: mission-waves-of-change; waves-of-change
+- facts: Entretien collectif WoC tenu le lundi 23/11/2026 (deck « Entretien collectif », Nicolas Occhiminuti, Minh Trinh et GM « Partner ») avec cas pratique écrit de 30 min : proposer deux sponsors pour le Tideline Startup Program 2027 et rédiger le mail d'approche ; nouvelle grille du 23/11 : 3 candidats inscrits (Bastien D., Grace M., Hadi C.), notes saisies pour un seul ; grille d'entretien individuel de 30 min à signaux vert/rouge (cas pratique, compréhension de l'offre, loi mécénat, relance, test du stylo, closing) (Drive: WoC - Grille entretien collectif & individuel - Nov 2026, 2026-11-23 ; WoC - Deck entretien collectif - Nov 26, 2026-11-23)
+- decisions: 
+- open_loops: WoC vague 3 : individuels et choix du stagiaire après le collectif du 23/11
+- verbatim: 
+- result: projects/mission-waves-of-change/about.md
+
+## q-20261124-062006 | integrated
+- date: 2026-11-24
+- source: drive
+- session: drive:18OCr9YjksCuN8uhm3wr1i0YPlFD4ToV7pC10kiawRLE@2026-11-23T17:24:38.504Z
+- certainty: fact
+- entities: changenow-cn27; changenow-grille-tarifaire; fondation-prince-albert-ii
+- facts: Deck « MA - Forums ChangeNOW 2027 » mis à jour le 23/11 : sommet les 26-27-28 avril 2027 au Grand Palais ; Electrification Forum et AI & Data for Impact Forum à 40 / 65 k€ HT (+15 k€ side event, 55 / 80 k€), pitch AI & Data en partenariat avec Plasseraud IP ; Impact Finance Forum sur 1,5 jour (lun 26 et mar 27/04/2027) à 20 / 50 k€ HT, avec un « Partner Event : Fondation Prince Albert II » au programme (Drive: MA - Forums ChangeNOW 2027, 2026-11-23)
+- decisions: 
+- open_loops: Dates CN27 : le deck MA du 23/11 dit 26-28/04, ce qui appuie la version des lettres contre « 26-27 avril » (à confirmer avec ChangeNOW)
+- verbatim: 
+- result: projects/changenow-cn27/about.md, wiki/changenow-grille-tarifaire.md, clients/fondation-prince-albert-ii.md

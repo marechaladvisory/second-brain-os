@@ -3,8 +3,8 @@ title: ChangeNOW 2027 - Délégations internationales et pavillons (CN27)
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-19
-review_by: 2026-12-19
+updated: 2026-11-24
+review_by: 2026-12-24
 importance: 5
 supersedes: ""
 superseded_by: ""
@@ -101,7 +101,7 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 
 ## Calendrier
 - 27/05/2026 séminaire Team Instit ; juin-juillet réénergiser les partenaires ; 22/07 Summer Session ; 8/09 MoU Taipei ; 14/10 kick-off ; octobre-décembre négociation ; 3/11 envoi des lettres ; mi-décembre deadline ; décembre-février clôture ; 20/01/2027 kick-off suivant (Drive: CN27 - Fiche projet, 2026-10-27).
-- Sommet : 26-28/04/2027 (lettre, mails KAM) ; certains mails d'accompagnement disent « 26–27 avril », de même que le gabarit d'invitation officielle testé depuis l'adresse ChangeNOW le 05/11/2026 (Gmail: Invitation Officielle - ChangeNOW Avril 2027 - 10e anniversaire, 2026-11-05) : incohérence non tranchée, voir Questions ouvertes.
+- Sommet : 26-28/04/2027 (lettre, mails KAM) ; certains mails d'accompagnement disent « 26–27 avril », de même que le gabarit d'invitation officielle testé depuis l'adresse ChangeNOW le 05/11/2026 (Gmail: Invitation Officielle - ChangeNOW Avril 2027 - 10e anniversaire, 2026-11-05) : incohérence non tranchée, voir Questions ouvertes. Le deck MA des forums mis à jour le 23/11 affiche « 26-27-28 April 2027, Grand Palais », avec l'Impact Finance Forum les lundi 26 et mardi 27/04 (Drive: MA - Forums ChangeNOW 2027, 2026-11-23).
 
 ## Décisions
 - 2026-05-06 : « Tout ce qui n'est pas un pays/délégation n'est pas ChangeNow » (AD), pour clarifier le périmètre (Drive: MA - Modélisation MAJ BDD, 2026-05-12).
@@ -140,7 +140,7 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 - Africa for Change 2027 : MA reste-t-il impliqué (« pull out ») ?
 - Modèle économique de Bridge and Value (commission ?) : absent du MoU.
 - Grille qui fait foi (deck vs argumentaire vs séminaire) : voir [[changenow-grille-tarifaire]].
-- Dates du sommet : 26-28/04/2027 (lettres, mails KAM) ou 26-27/04/2027 (gabarit d'invitation officielle du 05/11/2026, Gmail) ? À confirmer avec ChangeNOW avant tout nouvel envoi.
+- Dates du sommet : 26-28/04/2027 (lettres, mails KAM) ou 26-27/04/2027 (gabarit d'invitation officielle du 05/11/2026, Gmail) ? Le deck MA des forums du 23/11 dit 26-28/04, ce qui renforce cette version. À confirmer avec ChangeNOW avant tout nouvel envoi.
 
 ## Documents Drive
 - CN27 - Fiche projet (1X3lyZTqxn3UudVwBLZPXkSdw3XyfBVTpCpkvapfzLkU)

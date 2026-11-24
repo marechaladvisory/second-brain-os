@@ -3,8 +3,8 @@ title: Grille tarifaire ChangeNOW (CN25-CN27)
 type: concept
 status: active
 created: 2026-11-18
-updated: 2026-11-12
-review_by: 2027-11-12
+updated: 2026-11-24
+review_by: 2027-11-24
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -43,6 +43,7 @@ Prix de l'offre [[changenow]] vendue par MA aux acteurs publics, tous HT. Les ho
 - Sponsoring thématique, « MAJOR PARTNER PRICING CANNOT BE REDUCED » (Drive: MA - Sponsoring Options 2027, 2026-11-04) :
   - Electrification Forum et AI & Data for Impact Forum : 40 k€ / 65 k€ (+15 k€ de side-event, soit 55 / 80 k€).
   - Cities Programme : 6 k€ / 25 k€ ; Africa for Change : 10 / 30 / 55 k€.
+  - Confirmé dans le deck « MA - Forums ChangeNOW 2027 » du 23/11/2026 : Electrification et AI & Data à 40 k€ (Partner) / 65 k€ (Major Partner) HT, +15 k€ de side event ; pitch AI & Data en partenariat avec Plasseraud IP ; Impact Finance Forum (1,5 jour, 26-27/04/2027) à 20 k€ (Investor Partner) / 50 k€ (Major Impact Finance Partner) HT, programme avec un « Partner Event : Fondation Prince Albert II » (Drive: MA - Forums ChangeNOW 2027, 2026-11-23).
   - Inclusion & AccessAbility : 35 / 60 / 75 k€ ; Impact Finance Forum : 20 / 50 k€ ; Funds for Change : 30 / 15 / 15 (10 sans prise de parole) / 10 k€.
   - Climate Sense : 50 k€ (partenaire unique) ; Pioneers Dinner : 25 / 50 k€ ; Food Court : 15 / 30 / 50 k€.
 - Licences ChangeNOW Hubs (marchés émergents) : Connect 10 k€, Connect+ 12 k€, Amplify 15 k€ ; -50 % l'année 1, -30 % l'année 2 ; royalties de 10 % dès l'année 2 (Drive: Pricing Hubs 2026 - Taipei.pdf, 2026-10-21).

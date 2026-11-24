@@ -3,8 +3,8 @@ title: Mission Waves of Change
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-15
-review_by: 2026-12-15
+updated: 2026-11-24
+review_by: 2026-12-24
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -44,6 +44,7 @@ Actif au 2026-11-10 : volet forum 2026 terminé ; recrutement du stagiaire méc�
   - Dossier Drive « OUI » (7, comme les « 7 candidats » du mail) : Axelle M.-J., Bastien D., Gabriel K. P., Inès D., Maëlys D., Ninon S., Romane G. ; Nathan K. et Hadi C. sont rangés en MAYBE. Écart non résolu (voir Questions ouvertes).
   - 13 MAYBE, 19 NON (alternance, finance/audit, dates incompatibles, français insuffisant…).
   - Le stagiaire participera au Tideline Ecosystem Kickoff ([[bpifrance]], Paris, 11/01/2027) et au Forum WoC (Biarritz, 31/05-02/06/2027).
+  - Entretien collectif tenu le lundi 23/11/2026 : deck du jour présentant [[nicolas-occhiminuti]], [[minh-trinh]] et GM (« Partner »), même cas pratique écrit de 30 min (deux sponsors pour le Tideline Startup Program 2027 + mail d'approche) ; la grille du 23/11 ne liste que 3 candidats (Bastien D., Grace M., Hadi C.), notes saisies pour un seul ; grille d'entretien individuel de 30 min à signaux vert / rouge (débrief du cas pratique, compréhension de l'offre MA, loi mécénat, relance flash, test du stylo, closing) (Drive: WoC - Grille entretien collectif & individuel - Nov 2026, 2026-11-23 ; WoC - Deck entretien collectif - Nov 26, 2026-11-23).
 - Boîte de GM (Gmail, au 23/11/2026) : aucun mail de la vague 3 (sélection de 7 candidats, entretien collectif du 23/11), qui passe probablement par l'adresse WoC de GM. Un seul fil WoC : le 15/11/2026, GM (adresse WoC) répond à un ancien candidat WoC, qui envisage plutôt l'étranger pour la suite de sa césure, propose de « rest[er] en contact, notamment pour décembre » et écrit : « Si l'activité continue de se développer, nous continuerons à chercher des forces vives, déjà en stage. » Aucun recrutement en vue par ce fil (Gmail: Suite à notre échange, 2026-11-15).
 
 ## Argent
@@ -73,7 +74,7 @@ Actif au 2026-11-10 : volet forum 2026 terminé ; recrutement du stagiaire méc�
 - 2026-11-10 : 7 candidats soumis, entretien collectif le 23/11. Pourquoi : « le calendrier de recrutement s'accélère à cette période de l'année pour les stages de janvier » (Drive: WoC - Mails).
 
 ## Prochaines étapes
-- Validation par WoC de la sélection de 7 candidats, puis entretien collectif du 23/11/2026 — GM, Léonie.
+- Entretien collectif du 23/11/2026 tenu (3 candidats inscrits sur la grille, contre 7 soumis le 10/11) : compléter les notes de la grille — GM.
 - Entretiens individuels avec demande de 1-2 références, choix du stagiaire pour janvier 2027 — GM.
 - Reprendre contact en décembre 2026 avec un ancien candidat WoC, comme proposé le 15/11 — GM (Gmail: Suite à notre échange, 2026-11-15).
 - **Sécurité** : retirer du Doc « WIP - Recrutement WoC - Juillet 2026 » les identifiants et mots de passe stockés en clair (boîte WoC, comptes des plateformes d'annonces).

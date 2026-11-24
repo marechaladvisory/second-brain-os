@@ -1,6 +1,7 @@
-# people/ index (generated 2026-11-23, 63 notes)
+# people/ index (generated 2026-11-24, 63 notes)
 
 ## active
+- [[majid-boustany]] (updated 2026-11-24, imp 3): Fondateur de la Francis Bacon MB Art Foundation, grand mécène de l'École du Louvre (bibliothèque, amphithéâtre qui porte son nom) et membre du CA du FEDL.
 - [[guillaume-robic]] (updated 2026-11-20, imp 4): Consultant indépendant (« Strategic Partnership Advisor », plateforme DIWALL), associé externe de GM sur Art Paris 2027 et le Centre Pompidou-Metz, et avant sur le Prix Her Art.
 - [[tiana]] (updated 2026-11-20, imp 3): Assistante externe basée à Madagascar (Tiana Randria d'après son nom affiché) : traitement de masse de la base Airtable de MA, puis, depuis le 12/11/2026, logistique candidats du recrutement janvier 2027 depuis la boîte de GM (« Assistante de Guillaume Maréchal ») ; renfort possible sur Cotonou ; statut non écrit.
 - [[assia-dalla-vedova]] (updated 2026-11-18, imp 2): Business Development Associate - Corporate Partnerships de Station F ; en copie du Global Ocean Accelerator depuis le 05/11/2026, relaie Abigaïl Bouaziz (absente du 17 au 30/11) sur le RDV CMA CGM du 24/11, onboardée côté MA le 18/11.
@@ -19,7 +20,6 @@
 - [[armand-dogra]] (updated 2026-11-12, imp 5): Chef de projet MA (« International Project Manager ») depuis début janvier 2026, pilote opérationnel de ChangeNOW 2027, du PEF et de la mission Fondation Cartier ; statut contractuel non écrit.
 - [[claire-barbillon]] (updated 2026-11-12, imp 5): Directrice de l'École du Louvre depuis décembre 2017 et présidente du Fonds de dotation (FEDL), décisionnaire de la mission MA ; signe les lettres grands donateurs ; départ annoncé (mars 2027 selon la source la plus récente) ; vouvoyée.
 - [[ian-hartmann]] (updated 2026-11-12, imp 3): Institutional Partnerships Manager de ChangeNOW (Team Instit) ; prend les premiers calls, le KAM et Airtable côté client ; MA préfère piloter elle-même les deals stratégiques.
-- [[majid-boustany]] (updated 2026-11-12, imp 3): Fondateur de la Francis Bacon MB Art Foundation, grand mécène de l'École du Louvre (bibliothèque, amphithéâtre qui porte son nom) et membre du CA du FEDL.
 - [[maxime-guillaud]] (updated 2026-11-12, imp 4): CEO d'INSKIP, client de MA sur la European DeepTech Week 2026 et prestataire « marque blanche » (sourcing) du Global Ocean Accelerator ; tutoyé par GM.
 - [[oliver-chang]] (updated 2026-11-12, imp 3): Cofondateur (Chief Operations & Impact Officer) d'Impact Hub Taipei ; témoin client de ChangeNOW : la Taiwan House lui a apporté une première commande internationale d'environ 80-82 k€.
 - [[santiago-lefebvre]] (updated 2026-11-12, imp 5): Fondateur et Président-CEO de ChangeNOW, client pivot de MA ; signe toutes les lettres officielles rédigées par MA, les MoU (Impact Hub Taipei, Bridge and Value) et reçoit le rapport de mission.

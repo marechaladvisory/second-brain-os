@@ -3,8 +3,8 @@ title: Renault
 type: entity
 status: active
 created: 2026-11-20
-updated: 2026-11-20
-review_by: 2027-05-19
+updated: 2026-11-24
+review_by: 2027-05-23
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -33,6 +33,9 @@ Détail et contraintes dans [[art-paris-2027]] (pipeline au 2026-11-18).
 
 ## Prochaines étapes
 - Envoyer support, pistes d'activation et confirmation du nombre de véhicules avant le call de suivi du 26 ou 27/11/2026 (GM, Léonie) ; le chiffre de 30-40 demandé par Renault est à concilier avec la contrainte d'Art Paris (flotte historique 10 idéal, 8 max), voir [[art-paris-2027]].
+
+## Questions ouvertes
+- Un brouillon de mail de GM (Doc au 23/11, envoi non confirmé) propose une visio de brainstorming le lundi 30/11/2026 à 16h30 et parle d'« une vingtaine de véhicules » (Drive: Art Paris 2027 - Mails, 2026-11-23) : envoyé ? remplace-t-il le call du 26 ou 27/11 ? Détail dans [[art-paris-2027]].
 
 ## History
 - Jusqu'au 2026-11-23 : Naomi Nascimento notée « Partnerships & Brand Image » et Stéphane Barbat « directeur Partenariats » (Drive: Art Paris 2027 - Suivi, 2026-11-17) ; titres remplacés par ceux des signatures mail (Gmail, 2026-11-06 et 2026-11-20).

@@ -3,8 +3,8 @@ title: Art Paris 2027
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-22
-review_by: 2026-12-22
+updated: 2026-11-24
+review_by: 2026-12-24
 importance: 5
 supersedes: ""
 superseded_by: ""
@@ -145,6 +145,7 @@ Source : Drive: Art Paris - Offre commerciale & Grille prospection, 2026-10-27 ;
 - Constructeurs chinois : exclus le 2026-07-27 (« sortis du marché ») alors que l'onglet Automobile de la grille, modifiée le 21/11/2026, vise « le segment électrique, notamment chinois & coréen » (en-tête seul lisible, date de l'en-tête inconnue) : à confirmer (Drive: Art Paris - Offre commerciale & Grille prospection, 2026-11-21). Des lettres sont parties le 05/11 vers BYD, MG Motor et Xiaomi (Gmail: Art Paris Avril 2027 - Lettre…, 2026-11-05).
 - Chiffres de la foire : 87 000 visiteurs et 165 galeries (lettres du 05/11, validées par Art Paris) ou « over 90 000 visitors » et « 170 international galleries » (mail de GM à Toyota, 29/10) ? La note garde les chiffres des lettres, plus récents.
 - Porsche figure dans le feu vert automobile d'Art Paris (23/09) mais n'a pas reçu de lettre le 05/11 : oubli ou choix ?
+- Renault, brouillon de mail de GM (non daté, présent dans le Doc au 23/11, envoi non confirmé) : propose une visio de brainstorming le lundi 30/11/2026 à 16h30 et la réunion du 10/12 à 17h30 avec Guillaume Piens et Audrey Keita ; pistes « fournisseur officiel » : flotte VIP avec chauffeurs + contribution financière, Art Car à l'intérieur du Grand Palais (« nous avons eu l'autorisation »), mise en avant d'un nouveau modèle lié à une collaboration avec un grand créateur, side event design et petit-déjeuner conférence au 53 Champs-Élysées ; garde « a priori une vingtaine de véhicules » (Drive: Art Paris 2027 - Mails, 2026-11-23). La visio du 30/11 remplace-t-elle le call de suivi du 26 ou 27/11, et le brouillon est-il parti avec la vingtaine plutôt que les 30-40 demandés ?
 - Stellantis : lettre du 05/11 adressée à Julien Bich, alors que le Drive cite Arnaud Belloni comme contact : qui est l'interlocuteur ?
 
 ## History

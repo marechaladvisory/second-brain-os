@@ -3,8 +3,8 @@ title: EDL Génération 2030
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-19
-review_by: 2026-12-19
+updated: 2026-11-24
+review_by: 2026-12-24
 importance: 5
 supersedes: ""
 superseded_by: ""
@@ -60,6 +60,7 @@ Mécènes existants cités dans l'argumentaire : [[francis-bacon-mb-art-foundati
 - Chaire UNESCO, 22-23 juin 2026 : MA a invité 36 contacts ; 800 inscrits, 600 places, ~250 présents au maximum (canicule) (Drive: EDL - Suivi, 2026-10-21) ; la communication externe annonce « plus de 400 participants » (Drive: EDL - Mail remerciement réseau Chaire UNESCO, 2026-07-23). « Camille ne souhaite pas partager les KPIs car décevants » (Drive: EDL - Post LinkedIn Chaire UNESCO, 2026-07-08).
 - Conférence FAMM (femmes artistes, Musée FAMM de Mougins), 19 octobre 2026 avant Art Basel Paris : 191 RSVP, 85-90 présents, dont HFF, JMF et L'Oréal côté prospects MA (Drive: EDL - Suivi ; École du Louvre x FAMM - Invitations, 2026-10-12).
 - Inauguration de l'amphithéâtre Louise Bourgeois (mécène Majid Boustany) : reportée du 5 au 17 novembre 2026 à 18h15 (mobilisation étudiante) ; 36 invités proposés par MA, y compris ceux qui ont décliné (Drive: FEDL - Inauguration amphi - Mail d'invitation, 2026-11-05 ; Liste d'invités MA, 2026-10-27). Le 05/11, GM (signature EDL « Global Development Director ») envoie l'invitation à [[societe-generale]] et au Fonds AXA : mardi 17/11/2026 à 18h15, inauguration et présentation d'une nouvelle donation d'œuvres, cocktail, à l'invitation de [[claire-barbillon]] et de [[majid-boustany]], « grand mécène du projet » (Gmail: Invitation exclusive : Inauguration de l'amphithéâtre Louise Bourgeois – École du Louvre, 2026-11-05). Le Fonds AXA décline le 10/11 (« contraintes d'agenda ») et demande à rester l'« interlocuteur unique » d'AXA (même objet, 2026-11-10).
+- Retombée presse : article du Figaro « L'École du Louvre parachève sa modernisation avec un nouvel amphithéâtre » (Carole Bellemare, 20/11/2026, rubrique « Les décideurs engagés ») : amphithéâtre historique (ex-Cézanne) rebaptisé Louise-Bourgeois, rénové en plus de quatre mois (architecte Caroline Géhu) grâce à près d'un million d'euros de [[majid-boustany]] ; don d'œuvres (bronze de Rodin « La Méditation », trois photographies de Louise Bourgeois par Jean-François Jaussaud) ; mécènes cités : Fondation Culture et Diversité, Fondations Malatier-Jacquet, Etrillard, Daniel et Nina Carasso, Antoine de Galbert, Louis Vuitton Malletier ; l'article situe la soirée le 18 novembre (Drive: Le Figaro L'École du Louvre parachève sa modernisation avec un nouvel amphithéâtre.pdf, 2026-11-23). Utilisable dans le deck COMEX et le livre blanc.
 - Référence 2025 : crowdfunding Ulule du 28 avril au 20 juin 2025 (voir Questions ouvertes pour les chiffres).
 
 ### Livre blanc de fin de mission
@@ -112,6 +113,7 @@ Mécènes existants cités dans l'argumentaire : [[francis-bacon-mb-art-foundati
 - Départ de Claire : 31/12/2025 (note d'onboarding, Drive: Connaissance Louvre, 2026-06-09, périmé), « retraite en décembre » (fiches de juillet 2026) ou mars 2027 (EDL - Suivi, 2026-10-21, le plus récent).
 - Crowdfunding 2025 : 123 635 € au 20 juin, 125 000 € le 23 juin, 680+ donateurs (Drive: Bilan Financement participatif 2025.pdf, 2025-09-29) ; 126 230 € et 640 donateurs (Bilan & Feuille de route, 2025-10-01) ; 131 860 €, 263 %, 725 contributeurs (Fiche posture, 2026-07-02). Aucun chiffre ne remplace les autres.
 - Terminologie de la grille : « Ami » 50-100 k€ (PDF 2026) vs « Cercle des Amis 200-500 k€ » (plaquette v2 de 2025).
+- Date de l'inauguration de l'amphithéâtre : mardi 17/11/2026 à 18h15 (invitation envoyée par GM le 05/11) ou 18/11 au soir (Figaro, 20/11/2026) ? La note garde le 17/11 tant que personne de MA ne l'a confirmé.
 - Résultats de l'inauguration du 17/11 et du rendez-vous Dentressangle ; suite du contrat de Sue après mi-novembre ; livre blanc remis ou non.
 
 ## Documents Drive
