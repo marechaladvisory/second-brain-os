@@ -64,11 +64,15 @@ Liens principaux : Contact → Organisation, Client (`Client (à utiliser)`), Cl
 ### 2 - Clients (correspondance avec le brain)
 - Déjà dans le brain : ChangeNOW, École du Louvre (EDL), AFALULA, Art Paris, Fondation Cartier, CPM, PEF, WoC, DeepTech Summit / Inskip, Marie Claire, Beaux Arts & Cie, Musée d'Orsay, Ville de Paris, Station F, Gide, Aquila, Davos, Je M'engage pour l'Afrique.
 - Absents du brain : **Rovos Rail** (prospect, lettre « transformative journey », août 2026), **KIFF**, **Alchimiste 2031**, **204 FSM et 92 RA**, Hopscotch (une seule mention).
-- Catégories internes, à ne pas traiter comme des clients : Personnel, Finance, Procédures, Recrutement, TALENTS, ADVISORY BOARD, Offre MA, Prospection et Alliance MA, déplacement stratégique.
+- Catégories internes, à ne pas traiter comme des clients (mais lues comme le reste) : Personnel, Finance, Procédures, Recrutement, TALENTS, ADVISORY BOARD, Offre MA, Prospection et Alliance MA, déplacement stratégique.
 
 ## 4. Données sensibles et règles déjà en place
-- À exclure : le champ `Identifiants` de « 8- Recrutement », les mails, téléphones, adresses postales (`Rue`, `Adresse Postale Lettre`, `Mobile`, `Email - Correspondant…`) et les pièces jointes (`Trombinoscope`).
-- Les catégories « Personnel » (162 contacts) et « PERSO » sont privées : on les saute, comme les mails privés.
+- **Périmètre : tout est ouvert** (Guillaume, 2026-11-24). Toutes les tables et toutes les catégories sont lues, Personnel, Finance, Recrutement et TALENTS compris.
+- Restent les règles d'hygiène déjà en vigueur dans AGENTS.md : elles portent sur ce qu'on recopie dans les notes, pas sur ce qu'on lit.
+  - Jamais d'identifiants ni de mots de passe : on ne lit pas le champ `Identifiants` de « 8- Recrutement ».
+  - Pas de mails, téléphones ni adresses postales dans les notes (`Email 1/2`, `Téléphone`, `Mobile`, `Rue`, `Adresse Postale Lettre`, `Email - Correspondant…`). brain-ask les lit en direct dans Airtable si besoin.
+  - Pièces jointes (`Trombinoscope`) : non lues.
+  - Candidats : prénom + initiale, comme pour Gmail. La table « 8- Recrutement » liste des écoles, pas des candidats, donc elle est lue normalement.
 - Le `CR` contient des éléments de biographie (études, origine) : on ne garde que ce qui sert le business.
 - Règle AGENTS.md déjà en place : « Email, CRM, payments: read through the connector, do not copy into notes. Store insights only. »
 - Hook `guard-connectors.sh` : il bloque déjà, pour Airtable, `delete_*`, `publish_*` et `submit_*` dans tous les cas, et toute écriture (`create_*`, `update_*`, `revert_action`…) en exécution automatique. Le SAS reste possible en interactif seulement. Rien à changer.
@@ -103,5 +107,5 @@ Liens principaux : Contact → Organisation, Client (`Client (à utiliser)`), Cl
 ## 7. Questions bloquantes pour Guillaume
 1. **Accès à la base de production** : il faut la partager avec le compte du connecteur Airtable, ou reconnecter le connecteur avec le compte qui la possède. « Dev Flo 2 » reste la base de test (réponse du 2026-11-23 : même schéma, mêmes apprentissages).
 2. ~~Champ « Modifié le »~~ : accord le 2026-11-23, fait dans « Dev Flo 2 » ; à reproduire en production (voir §5).
-3. Périmètre : quelles catégories de « 2 - Clients » exclure en plus de Personnel ? (Finance ? Recrutement ? TALENTS ?)
+3. ~~Périmètre~~ : **tout est ouvert** (Guillaume, 2026-11-24) ; seules restent les règles d'hygiène du §4.
 4. ~~Plugin~~ : **« plugin = connecteur »** (Guillaume, 2026-11-23). On fait comme pour Gmail : connecteur live dans brain-ask, veille dans le brain-daily du matin, pas de plugin empaqueté.

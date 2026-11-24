@@ -61,7 +61,7 @@ Contrôles faits : aucun email, téléphone, mot de passe, numéro de passeport 
 2. Ajouter la lecture Airtable live dans brain-ask.
 3. Passe initiale sur la production, avec la méthode habituelle (extraction, registre, writer).
 4. Ajouter le connecteur Airtable à la tâche brain-daily dans l'interface des routines (action de Guillaume).
-**Question ouverte** : quelles catégories de « 2 - Clients » exclure en plus de Personnel (Finance, Recrutement, TALENTS) ?
+**Périmètre** : tout est ouvert (Guillaume, 2026-11-24), Personnel et Finance compris. Seules restent les règles d'hygiène : pas d'identifiants, pas de coordonnées dans les notes, candidats en prénom + initiale.
 
 ## Gmail : état au 2026-11-23
 **Demande** : Gmail à la fois intégré aux données actuelles, comme connecteur live, et comme entrée continue. Choix de Guillaume : connecteur live (pas de plugin empaqueté) ; veille dans le brain-daily du matin (pas de tâche séparée) ; recrutement en synthèse seulement, aucun candidat nommé depuis les mails.
