@@ -3,12 +3,15 @@ title: Decisions
 type: decision
 status: active
 created: 2026-11-17
-updated: 2026-11-20
+updated: 2026-11-25
 summary: Décisions datées de Maréchal Advisory avec leur raison, les plus récentes d'abord (reprises du Drive au setup du 2026-11-18).
 ---
 # Decisions
 Format: `## YYYY-MM-DD <décision>` puis `Why:` et `Replaces:` si besoin. Source Drive en fin de ligne.
 Décisions antérieures au 2026-11-18 : reprises du Drive lors du setup (raw/2026-11-18-drive-setup/).
+
+## 2026-11-24 CN27 : positionner l'EIC sur la thématique Accelerate au RDV Ouaki du 27/11/2026
+Why: éviter le conflit avec la China House sur l'énergie. [[changenow-cn27]] [[eic]] (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24)
 
 ## 2026-11-19 Recrutement janvier 2027 : nouvelle session d'entretien collectif le 24/11/2026 (18h30-20h, visio), avec de nouveaux candidats
 Why: candidats absents le 10/11 ; élargir le vivier. [[recrutement-janvier-2027]] (Gmail: Nouvelle session d'entretien collectif… – mardi 24 novembre à 18h30, 2026-11-19)

@@ -3,8 +3,8 @@ title: Fondation Cartier Privatisations
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-18
-review_by: 2026-12-18
+updated: 2026-11-25
+review_by: 2026-12-25
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -15,7 +15,7 @@ summary: Depuis le 25/03/2026, MA gère le premier niveau des demandes de privat
 # Fondation Cartier Privatisations
 
 ## Statut
-Actif au 2026-11-18 (dernier ODJ, Ludovic et Armand) : 11 demandes traitées dans la semaine, 1 refusée, 10 ajoutées au fichier ; plaquettes mises à jour bien reçues par MA (Drive: FC - ODJ et compte rendu, 2026-11-18). Semaine du 11/11 : 14 demandes traitées ; plusieurs demandes de privatisation du Studio refusées à cause des travaux (Drive: FC - ODJ et compte rendu, 2026-11-11). Airtable et dashboard « en attente » (Drive: FC - ODJ et compte rendu, 2026-11-10).
+Actif au 2026-11-25 (ODJ Ludovic et Armand) : 8 demandes traitées dans la semaine, 1 refusée, 7 ajoutées au fichier ; 1 demande en attente d'arbitrage de Ludovic (Iroko) ; formulaire modifié pour le Studio ; reporting de novembre en cours de finalisation (Drive: FC - ODJ et compte rendu, 2026-11-25). Au 18/11 : 11 demandes traitées, 1 refusée, 10 ajoutées ; plaquettes mises à jour bien reçues (Drive: FC - ODJ et compte rendu, 2026-11-18). Semaine du 11/11 : 14 demandes traitées ; plusieurs demandes de privatisation du Studio refusées à cause des travaux (Drive: FC - ODJ et compte rendu, 2026-11-11). Airtable et dashboard « en attente » (Drive: FC - ODJ et compte rendu, 2026-11-10).
 
 ## Objectif
 - Client : [[fondation-cartier]] (groupe Richemont), 2 place du Palais-Royal depuis octobre 2025.
@@ -62,12 +62,13 @@ Actif au 2026-11-18 (dernier ODJ, Ludovic et Armand) : 11 demandes traitées dan
 - Nouveau format de reporting (« montrer le nombre de privat + CA »), slides « à compléter par Ludovic ».
 - Campagne de marketing direct (CP semi-personnalisé) ; migration Airtable et dashboard.
 - Arbitrages en attente de Ludovic au 18/11 : De Pardieu, APF France Handicap, ICS Bégué (IONIS Education Group) (Drive: FC - ODJ et compte rendu, 2026-11-18). Liste antérieure : BYLG (NDA), Groupe Beaumonde, Fashion Week, Abondance Experience, Kitty Events, AMOMENTO.
-- Modifier le formulaire pour le Studio (disponible à partir de juin 2027) (Drive: FC - ODJ et compte rendu, 2026-11-18).
+- Formulaire Studio modifié (ODJ du 25/11) ; finaliser et envoyer le reporting de novembre (AD) (Drive: FC - ODJ et compte rendu, 2026-11-25).
 - Pistes du CR du 11/11 : Richemont Copilot, nouvelle plaquette et mailing plus large pour l'exposition Pessoa Suga (Drive: FC - ODJ et compte rendu, 2026-11-11).
 - Nouvelle plaquette du Studio (en travaux pendant l'exposition Pessoa Suga).
 - Extension de mission : piste [[choiseul]] Africa (« pas possible parce que pile une date », 02/11) ; synergie « invitation Art Paris » avec [[art-paris-2027]] ; plusieurs demandeurs (Carmignac, Latham & Watkins) sont aussi prospects AP27 (Drive: FC - ODJ et compte rendu ; FC - May Stats).
 
 ## Questions ouvertes
+- Studio : « disponible à partir de juin 2027 » (ODJ du 18/11) ou « en travaux à partir de juin '27 » (ODJ du 25/11) ? Les deux ODJ disent l'inverse : à clarifier avec Ludovic (Drive: FC - ODJ et compte rendu, 2026-11-18 et 2026-11-25).
 - Montant facturé (≈ 1 800 € HT/mois ?) et facturation du dépassement (« Delta € ») ; existe-t-il un contrat ou bon de commande Richemont ?
 - Statut d'Armand Dogra (salarié, stagiaire, freelance) au regard de son compte Fondation Cartier.
 - La soirée des 5 ans de [[je-mengage-pour-lafrique]] à la Fondation Cartier (« Le temps des récoltes, en actes », 1er février 2027 à confirmer, formules partenaires 3 000 € et 6 000 €, GM dans la core team) est rangée dans le dossier JMA : à rattacher ici ? (Drive: Le temps des récoltes, en actes · Dossier partenaires, 2026-11-14).

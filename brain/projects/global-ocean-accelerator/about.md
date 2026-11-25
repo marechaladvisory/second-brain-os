@@ -3,14 +3,14 @@ title: Global Ocean Accelerator
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-18
-review_by: 2026-12-18
+updated: 2026-11-25
+review_by: 2026-12-25
 importance: 5
 supersedes: ""
 superseded_by: ""
 sources: []
 aliases: [GOA, OA, Ocean Accelerator, Ocean Startup Accelerator, Global Ocean Accelerator Station F 2027]
-summary: Programme d'accélération BlueTech porté par MA à Station F (promo 1 en avril 2027) ; grille sponsors 300k/100k/30k €/an, budget kickstart 351 888 € dont 50 k€ MA ; aucun sponsor signé au 23/11/2026 ; RDV CMA CGM le 24/11 à 16h, visio Fondation Prince Albert II le 4/12 à 9h30, AXA oriente vers son pilier Nature ; 19 mails de prospection les 10 et 12/11 sans réponse.
+summary: Programme d'accélération BlueTech porté par MA à Station F (promo 1 en avril 2027) ; grille sponsors 300k/100k/30k €/an, budget kickstart 351 888 € dont 50 k€ MA ; aucun sponsor signé au 24/11/2026 ; RDV CMA CGM le 24/11 à 16h (ou 30/11 selon le Drive, à confirmer), AXA pôle Nature le 1/12, visio Fondation Prince Albert II le 4/12 à 9h30.
 ---
 # Global Ocean Accelerator
 
@@ -18,6 +18,8 @@ summary: Programme d'accélération BlueTech porté par MA à Station F (promo 1
 En construction active : prospection lancée le 12/10/2026, **aucun sponsor signé au 12/11/2026** ; accords de principe visés pour décembre 2026 (Drive: OA - Suivi, 2026-11-12).
 - Au 18/11/2026 : rendez-vous [[cma-cgm]] fixé au 24/11 ; second rendez-vous [[fondation-prince-albert-ii]] débloqué pour début décembre ; [[axa]] : MA cherche un call avec le pôle Nature du Fonds de dotation ; prospection élargie à Michelin et Evian (Drive: OA - Mails/WhatsApp, 2026-11-18).
 - Au 23/11/2026 (boîte de GM) : RDV [[cma-cgm]] le mardi 24/11 à 16h avec Caroline Roux ; visio [[fondation-prince-albert-ii]] le vendredi 4/12 à 9h30 avec Raphaël Ghiandai ; [[axa]] oriente GM vers Ariane (pilier Nature), visio proposée le 20/11 sans réponse vue ; aucune réponse positive aux 19 mails de prospection des 10 et 12/11 (Gmail: Global Ocean Accelerator - Station F, 2026-11-13 ; Mise en relation - 2050 x Fondation Prince Albert II, 2026-11-16 ; Suite à notre échange - Fonds AXA pour le Progrès Humain x Fonds de dotation de l'École du Louvre, 2026-11-17 ; Global Ocean Accelerator by Station F, 2026-11-12).
+
+- Au 24/11/2026 (mail d'onboarding d'Assia mis à jour dans le Drive) : « CMA CGM : rdv le 30 nov en ta présence » — à rapprocher du RDV du 24/11 à 16h confirmé par mail le 13/11 (report ou second RDV ? non tranché) ; [[axa]] : « rdv le 1er décembre avec le pôle Nature du Fonds » ; Ifremer « très intéressé » comme ecosystem partner, sans apport financier ; prospection élargie : Louis Dreyfus Armateurs, Suez, Veolia, Engie, Vinci, Eiffage, Michelin, Evian, SWEN (Drive: OA - Mails/WhatsApp, 2026-11-24).
 
 ## Objectif
 - Créer la verticale océan de [[station-f]] : le « Global Ocean Accelerator ». BlueTech Seed+ à Série A ; 10-12 startups par cohorte ; 6-8 mois ; 1 thématique par an co-définie avec les partenaires (Drive: Global Ocean Accelerator Deck FR.pptx, 2026-11-12).
@@ -82,7 +84,7 @@ En construction active : prospection lancée le 12/10/2026, **aucun sponsor sign
 - Accords de principe d'ici fin décembre 2026 — GM, Léonie.
 - RDV CMA CGM le 24/11/2026 à 16h (Emilie Espanet, Caroline Roux) — GM, Léonie, Assia (Gmail: Global Ocean Accelerator - Station F, 2026-11-13).
 - Visio Fondation Prince Albert II le 4/12/2026 à 9h30 avec Raphaël Ghiandai ; proposer une rencontre à Station F lors d'un passage à Paris — GM, Abigaïl (Gmail: Mise en relation - 2050 x Fondation Prince Albert II, 2026-11-16).
-- AXA : relancer Ariane (pilier Nature), la visio proposée pour le 20/11 est restée sans réponse ; passer par Joséphine de Fontaines, « interlocuteur unique » demandé le 10/11 ; tenir Olivier Desbiey au courant du demo day Future of Tourism du 09/12 — GM (Gmail: Suite à notre échange - Fonds AXA…, 2026-11-17 ; Axa x Global Ocean Accelerator, 2026-11-06).
+- AXA : RDV avec le pôle Nature du Fonds le 1/12/2026 selon le mail d'onboarding d'Assia (Drive: OA - Mails/WhatsApp, 2026-11-24) ; avant cela, la visio proposée à Ariane (pilier Nature) pour le 20/11 était restée sans réponse ; passer par Joséphine de Fontaines, « interlocuteur unique » demandé le 10/11 ; tenir Olivier Desbiey au courant du demo day Future of Tourism du 09/12 — GM (Gmail: Suite à notre échange - Fonds AXA…, 2026-11-17 ; Axa x Global Ocean Accelerator, 2026-11-06).
 - Société Générale : appel de Léonie à Ulrich Mohrle « pour OA » demandé par GM le 02/11, fait ou non ? (Gmail: Suite à notre échange - Société Générale x Fonds de dotation de l'École du Louvre, 2026-11-02).
 - Relancer les prospects sans réponse : ESA, KAUST, Dalio Philanthropies, MACIF (26/10-10/11) et les 16 envois du 12/11 ; fiches à créer seulement s'ils répondent.
 - Contrat INSKIP et fiche de poste de Virginie — GM.
@@ -92,6 +94,8 @@ En construction active : prospection lancée le 12/10/2026, **aucun sponsor sign
 - Idées non engagées : modèle 2 de co-innovation si un tier 1 met 400K+ ; prix en numéraire au Demo Day ; lettre signée par le DG de Station F. Offre dérivée « ~10 startups à 4K/mois = ~400K/an » (réunion du 02/11) : voir [[offre-open-doors-startups]].
 
 ## Questions ouvertes
+- RDV CMA CGM : tenu le 24/11 à 16h (mail du 13/11) ou reporté au 30/11 (mail d'onboarding d'Assia modifié le 24/11) ? Le 30/11 est un lundi. À confirmer par GM.
+- Le mail d'onboarding demande s'il est possible d'envisager un partenariat GOA avec [[societe-generale]] « ou ça pose pb ? » : réponse de Station F ?
 - Rôle d'Assia Dalla Vedova : elle relaie Abigaïl pendant son absence (17-30/11) ; renfort durable ou intérim ?
 - AXA : comment concilier la demande d'« interlocuteur unique » (Joséphine de Fontaines, 10/11) avec les contacts parallèles de MA (Olivier Desbiey, Ziad Gebran, Julia du Fonds AXA pour la Recherche) sur le GOA et l'EDL ?
 - AXA et CMA CGM ne sont plus cités parmi les « premières discussions » du mail type du 12/11 : choix délibéré ?

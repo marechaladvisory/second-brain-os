@@ -1,6 +1,7 @@
-# people/ index (generated 2026-11-24, 63 notes)
+# people/ index (generated 2026-11-25, 63 notes)
 
 ## active
+- [[stephane-ouaki]] (updated 2026-11-25, imp 3): Chef de département à l'EIC / EISMEA ; destinataire de la proposition CN27 (EIC Energy House 40 k€ ou 100 k€ avec l'Electrification Forum) et d'une lettre de Santiago Lefebvre datée du 21/10/2026.
 - [[majid-boustany]] (updated 2026-11-24, imp 3): Fondateur de la Francis Bacon MB Art Foundation, grand mécène de l'École du Louvre (bibliothèque, amphithéâtre qui porte son nom) et membre du CA du FEDL.
 - [[guillaume-robic]] (updated 2026-11-20, imp 4): Consultant indépendant (« Strategic Partnership Advisor », plateforme DIWALL), associé externe de GM sur Art Paris 2027 et le Centre Pompidou-Metz, et avant sur le Prix Her Art.
 - [[tiana]] (updated 2026-11-20, imp 3): Assistante externe basée à Madagascar (Tiana Randria d'après son nom affiché) : traitement de masse de la base Airtable de MA, puis, depuis le 12/11/2026, logistique candidats du recrutement janvier 2027 depuis la boîte de GM (« Assistante de Guillaume Maréchal ») ; renfort possible sur Cotonou ; statut non écrit.
@@ -36,7 +37,6 @@
 - [[chiara-parisi]] (updated 2026-11-04, imp 4): Directrice du Centre Pompidou-Metz (nommée en 2019, reconduite en décembre 2024 pour 3 ans), décisionnaire de la mission mécénat MA ; a gelé le crowdfunding ; vouvoyée.
 - [[guillaume-piens]] (updated 2026-10-29, imp 4): Commissaire général d'Art Paris depuis 2011/2012 (ex-FIAC, Paris Photo) ; cosigne les lettres de prospection AP27 rédigées par MA.
 - [[bassem-badr]] (updated 2026-10-28, imp 4): Ministre plénipotentiaire, chef de la Mission commerciale et économique de l'Ambassade d'Égypte à Paris ; interlocuteur clé de MA sur l'Egypt House CN27 (60 k€) et le PEF 2026 ; vouvoyé.
-- [[stephane-ouaki]] (updated 2026-10-28, imp 3): Chef de département à l'EIC / EISMEA ; destinataire de la proposition CN27 (EIC Energy House 40 k€ ou 100 k€ avec l'Electrification Forum) et d'une lettre de Santiago Lefebvre datée du 21/10/2026.
 - [[camille-desprez]] (updated 2026-10-27, imp 4): Dircom / Head of Prospecting and Fundraising de l'École du Louvre, interlocutrice opérationnelle de MA sur la campagne Génération 2030 ; tutoyée par GM.
 - [[charlotte-lordet]] (updated 2026-10-26, imp 5): Head of Institutional Partnerships / International Business Lead de ChangeNOW (Team Instit) ; interlocutrice principale et négociatrice de MA sur CN26-CN27 ; biweekly d'une heure avec GM.
 - [[abiodun-odunuga]] (updated 2026-10-22, imp 4): CEO de Bridge and Value, partenaire Nigeria de MA (MoU MA x B&V du 23/07/2026) et « Official ChangeNOW Ambassador for Nigeria » (MoU CN x B&V d'octobre 2026) ; client du package Nigeria au PEF 2026 (8 000 € HT).

@@ -3,8 +3,8 @@ title: European Innovation Council
 type: entity
 status: active
 created: 2026-11-18
-updated: 2026-11-18
-review_by: 2027-05-17
+updated: 2026-11-25
+review_by: 2027-05-24
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -17,7 +17,7 @@ summary: Agence européenne de l'innovation ; client de ChangeNOW via MA depuis 
 ## En bref
 - Type : client via [[changenow]] (institution européenne, EIC / EISMEA) et prescripteur.
 - Relation : premier partenariat à CN26 obtenu par MA ; renouvellement CN27 en négociation ; [[paolo-bondavalli]] est vu comme prescripteur pour [[offre-open-doors-startups]].
-- Statut (2026-11-18) : prospect CN27, rencontre Stéphane Ouaki × Santiago en préparation.
+- Statut (2026-11-24) : prospect CN27, RDV Stéphane Ouaki × Santiago × GM le 27/11/2026 (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24).
 
 ## Faits clés
 - CN26 : hub dans l'Energy Zone (programme Deeptech x Greentech), 3 startups (e-peas, Sweetch Energy, Releaf Paper) ; 15 k€ selon le reporting MA alors qu'un package de 30 k€ avait été négocié (hub de 15 m²) (Drive: Maréchal Advisory Reporting - ChangeNOW 2026.pdf, 2026-05-21 ; CN27 - Pipeline, 2026-06-23). Décision du 17/12/2025 : EIC à 30 k€, « pas de cadeau sur le workshop ».
@@ -25,6 +25,8 @@ summary: Agence européenne de l'innovation ; client de ChangeNOW via MA depuis 
 - DTW 2026 : Giovanni La Placa (EIC) au closed-door Ukraine ; 20 M€ pour les PME ukrainiennes, 349 candidatures (extraction anciens).
 - Badge EIC à [[station-f]] possiblement non renouvelé (brainstorm du 4/11/2026). Les scale-ups deeptech EIC « often lack public affairs element » : cible de [[offre-affaires-publiques]] (Drive: MA - REX Vivatech 2026, 2026-07-19).
 - MA a assisté à l'EIC Summit le 3/06/2026.
+
+- 2026-11-24 : RDV fixé au vendredi 27/11/2026 avec [[stephane-ouaki]], Santiago Lefebvre et GM ; offre présentée : Tier 1 EIC House 50 k€ (1 des 5 pavillons, jusqu'à 6 startups co-sélectionnées), Tier 2 House + Major Sponsor de l'Electrification Forum 100 k€ ; EIC à positionner sur la thématique Accelerate (conflit China House sur l'énergie) ; benchmarks : Next Unicorn Award VivaTech 2021 (~30 k€ d'aide de l'EIC), pavillon européen EIC à BIO 2026 (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24 ; EIC x ChangeNOW 2711, 2026-11-24).
 
 ## Projets liés
 - [[changenow-cn27]] ; [[changenow-cn26]] ; [[offre-open-doors-startups]] ; [[inskip-deeptech-week-2026]] ; prospect écosystème du [[global-ocean-accelerator]].

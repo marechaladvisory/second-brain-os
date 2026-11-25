@@ -3,14 +3,14 @@ title: ChangeNOW 2027 - Délégations internationales et pavillons (CN27)
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-24
-review_by: 2026-12-24
+updated: 2026-11-25
+review_by: 2026-12-25
 importance: 5
 supersedes: ""
 superseded_by: ""
 sources: []
 aliases: [CN27, ChangeNOW 2027, ChangeNOW 10e édition, 10th Anniversary, Team Instit CN27]
-summary: Mission MA pour ChangeNOW 2027 (26-28/04/2027, Grand Palais) - MA vise 250-300 k€ de CA apporté sur un pipe de 500 k€ ; Taïwan, Afrique du Sud et Ukraine (House) confirmés, Nigeria sous MoU, Égypte (60 k€), EIC (50/100 k€) et Suisse (60 k€) en négociation ; contrat MA CN27 non retrouvé.
+summary: Mission MA pour ChangeNOW 2027 (26-28/04/2027, Grand Palais) - MA vise 250-300 k€ de CA apporté sur un pipe de 500 k€ ; Taïwan, Afrique du Sud et Ukraine (House) confirmés, Nigeria sous MoU, Égypte (60 k€), EIC (50/100 k€) et Suisse (60 k€) en négociation ; contrat MA CN27 non retrouvé ; RDV EIC (Ouaki x Santiago x GM) le 27/11/2026.
 ---
 # ChangeNOW 2027 - Délégations internationales et pavillons (CN27)
 
@@ -64,6 +64,7 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 - Point de vigilance Chine : Adventi-GREENEXT veut une « China House » en 2027 et a suggéré de représenter Taïwan « sous l'égide de la Chine » ; CN maintient un cadre « strictement non politique » (Drive: ChangeNOW_Note_MAE.pdf, 2026-06-16).
 
 ## Argent
+- Arguments chiffrés du deck générique mis à jour le 24/11/2026 : taux de renouvellement des partenariats 95 %, 33 leads B2B en moyenne par exposant, 60 acteurs publics attendus en 2027 (42 en 2026, 30 en 2025) ; Énergie = thématique « Focus in 2027 » ; Pacific Tech 2026 : 3 startups, 96 leads qualifiés, 7 deals ; menu « from » inchangé (voir [[changenow-grille-tarifaire]]) (Drive: ChangeNOW April 2027 - MA290726, 2026-11-24).
 - Honoraires MA CN27 : aucun contrat ni facture CN27 trouvé ; réengagement CN27 à confirmer « avant le 2 mai » 2026 (Drive: CN26 - Reporting, 2026-06-23). Base de comparaison : valorisation CN26 de 171 375 € (voir [[changenow-cn26]]).
 - Prix vendus (pavillons 25/40/50 k€, grilles, sponsoring) : voir [[changenow-grille-tarifaire]].
 - Les déplacements de représentation de CN sont « 100% financés par MA » ; participation au CN Hub Bangalore (17-19/11/2026) non prise en charge (« 2 billets d'avion donc 100% AD pas pris en charge ») (Drive: CN27 - ODJ et prise de note, 2026-11-16).
@@ -111,10 +112,12 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 - 2026-07-08 : Africa for Change en pause commerciale avant le 1er octobre ; AD retiré de la commercialisation corporate Afrique en juillet-août ; pourquoi : offre AFC non validée (Drive: CN27 - ODJ et prise de note, 2026-11-16).
 - 2026-07-16 : Pacific Tech maintenu à 36 k€ (fidélisation) ; 2026-09-02 : AfS à 20 k€ avec report du speaking 2026 ; 2026-09-21 : Ukraine remisée de 8 000 € (Drive: Propale Pacific Tech ; Partnership South Africa ; Partnership Ukraine x ChangeNOW 2027).
 - 2026-10-14 : annonce publique de Taïwan et de l'AfS au kick-off, pour pousser les autres pays à confirmer tôt (Drive: Prise de Parole GM - Kick Off 1410, 2026-10-14).
+- 2026-11-24 : positionner l'EIC sur la thématique Accelerate ; pourquoi : éviter le conflit avec la China House sur l'énergie (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24). Voir [[decisions]].
 - 2026-10-28 : calendrier de la campagne de lettres validé (envoi 3/11) et prochain kick-off le 20/01/2027 (Drive: CN - Weekly Team Instit x MA 2810, 2026-10-27).
 
 ## Prochaines étapes
-- EIC : préparer la rencontre Ouaki x Santiago (screening, agenda Europe de CN, 3 slides : aftermovie, prototype de pavillon EIC, prise de parole ; chiffres 50 k€ pavillon tout compris et 100 k€ Forum) ; mémo EIC Accelerate House (Drive: CN27 - ODJ et prise de note, 2026-11-18). Créneaux proposés à Ouaki : 6, 19 ou 20/11 ; à l'ambassadeur d'Égypte : 6 ou 18/11 (Drive: CN27 - Mails personnalisés, 2026-11-19) : vérifier s'ils ont eu lieu.
+- EIC : **RDV le vendredi 27/11/2026** avec [[stephane-ouaki]], [[santiago-lefebvre]] et GM (GM en lead) ; checklist : concept note envoyée la veille à 18h30, deck de 3 slides, fiche « Europe at ChangeNOW » ; posture : partager l'ambition de la 10e édition puis demander sa feuille de route avant de pitcher ; prix confirmés : pavillon 50 k€ tout compris, partenariat Forum 100 k€ (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24). Deck brouillon : Tier 1 « EIC Energy House » (1 des 5 pavillons, 50 k€, jusqu'à 6 startups co-sélectionnées) ; Tier 2 House + Major Sponsor de l'Electrification Forum (100 k€) ; « Speaking slot during xx », wishlist startups et prototype « AI Generated » encore à finaliser (Drive: EIC x ChangeNOW 2711, 2026-11-24) — GM.
+- EIC (historique de la prépa) : préparer la rencontre Ouaki x Santiago (screening, agenda Europe de CN, 3 slides : aftermovie, prototype de pavillon EIC, prise de parole ; chiffres 50 k€ pavillon tout compris et 100 k€ Forum) ; mémo EIC Accelerate House (Drive: CN27 - ODJ et prise de note, 2026-11-18). Créneaux proposés à Ouaki : 6, 19 ou 20/11 ; à l'ambassadeur d'Égypte : 6 ou 18/11 (Drive: CN27 - Mails personnalisés, 2026-11-19) : vérifier s'ils ont eu lieu.
 - [[cma-cgm]] : intéressé par un partenariat CN dans le cadre de son programme d'électrification pour promouvoir deux événements ; GM garde le lead (contact déjà travaillé sur le [[global-ocean-accelerator]]) ; partager les bullet points avec [[ian-hartmann]] (même source, 2026-11-18).
 - Égypte : deuxième échange positif avec la CCI, piste menée en parallèle de l'ambassade (même source).
 - Bénin réactivé ; Nouvelle-Calédonie : quelle stratégie commune avec La French Tech et la Nouvelle-Zélande ? (même source).
@@ -127,6 +130,7 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 - EIC : envoyer la lettre à Stéphane Ouaki (noms des 3 startups « XX » à compléter) et faire choisir L1 ou L2 (GM).
 - Nigeria : 20 k€ et sponsoring AccessBank ; visite Lagos.
 - Suisse : concept note AI for Impact / Geneva AI Summit 2027.
+- IOM : prise de parole d'Amy Pope (DG de l'IOM) à l'ODJ CN27 du 24/11, avec les points JMA et la wishlist startups VITO4Starters + Nigeria (Drive: CN27 - ODJ et prise de note, 2026-11-24).
 - Relancer IOM, Réunion, Pacific Tech après les lettres (AD), avant la deadline mi-décembre ; tenir compte de l'absence de Charlotte du 20/11 au 8/12/2026.
 - Préparer le kick-off du 20/01/2027.
 - Obtenir un contrat / des conditions MA CN27 écrits (GM).
@@ -136,7 +140,9 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 - Honoraires et contrat MA CN27 : réengagement signé ? retainer accepté ?
 - Montant final signé de la Taiwan House (40 k€ + 10-20 k€ ?) ; facturation via MA ?
 - Statut réel de l'Égypte, de l'EIC (lettre envoyée ?), de la Suisse, de l'IOM, de la Réunion et de Pacific Tech après les lettres.
-- China House de GREENEXT : acceptée à côté de la Taiwan House ?
+- China House de GREENEXT : acceptée à côté de la Taiwan House ? La prépa EIC du 24/11 parle d'une China House sur l'énergie, ce qui suggère que oui.
+- Deck EIC du 27/11 : le Tier 1 s'appelle « EIC Energy House » alors que la prépa recommande Accelerate : quel nom présenter ?
+- Deck générique mis à jour le 24/11 : Europe, Afrique et Asie y sont chacune « absolute priority and core strategic anchor », et la ligne « 8 European public actors » en liste 14 : à corriger avant envoi.
 - Africa for Change 2027 : MA reste-t-il impliqué (« pull out ») ?
 - Modèle économique de Bridge and Value (commission ?) : absent du MoU.
 - Grille qui fait foi (deck vs argumentaire vs séminaire) : voir [[changenow-grille-tarifaire]].

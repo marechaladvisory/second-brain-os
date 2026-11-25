@@ -3,8 +3,8 @@ title: AXA
 type: entity
 status: active
 created: 2026-11-18
-updated: 2026-11-17
-review_by: 2027-05-16
+updated: 2026-11-25
+review_by: 2027-05-24
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -25,6 +25,8 @@ summary: Groupe d'assurance sollicité sur plusieurs fronts (Global Ocean Accele
 - Global Ocean Accelerator : « C'est le Fonds de dotation qui est déterminant » ; ticket envisagé « AXA 50K » (objectif du 14/10/2026) (Drive: OA - Suivi). Mail à Ziad Gebran le 27/10 ; réunion GM x [[olivier-desbiey]] le 04/11 ; le 06/11, Desbiey : le deck « est déjà arrivé chez Julia. Elle reviendra vers toi si elle y voit une opportunité » ; le 10/11, Joséphine de Fontaines partage le GOA à ses « collaborateurs Nature », puis le 16/11 oriente GM vers Ariane, « qui représente le pilier Nature » (Gmail: Axa x Global Ocean Accelerator, 2026-11-06 ; Suite à notre échange - Fonds AXA…, 2026-11-16).
 - Conseil en philanthropie : fiche de recherche uniquement (Drive: Fiche AXA, 2026-10-20).
 - Nigeria : AXA Mansard parmi les 11 cibles françaises prioritaires de Spotlight Nigeria.
+
+- 2026-11-24 : « rdv le 1er décembre avec le pôle Nature du Fonds » pour le [[global-ocean-accelerator]] (Drive: OA - Mails/WhatsApp, 2026-11-24).
 
 ## Projets liés
 - [[global-ocean-accelerator]] ; [[edl-generation-2030]] ; [[conseil-philanthropie]] ; [[mission-waves-of-change]].

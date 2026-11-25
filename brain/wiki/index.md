@@ -1,4 +1,4 @@
-# wiki/ index (generated 2026-11-24, 4 notes)
+# wiki/ index (generated 2026-11-25, 4 notes)
 
 ## active
 - [[changenow-grille-tarifaire]] (updated 2026-11-24, imp 4): Prix des offres ChangeNOW vendues par MA aux acteurs publics - Country House de 2 000 €/m² (CN25-CN26) à « from €40,000 » pour 18 m² (CN27), pavillons 25/40/50 k€ décidés le 27/05/2026 ; méthode = valeur affichée puis remise vers un prix rond ; plusieurs grilles CN27 coexistent.

@@ -3,8 +3,8 @@ title: CMA CGM
 type: entity
 status: active
 created: 2026-11-18
-updated: 2026-11-13
-review_by: 2027-05-12
+updated: 2026-11-25
+review_by: 2027-05-24
 importance: 2
 supersedes: ""
 superseded_by: ""
@@ -16,7 +16,7 @@ summary: Armateur ; prospect du Global Ocean Accelerator, RDV le mardi 24/11/202
 
 ## En bref
 - Type : prospect.
-- Statut (2026-11-13) : RDV GOA le mardi 24/11/2026 à 16h (Gmail: Global Ocean Accelerator - Station F, 2026-11-13).
+- Statut (2026-11-13) : RDV GOA le mardi 24/11/2026 à 16h (Gmail: Global Ocean Accelerator - Station F, 2026-11-13). Le mail d'onboarding d'Assia, modifié le 24/11, indique « rdv le 30 nov » : report ou second RDV, à confirmer (Drive: OA - Mails/WhatsApp, 2026-11-24).
 
 ## Faits clés
 - OA : mail de GM à Emilie Espanet le 30/10/2026 ; le 06/11, après un échange interne, elle ajoute Caroline Roux (« notre référente environnement ») et Vanessa Vanhoutte et propose un créneau ; le 10/11 elle demande un report pour que Caroline Roux assiste ; les créneaux de GM des 17 et 19/11 ne conviennent pas ; Léonie fixe le RDV au mardi 24/11 à 16h le 13/11, avec [[assia-dalla-vedova]] (Station F) (Gmail: Global Ocean Accelerator - Station F, 2026-10-30 à 2026-11-13). [[abigail-bouaziz]] en lead sur la mise en relation ; Rodolphe Saadé via « Afida » ; ZEBOX (Drive: OA - Suivi).

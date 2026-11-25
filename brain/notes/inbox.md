@@ -223,3 +223,123 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - open_loops: Dates CN27 : le deck MA du 23/11 dit 26-28/04, ce qui appuie la version des lettres contre « 26-27 avril » (à confirmer avec ChangeNOW)
 - verbatim: 
 - result: projects/changenow-cn27/about.md, wiki/changenow-grille-tarifaire.md, clients/fondation-prince-albert-ii.md
+
+## q-20261125-061952 | integrated
+- date: 2026-11-25
+- source: drive
+- session: drive:1QqIBlc8TAPfJtV6KDi1QjXTHyafW4vayjbu1OCaeeT0@2026-11-24T10:43:46.348Z
+- certainty: fact
+- entities: global-ocean-accelerator; cma-cgm; axa; assia-dalla-vedova; ifremer
+- facts: Mail d'onboarding d'Assia mis à jour : « CMA CGM : rdv le 30 nov en ta présence » (Drive: OA - Mails/WhatsApp, 2026-11-24); AXA : « rdv le 1er décembre avec le pôle Nature du Fonds » (Drive: OA - Mails/WhatsApp, 2026-11-24); Ifremer « très intéressé » comme ecosystem partner, sans apport financier (Drive: OA - Mails/WhatsApp, 2026-11-24); prospection élargie : Louis Dreyfus Armateurs, Suez, Veolia, Engie, Vinci, Eiffage, Michelin, Evian, SWEN (Drive: OA - Mails/WhatsApp, 2026-11-24)
+- decisions: 
+- open_loops: CONFLICT global-ocean-accelerator: RDV CMA CGM le 24/11 à 16h vs « rdv le 30 nov » dans le mail d'onboarding (Drive: OA - Mails/WhatsApp, 2026-11-24); question du mail : partenariat GOA avec Société Générale possible ou conflit ?
+- verbatim: 
+- result: projects/global-ocean-accelerator/about.md, clients/cma-cgm.md, clients/axa.md
+
+## q-20261125-062004 | integrated
+- date: 2026-11-25
+- source: drive
+- session: drive:1qJjdNbYXckCABX49hfUsHjPpeYlofypOM05D36B1dSY@2026-11-24T10:16:53.770Z
+- certainty: fact
+- entities: changenow-cn27; iom; cma-cgm; eic
+- facts: ODJ CN27 le plus récent (non daté, 24/11) : points JMA, wishlist startups VITO4Starters + Nigeria, prise de parole d'Amy Pope, DG de l'IOM (Drive: CN27 - ODJ et prise de note, 2026-11-24); CMA CGM : partager les points clés avec Ian (Drive: CN27 - ODJ et prise de note, 2026-11-24)
+- decisions: 
+- open_loops: IOM : prise de parole d'Amy Pope (DG) à caler dans l'offre CN27 ; CMA CGM : envoyer à Ian les bullet points (GM)
+- verbatim: 
+- result: projects/changenow-cn27/about.md
+
+## q-20261125-062033 | integrated
+- date: 2026-11-25
+- source: drive
+- session: drive:1OH02I61oZDZtIAn_PQcDrdtfrORWVH905yPK5q9tyuo@2026-11-24T14:34:49.105Z
+- certainty: fact
+- entities: changenow-cn27; changenow; changenow-grille-tarifaire
+- facts: Deck générique CN27 mis à jour le 24/11 : Énergie = thématique « Focus in 2027 » parmi les 13 ; arguments chiffrés 2026 : taux de renouvellement des partenariats 95 %, 33 leads B2B en moyenne par exposant, 60 acteurs publics attendus en 2027 (42 en 2026, 30 en 2025) (Drive: ChangeNOW April 2027 - MA290726, 2026-11-24); Pacific Tech 2026 : 3 startups, 96 leads qualifiés, 7 deals conclus (Drive: ChangeNOW April 2027 - MA290726, 2026-11-24); menu « from » inchangé (pitch 1 000 € … Country House dès 40 000 € pour 18 m², limité à 5) (Drive: ChangeNOW April 2027 - MA290726, 2026-11-24)
+- decisions: 
+- open_loops: Deck CN27 : Europe, Afrique et Asie sont chacune présentées comme « absolute priority and core strategic anchor » ; la liste des 8 acteurs publics européens en cite 14 : à corriger avant envoi (AD/GM)
+- verbatim: 
+- result: projects/changenow-cn27/about.md
+
+## q-20261125-062051 | integrated
+- date: 2026-11-25
+- source: drive
+- session: drive:130oMA3Gkg5y0vQr_4BfCWBywUbMjPYQVUlx-GUYMVn8@2026-11-24T15:21:01.356Z
+- certainty: fact
+- entities: art-paris-2027; renault; leonie-vankemmel; guillaume-robic; audrey-keita
+- facts: Offre Renault : deux structures étudiées sur le deck AP27 x Renault — option 1 (slide 14) deux niveaux de partenariat à 90 k€ / 150 k€ avec activations et privatisations définies ; option 2 (slide 15) un package unique + activations et privatisations en options ; GM penche pour l'option 2 (sécurise l'apport financier + pourcentage sur les options achetées) (Drive: Art Paris 2027 - Mails, 2026-11-24); circuit de validation : envoi à Art Paris mercredi matin, validation AP mercredi-jeudi, envoi à Renault jeudi fin de journée, Renault présentant l'opportunité à sa direction vendredi matin (Drive: Art Paris 2027 - Mails, 2026-11-24); Léonie demande à Audrey et Justin les valorisations des privatisations petit-déjeuner et brunch, la validation globale de l'offre et une photo + plan technique de l'activation AlUla sur le Promenoir Nord (Drive: Art Paris 2027 - Mails, 2026-11-24); mail d'envoi du deck à Naomi Nascimento rédigé : créneau du lundi 30/11 à 16h30 « bloqué », confirmation attendue de Renault après sa réunion (Drive: Art Paris 2027 - Mails, 2026-11-24)
+- decisions: 
+- open_loops: Renault : faire valider l'offre par Art Paris puis envoyer le deck à Naomi Nascimento (jeudi 26/11 au soir) ; confirmer la visio du 30/11 à 16h30
+- verbatim: 
+- result: projects/art-paris-2027/about.md, clients/renault.md
+
+## q-20261125-062052 | integrated
+- date: 2026-11-25
+- source: drive
+- session: drive:130oMA3Gkg5y0vQr_4BfCWBywUbMjPYQVUlx-GUYMVn8@2026-11-24T15:21:01.356Z
+- certainty: hypothesis
+- entities: art-paris-2027; renault
+- facts: 
+- decisions: Structurer l'offre Renault en package unique + options (option 2) | why: sécurise l'apport financier du partenariat et permet un pourcentage sur les options (préférence de GM, en attente de l'avis de Guillaume Robic)
+- open_loops: 
+- verbatim: 
+- result: projects/art-paris-2027/about.md, clients/renault.md
+
+## q-20261125-062105 | integrated
+- date: 2026-11-25
+- source: drive
+- session: drive:1b6I6SHFjOnoY0m22USLLDxGNRrs_fxYTUUZDDpOIC58@2026-11-24T15:21:52.317Z
+- certainty: fact
+- entities: art-paris-2027; prix-her-art
+- facts: Programme Australie AP27 : « Sydney Murmurs », event potentiel sur le stand de la galerie Cassandra Bird pendant la foire (Drive: Art Paris 2027 - Suivi, 2026-11-18); CMS : prise de parole le vendredi matin sans être partenaire (précédent réussi : talk 10h-12h, audience mixte invités CMS + VIP Art Paris) ; Freshfields : soirée le jeudi soir (Drive: Art Paris 2027 - Suivi, 2026-11-18); piste : habiller les membres du jury du Prix Her Art (Drive: Art Paris 2027 - Suivi, 2026-11-18)
+- decisions: 
+- open_loops: 
+- verbatim: 
+- result: projects/art-paris-2027/about.md
+
+## q-20261125-062133 | integrated
+- date: 2026-11-25
+- source: drive
+- session: drive:1R_gK9i-ZBQC8EQ0OPGasHOG9-5k_tVldmYT5kaHou_I@2026-11-24T17:29:40.023Z
+- certainty: fact
+- entities: uggc; art-paris-2027
+- facts: Fiche prospect UGGC créée le 24/11 pour le RDV du 25/11 : proposition à 30 k€ présentée comme « fourchette haute » sur le secteur Promesses avec petit-déjeuner ; objectif : vendre un positionnement supérieur (partenariat) à ce qu'ont fait les autres cabinets (Drive: AP27 - UGGC Avocats : Fiche prospect / stratégie, 2026-11-24); cabinets « confirmés pour 2027 » : CMS Francis Lefebvre (prise de parole vendredi matin) et Freshfields (soirée jeudi soir) (Drive: AP27 - UGGC Avocats : Fiche prospect / stratégie, 2026-11-24)
+- decisions: 
+- open_loops: 
+- verbatim: 
+- result: clients/uggc.md, projects/art-paris-2027/about.md
+
+## q-20261125-062146 | integrated
+- date: 2026-11-25
+- source: drive
+- session: drive:19yKRiCmHXITvQLSJIBGqOqZoHpo-1sCOwv1u5rXDhgs@2026-11-24T19:01:16.600Z
+- certainty: fact
+- entities: eic; stephane-ouaki; changenow-cn27; santiago-lefebvre
+- facts: RDV European Innovation Council x ChangeNOW le vendredi 27/11/2026 avec Stéphane Ouaki, Santiago Lefebvre et GM ; GM en lead (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24); Stéphane Ouaki : Head of Department de l'EIC et directeur par intérim de l'EISMEA (Commission européenne) (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24); checklist : concept note envoyée à 18h30 la veille, deck de 3 slides (aftermovie, prototype de pavillon EIC, proposition de prise de parole), fiche « Europe at ChangeNOW » ; prix confirmés : pavillon 50 k€ tout compris, partenariat Forum 100 k€ (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24); posture : partager l'ambition de la 10e édition puis demander sa feuille de route avant de pitcher ; positionner l'EIC sur la thématique Accelerate pour éviter le conflit avec la China House sur l'énergie (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24); pitch : ChangeNOW comme moteur d'off-take commercial pour l'EIC Corporate Partnership Programme et l'EIC Scaling Club ; benchmarks : Next Unicorn Award VivaTech 2021 (~30 k€ d'aide de l'EIC), pavillon européen EIC à BIO 2026 (San Diego) (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24)
+- decisions: Positionner l'EIC sur la thématique Accelerate de CN27 | why: éviter le conflit avec la China House sur l'énergie
+- open_loops: Envoyer la concept note EIC le jeudi 26/11 à 18h30 et finaliser le deck 3 slides avant le RDV du 27/11 (GM)
+- verbatim: 
+- result: projects/changenow-cn27/about.md, clients/eic.md, people/stephane-ouaki.md, decisions.md
+
+## q-20261125-062156 | integrated
+- date: 2026-11-25
+- source: drive
+- session: drive:1EEbYPs7gDEwTOePxMPPrbUVrDFGydM-WUwsV7iD1OYM@2026-11-24T19:34:08.395Z
+- certainty: fact
+- entities: eic; changenow-cn27
+- facts: Deck du RDV EIC du 27/11 (brouillon) : Tier 1 = EIC House, 1 des 5 pavillons sélectionnés parmi 60 acteurs publics, 50 k€ (inauguration officielle, prise de parole, jusqu'à 6 startups co-sélectionnées, matchmaking corporates) ; Tier 2 = EIC House + Major Sponsor de l'Electrification Forum, 100 k€ (matchmaking industrie/mobilité/infrastructures, siège de jury et discours d'ouverture de la session pitch Electrification, tables rondes fermées) (Drive: EIC x ChangeNOW 2711, 2026-11-24)
+- decisions: 
+- open_loops: Deck EIC du 27/11 : le Tier 1 s'appelle encore « EIC Energy House » alors que la prépa recommande la thématique Accelerate (conflit China House) ; « Speaking slot during xx », slide prototype « AI Generated » et wishlist startups vides : à finaliser avant le 27/11 (GM)
+- verbatim: 
+- result: projects/changenow-cn27/about.md, clients/eic.md
+
+## q-20261125-062209 | integrated
+- date: 2026-11-25
+- source: drive
+- session: drive:1rkj_SJMiMrrEJgdjq7bmtzKbe5AX9wL6oSqxkk5SfLs@2026-11-24T19:43:05.737Z
+- certainty: fact
+- entities: fondation-cartier-privatisations; fondation-cartier
+- facts: ODJ FC du 25/11 (Ludovic, AD) : 8 demandes traitées dans la semaine, 1 refusée, 7 ajoutées au fichier ; 1 demande en attente d'arbitrage de Ludovic (Iroko) ; formulaire modifié pour le Studio ; reporting de novembre en cours de finalisation (Drive: FC - ODJ et compte rendu, 2026-11-25)
+- decisions: 
+- open_loops: CONFLICT fondation-cartier-privatisations: Studio « disponible à partir de juin 2027 » (ODJ 18/11) vs « Studio en travaux à partir de juin '27 » (ODJ 25/11) : à clarifier avec Ludovic (AD); finaliser et envoyer le reporting de novembre (AD)
+- verbatim: 
+- result: projects/fondation-cartier-privatisations/about.md
