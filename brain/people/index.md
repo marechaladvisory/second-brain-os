@@ -1,7 +1,7 @@
-# people/ index (generated 2026-11-25, 63 notes)
+# people/ index (generated 2026-11-26, 63 notes)
 
 ## active
-- [[stephane-ouaki]] (updated 2026-11-25, imp 3): Chef de département à l'EIC / EISMEA ; destinataire de la proposition CN27 (EIC Energy House 40 k€ ou 100 k€ avec l'Electrification Forum) et d'une lettre de Santiago Lefebvre datée du 21/10/2026.
+- [[stephane-ouaki]] (updated 2026-11-26, imp 3): Chef de département à l'EIC / EISMEA ; destinataire de la proposition CN27 (EIC Energy House 50 k€ ou 100 k€ avec l'Electrification Forum, offre du 25/11/2026) et d'une lettre de Santiago Lefebvre datée du 21/10/2026.
 - [[majid-boustany]] (updated 2026-11-24, imp 3): Fondateur de la Francis Bacon MB Art Foundation, grand mécène de l'École du Louvre (bibliothèque, amphithéâtre qui porte son nom) et membre du CA du FEDL.
 - [[guillaume-robic]] (updated 2026-11-20, imp 4): Consultant indépendant (« Strategic Partnership Advisor », plateforme DIWALL), associé externe de GM sur Art Paris 2027 et le Centre Pompidou-Metz, et avant sur le Prix Her Art.
 - [[tiana]] (updated 2026-11-20, imp 3): Assistante externe basée à Madagascar (Tiana Randria d'après son nom affiché) : traitement de masse de la base Airtable de MA, puis, depuis le 12/11/2026, logistique candidats du recrutement janvier 2027 depuis la boîte de GM (« Assistante de Guillaume Maréchal ») ; renfort possible sur Cotonou ; statut non écrit.

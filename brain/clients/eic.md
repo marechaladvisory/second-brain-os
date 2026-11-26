@@ -3,8 +3,8 @@ title: European Innovation Council
 type: entity
 status: active
 created: 2026-11-18
-updated: 2026-11-25
-review_by: 2027-05-24
+updated: 2026-11-26
+review_by: 2027-05-25
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -17,7 +17,9 @@ summary: Agence européenne de l'innovation ; client de ChangeNOW via MA depuis 
 ## En bref
 - Type : client via [[changenow]] (institution européenne, EIC / EISMEA) et prescripteur.
 - Relation : premier partenariat à CN26 obtenu par MA ; renouvellement CN27 en négociation ; [[paolo-bondavalli]] est vu comme prescripteur pour [[offre-open-doors-startups]].
-- Statut (2026-11-24) : prospect CN27, RDV Stéphane Ouaki × Santiago × GM le 27/11/2026 (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24).
+- Statut (2026-11-25) : prospect CN27, RDV Stéphane Ouaki × Santiago × GM le vendredi 27/11/2026 au Terminus Nord (Paris 10e), GM en lead, ouverture sur le 10e anniversaire, deck seulement si nécessaire (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-25).
+- Offre du 25/11 : Tier 1 « EIC Energy House » 50 k€ (1 des 5 pavillons sur 60 acteurs publics partenaires, inauguration officielle, jusqu'à 6 startups co-sélectionnées, matchmaking corporates) ; Tier 2 100 k€ avec Major Sponsor de l'Electrification Forum (jury du pitch, discours d'ouverture, tables rondes fermées, International Delegation Breakfast) ; wishlist des 6 startups encore en XX (Drive: EIC x ChangeNOW 2711, 2026-11-25). Priorités EIC rappelées : matchmaking corporate-startup au-delà de la série A (Corporate Partnership Programme), internationalisation vers l'Asie et l'Europe de l'Est.
+- Stats EU x CN26 : 27 nationalités, 330 startups sélectionnées, 291 speakers, 11 délégations ; Releaf Paper (startup EIC) y a rencontré un fonds ukrainien de 50 M€ (même source prépa).
 
 ## Faits clés
 - CN26 : hub dans l'Energy Zone (programme Deeptech x Greentech), 3 startups (e-peas, Sweetch Energy, Releaf Paper) ; 15 k€ selon le reporting MA alors qu'un package de 30 k€ avait été négocié (hub de 15 m²) (Drive: Maréchal Advisory Reporting - ChangeNOW 2026.pdf, 2026-05-21 ; CN27 - Pipeline, 2026-06-23). Décision du 17/12/2025 : EIC à 30 k€, « pas de cadeau sur le workshop ».
@@ -35,6 +37,7 @@ summary: Agence européenne de l'innovation ; client de ChangeNOW via MA depuis 
 - [[stephane-ouaki]] (chef de département) ; [[paolo-bondavalli]] (Programme Manager, jury CN26) ; Johannes Buenz, Vasileios Tsanidis.
 
 ## Questions ouvertes
+- Nom du Tier 1 : « EIC Energy House » (deck et prépa du 25/11) ou positionnement Accelerate (décision du 24/11, conflit China House sur l'énergie) ?
 - Montant CN26 réellement facturé (15 k€ ou 30 k€) ; décision CN27.
 
 ## History

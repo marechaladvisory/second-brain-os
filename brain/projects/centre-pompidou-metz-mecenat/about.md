@@ -3,8 +3,8 @@ title: Centre Pompidou-Metz Mécénat
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-13
-review_by: 2026-12-13
+updated: 2026-11-26
+review_by: 2026-12-26
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -35,6 +35,14 @@ Mission en cadrage au 2026-11-12 : visite du CPM prévue le 16/11/2026 (GM + GR 
   - Note « Stratégie globale » du 27/06/2026 : École expérimentale en crowdfunding Ulule 100 000 € ; Cercle des Visionnaires 150 000 € ; grands partenaires 200 000-300 000 € ; Cercle Grande Région (projets dédiés). Palette du même jour : grand partenaire 200-300 k€, crowdfunding ~150 k€, cercle d'influence ~100 k€, prospection expositions ~50 k€, partenariats en nature ~30 k€ (Drive: Centre Pompidou Metz - Stratégie Globale de Levée de Fonds, 2026-08-31).
   - Mail à Chiara Parisi : crowdfunding École 100 000 € ; cercle grands donateurs 150 000 € ; prospection exposition en nature 20 000 € ; grands partenaires 200 000-300 000 € (Drive: CPM - Mails - sans GR, 2026-11-04). Les montants « en nature » diffèrent (30 k€ / 50 k€ en juin, 20 k€ en novembre, plus récent).
 
+## Visite à Metz du 16/11/2026 (Drive: CPM - Suivi, 2026-11-16)
+- Mécénat : objectif 800 000 €, réalisé 600-700 k€ ; Wendel 300 000 €/an ; conventions pluriannuelles UEM, Caisse d'Épargne, Banque Populaire, plus MGEN ; Galeries Lafayette en 2025 ; Amis du CPM ~30-35 k€/an (pas de politique d'acquisition, dons difficiles à flécher). Chiffres de l'établissement : [[centre-pompidou-metz]].
+- Territoire : Grand Est peu identifié par les fondations nationales ; Hermès a refusé (« pas d'intérêt dans le Grand Est ») ; certaines fondations veulent couvrir toutes les régions et il leur manque le Grand Est : angle d'approche.
+- Contreparties : règle des 10 % de visibilité et 25 % maximum de contrepartie matérielle, maintenue face à un mécène ; parrainage/sponsoring jamais proposé, à envisager (obligatoire si l'entreprise veut communiquer sur une marque) ; contreparties online (traçables) et expérientielles à développer ; pas de plaquette mécénat.
+- Leviers : vernissages (4-6 par an, 15-20 caisses de champagne chacun, seul lieu de la région réunissant notables, collectionneurs et artistes internationaux), voir [[offre-vins-mecenat]] ; École du CPM (~4 000 €/an de coûts directs pour ~100 000 € de mécénat, MGEN et Crédit Agricole de Lorraine) ; Paper Dome (don de Shigeru Ban, ~1 M€, inauguration septembre 2027, mécénats financiers fléchés sur l'école dans le dôme, Fondation Batigère très intéressée) ; programmation 2026-2027 (Séraphine Louis, Shigeru Ban le 4/12, Cattelan fin janvier, Calder le 10/4) ; Julien Crozet cherche 50 000 € d'aide à la création ; [[loreal]] (Delphine Urbach) intéressé par la programmation danse/corps/inclusivité, premier contact à reprendre.
+- Visiteurs : 300 000/an, 25-26 % d'étrangers (40 % d'Allemands), 79 % des Français du Grand Est, 10-12 % d'Île-de-France (marge de progression) ; mécénat luxembourgeois peu exploré (pas d'accord fiscal bilatéral).
+- Suites convenues : le CPM partage son tableau de contreparties et, une fois la collaboration officialisée, la liste des mécènes existants ; MA partage ses lettres types ; diagnostic commun des pistes non explorées ; invitation au vernissage.
+
 ## Équipe et contacts
 - MA : [[me]] ; [[guillaume-robic]] (« GR » / « Guillaume R » dans le dossier, co-pilote, point bimensuel) ; [[leonie-vankemmel]] (mails, lettre type, publipostage ; départ mi-décembre 2026).
 - Client : [[chiara-parisi]] (décisionnaire, « garante de l'image ») ; [[elsa-de-smet]] (développement des publics, communication et mécénat depuis mars 2026, interlocutrice opérationnelle) (Drive: CPM - Bilan & Diagnostic ; CPM - Suivi).
@@ -59,7 +67,8 @@ Mission en cadrage au 2026-11-12 : visite du CPM prévue le 16/11/2026 (GM + GR 
 
 ## Questions ouvertes
 - Modèle économique de la mission (honoraires, success fee ?) : rien d'écrit.
-- Résultat de la visite du 16/11/2026 et validation de la liste de cibles : non documentés.
+- Validation de la liste de cibles et de la lettre : non documentée (la visite du 16/11 est résumée plus haut).
+- Dossier Drive « Centre Pompidou Metz - sans GR » créé le 25/11 (fiche stratégie vide, fiche posture : « Pascal part à la retraite dans 1 mois ») : qui est Pascal, et la mission se poursuit-elle sans Guillaume Robic ? (Drive: CPM - Fiche posture, 2026-11-25)
 - Le point AP27 du 04/11 contient « faire valider la lettre par le Centre Pompidou-Metz » et « Lettre signée par Carré » : note CPM rangée par erreur dans le suivi [[art-paris-2027]] ? Qui est « Carré » ?
 - Rôle exact de Guillaume Robic (partenaire rémunéré, partage de commission ?).
 

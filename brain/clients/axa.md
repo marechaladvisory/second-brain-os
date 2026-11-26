@@ -3,8 +3,8 @@ title: AXA
 type: entity
 status: active
 created: 2026-11-18
-updated: 2026-11-25
-review_by: 2027-05-24
+updated: 2026-11-26
+review_by: 2027-05-25
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -17,6 +17,7 @@ summary: Groupe d'assurance sollicité sur plusieurs fronts (Global Ocean Accele
 ## En bref
 - Type : prospect multi-comptes. Le Fonds de dotation AXA pour le Progrès Humain a été créé le 30/06/2025, 60 M€/an, présidé par Thomas Buberl, dirigé par Clément Rouxel (Drive: Fiche - Fonds de dotation AXA sur le Progrès Humain, 2026-10-20).
 - Relation : AXA soutient Coastguard Cities de [[waves-of-change]] (phase 1 de 3 ans) ; [[olivier-desbiey]] était keynote du workshop G7 de WoC.
+- GOA (2026-11-23) : RDV obtenu avec Ariane (chargée de partenariat, équipe Julia, pôle Nature) le 1/12/2026 à 14h ; objectif : créer du relationnel, proposer du physique, inviter Julia (Drive: OA - Suivi, 2026-11-23).
 - Statut (2026-11-17) : prospect, aucun engagement ; visio GOA proposée à Ariane (pilier Nature) pour le 20/11, sans réponse vue au 23/11 (Gmail: Suite à notre échange - Fonds AXA pour le Progrès Humain x Fonds de dotation de l'École du Louvre, 2026-11-17).
 - **Règle demandée par AXA (10/11/2026)** : Joséphine de Fontaines demande « que nous restions vos interlocuteurs uniques au sein d'AXA, afin de ne pas créer de confusion » (Gmail: Invitation exclusive : Inauguration de l'amphithéâtre Louise Bourgeois – École du Louvre, 2026-11-10).
 

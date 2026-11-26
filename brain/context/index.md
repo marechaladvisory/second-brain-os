@@ -1,4 +1,4 @@
-# context/ index (generated 2026-11-25, 6 notes)
+# context/ index (generated 2026-11-26, 6 notes)
 
 ## active
 - [[config]] (updated 2026-11-23, imp ?): Settings every brain routine reads. Change values here, never in skills.

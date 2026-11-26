@@ -3,12 +3,25 @@ title: Decisions
 type: decision
 status: active
 created: 2026-11-17
-updated: 2026-11-25
+updated: 2026-11-26
 summary: Décisions datées de Maréchal Advisory avec leur raison, les plus récentes d'abord (reprises du Drive au setup du 2026-11-18).
 ---
 # Decisions
 Format: `## YYYY-MM-DD <décision>` puis `Why:` et `Replaces:` si besoin. Source Drive en fin de ligne.
 Décisions antérieures au 2026-11-18 : reprises du Drive lors du setup (raw/2026-11-18-drive-setup/).
+
+## 2026-11-25 AP27 : offre Renault en package unique « Partenaire Officiel Automobile » (10 véhicules/jour × 5 jours + 30 000 € cash), activations en option
+Why: sécuriser l'apport financier et appliquer un pourcentage aux options achetées en plus (préférence de GM). [[art-paris-2027]] [[renault]] (Drive: Deck AP27 x Renault, 2026-11-25 ; Art Paris 2027 - Mails, 2026-11-24)
+Replaces: les deux options étudiées le 24/11 (90 k€ / 150 k€ ou package + options).
+
+## 2026-11-25 AP27 : proposer à UGGC un « test » sur une première année, reconductible et élargissable
+Why: premier engagement d'un cabinet qui n'a jamais fait de petit-déjeuner, budget 2027 pas encore arrêté. [[art-paris-2027]] [[uggc]] (Drive: Art Paris 2027 - Suivi, 2026-11-25)
+
+## 2026-11-23 GOA : avancer avec Station F en « crantant » de petits jalons, chaque compte-rendu formalisant un élément de plus
+Why: ne pas se faire contourner tout en gardant l'ambiguïté nécessaire. [[global-ocean-accelerator]] (Drive: OA - Suivi, 2026-11-23)
+
+## 2026-11-23 GOA : pousser MSC vers une visio de 15 min avant janvier, en citant AXA et la Fondation Albert II sans nommer CMA CGM
+Why: la directrice exécutive proposait début janvier, trop tard pour les accords de principe visés en décembre. [[global-ocean-accelerator]] (Drive: OA - Suivi, 2026-11-23)
 
 ## 2026-11-24 CN27 : positionner l'EIC sur la thématique Accelerate au RDV Ouaki du 27/11/2026
 Why: éviter le conflit avec la China House sur l'énergie. [[changenow-cn27]] [[eic]] (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24)

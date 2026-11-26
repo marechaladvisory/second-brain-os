@@ -3,8 +3,8 @@ title: Renault
 type: entity
 status: active
 created: 2026-11-20
-updated: 2026-11-25
-review_by: 2027-05-24
+updated: 2026-11-26
+review_by: 2027-05-25
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -29,12 +29,14 @@ summary: Constructeur automobile, prospect chaud d'Art Paris 2027 (partenariat h
 Détail et contraintes dans [[art-paris-2027]] (pipeline au 2026-11-18 et au 2026-11-24).
 - 2026-11-24 : deck « AP27 x Renault » avec deux structures : option 1 deux niveaux à 90 k€ / 150 k€ ; option 2 package unique + activations et privatisations en options, préférée par GM ; envoi prévu à Renault le jeudi 26/11 au soir après validation d'Art Paris, Renault présentant l'opportunité à sa direction le vendredi 27/11 au matin (Drive: Art Paris 2027 - Mails, 2026-11-24).
 
+- 2026-11-25 : deck final « Partenaire Officiel Automobile » = flotte 10 véhicules par jour × 5 jours + 30 000 € cash ; option Art Car (zone Nord ou Sud) ou Promenoir Nord ~60 m² à 50 000 € HT ; petit-déjeuner 50 pers., 40 + 40 invitations, activation du 53 Champs-Élysées à définir (Drive: Deck AP27 x Renault, 2026-11-25). Package unique, conforme à la préférence de GM ; le brouillon d'envoi joint le plan du Promenoir Nord et laisse la valorisation « à confirmer par Renault » (Drive: Art Paris 2027 - Mails, 2026-11-25).
+
 ## Contacts
 - Naomi Nascimento (Partnerships Manager, Renault Global Marketing), Stéphane Barbat (Partnerships & Brand Image Director, Renault Global Marketing), Annejela Royoux (partenariats), Jean-Pierre Diernaz (destinataire de la lettre) (Gmail: Art Paris Avril 2027, 2026-11-20 ; Art Paris Avril 2027 - Lettre…, 2026-11-06).
 
 ## Prochaines étapes
-- Envoyer le deck avec l'offre le jeudi 26/11 au soir, après validation d'Art Paris ; visio de suivi : créneau du lundi 30/11/2026 à 16h30 « bloqué », à confirmer par Renault (Drive: Art Paris 2027 - Mails, 2026-11-24) (GM, Léonie).
-- Envoyer support, pistes d'activation et confirmation du nombre de véhicules (GM, Léonie) ; le chiffre de 30-40 demandé par Renault est à concilier avec la contrainte d'Art Paris (flotte historique 10 idéal, 8 max), voir [[art-paris-2027]].
+- Envoyer le deck du 25/11 le jeudi 26/11 au soir, après validation d'Art Paris ; visio de suivi : créneau du lundi 30/11/2026 à 16h30 « bloqué », à confirmer par Renault (Drive: Art Paris 2027 - Mails, 2026-11-24) (GM, Léonie).
+- Envoyer support, pistes d'activation et confirmation du nombre de véhicules (GM, Léonie) ; le deck propose 10 véhicules par jour, contre 30-40 demandés par Renault : écart à expliquer, à concilier avec la contrainte d'Art Paris (flotte historique 10 idéal, 8 max), voir [[art-paris-2027]].
 
 ## Questions ouvertes
 - Un brouillon de mail de GM (Doc au 23/11, envoi non confirmé) propose une visio de brainstorming le lundi 30/11/2026 à 16h30 et parle d'« une vingtaine de véhicules » (Drive: Art Paris 2027 - Mails, 2026-11-23) : envoyé ? remplace-t-il le call du 26 ou 27/11 ? Détail dans [[art-paris-2027]].

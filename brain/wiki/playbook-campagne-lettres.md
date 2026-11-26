@@ -3,8 +3,8 @@ title: Playbook des campagnes de lettres MA
 type: concept
 status: active
 created: 2026-11-18
-updated: 2026-11-20
-review_by: 2027-11-20
+updated: 2026-11-26
+review_by: 2027-11-26
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -67,6 +67,7 @@ Fenêtre d'envoi : avant le 5-6 décembre pour les entreprises ; un envoi après
 Séance [[armand-dogra]] x [[leonie-vankemmel]] (Drive: MA - RETEX Campagnes de lettres, 2026-11-05).
 - Difficultés : coquilles, fautes, parallélisme, répétitions (« utiliser l'IA et répétiteur ») ; mise à jour du grid ; manque d'anticipation ; à qui envoyer et qui mettre en copie selon le contact existant de GM.
 - Décisions et recommandations : checkpoints 1-1 par phase ; matrice de lettre type ; grid Airtable dédiée par campagne ; lettre de 2 pages max ; « mettre la pression sur le client pour validation ».
+- Version du 26/11 : méthode en 4 phases, 1) kick-off (fiche projet, rétroplanning, checklist, sensibilisation du client), 2) toolkit (documents client, mails types FR/EN en tutoiement et vouvoiement, paragraphes personnalisés par zone, secteur ou région, WhatsApp ; grid Airtable), 3) validation et modifications (retours GM, déclinaisons, validation client de la liste et du toolkit, publipostage, validation GM, PDF), 4) last mile (automatisation et envoi). Airtable est le centre de la démarche, sans Excel parallèle sauf pour le publipostage ; vues préparation, publipostage et suivi des réponses ; grid dédiée au publipostage (copies, personnalisations, langue, PJ) ; noter les liens personnels de GM avec chaque destinataire (Drive: MA - RETEX Campagnes de lettres, 2026-11-26).
 
 ## Ce qui marche (constats)
 - Une invitation à un événement suscite plus de réponses qu'une sollicitation à froid : « une invitation à un événement suscite bien plus d'intérêt qu'une sollicitation à froid » (Drive: EDL - Mail point invitations Chaire UNESCO, 2026-06-19).
@@ -76,6 +77,7 @@ Séance [[armand-dogra]] x [[leonie-vankemmel]] (Drive: MA - RETEX Campagnes de 
 - Relances à valeur ajoutée plutôt que rappels : article, deck, aftermovie, présence de GM à un événement, lettre du CEO (Drive: CN 25 - un bon business developper, 2026-08-08).
 
 ## Questions ouvertes
+- Tutoriel de publipostage depuis Airtable et outil PDF : encore à documenter (RETEX du 26/11).
 - Taux de réponse et rendez-vous issus des campagnes : AP27 compté à la main depuis la boîte de GM (environ 10 % de réponses au 23/11) ; CN27 non mesuré ; pas de mesure dans Airtable.
 - La consigne « envoyer avant le 5-6 décembre » figure dans le suivi AP27 du 04/11/2026 et dans la timeline CPM ; elle vise probablement la campagne CPM (note CPM rangée dans le suivi AP27, hypothèse), voir [[centre-pompidou-metz-mecenat]].
 - Qui reprend le publipostage après le départ de Léonie mi-décembre 2026 ?

@@ -343,3 +343,207 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - open_loops: CONFLICT fondation-cartier-privatisations: Studio « disponible à partir de juin 2027 » (ODJ 18/11) vs « Studio en travaux à partir de juin '27 » (ODJ 25/11) : à clarifier avec Ludovic (AD); finaliser et envoyer le reporting de novembre (AD)
 - verbatim: 
 - result: projects/fondation-cartier-privatisations/about.md
+
+## q-20261126-062005 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1O9IO1JSRTmKWEAOBhJBYxEWuA6I2i3pEUZsnIzR5PbY@2026-11-25T08:44:56.817Z
+- certainty: fact
+- entities: global-ocean-accelerator; station-f; axa; msc; cma-cgm; assia
+- facts: Point hebdo GOA du 23/11 (GM, VA, LV) (Drive: OA - Suivi, 2026-11-23); Station F : Lamia (ex-UM6P, a créé l'accélérateur MCSP à Station F) monte un programme Arabie saoudite à Station F, réunion prévue le 24/11 pour voir comment elle a contractualisé avec Station F (Drive: OA - Suivi, 2026-11-23); AXA : RDV avec Ariane (chargée de partenariat, équipe Julia, pôle Nature) le 1/12 à 14h ; Anne Lainé (consultante senior Wavestone, développement durable) identifiée (Drive: OA - Suivi, 2026-11-23); EDF Pulse : potentiel Tier 1, 50 k€ envisagés, 100 k€ idéal ; relance cette semaine, créneau bloqué jeudi matin de la semaine suivante, idée de petit-déjeuner à Station F à 8h30 (Drive: OA - Suivi, 2026-11-23); 11th Hour Racing est partenaire de Marine Shift 360 (accélérateur impact, Londres) : angle complémentarité GOA global vs UK post-Brexit et « bureau européen » à Station F (Drive: OA - Suivi, 2026-11-23); MSC : réponse de la directrice exécutive le 23/11, disponible début janvier (Drive: OA - Suivi, 2026-11-23); CMA CGM : réunion repoussée (Drive: OA - Suivi, 2026-11-23); Assia devient le contact principal, Abigail reste en copie (Drive: OA - Suivi, 2026-11-23)
+- decisions: Posture Station F : avancer en « crantant » de petits jalons sans rigidifier, chaque compte-rendu formalise un élément de plus | why: ne pas se faire contourner tout en gardant l'ambiguïté nécessaire; MSC : pousser une visio de 15 min avant janvier, citer AXA et la Fondation Albert II sans nommer CMA CGM | why: ne pas attendre janvier
+- open_loops: AXA : demander à Ariane qui sera présent et si le RDV du 1/12 peut être physique, inviter Julia; relancer 11th Hour Racing sur l'angle Marine Shift 360 avec la presse (corriger le logo Eleven Project); répondre à MSC pour une visio de 15 min avant janvier; CONFLICT projects/global-ocean-accelerator/about.md: RDV CMA CGM le 24/11 à 16h (mails) vs réunion repoussée (point hebdo du 23/11)
+- verbatim: 
+- result: projects/global-ocean-accelerator/about.md, clients/axa.md, clients/cma-cgm.md, decisions.md
+
+## q-20261126-062006 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1o9EuVGjMe3xBXZ_qsHRmi7swpG8SNuTQBM5o5LO948w@2026-11-25T09:47:38.100Z
+- certainty: fact
+- entities: centre-pompidou-metz; centre-pompidou-metz-mecenat; loreal; elsa-de-smet; chiara-parisi
+- facts: Visite à Metz du 16/11 : budget total ~13-13,5 M€ ; subventions 9,7 M€/an (Ville, Eurométropole, Région) ; Département de la Moselle 400 000 € (convention pluriannuelle, contre 300 000 € avant) ; billetterie ~1-1,2 M€/an (1 M€ minimum statutaire de recettes propres) (Drive: CPM - Suivi, 2026-11-16); Mécénat : objectif 800 000 €, réalisé 600-700 k€ ; Wendel mécène fondateur 300 000 €/an ; mécènes historiques en conventions pluriannuelles UEM, Caisse d'Épargne, Banque Populaire, plus MGEN ; Galeries Lafayette en 2025 ; Amis du CPM ~30-35 k€/an, nouveau président ancien adjoint au maire de Metz (Drive: CPM - Suivi, 2026-11-16); Grand Est peu identifié par les fondations nationales ; Hermès a refusé (« pas d'intérêt dans le Grand Est ») ; certaines fondations veulent couvrir toutes les régions et il leur manque le Grand Est (Drive: CPM - Suivi, 2026-11-16); Contreparties : règle des 10 % de visibilité et 25 % maximum de contrepartie matérielle, maintenue face à un mécène ; le sponsoring/parrainage n'a jamais été proposé et est à envisager (obligatoire si l'entreprise veut communiquer sur une marque) ; contreparties online et expérientielles à développer ; pas de plaquette mécénat formalisée (Drive: CPM - Suivi, 2026-11-16); Vernissages : 4 à 6 par an, 15-20 caisses de champagne chacun, seul lieu de la région réunissant notables, collectionneurs et artistes internationaux : piste mécénat vin et champagne (Drive: CPM - Suivi, 2026-11-16); Programmation : Séraphine Louis (31/10 à avril), Shigeru Ban (4/12), Maurizio Cattelan (fin janvier), Calder et l'art de la scène (10/4, mécénat Fondation Calder), Godard et l'art en 2028 (Drive: CPM - Suivi, 2026-11-16); École du CPM : 40-50 élèves de 3e par an, budget direct ~4 000 €/an qui rapporte ~100 000 € de mécénat (MGEN, Crédit Agricole de Lorraine) (Drive: CPM - Suivi, 2026-11-16); Paper Dome : don de Shigeru Ban à l'Eurométropole (~1 M€), transport ~80 000 € (marché lancé), installation sur le Triangle Nord, inauguration septembre 2027, 250 m² ; mécénats financiers fléchés sur l'école dans le dôme ; Fondation Batigère très intéressée (Drive: CPM - Suivi, 2026-11-16); L'Oréal (Delphine Urbach) : intérêt pour la programmation danse/corps/inclusivité, premier contact maladroit autour de Séraphine, à reprendre sur le spectacle vivant (Drive: CPM - Suivi, 2026-11-16); Julien Crozet : besoin de 50 000 € d'aide à la création, refuse la Fondation Clément (Drive: CPM - Suivi, 2026-11-16); Visitorat : 300 000/an, 25-26 % d'étrangers (40 % d'Allemands), 79 % des Français du Grand Est, 10-12 % d'Île-de-France (Drive: CPM - Suivi, 2026-11-16)
+- decisions: 
+- open_loops: Suites de la visite du 16/11 : le CPM partage son tableau de contreparties ; MA partage ses lettres types ; liste des mécènes existants une fois la collaboration officialisée ; diagnostic commun des pistes ; invitation au vernissage à transmettre
+- verbatim: 
+- result: projects/centre-pompidou-metz-mecenat/about.md, clients/centre-pompidou-metz.md
+
+## q-20261126-062016 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1u0to9K9xktvY3-RY0-YqcL6rmvt6ZSLIwfjYExqSMsI@2026-11-25T09:37:35.210Z
+- certainty: hypothesis
+- entities: centre-pompidou-metz-mecenat
+- facts: Nouveau dossier Drive « Centre Pompidou Metz - sans GR » créé le 25/11 avec une fiche stratégie (vide) et une fiche posture : « Pascal part à la retraite dans 1 mois » (Pascal non identifié dans les notes) (Drive: CPM - Fiche posture, 2026-11-25)
+- decisions: 
+- open_loops: Identifier Pascal (CPM ?) et son rôle avant son départ en retraite vers fin décembre 2026
+- verbatim: 
+- result: projects/centre-pompidou-metz-mecenat/about.md (question ouverte)
+
+## q-20261126-062032 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1V3T3SuTsw_19AZRDL_QQM0qGt6-MGpYJ@2026-11-25T11:20:41.686Z
+- certainty: hypothesis
+- entities: art-paris-2027
+- facts: Plan technique de stand Art Paris « Promenoir Nord » versé au dossier AP27 le 25/11 : stand n° H0 de 63 m², plan provisoire du 15/09/2026 sous réserve de la RMN-GP (Drive: Plan technique Promenoir Nord.pdf, 2026-11-25)
+- decisions: 
+- open_loops: AP27 : à quel partenaire est destiné l'espace Promenoir Nord (63 m²) ?
+- verbatim: 
+- result: projects/art-paris-2027/about.md
+
+## q-20261126-062033 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:18qoLZ86hc9WqO4ItHbv2fbbPe4nBajYN@2026-11-25T13:57:24.717Z
+- certainty: hypothesis
+- entities: recrutement-janvier-2027; global-ocean-accelerator
+- facts: Synthèse des cas pratiques du recrutement (sponsor principal GOA à 300 000 €) : 18 propositions pour 12 entreprises ; CMA CGM citée 4 fois, TotalEnergies, LVMH et Michelin 2 fois ; aussi AXA, Shell, Evian (Danone), L'Oréal, Suez, SWEN Capital Partners, CACIB, Mitsui O.S.K. Lines (Drive: Tableau de synthèse des entreprises proposées - cas pratique MA.pdf, 2026-11-25); Enseignements : Michelin est la piste hors-maritime la plus robuste (aile WISAMO + microplastiques des pneus sous Euro 7) ; à 300 k€, viser les directions Innovation/R&D en vendant un accès anticipé à des pilotes, pas les fondations ou le mécénat ; Shell et TotalEnergies à fort risque de greenwashing, imposer une gouvernance indépendante (comité de sélection, pas de veto du sponsor) ; MOL comme levier international ; SWEN (VC) et CACIB peu adaptés à un sponsoring d'amorçage (même source); Meilleurs cas pratiques : Jean-François M., Robin D. et un troisième candidat (même source)
+- decisions: 
+- open_loops: GOA : tester Michelin (Direction de l'Innovation) et Mitsui O.S.K. Lines comme cibles sponsor
+- verbatim: 
+- result: projects/global-ocean-accelerator/about.md (candidats non repris)
+
+## q-20261126-062053 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1MSBjvP9Z308IRsqKkg2jDhDS7WLbCxKlZnD3horo1BE@2026-11-25T11:34:40.265Z
+- certainty: fact
+- entities: global-ocean-accelerator; virginie-augagneur; leonie-vankemmel
+- facts: Relances GOA de novembre : mail de relance type (premiers échanges partenaires finalisés d'ici fin d'année) avec en pièce jointe une note sur le lancement du Scale-Up Hub de Station F (Deel, Spiko, Roundtable, ClickHouse, annoncé le 20/11), doublé par un message LinkedIn de Léonie (Drive: OA - Lettre & mail type, 2026-11-25); Mails personnalisés de Virginie : Groupama (via Amandine, angle littoral : ~20 % des côtes métropolitaines reculent, challenge sur mesure type POC Volt'Terre), MACIF (Gaëlle, après sa mission MerConcept), Crédit Mutuel Arkéa (Marie et Sophie, angle filière mer, Impact Océan Capital, visio proposée), Ifremer (Romain Charaudeau : partenariat scientifique, jury, données, passerelle Octo'Pousse ; première promo 2027 sur la surveillance de la haute mer et les jumeaux numériques de l'océan), EDF (Louise Villain, demande d'introduction à Yann Coic d'EDF Pulse), CNP Assurances (Alexandra, OpenCNP) (Drive: OA - Lettre & mail type, 2026-11-25); Pitch des mails de Virginie : 10 startups par an sélectionnées dans le monde entier, sur 8 mois, deeptechs de régénération océanique, challenge sur mesure posé par le partenaire (même source); CR de prospection de Léonie à Abigail : réunions débloquées avec EDF Pulse, ESA, 11th Hour Racing, Ifremer, Ocean Born Foundation, FPA2 ; en attente AXA, Accor, Hoffmann, MACIF, KAUST, EIC ; prospection élargie à Louis Dreyfus Armateurs, Suez, Veolia, Engie, Vinci, Eiffage (même source)
+- decisions: 
+- open_loops: Lettre type GOA (on hold) : paliers Lead 300 k€ / Co-sponsor thématique 100 k€ / Écosystème 50 k€, alors que la grille actuelle met l'écosystème dès 30 k€/an : à aligner avant envoi; Léonie demande à Abigail si l'EIC peut être considéré Tier 1
+- verbatim: 
+- result: projects/global-ocean-accelerator/about.md
+
+## q-20261126-062113 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1ccPtE0fT_kDsr0SSfMHp21zgSMFh-si_G-Z8IHqcO-8@2026-11-25T14:49:30.943Z
+- certainty: fact
+- entities: art-paris-2027; renault; uggc
+- facts: Réponses d'Art Paris sur les privatisations (Drive: AP27 - Infos, 2026-11-25) : petit-déjeuner/brunch sans jauge ni espace dédiés, à partir de 10h (avant, frais d'ouverture), pas de frais techniques hors hôtes ; proposition de différencier les niveaux par le nombre d'invités, 50 au niveau 1 et 150 au niveau 2 ; tarif selon nombre de personnes et espace; Soirée du samedi : jusqu'à 350 personnes sur le Balcon de l'Horloge complet + les deux rotondes, galeries fermées, privatisation commençant en général 2h avant la fermeture, frais techniques ~15 000 € (Drive: AP27 - Infos, 2026-11-25); Espace de personnalisation partenaire en option : 60 à 120 m², à côté de la porte Nord (plan Promenoir Nord, stand H0 de 63 m²), vente sur place soumise à validation (ex. Vilebrequin x Fabrice Hyber) (Drive: AP27 - Infos, 2026-11-25); Privatisations Club : option vernissage du mercredi 31/03/2027 + 5 000 € HT ; traiteur, technique, gardiennage hors horaires, communication à la charge du client (Drive: AP27 - Infos, 2026-11-25); Prospects déjà suivis par Art Paris : AXA (Service Art), Combo.toys, Gallagher, Lindberg, Maison Margiela, Orient Express, Printemps Haussmann, Printemps New York, UGG, Valmont ; anciens partenaires : Lotus, Marni ; partenaires automobiles passés (Audi, BMW, DS, Lexus, Mercedes-Benz, Porsche, Renault) : « on prend le relais ! » (Drive: AP27 - Infos, 2026-11-25)
+- decisions: 
+- open_loops: AP27 : chiffrer les privatisations petit-déjeuner niveaux 1 (50 invités) et 2 (150 invités) avec Art Paris pour Renault et UGGC
+- verbatim: 
+- result: projects/art-paris-2027/about.md
+
+## q-20261126-062133 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1R_gK9i-ZBQC8EQ0OPGasHOG9-5k_tVldmYT5kaHou_I@2026-11-25T15:21:37.572Z
+- certainty: fact
+- entities: uggc; art-paris-2027; laure-assumpcao
+- facts: Fiche UGGC mise à jour le 25/11 : proposition à 30 k€ sur le secteur Promesses, petit-déjeuner inclus (50 personnes, rotonde, 2h de 10h à 12h) (Drive: AP27 - UGGC Avocats : Fiche prospect / stratégie, 2026-11-25); UGGC : cabinet d'affaires indépendant fondé en 1993, ~170 avocats et juristes, Tier 1 en Art Law (Best Lawyers, Legal 500) ; Laure Assumpçao, avocate aux barreaux de Paris et New York, associée Contentieux et droit de l'art ; Maëlle Deniaud, Head of Business Development, Marketing and Communication (même source); Précédents cabinets à Art Paris : CMS Francis Lefebvre = créneau de conférence le vendredi matin (table ronde 10h-11h30, invités CMS + VIP Art Paris, visibilité programme, newsletter, print, 1 hôtesse) ; Freshfields = soirée du jeudi (même source)
+- decisions: 
+- open_loops: 
+- verbatim: 
+- result: clients/uggc.md, projects/art-paris-2027/about.md
+
+## q-20261126-062134 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1UchWnb8xcNnz7D16SebzWt79U02685LeMj0kTz10sbE@2026-11-25T16:12:28.776Z
+- certainty: fact
+- entities: uggc; art-paris-2027
+- facts: Deck AP27 x UGGC Avocats créé le 25/11 (jour du RDV) : sponsoring Promesses niveau 1 Partenaire associé 30 000 € (petit-déjeuner 50 pers. valorisé 15 000 €, 1 masterclass, 20 Prestige + 20 Daily Preview valorisées 25 000 €) et niveau 2 Partenaire fondateur 100 000 € (prix Promesses, siège au jury, brunch 100 pers. au balcon de l'Horloge valorisé 35 000 €, 2 masterclass, 40 + 40 invitations valorisées 50 000 €, prise de parole à la remise du prix) (Drive: Deck AP27 x UGGC Avocats, 2026-11-25); Chiffres Art Paris 2026 repris dans le deck : 87 275 visiteurs, 165 exposants de 20 pays, 900+ artistes, plan média valorisé 4 M€ ; AP27 du 1er au 4 avril 2027, 29e édition, ~170 galeries, Australie à l'honneur, nouveau secteur Histories, nouveau prix Promesses (Marc Donnadieu) (même source)
+- decisions: 
+- open_loops: CONFLICT projects/art-paris-2027/about.md: brunch du niveau 2 Promesses pour 150 personnes (VF du 27/10) vs 100 personnes (deck UGGC du 25/11); Issue du RDV UGGC du 25/11 non documentée
+- verbatim: 
+- result: clients/uggc.md, projects/art-paris-2027/about.md
+
+## q-20261126-062151 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:130oMA3Gkg5y0vQr_4BfCWBywUbMjPYQVUlx-GUYMVn8@2026-11-25T15:28:16.566Z
+- certainty: hypothesis
+- entities: renault; art-paris-2027
+- facts: Brouillon de mail d'envoi du deck à Naomi Nascimento (Renault) préparé le 25/11 : deck Art Paris avec proposition d'offre commerciale, plan technique du Promenoir Nord en pièce jointe ; zone d'exposition dans la Nef en attente du deuxième comité de sélection d'Art Paris ; valorisation à confirmer par Renault ; créneau du lundi 30/11 à 16h30 bloqué, confirmation attendue après la réunion de direction de Renault (Drive: Art Paris 2027 - Mails, 2026-11-25); Pistes Renault : espace dédié à la collection d'art Renault (actualité : exposition « Moteur Imaginaire » à Large, île Seguin) (même source); AFBA : contrainte du lundi de Pâques (29/03/2027), side event possible seulement ce soir-là, budget 2-5 k€ (même source)
+- decisions: 
+- open_loops: Renault : confirmer que le deck a bien été envoyé à Naomi (prévu jeudi 26/11 au soir) et la visio du 30/11 à 16h30
+- verbatim: 
+- result: projects/art-paris-2027/about.md, clients/renault.md
+
+## q-20261126-062201 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1Z4_9xnK3fds1ZFSZQIubr8lR_pPXYN5WTrPQD-vSfJQ@2026-11-25T16:27:36.826Z
+- certainty: hypothesis
+- entities: art-paris-2027
+- facts: Nouvel onglet « offre commerciale sur mesure » (lecture partielle, en-têtes et 2 lignes) : Promesses Partenaire associé 30 000 € HT × 2 = 60 000 € ; Partenaire fondateur 100 000 € HT avec petit-déjeuner/brunch 100 personnes (Drive: Art Paris - Offre commerciale & Grille prospection, 2026-11-25)
+- decisions: 
+- open_loops: AP27 : pour quel prospect l'offre sur mesure à 2 × Promesses niveau 1 (60 000 €) ?
+- verbatim: 
+- result: projects/art-paris-2027/about.md
+
+## q-20261126-062215 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1pkpwyuUikFBoIRyjy2fnDVhUZga92rY7Tfzgp7WdkUk@2026-11-25T16:32:44.711Z
+- certainty: fact
+- entities: renault; art-paris-2027
+- facts: Deck AP27 x Renault (version Google Slides créée le 25/11) : offre « Partenaire Officiel Automobile » = apport flotte 10 véhicules par jour × 5 jours + apport financier fixe 30 000 € ; option activation : zone d'exposition Nord ou Sud pour une Art Car, ou espace Promenoir Nord d'environ 60 m² à 50 000 € HT (Drive: Deck AP27 x Renault, 2026-11-25); Contreparties : logo partenaire officiel automobile (site, signalétique, mur de logos, campagne d'affichage bus/métro/Champs-Élysées/MUI, bâche du Grand Palais, catalogue, plan), desk dédié dans l'entrée VIP, pleine page catalogue, bannière homepage et newsletter VIP, pack de posts ; petit-déjeuner 50 personnes valorisé 15 000 € hors catering ; 40 Prestige (750 €) + 40 Daily Preview (500 €) ; communication spécifique pour activer le 53 avenue des Champs-Élysées à définir ; référence visuelle stand Vilebrequin x Fabrice Hyber (même source)
+- decisions: Offre Renault structurée en package unique (flotte 10 véhicules/jour + 30 k€) avec activations en option, soit l'option 2 préférée par GM | why: sécuriser l'apport financier et appliquer un pourcentage aux options achetées en plus (Art Paris 2027 - Mails)
+- open_loops: CONFLICT projects/art-paris-2027/about.md: flotte de 30-40 véhicules demandés vs 10 véhicules par jour × 5 jours dans le deck du 25/11; Validation du deck Renault par Art Paris et envoi à Renault (prévu jeudi 26/11 au soir)
+- verbatim: 
+- result: projects/art-paris-2027/about.md, clients/renault.md, decisions.md
+
+## q-20261126-062229 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1b6I6SHFjOnoY0m22USLLDxGNRrs_fxYTUUZDDpOIC58@2026-11-25T17:08:41.542Z
+- certainty: fact
+- entities: uggc; art-paris-2027; laure-assumpcao
+- facts: RDV UGGC Avocats du 25/11 tenu : budget 2027 pas encore arrêté, décision dans 2-3 semaines (mi-décembre 2026) après arbitrages internes ; jusqu'ici Laure n'est intervenue que comme speaker, jamais en format petit-déjeuner ; à discuter en interne avec Laure Assumpçao et les autres associés spécialisés en art (Drive: Art Paris 2027 - Suivi, 2026-11-25)
+- decisions: Proposer à UGGC un « test » sur une première année, reconductible et élargissable si concluant | why: lever le frein d'un premier engagement d'un cabinet qui n'a jamais fait de petit-déjeuner (approche proposée par GM)
+- open_loops: UGGC : envoyer le deck complet avec photos du secteur Promesses et le détail des prestations de chaque formule ; point de suivi avant les fêtes (budget arrêté vers mi-décembre) ; rencontre avec Audrey (Art Paris) si l'intérêt se confirme
+- verbatim: 
+- result: projects/art-paris-2027/about.md, clients/uggc.md, decisions.md
+
+## q-20261126-062248 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:19yKRiCmHXITvQLSJIBGqOqZoHpo-1sCOwv1u5rXDhgs@2026-11-25T19:08:28.891Z
+- certainty: fact
+- entities: eic; stephane-ouaki; changenow-cn27; santiago-lefebvre
+- facts: RDV EIC x ChangeNOW du vendredi 27/11/2026 au Terminus Nord (Paris 10e) avec Stéphane Ouaki, Santiago Lefebvre et GM ; Ouaki arrive de Tirana (speaker à l'EU-Western Balkans Investment Conference des 25-26/11) (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-25); Posture : GM prend le lead, ouvre sur l'ambition du 10e anniversaire, deck seulement si nécessaire (même source); Proposition écrite dans la prépa du 25/11 : niveau 1 « EIC Energy House » 50 k€ ; niveau 2 Energy House + Major Sponsor de l'Electrification Forum 100 k€ (International Delegation Breakfast, prise de parole, closed-door meetings) ; benchmark : VivaTech 2021 Next Unicorn Award, l'EIC a donné ~30 k€ (même source); Priorités EIC : 1) matchmaking corporate-startup pour scaler la deeptech au-delà de la série A (EIC Corporate Partnership Programme) ; 2) internationalisation, dont Asie et Europe de l'Est (même source); Stats EU x ChangeNOW 2026 : 27 nationalités, 330 startups sélectionnées, 291 speakers, 11 délégations ; Releaf Paper (startup EIC à CN26) a rencontré un fonds ukrainien de 50 M€ (même source); Stéphane Ouaki : Head of Department EIC et Acting Director EISMEA, plus de 25 ans à la Commission (adhésion tchèque, cabinet du commissaire Špidla 2004-2010, CEF à DG MOVE, instruments financiers à DG RTD) ; voit deeptech et cleantech comme instruments d'autonomie stratégique européenne ; aucun réseau social (même source)
+- decisions: 
+- open_loops: CONFLICT projects/changenow-cn27/about.md: EIC positionné sur Accelerate (décision du 24/11, conflit China House sur l'énergie) vs prépa du 25/11 qui propose toujours « EIC Energy House » : nom à trancher avant le RDV du 27/11
+- verbatim: 
+- result: clients/eic.md, people/stephane-ouaki.md, projects/changenow-cn27/about.md
+
+## q-20261126-062259 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1EEbYPs7gDEwTOePxMPPrbUVrDFGydM-WUwsV7iD1OYM@2026-11-25T19:09:18.184Z
+- certainty: fact
+- entities: eic; changenow-cn27
+- facts: Deck EIC x ChangeNOW 2711 au 25/11 : Tier 1 50 k€ = EIC parmi les 5 pavillons sélectionnés sur 60 acteurs publics partenaires (pays et organisations internationales), « EIC Energy House » avec inauguration officielle, jusqu'à 6 startups co-sélectionnées, matchmaking avec des corporates cibles ; Tier 2 100 k€ = House + Major Sponsor de l'Electrification Forum (siège au jury du pitch, discours d'ouverture, tables rondes fermées) ; slide « EIC Startup Wishlist by ChangeNOW Solutions Team » encore en XX (6 secteurs à remplir) ; prototype de pavillon généré par IA (Drive: EIC x ChangeNOW 2711, 2026-11-25)
+- decisions: 
+- open_loops: Deck EIC : remplir la wishlist des 6 startups/secteurs avant le RDV du 27/11
+- verbatim: 
+- result: clients/eic.md, projects/changenow-cn27/about.md
+
+## q-20261126-062319 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1Na74EPBLzL94PLoOlk8dRxJq_QZ28HqqKv26Ieqq7As@2026-11-25T17:24:12.395Z
+- certainty: hypothesis
+- entities: global-ocean-accelerator; ocean-born-foundation
+- facts: Fiche prospect Ocean Born Foundation (25/11) : fondation philanthropique pour la protection et la restauration des écosystèmes marins et d'eau douce, qui édite ou soutient des marques éco-responsables (Ocean Beer, Tailored by Ocean Born) et reverse 100 % des bénéfices à des projets environnementaux ; rôle naturel dans le GOA = Ecosystem Partner (garant d'impact, caution scientifique), pas sponsor industriel ni VC ; fiches CMA CGM, ESA et AXA créées mais vides (Drive: GOA - Fiches prospects, 2026-11-25)
+- decisions: 
+- open_loops: 
+- verbatim: 
+- result: projects/global-ocean-accelerator/about.md
+
+## q-20261126-062320 | integrated
+- date: 2026-11-26
+- source: drive
+- session: drive:1pJu6qxaaCqALQrDJixPyOFv_El2bxbeOc-bCkFdp3nQ@2026-11-26T06:07:45.961Z
+- certainty: fact
+- entities: playbook-campagne-lettres
+- facts: RETEX campagnes de lettres complété (26/11) en 4 phases : 1) kick-off (fiche projet avec rétroplanning, checklist, méthodologie ; sensibilisation du client) ; 2) toolkit (documents client, mails types FR/EN tutoiement/vouvoiement, paragraphes personnalisés par zone/secteur/région, WhatsApp ; grid Airtable avec destinataire, copies, phrases de personnalisation) ; 3) validation (retours GM, déclinaisons, validation client de la liste et du toolkit, publipostage, validation GM, PDF) ; 4) last mile (automatisation et envoi) (Drive: MA - RETEX Campagnes de lettres, 2026-11-26); Airtable est le centre de la démarche, pas d'Excel parallèle sauf pour le publipostage ; vues préparation, publipostage et suivi des réponses ; grid dédiée au publipostage (mail, copie, personnalisations, langue, PJ) ; noter les liens personnels de GM avec chaque destinataire pour la personnalisation (même source)
+- decisions: 
+- open_loops: Playbook lettres : documenter le tutoriel de publipostage depuis Airtable et l'outil PDF (questions ouvertes du RETEX)
+- verbatim: 
+- result: wiki/playbook-campagne-lettres.md

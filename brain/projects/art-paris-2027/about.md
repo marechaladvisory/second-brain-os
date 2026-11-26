@@ -3,8 +3,8 @@ title: Art Paris 2027
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-25
-review_by: 2026-12-25
+updated: 2026-11-26
+review_by: 2026-12-26
 importance: 5
 supersedes: ""
 superseded_by: ""
@@ -18,6 +18,7 @@ summary: MA cherche des sponsors pour Art Paris 2027 (Grand Palais, 1-4 avril 20
 Actif au 2026-11-18 : aucun partenaire signé ; pistes chaudes [[renault]] (1er rendez-vous le 17/11, rencontre physique le 10/12) et [[uggc]] (~30 k€ sur Promesses, rendez-vous le 25/11) (Drive: Art Paris 2027 - Suivi, 2026-11-18 ; Art Paris 2027 - Mails, 2026-11-18).
 - Au 2026-11-23 (boîte de GM) : 5 réponses humaines à la campagne du 05/11 avant le 09/11 (Renault, UGGC, [[isabel-marant]], [[bmw]], [[august-debouzy]]), puis Matmut (refus, 09/11) et Apple (relais vers l'équipe France, 16/11) ; Renault a chiffré son besoin à 30-40 véhicules le 20/11 ; aucun partenaire signé (Gmail: Art Paris Avril 2027 - Lettre de Guillaume Piens, Valentine et Julien Lecêtre, 2026-11-06 à 2026-11-18 ; Art Paris Avril 2027, 2026-11-20).
 - Chiffres utilisés dans les mails AP27 : Art Paris 2026 = 87 000 visiteurs, près de 900 artistes, 165 galeries de 20 pays ; 86 975 visiteurs en 2025 (+25 %), plan média valorisé 4 M€ (Drive: Art Paris 2027 - Mails, 2026-11-18). Mêmes chiffres dans les 67 lettres du 05/11 ; le mail de GM à Toyota Europe (29/10) dit « 170 international galleries and over 90 000 visitors each year » (Gmail: Contact via Todd Blickenstaff / Art Paris 2027, 2026-10-29), voir Questions ouvertes.
+- Au 2026-11-25 : RDV [[uggc]] tenu (budget 2027 arrêté vers mi-décembre) ; deck Renault finalisé en package unique « Partenaire Officiel Automobile » (10 véhicules/jour × 5 jours + 30 000 €), envoi prévu le 26/11 au soir ; toujours aucun partenaire signé (Drive: Art Paris 2027 - Suivi, 2026-11-25 ; Deck AP27 x Renault, 2026-11-25).
 
 ## Objectif
 - Client : [[art-paris]], 29e édition au Grand Palais du 1er au 4 avril 2027 ; Australie à l'honneur, secteurs Promesses, Multitudes, Histories, Design x Art Edition (Drive: AP27 - Communiqué d'annonce, 2026-09-29).
@@ -52,7 +53,7 @@ Actif au 2026-11-18 : aucun partenaire signé ; pistes chaudes [[renault]] (1er 
 | Produit | Prix | Principales contreparties |
 |---|---|---|
 | Promesses, partenaire associé (niv. 1) | 30 000 € et plus | Signalétique, page catalogue, masterclass, petit-déjeuner 50 pers., 20 + 20 invitations (valorisées 25 000 €) |
-| Promesses, partenaire fondateur (niv. 2) | 100 000 € | Prix Promesses, siège au jury, brunch 150 pers. balcon de l'Horloge, 40 + 40 invitations (50 000 €) |
+| Promesses, partenaire fondateur (niv. 2) | 100 000 € | Prix Promesses, siège au jury, brunch 100 pers. balcon de l'Horloge (valorisé 35 000 €), 2 masterclass, 40 + 40 invitations (50 000 €), prise de parole à la remise du prix |
 | Global Partner, partenaire associé | 75 000 € | Affichage (bus, métro, Champs-Élysées), bâche du Grand Palais, 25 + 25 invitations (31 250 €) |
 | Partenaire premium | 150 000 € | + catalogue, demi-page du plan (65 000 ex.), 3 posts, brunch 150 pers., 50 + 50 invitations (62 500 €) |
 | Sponsor auto, fournisseur | 95 000 € = 75 000 € nature (20 véhicules/jour × 3 jours) + 20 000 € cash | Véhicules à l'entrée, desk d'accueil, 30 + 30 invitations (37 500 €) |
@@ -61,6 +62,13 @@ Actif au 2026-11-18 : aucun partenaire signé ; pistes chaudes [[renault]] (1er 
 Source : Drive: Art Paris - Offre commerciale & Grille prospection, 2026-10-27 ; même structure dans AP27 - Deck, 2026-11-12.
 - Offre d'origine d'Art Paris : Partenaire officiel 75 000 € HT (4 max), Sponsor Promesses 120 000 € HT, projets spéciaux 20 000 à 100 000 € HT (Drive: AP27 - Deck original PDF, 2026-09-29). GM jugeait les 120 k€ « trop élevé » le 16/07/2026.
 - Références de valorisation d'Art Paris : Daily Preview 500 € pour 2, Prestige 750 € ; masterclass 800 € HT (entreprises) ; Club Entreprise : Rotonde 15 000 € HT, Club 35 000 € HT, balcon de l'Horloge 65 000 € HT (Drive: AP27 - Infos, 2026-10-05 ; AP27 - Club Entreprise privatisation, 2026-09-29).
+
+### Pipeline (au 2026-11-25, Drive)
+- [[uggc]] : RDV du 25/11 tenu ; budget 2027 « pas encore arrêté », décision dans 2-3 semaines (mi-décembre) après arbitrages internes ; Laure Assumpçao n'est intervenue jusqu'ici que comme speaker, jamais en petit-déjeuner ; sujet à discuter avec les autres associés spécialisés en art ; GM propose un « test » sur une première année, reconductible et élargissable (Drive: Art Paris 2027 - Suivi, 2026-11-25). Deck UGGC du même jour : niveau 1 à 30 000 € (petit-déjeuner 50 pers. en rotonde de 10h à 12h valorisé 15 000 €, 1 masterclass, 20 + 20 invitations valorisées 25 000 €), niveau 2 à 100 000 € (Drive: Deck AP27 x UGGC Avocats, 2026-11-25 ; AP27 - UGGC Avocats : Fiche prospect / stratégie, 2026-11-25).
+- [[renault]] : deck final (Google Slides du 25/11) = « Partenaire Officiel Automobile » : apport flotte 10 véhicules par jour × 5 jours + apport financier fixe 30 000 € ; option activation : zone d'exposition Nord ou Sud pour une Art Car, ou Promenoir Nord (~60 m², 50 000 € HT) ; contreparties : logo partenaire officiel automobile (affichage bus/métro/Champs-Élysées/MUI, bâche du Grand Palais, catalogue, plan), desk dans l'entrée VIP, pleine page catalogue, bannière homepage et newsletter VIP, petit-déjeuner 50 pers. (15 000 € hors catering), 40 Prestige + 40 Daily Preview, communication spécifique pour activer le 53 Champs-Élysées (Drive: Deck AP27 x Renault, 2026-11-25). Mail d'envoi à Naomi Nascimento rédigé : plan technique du Promenoir Nord (stand H0, 63 m², plan provisoire du 15/09/2026) en pièce jointe, zone d'exposition dans la Nef en attente du deuxième comité de sélection, valorisation à confirmer par Renault, visio du 30/11 à 16h30 bloquée (Drive: Art Paris 2027 - Mails, 2026-11-25 ; Plan technique Promenoir Nord.pdf, 2026-11-25).
+- Réponses d'Art Paris sur les privatisations : petit-déjeuner/brunch sans jauge ni espace dédiés, à partir de 10h, pas de frais techniques hors hôtes ; niveaux distingués par le nombre d'invités (50 au niveau 1, 150 au niveau 2) ; soirée du samedi jusqu'à 350 personnes (balcon de l'Horloge + deux rotondes), galeries fermées, frais techniques ~15 000 € ; espace de personnalisation partenaire de 60 à 120 m² près de la porte Nord, vente sur place soumise à validation (ex. Vilebrequin x Fabrice Hyber) ; option vernissage du 31/03/2027 + 5 000 € HT pour les Clubs (Drive: AP27 - Infos, 2026-11-25).
+- Portefeuille propre d'Art Paris (ne pas approcher) : prospects AXA (Service Art), Combo.toys, Gallagher, Lindberg, Maison Margiela, Orient Express, Printemps Haussmann et New York, UGG, Valmont ; anciens partenaires Lotus et Marni ; constructeurs passés (Audi, BMW, DS, Lexus, Mercedes-Benz, Porsche, Renault) laissés à MA (« on prend le relais ! ») (même source).
+- Onglet « offre commerciale sur mesure » ajouté à la grille : 2 × Promesses niveau 1 (60 000 €) et un niveau 2 à 100 000 € (lecture partielle, prospect non indiqué) (Drive: Art Paris - Offre commerciale & Grille prospection, 2026-11-25).
 
 ### Pipeline (au 2026-11-24, Drive)
 - [[renault]] : deux structures d'offre étudiées sur le deck « AP27 x Renault » — option 1 (slide 14) deux niveaux de partenariat à 90 k€ / 150 k€ avec activations et privatisations définies ; option 2 (slide 15) un package unique + activations et privatisations en options. GM penche pour l'option 2 (« sécuriser l'apport financier du partenariat + application d'un pourcentage » sur les options), avis de [[guillaume-robic]] demandé (Drive: Art Paris 2027 - Mails, 2026-11-24).
@@ -124,12 +132,15 @@ Source : Drive: Art Paris - Offre commerciale & Grille prospection, 2026-10-27 ;
 - 2026-11-18 : rencontre physique Renault le 10/12/2026 à 17h30 (locaux d'Art Paris) portée par Audrey et Léonie, GM en copie, car GM est indisponible ce jour-là et Renault ferme ses budgets 2027 en fin d'année (Drive: Art Paris 2027 - Suivi, 2026-11-18). Voir [[decisions]].
 - 2026-11-04 : envoyer avant le 5-6 décembre, car Léonie part mi-décembre et un envoi en janvier ferait perdre un mois (Drive: Art Paris 2027 - Suivi).
 - 2026-11-05 : les 67 lettres partent en un seul envoi depuis la boîte de GM, Léonie en copie, cohérent avec « tout passe par email » (Gmail: Art Paris Avril 2027 - Lettre…, 2026-11-05). Voir [[decisions]].
+- 2026-11-25 : offre Renault en package unique « Partenaire Officiel Automobile » (10 véhicules/jour × 5 jours + 30 000 € cash), activations en option. Pourquoi : sécuriser l'apport financier et appliquer un pourcentage aux options achetées en plus (préférence de GM, Drive: Art Paris 2027 - Mails, 2026-11-24 ; Deck AP27 x Renault, 2026-11-25). Voir [[decisions]].
+- 2026-11-25 : proposer à UGGC un « test » sur une première année, reconductible et élargissable. Pourquoi : premier engagement d'un cabinet qui n'a jamais fait de petit-déjeuner, budget pas encore arrêté (Drive: Art Paris 2027 - Suivi, 2026-11-25). Voir [[decisions]].
 - 2026-11-06 : consigne de GM à Léonie : dès qu'une réponse d'absence donne une autre adresse, renvoyer le mail à cette adresse en gardant les autres personnes en boucle, pour ne perdre aucun destinataire (Gmail: Art Paris Avril 2027 - Letter from Guillaume Piens, Valentine and Julien Lecêtre, 2026-11-06). Voir [[decisions]].
 
 ## Prochaines étapes
-- Renault : trancher option 1 (90/150 k€) ou option 2 (package + options), faire valider l'offre par Art Paris, puis envoyer le deck à Naomi Nascimento le jeudi 26/11 au soir ; confirmer la visio du lundi 30/11 à 16h30 (GM, Léonie, GR) (Drive: Art Paris 2027 - Mails, 2026-11-24).
+- Renault : faire valider par Art Paris le deck du 25/11 (package unique 10 véhicules/jour + 30 k€), l'envoyer à Naomi Nascimento le jeudi 26/11 au soir avec le plan du Promenoir Nord ; confirmer la visio du lundi 30/11 à 16h30 (GM, Léonie, GR) (Drive: Art Paris 2027 - Mails, 2026-11-25).
+- UGGC : envoyer le deck complet avec photos du secteur Promesses et le détail des prestations de chaque formule ; point de suivi avant les fêtes (budget arrêté vers mi-décembre) ; rencontre avec Audrey (visio ou physique) si l'intérêt se confirme (Drive: Art Paris 2027 - Suivi, 2026-11-25).
+- Chiffrer avec Art Paris les petits-déjeuners de niveau 1 (50 invités) et 2 (150 invités) (Drive: AP27 - Infos, 2026-11-25).
 - GM / Léonie : envoyer à Renault, avant le call de suivi du 26 ou 27/11, le support présenté le 17/11, la synthèse des pistes d'activation et la confirmation du besoin en véhicules (30-40 demandés par Renault), plus les montants à Audrey ; second rendez-vous Renault avec Guillaume Piens le 10/12 (Drive: Art Paris 2027 - Suivi, 2026-11-18 ; Gmail: Art Paris Avril 2027, 2026-11-20).
-- Préparer la proposition UGGC (~30 k€ Promesses + petit-déjeuner) pour le RDV du mercredi 25/11 à 16h30 (Gmail: Art Paris Avril 2027 - Lettre…, 2026-11-18).
 - GM : répondre à Julie Valette et Jasmine Khounnala (Apple France), en attente depuis le 16/11 (Gmail: Art Paris Avril 2027 - Lettre…, 2026-11-16).
 - GM : fixer le café avec Jean-Philippe Abautret (Isabel Marant), 23, 25 ou 27/11 au matin proposés le 06/11, réponse attendue (Gmail: Art Paris Avril 2027 - Lettre…, 2026-11-06).
 - Renvoyer la lettre Mastercard (non distribuée le 05/11, pas de renvoi vu) ; relancer Tesla, Vinci, Eurazeo et Hyundai Europe (renvois du 09/11 sans réponse) et Matthis Danglades (Toyota Europe, mail du 29/10) avant la fin des envois du 5-6/12 (Gmail: Art Paris Avril 2027 - Lettre…, 2026-11-05 et 2026-11-09 ; Contact via Todd Blickenstaff / Art Paris 2027, 2026-10-29).
@@ -142,8 +153,9 @@ Source : Drive: Art Paris - Offre commerciale & Grille prospection, 2026-10-27 ;
 - Organiser la passation après le départ de Léonie (GM, GR).
 
 ## Questions ouvertes
-- Offre Renault : l'option 2 (package unique + options) a la préférence de GM ; Guillaume Robic et Art Paris l'ont-ils validée ? (Drive: Art Paris 2027 - Mails, 2026-11-24)
-- Flotte Renault : Renault écrit lui-même « besoin en véhicules évoqué (30-40u) » le 20/11 (Gmail: Art Paris Avril 2027, 2026-11-20), ce qui confirme l'ordre de grandeur donné par GR (~40, réunion du 17/11) et écarte la « vingtaine » du brouillon de mail du 18/11 ; reste à concilier avec la contrainte d'Art Paris (flotte historique 10 idéal, 8 max, « 40 trop élevé ») avant de confirmer le chiffre à Renault (Drive: Art Paris 2027 - Suivi, 2026-11-18).
+- Offre Renault : le deck du 25/11 suit l'option 2 (package unique + options) ; validation d'Art Paris et de Guillaume Robic non écrite.
+- Brunch du niveau 2 Promesses : 100 personnes dans le deck UGGC et la grille du 25/11, mais Art Paris parle de 150 invités au niveau 2 dans ses réponses du même jour (Drive: AP27 - Infos, 2026-11-25) : jauge à fixer.
+- Flotte Renault : le deck du 25/11 propose 10 véhicules par jour × 5 jours, aligné sur la contrainte d'Art Paris, contre 30-40 demandés par Renault le 20/11 : l'écart sera à expliquer à Renault. Historique : Renault écrit lui-même « besoin en véhicules évoqué (30-40u) » le 20/11 (Gmail: Art Paris Avril 2027, 2026-11-20), ce qui confirme l'ordre de grandeur donné par GR (~40, réunion du 17/11) et écarte la « vingtaine » du brouillon de mail du 18/11 ; reste à concilier avec la contrainte d'Art Paris (flotte historique 10 idéal, 8 max, « 40 trop élevé ») avant de confirmer le chiffre à Renault (Drive: Art Paris 2027 - Suivi, 2026-11-18).
 - Contrat : « signé en juin » (point du 04/11/2026, plus récent) contre « signature en attente » (23/09/2026) ; taux de commission et termes exacts inconnus, aucun contrat dans le Drive.
 - Prix du fournisseur auto : 65 000 € (version d'août, Drive: CONTACT PROSPECTION, 2026-08-07 ; reprise dans la fiche argumentaire du 2026-11-03) ou 95 000 € (offre VF du 2026-10-27 et deck du 2026-11-12, plus récents) ?
 - Sens de « Les 20 000 € de ticket financier doivent revenir intégralement à Maréchal Advisory » (26/06).
@@ -157,6 +169,8 @@ Source : Drive: Art Paris - Offre commerciale & Grille prospection, 2026-10-27 ;
 - Stellantis : lettre du 05/11 adressée à Julien Bich, alors que le Drive cite Arnaud Belloni comme contact : qui est l'interlocuteur ?
 
 ## History
+- Jusqu'au 2026-11-26 : niveau 2 Promesses avec « brunch 150 pers. balcon de l'Horloge » (Drive: Art Paris - Offre commerciale & Grille prospection, 2026-10-27) ; remplacé par « brunch 100 pers. » (Drive: Deck AP27 x UGGC Avocats, 2026-11-25).
+- Jusqu'au 2026-11-26 : offre Renault en deux options étudiées (90 k€ / 150 k€ ou package + options) (Drive: Art Paris 2027 - Mails, 2026-11-24) ; remplacé par le package unique du deck du 25/11.
 - Jusqu'au 2026-11-23 : l'interlocutrice d'UGGC était notée « Laure Assoum-Saou (associée propriété intellectuelle) » (Drive: Art Paris 2027 - Suivi, 2026-11-18) ; remplacé par l'orthographe de sa signature, « Laure Assumpçao, Avocate à la Cour » (Gmail: Art Paris Avril 2027 - Lettre…, 2026-11-06 et 2026-11-18).
 
 ## Quotes

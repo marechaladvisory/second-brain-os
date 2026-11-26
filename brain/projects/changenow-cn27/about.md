@@ -3,8 +3,8 @@ title: ChangeNOW 2027 - Délégations internationales et pavillons (CN27)
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-25
-review_by: 2026-12-25
+updated: 2026-11-26
+review_by: 2026-12-26
 importance: 5
 supersedes: ""
 superseded_by: ""
@@ -141,7 +141,7 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 - Montant final signé de la Taiwan House (40 k€ + 10-20 k€ ?) ; facturation via MA ?
 - Statut réel de l'Égypte, de l'EIC (lettre envoyée ?), de la Suisse, de l'IOM, de la Réunion et de Pacific Tech après les lettres.
 - China House de GREENEXT : acceptée à côté de la Taiwan House ? La prépa EIC du 24/11 parle d'une China House sur l'énergie, ce qui suggère que oui.
-- Deck EIC du 27/11 : le Tier 1 s'appelle « EIC Energy House » alors que la prépa recommande Accelerate : quel nom présenter ?
+- Deck EIC du 27/11 : le Tier 1 s'appelle toujours « EIC Energy House » dans le deck et dans la prépa mise à jour le 25/11, malgré la décision du 24/11 de positionner l'EIC sur Accelerate : quel nom présenter ? Wishlist des 6 startups encore en XX (Drive: EIC x ChangeNOW 2711, 2026-11-25). Détail : [[eic]].
 - Deck générique mis à jour le 24/11 : Europe, Afrique et Asie y sont chacune « absolute priority and core strategic anchor », et la ligne « 8 European public actors » en liste 14 : à corriger avant envoi.
 - Africa for Change 2027 : MA reste-t-il impliqué (« pull out ») ?
 - Modèle économique de Bridge and Value (commission ?) : absent du MoU.
