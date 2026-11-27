@@ -11,7 +11,7 @@ Updated 2026-11-27 (veille Drive jusqu'au 26/11 18:25 UTC, file vide ; Gmail arr
 - [[changenow-cn27]] : clôture mi-décembre ; relances « Last Mile » prêtes pour [[tiana]] (offre d'appel 3 booths à 10 k€ au lieu de 15 k€) ; Italie, Égypte, Suisse en cours.
 - [[global-ocean-accelerator]] : aucun sponsor ; CMA CGM le 30/11, AXA le 1/12, [[fondation-prince-albert-ii]] le 4/12 à 9h30 ; MSC avant janvier ; EDF Pulse Tier 1 potentiel.
 - [[centre-pompidou-metz-mecenat]] : lettres avant le 5-6/12.
-- [[recrutement-janvier-2027]], [[choiseul-cotonou-2027]] (76 150 € HT), [[fondation-cartier-privatisations]] : sans nouveauté.
+- [[recrutement-janvier-2027]], [[choiseul-cotonou-2027]], [[fondation-cartier-privatisations]] : sans nouveauté.
 
 ## Engagements en retard (non vérifiables sans Gmail)
 - Répondre à Apple France : en attente depuis le 16/11.
@@ -27,7 +27,7 @@ Updated 2026-11-27 (veille Drive jusqu'au 26/11 18:25 UTC, file vide ; Gmail arr
 - Renault : deck parti le 26/11 au soir ? Retrait de l'affichage et de la bâche des contreparties : demandé par Art Paris ? 10 véhicules/jour vs 30-40 demandés.
 - AP27 : brunch niveau 2 Promesses à 100 ou 150 invités ?
 - GOA : palier écosystème 30 k€ ou 50 k€ ? Coalition New Energies de CMA CGM (Renault, Michelin, Engie…) comme levier d'intros ?
-- CPM : qui est « Pascal », qui part à la retraite dans un mois ?
+- CPM : qui est « Pascal » (retraite dans un mois) ?
 
 ## Decisions this week
 - 2026-11-25 AP27 : offre Renault en package unique + options ; UGGC en « test » d'un an.
