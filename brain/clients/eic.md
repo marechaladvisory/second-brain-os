@@ -10,7 +10,7 @@ supersedes: ""
 superseded_by: ""
 sources: []
 aliases: [EIC, EISMEA, EIC Summit]
-summary: Agence européenne de l'innovation ; client de ChangeNOW via MA depuis CN26 (premier partenariat, 15 k€ selon le reporting), proposition CN27 à 40 k€ ou 100 k€, et prescripteur de startups pour l'offre Open Doors.
+summary: Agence européenne de l'innovation ; client de ChangeNOW via MA depuis CN26 (premier partenariat, 15 k€ selon le reporting), proposition CN27 du 25/11/2026 à 50 k€ (EIC Energy House) ou 100 k€ (avec l'Electrification Forum), RDV avec Stéphane Ouaki le 27/11/2026 ; prescripteur de startups pour l'offre Open Doors.
 ---
 # European Innovation Council
 

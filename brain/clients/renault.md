@@ -10,7 +10,7 @@ supersedes: ""
 superseded_by: ""
 sources: []
 aliases: [Groupe Renault, Fonds Renault pour l'Art et la Culture]
-summary: Constructeur automobile, prospect chaud d'Art Paris 2027 (partenariat hybride mobilité + cash + Art Car) ; visio le 17/11/2026, Renault demande le 20/11 support, pistes d'activation et confirmation d'un besoin de 30-40 véhicules ; rencontre physique le 10/12/2026, budgets 2027 bouclés fin 2026.
+summary: Constructeur automobile, prospect chaud d'Art Paris 2027 (partenariat hybride mobilité + cash + Art Car) ; visio le 17/11/2026, besoin de 30-40 véhicules exprimé le 20/11 ; deck final du 26/11 en package unique (10 véhicules/jour × 5 jours + 30 000 €) ; visio du 30/11 à 16h30 à confirmer, rencontre le 10/12/2026 en option ; budgets 2027 bouclés fin 2026.
 ---
 # Renault
 
