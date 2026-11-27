@@ -547,3 +547,99 @@ summary: Session captures waiting for brain-daily. Managed by queue.py.
 - open_loops: Playbook lettres : documenter le tutoriel de publipostage depuis Airtable et l'outil PDF (questions ouvertes du RETEX)
 - verbatim: 
 - result: wiki/playbook-campagne-lettres.md
+
+## q-20261127-061911 | integrated
+- date: 2026-11-27
+- source: drive
+- session: drive:1QqIBlc8TAPfJtV6KDi1QjXTHyafW4vayjbu1OCaeeT0@2026-11-26T13:14:01.030Z
+- certainty: fact
+- entities: global-ocean-accelerator; cma-cgm; assia-dalla-vedova
+- facts: Nouveau mail préparé pour Assia (Station F) en vue de « notre échange de lundi avec CMA CGM » (soit le lundi 30/11/2026), avec une courte fiche prospect CMA CGM jointe (Drive: OA - Mails/WhatsApp, 2026-11-26); Répartition proposée : Assia pitche Station F (slides dédiées du deck), MA présente le Global Ocean Accelerator (Drive: OA - Mails/WhatsApp, 2026-11-26)
+- decisions: 
+- open_loops: Confirmer l'envoi du mail à Assia et la tenue du RDV CMA CGM le lundi 30/11/2026
+- verbatim: 
+- result: projects/global-ocean-accelerator/about.md, clients/cma-cgm.md
+
+## q-20261127-061922 | integrated
+- date: 2026-11-27
+- source: drive
+- session: drive:1f7w0VuVERz0oKaqvdu8Mn_dq6SBxts1pirTCCPhKYkM@2026-11-26T12:31:36.878Z
+- certainty: fact
+- entities: changenow-cn27; changenow-grille-tarifaire; tiana
+- facts: Mails types « Last Mile » de relance CN27 avec lien de prise de RDV (calendly) préparés pour Tiana, avec une grille de relance : mettre en copie les contacts listés, repartir du dernier échange s'il existe, repartir de zéro si aucun échange ou dernier échange en 2025 (Drive: CN27 - Mail pour Tiana + calendly, 2026-11-26); Offre première participation dans le mail KAM EN : package de 3 booths startups à 10 k€ au lieu de 15 k€, pass délégation inclus, proposition de startups curatée par l'équipe Solutions possible (Drive: CN27 - Mail pour Tiana + calendly, 2026-11-26); Argumentaire : passage de 40 à 60+ participations officielles en 2027 ; World Expo = top 350 solutions sur 13 piliers ; délégations dites « confirmées » dans les mails : Canada, Chine, Égypte, EIC, Pays-Bas, Nigeria, Afrique du Sud, Taïwan (EN) ; Afrique du Sud, Autriche, Canada, Chine, Égypte, EIC, Nigeria, Suisse, Taïwan, Turquie, Ukraine (FR) (Drive: CN27 - Mail pour Tiana + calendly, 2026-11-26); Paragraphes régionaux : Africa for Change 2026 soutenu par Orange Africa, 15+ délégations nationales ; Taïwan a tenu l'un des 3 pavillons pays officiels en 2026 (Drive: CN27 - Mail pour Tiana + calendly, 2026-11-26); Séquence de relance prévue : Finalising Booths and Side-Events, Finalising World Expo and Programme (allocation libérée aux délégations en liste d'attente faute de confirmation), Startup Selection & Partnership Cutoff, puis un mail « Pull the Plug » (Drive: CN27 - Mail pour Tiana + calendly, 2026-11-26)
+- decisions: 
+- open_loops: CONFLICT projects/changenow-cn27/about.md: Égypte, EIC, Suisse « en négociation » vs « confirmées » dans les mails types (argument commercial ?) ; dates : mail FR dit « 26 au 27 avril 2027 », mail EN dit 26-28 avril
+- verbatim: 
+- result: projects/changenow-cn27/about.md, wiki/changenow-grille-tarifaire.md, people/tiana.md
+
+## q-20261127-061951 | integrated
+- date: 2026-11-27
+- source: drive
+- session: drive:1Na74EPBLzL94PLoOlk8dRxJq_QZ28HqqKv26Ieqq7As@2026-11-26T13:56:01.004Z
+- certainty: fact
+- entities: global-ocean-accelerator; cma-cgm; axa
+- facts: Fiche prospect CMA CGM rédigée pour le RDV GOA : Coalition New Energies (fondée par Rodolphe Saadé en 2019, 21 membres dont Airbus, Air Liquide, Crédit Agricole CIB, Engie, Michelin, Renault, Schneider Electric, TotalEnergies, Veolia) ; Fund for Energies 1,5 Md€ sur 5 ans (2022) ; accélérateur ZEBOX (Marseille, 2018) (Drive: GOA - Fiches prospects, 2026-11-26); Liens CMA CGM avec le GOA : accord-cadre Ifremer (oct. 2022, 3 ans, renouvellement à vérifier), Fondation de la Mer, Woods Hole, WWF, 30+ projets de restauration, partenaire mondial de l'UNOC-3 (Nice, 2025) = précédent pour une présence au lancement à l'ONU en janvier 2027 ; CMA CGM Startup Awards 3e édition le 24/09/2026 (jusqu'à 150 000 € par lauréat) (Drive: GOA - Fiches prospects, 2026-11-26); CMA CGM 2025 : 54,4 Md$ de CA, EBITDA 10,6 Md$ (Drive: GOA - Fiches prospects, 2026-11-26); AXA : l'interlocutrice du pôle Nature est Ariane Portier, chargée de partenariats ; Julia d'Astorg est responsable des pôles Science et Nature du Fonds AXA pour le Progrès Humain ; le Fonds soutient Waves of Change et la Fondation Tara Océan, UICN, IPOS (Drive: GOA - Fiches prospects, 2026-11-26); ESA : fiche sur Selima Ben Mustapha, responsable des applications d'observation de la Terre à l'Agence spatiale suédoise (SNSA), contact de la délégation suédoise ESA InCubed (Drive: GOA - Fiches prospects, 2026-11-26)
+- decisions: 
+- open_loops: Coalition New Energies : levier d'intro croisée CMA CGM / Renault / Michelin pour GOA et AP27 ?
+- verbatim: 
+- result: clients/cma-cgm.md, clients/axa.md, projects/global-ocean-accelerator/about.md
+
+## q-20261127-062022 | integrated
+- date: 2026-11-27
+- source: drive
+- session: drive:130oMA3Gkg5y0vQr_4BfCWBywUbMjPYQVUlx-GUYMVn8@2026-11-26T15:40:35.587Z
+- certainty: fact
+- entities: art-paris-2027; renault
+- facts: Mail d'envoi du deck à Naomi Nascimento réécrit le 26/11 : contreparties présentées comme « premières pistes à affiner » ; formats RP possibles petit-déjeuner, brunch et soirée ; autorisation obtenue d'installer une Art Car dans la zone d'exposition de la nef ; Promenoir Nord privilégié pour toute autre activation (ex. mise en valeur de la collection Renault) (Drive: Art Paris 2027 - Mails, 2026-11-26); Prochaines étapes proposées : visio le lundi 30/11 à 16h30 avec Guillaume Robic, Léonie et GM, « à confirmer » par Renault ; rencontre physique le jeudi 10/12 à 17h30 dans les locaux d'Art Paris avec Guillaume Piens et Audrey Keita, désormais en « option » (Drive: Art Paris 2027 - Mails, 2026-11-26)
+- decisions: 
+- open_loops: Renault : confirmation de la visio du 30/11 16h30 et de la rencontre du 10/12 17h30
+- verbatim: 
+- result: projects/art-paris-2027/about.md, clients/renault.md
+
+## q-20261127-062023 | integrated
+- date: 2026-11-27
+- source: drive
+- session: drive:1pkpwyuUikFBoIRyjy2fnDVhUZga92rY7Tfzgp7WdkUk@2026-11-26T16:11:46.582Z
+- certainty: fact
+- entities: art-paris-2027; renault
+- facts: Deck Renault version du 26/11 : petit-déjeuner 50 pers. valorisé 15 000 € hors catering, +5 000 € HT s'il a lieu le jour du vernissage (31/03/2027) ; visibilité : logo sur le mur de logos à l'entrée du Grand Palais (derrière le Point Info), signalétique in situ, desk dans l'entrée VIP ; reste inchangé : 10 véhicules/jour × 5 jours + 30 000 €, option Art Car (zone Nord ou Sud) ou Promenoir Nord ~60 m² à 50 000 € HT, 40 Prestige + 40 Daily Preview (Drive: Deck AP27 x Renault, 2026-11-26)
+- decisions: 
+- open_loops: 
+- verbatim: 
+- result: projects/art-paris-2027/about.md, clients/renault.md
+
+## q-20261127-062044 | integrated
+- date: 2026-11-27
+- source: drive
+- session: drive:1YvMoxhXEqMPqbZxLsUZ52iTkE4-GrU5xj3nHRFU63ZU@2026-11-26T14:00:51.659Z
+- certainty: fact
+- entities: art-paris-2027; renault
+- facts: Copie de sauvegarde du deck Renault du 25/11 (16h16) créée le 26/11 ; comparée à la version finale du 26/11, celle-ci retire le logo sur la campagne d'affichage (bus, métro, Champs-Élysées, MUI) et la bâche 2027 du Grand Palais, et ajoute l'option petit-déjeuner le jour du vernissage (+5 000 € HT) (Drive: Copie de Deck AP27 x Renault – 25 novembre à 16:16, 2026-11-26 ; Deck AP27 x Renault, 2026-11-26)
+- decisions: 
+- open_loops: Renault : retrait de l'affichage et de la bâche des contreparties, demandé par Art Paris ?
+- verbatim: 
+- result: projects/art-paris-2027/about.md, clients/renault.md
+
+## q-20261127-062059 | integrated
+- date: 2026-11-27
+- source: drive
+- session: drive:1EEbYPs7gDEwTOePxMPPrbUVrDFGydM-WUwsV7iD1OYM@2026-11-26T16:32:09.753Z
+- certainty: fact
+- entities: eic; changenow-cn27
+- facts: Deck EIC finalisé le 26/11 pour le RDV du 27/11 : wishlist « Top 5 EIC Solutions » choisie par ChangeNOW, toutes sur l'énergie et le stockage (AELECTRA, HIPERZAB, Sulphurreal, VanillaFlow, ReZilient) ; visuel « EIC House x ChangeNOW 2027 prototype » (généré par IA) ; Tier 1 toujours nommé « EIC Energy House » à 50 k€, Tier 2 House + Major Sponsor de l'Electrification Forum à 100 k€ ; le petit-déjeuner International Delegation n'apparaît plus dans le Tier 2 (Drive: EIC x ChangeNOW 2711, 2026-11-26)
+- decisions: 
+- open_loops: EIC : le deck du RDV garde « Energy House » et une wishlist 100 % énergie malgré la décision du 24/11 (Accelerate, conflit China House) : arbitrage à confirmer après le RDV du 27/11
+- verbatim: 
+- result: clients/eic.md, projects/changenow-cn27/about.md
+
+## q-20261127-062111 | integrated
+- date: 2026-11-27
+- source: drive
+- session: drive:19yKRiCmHXITvQLSJIBGqOqZoHpo-1sCOwv1u5rXDhgs@2026-11-26T18:25:56.200Z
+- certainty: fact
+- entities: eic; stephane-ouaki; changenow-cn27
+- facts: RDV EIC du 27/11/2026 passé en visioconférence (Stéphane Ouaki, Santiago Lefebvre, GM) ; répartition : Santiago ouvre sur l'ambition du 10e anniversaire et les Summits, GM montre la vidéo ChangeNOW (Ouaki n'est jamais venu) et les photos de pavillons si nécessaire (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-26); Proposition présentée : niveau 1 EIC Energy House 50 k€ ; niveau 2 Energy House + Major Sponsor de l'Electrification Forum 100 k€, avec International Delegation Breakfast, prise de parole et réunions à huis clos (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-26); Chiffres UE à ChangeNOW 2026 : 27 nationalités, 330 startups sélectionnées, 291 speakers, 11 délégations européennes (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-26)
+- decisions: 
+- open_loops: CONFLICT clients/eic.md: RDV du 27/11 « au Terminus Nord » vs « Visioconférence » dans la prépa du 26/11 ; CONFLICT people/stephane-ouaki.md: même écart ; compte rendu du RDV du 27/11 à capter
+- verbatim: 
+- result: clients/eic.md, people/stephane-ouaki.md, projects/changenow-cn27/about.md

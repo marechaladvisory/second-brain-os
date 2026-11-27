@@ -3,8 +3,8 @@ title: Grille tarifaire ChangeNOW (CN25-CN27)
 type: concept
 status: active
 created: 2026-11-18
-updated: 2026-11-24
-review_by: 2027-11-24
+updated: 2026-11-27
+review_by: 2027-11-27
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -47,6 +47,8 @@ Prix de l'offre [[changenow]] vendue par MA aux acteurs publics, tous HT. Les ho
   - Inclusion & AccessAbility : 35 / 60 / 75 k€ ; Impact Finance Forum : 20 / 50 k€ ; Funds for Change : 30 / 15 / 15 (10 sans prise de parole) / 10 k€.
   - Climate Sense : 50 k€ (partenaire unique) ; Pioneers Dinner : 25 / 50 k€ ; Food Court : 15 / 30 / 50 k€.
 - Licences ChangeNOW Hubs (marchés émergents) : Connect 10 k€, Connect+ 12 k€, Amplify 15 k€ ; -50 % l'année 1, -30 % l'année 2 ; royalties de 10 % dès l'année 2 (Drive: Pricing Hubs 2026 - Taipei.pdf, 2026-10-21).
+
+- Offre d'appel des relances « Last Mile » (mail KAM EN) : pour une première participation, package de 3 booths startups à 10 k€ au lieu de 15 k€, pass délégation inclus (Drive: CN27 - Mail pour Tiana + calendly, 2026-11-26). Cohérent avec le stand 3 m² à 3 k€ par startup (5 k€ affichés) de l'outil commercial.
 
 ## Construction des prix CN27 (exemples)
 | Compte | Valeur affichée | Remise | Prix proposé | Source |

@@ -3,8 +3,8 @@ title: Art Paris 2027
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-26
-review_by: 2026-12-26
+updated: 2026-11-27
+review_by: 2026-12-27
 importance: 5
 supersedes: ""
 superseded_by: ""
@@ -62,6 +62,10 @@ Actif au 2026-11-18 : aucun partenaire signé ; pistes chaudes [[renault]] (1er 
 Source : Drive: Art Paris - Offre commerciale & Grille prospection, 2026-10-27 ; même structure dans AP27 - Deck, 2026-11-12.
 - Offre d'origine d'Art Paris : Partenaire officiel 75 000 € HT (4 max), Sponsor Promesses 120 000 € HT, projets spéciaux 20 000 à 100 000 € HT (Drive: AP27 - Deck original PDF, 2026-09-29). GM jugeait les 120 k€ « trop élevé » le 16/07/2026.
 - Références de valorisation d'Art Paris : Daily Preview 500 € pour 2, Prestige 750 € ; masterclass 800 € HT (entreprises) ; Club Entreprise : Rotonde 15 000 € HT, Club 35 000 € HT, balcon de l'Horloge 65 000 € HT (Drive: AP27 - Infos, 2026-10-05 ; AP27 - Club Entreprise privatisation, 2026-09-29).
+
+### Pipeline (au 2026-11-26, Drive)
+- [[renault]] : mail d'envoi du deck réécrit le 26/11 (envoi non vérifié, Gmail absent de la veille) : contreparties présentées comme « premières pistes à affiner » ; formats RP petit-déjeuner, brunch ou soirée ; **autorisation obtenue pour une Art Car dans la zone d'exposition de la nef** ; Promenoir Nord privilégié pour toute autre activation (collection Renault) ; visio du lundi 30/11 à 16h30 « à confirmer » par Renault ; rencontre du jeudi 10/12 à 17h30 avec Guillaume Piens et Audrey Keita désormais en « option » (Drive: Art Paris 2027 - Mails, 2026-11-26).
+- Deck Renault final du 26/11 : inchangé sur le fond (10 véhicules/jour × 5 jours + 30 000 € ; Art Car ou Promenoir Nord ~60 m² à 50 000 € HT ; 40 Prestige + 40 Daily Preview) ; ajout : petit-déjeuner le jour du vernissage (31/03/2027) à +5 000 € HT ; retrait, par rapport à la version du 25/11 sauvegardée en copie, du logo sur la campagne d'affichage (bus, métro, Champs-Élysées, MUI) et sur la bâche du Grand Palais (Drive: Deck AP27 x Renault, 2026-11-26 ; Copie de Deck AP27 x Renault – 25 novembre à 16:16, 2026-11-26).
 
 ### Pipeline (au 2026-11-25, Drive)
 - [[uggc]] : RDV du 25/11 tenu ; budget 2027 « pas encore arrêté », décision dans 2-3 semaines (mi-décembre) après arbitrages internes ; Laure Assumpçao n'est intervenue jusqu'ici que comme speaker, jamais en petit-déjeuner ; sujet à discuter avec les autres associés spécialisés en art ; GM propose un « test » sur une première année, reconductible et élargissable (Drive: Art Paris 2027 - Suivi, 2026-11-25). Deck UGGC du même jour : niveau 1 à 30 000 € (petit-déjeuner 50 pers. en rotonde de 10h à 12h valorisé 15 000 €, 1 masterclass, 20 + 20 invitations valorisées 25 000 €), niveau 2 à 100 000 € (Drive: Deck AP27 x UGGC Avocats, 2026-11-25 ; AP27 - UGGC Avocats : Fiche prospect / stratégie, 2026-11-25).
@@ -166,6 +170,7 @@ Source : Drive: Art Paris - Offre commerciale & Grille prospection, 2026-10-27 ;
 - Chiffres de la foire : 87 000 visiteurs et 165 galeries (lettres du 05/11, validées par Art Paris) ou « over 90 000 visitors » et « 170 international galleries » (mail de GM à Toyota, 29/10) ? La note garde les chiffres des lettres, plus récents.
 - Porsche figure dans le feu vert automobile d'Art Paris (23/09) mais n'a pas reçu de lettre le 05/11 : oubli ou choix ?
 - Renault, brouillon de mail de GM (non daté, présent dans le Doc au 23/11, envoi non confirmé) : propose une visio de brainstorming le lundi 30/11/2026 à 16h30 et la réunion du 10/12 à 17h30 avec Guillaume Piens et Audrey Keita ; pistes « fournisseur officiel » : flotte VIP avec chauffeurs + contribution financière, Art Car à l'intérieur du Grand Palais (« nous avons eu l'autorisation »), mise en avant d'un nouveau modèle lié à une collaboration avec un grand créateur, side event design et petit-déjeuner conférence au 53 Champs-Élysées ; garde « a priori une vingtaine de véhicules » (Drive: Art Paris 2027 - Mails, 2026-11-23). La visio du 30/11 remplace-t-elle le call de suivi du 26 ou 27/11, et le brouillon est-il parti avec la vingtaine plutôt que les 30-40 demandés ?
+- Renault : le retrait de l'affichage et de la bâche des contreparties (deck du 26/11) vient-il d'Art Paris ? Le deck a-t-il bien été envoyé le 26/11 au soir ?
 - Stellantis : lettre du 05/11 adressée à Julien Bich, alors que le Drive cite Arnaud Belloni comme contact : qui est l'interlocuteur ?
 
 ## History

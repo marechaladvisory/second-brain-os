@@ -3,8 +3,8 @@ title: AXA
 type: entity
 status: active
 created: 2026-11-18
-updated: 2026-11-26
-review_by: 2027-05-25
+updated: 2026-11-27
+review_by: 2027-05-26
 importance: 4
 supersedes: ""
 superseded_by: ""
@@ -29,11 +29,12 @@ summary: Groupe d'assurance sollicité sur plusieurs fronts (Global Ocean Accele
 
 - 2026-11-24 : « rdv le 1er décembre avec le pôle Nature du Fonds » pour le [[global-ocean-accelerator]] (Drive: OA - Mails/WhatsApp, 2026-11-24).
 
+- Fiche prospect GOA (2026-11-26) : interlocutrice du pôle Nature = Ariane Portier, chargée de partenariats ; Julia d'Astorg est responsable des pôles Science et Nature du Fonds AXA pour le Progrès Humain ; autres pôles : Pedro Costinha-Névoa (secrétaire général, Art, Culture & Patrimoine), Bérangère Messissi (Solidarité, Inclusion & Éducation). Le pôle Nature soutient [[mission-waves-of-change]] (pilote dans 3 communes littorales), la Fondation Tara Océan, l'UICN et l'IPOS (Drive: GOA - Fiches prospects, 2026-11-26).
 ## Projets liés
 - [[global-ocean-accelerator]] ; [[edl-generation-2030]] ; [[conseil-philanthropie]] ; [[mission-waves-of-change]].
 
 ## Contacts
-- [[josephine-de-fontaines]] et Pauline Menguy (Fonds AXA pour le Progrès Humain) ; Ariane (pilier Nature du même fonds, nom de famille non écrit dans les mails) ; [[olivier-desbiey]] (Group Head of Foresight) ; Julia d'Astorg (Fonds AXA pour la Recherche ; la « Julia » du mail de Desbiey du 06/11, probablement) ; Ziad Gebran.
+- [[josephine-de-fontaines]] et Pauline Menguy (Fonds AXA pour le Progrès Humain) ; Ariane Portier (chargée de partenariats, pôle Nature) ; [[olivier-desbiey]] (Group Head of Foresight) ; Julia d'Astorg (responsable des pôles Science et Nature du Fonds AXA pour le Progrès Humain, la « Julia » du mail de Desbiey du 06/11) (Drive: GOA - Fiches prospects, 2026-11-26) ; Ziad Gebran.
 
 ## Questions ouvertes
 - Comment respecter l'« interlocuteur unique » demandé le 10/11 alors que MA parle aussi à Olivier Desbiey, Ziad Gebran et Julia (GOA) ?

@@ -3,14 +3,14 @@ title: Global Ocean Accelerator
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-26
-review_by: 2026-12-26
+updated: 2026-11-27
+review_by: 2026-12-27
 importance: 5
 supersedes: ""
 superseded_by: ""
 sources: []
 aliases: [GOA, OA, Ocean Accelerator, Ocean Startup Accelerator, Global Ocean Accelerator Station F 2027]
-summary: Programme d'accélération BlueTech porté par MA à Station F (promo 1 en avril 2027) ; grille sponsors 300k/100k/30k €/an, budget kickstart 351 888 € dont 50 k€ MA ; aucun sponsor signé au 24/11/2026 ; RDV CMA CGM le 24/11 à 16h (ou 30/11 selon le Drive, à confirmer), AXA pôle Nature le 1/12, visio Fondation Prince Albert II le 4/12 à 9h30.
+summary: Programme d'accélération BlueTech porté par MA à Station F (promo 1 en avril 2027) ; grille sponsors 300k/100k/30k €/an, budget kickstart 351 888 € dont 50 k€ MA ; aucun sponsor signé au 24/11/2026 ; RDV CMA CGM repoussé au lundi 30/11 (à confirmer), AXA pôle Nature le 1/12, visio Fondation Prince Albert II le 4/12 à 9h30.
 ---
 # Global Ocean Accelerator
 
@@ -23,6 +23,7 @@ En construction active : prospection lancée le 12/10/2026, **aucun sponsor sign
 - Au 23/11/2026 (point hebdo GM, VA, LV) : réunion CMA CGM « repoussée » (donc pas tenue le 24/11, cohérent avec le 30/11 du mail d'onboarding) ; [[axa]] : RDV avec Ariane (chargée de partenariat, équipe Julia, pôle Nature) le 1/12 à 14h ; EDF Pulse vu comme Tier 1 potentiel (50 k€ envisagés, 100 k€ idéal) ; MSC : la directrice exécutive a répondu le 23/11, disponible début janvier ; 11th Hour Racing est partenaire de Marine Shift 360 (accélérateur impact, Londres) ; Assia devient le contact principal Station F, Abigaïl en copie (Drive: OA - Suivi, 2026-11-23).
 - Au 25/11/2026 : relances de novembre lancées (mail type + note sur le Scale-Up Hub de Station F du 20/11, doublé d'un message LinkedIn de Léonie) ; [[virginie-augagneur]] a écrit à Groupama, MACIF, Crédit Mutuel Arkéa, Ifremer (Romain Charaudeau), EDF (Louise Villain, pour une intro à Yann Coic d'EDF Pulse) et CNP Assurances (OpenCNP) avec un pitch « 10 startups par an, sélectionnées dans le monde entier, sur 8 mois » et un challenge sur mesure posé par le partenaire (Drive: OA - Lettre & mail type, 2026-11-25).
 
+- Au 26/11/2026 : mail préparé pour [[assia-dalla-vedova]] en vue de « notre échange de lundi avec CMA CGM », soit le **lundi 30/11/2026** (envoi non confirmé), avec une fiche prospect CMA CGM jointe ; répartition proposée : Assia pitche Station F (slides dédiées), MA présente le GOA. Fiches prospects CMA CGM, ESA et AXA rédigées (Drive: OA - Mails/WhatsApp, 2026-11-26 ; GOA - Fiches prospects, 2026-11-26).
 ## Objectif
 - Créer la verticale océan de [[station-f]] : le « Global Ocean Accelerator ». BlueTech Seed+ à Série A ; 10-12 startups par cohorte ; 6-8 mois ; 1 thématique par an co-définie avec les partenaires (Drive: Global Ocean Accelerator Deck FR.pptx, 2026-11-12).
 - Promo 1 (2027) : « surveillance de la haute mer et jumeaux numériques de l'océan ». Positionnement « scale », pas open innovation ni financement de POC (Drive: OA - Suivi, 2026-11-12).
@@ -59,7 +60,7 @@ En construction active : prospection lancée le 12/10/2026, **aucun sponsor sign
 - [[fondation-prince-albert-ii]] : [[romain-ciarlet]] « très intéressé par un second rdv » ; DG positif le 05/10, « peut donner 100K/an sur 3 ans » (hypothèse). Tier 1. Deck mis à jour envoyé le 02/11 ; le 11/11, Ciarlet juge « très utile » un appel « dans les prochaines semaines » ; visio fixée par GM le vendredi 4/12/2026 à 9h30 avec Raphaël Ghiandai (directeur exécutif), invitation envoyée le 16/11 ; GM et Abigaïl proposent aussi une rencontre à Station F lors d'un passage à Paris (Gmail: Mise en relation - 2050 x Fondation Prince Albert II, 2026-11-02 à 2026-11-17).
 - [[axa]] : « C'est le Fonds de dotation qui est déterminant », 60M€/an ; Julia d'Astorg (Fonds AXA pour la Recherche), Ziad Gebran, [[olivier-desbiey]], [[josephine-de-fontaines]]. Réunion GM x Desbiey le 04/11 ; le 06/11, Desbiey écrit que le deck « est déjà arrivé chez Julia. Elle reviendra vers toi si elle y voit une opportunité » (Gmail: Axa x Global Ocean Accelerator, 2026-11-06). Le 10/11, Joséphine de Fontaines partage le GOA à ses « collaborateurs Nature » et demande que son équipe reste l'« interlocuteur unique au sein d'AXA » ; le 16/11 elle oriente GM vers Ariane, qui « représente le pilier Nature » ; GM propose une visio le 20/11 à 9h30 ou 11h, réponse non vue au 23/11 (Gmail: Invitation exclusive : Inauguration de l'amphithéâtre Louise Bourgeois – École du Louvre, 2026-11-10 ; Suite à notre échange - Fonds AXA…, 2026-11-17).
 - [[cma-cgm]] : RDV le mardi 24/11/2026 à 16h avec Emilie Espanet et Caroline Roux (Group Sustainability Senior Manager), fixé par Léonie le 13/11 après un report demandé le 10/11 pour que Caroline Roux assiste ; Abigaïl en lead sur la mise en relation ; accès à Rodolphe Saadé via « Afida » (Gmail: Global Ocean Accelerator - Station F, 2026-11-06 à 2026-11-13).
-- EDF Pulse (Yann Coic, « Tier 1 ? », relance sous 15 j ; au 23/11 : potentiel Tier 1 à 50 k€, 100 k€ idéal, idée de petit-déjeuner à Station F à 8h30), [[eic]] (« Tier 1 ? »), SWEN (« tier 1 ? »), ESA, 11th Hour Racing (Jeremy Pochman, 1er pitch le 10/11).
+- EDF Pulse (Yann Coic, « Tier 1 ? », relance sous 15 j ; au 23/11 : potentiel Tier 1 à 50 k€, 100 k€ idéal, idée de petit-déjeuner à Station F à 8h30), [[eic]] (« Tier 1 ? »), SWEN (« tier 1 ? »), ESA (fiche du 26/11 : Selima Ben Mustapha, applications d'observation de la Terre à l'Agence spatiale suédoise, délégation suédoise d'ESA InCubed ; Drive: GOA - Fiches prospects, 2026-11-26), 11th Hour Racing (Jeremy Pochman, 1er pitch le 10/11).
 - Prospection par mail (Gmail : objets GOA, 2026-10-26 à 2026-11-12) : 26/10 Romain Ciarlet (FPA2) ; 27/10 Ziad Gebran (AXA), Dalio Philanthropies (angle OceanX), Société Générale et Fonds AXA via les mails FEDL ; 30/10 Emilie Espanet (CMA CGM), Elodie Rolland (MACIF, après un échange LinkedIn), Donatella Ponziani (ESA, ancienne collaboration VivaTech) ; 02/11 Claudio Grunewald (KAUST, « core strategic partner ») ; 10/11 MACIF (Alban Gonord, après la rencontre de Gaëlle de Penguern et [[virginie-augagneur]] à la Route du Rhum), KAUST (Hattan Ahmed), Accor (Coline Pont, « sur les conseils de Guillaume Robic ») ; 12/11 Louis Dreyfus Armateurs, Vinci (Isabelle Spiegel), Eiffage, Suez, Veolia, Engie, Maersk, MSC Foundation, Wilhelmsen, Minderoo Foundation, Bloomberg Philanthropies, Google (contact parti en 2024), Walmart, Ponant. Aucune réponse au 23/11 hors réponses automatiques, sauf FPA2, AXA et CMA CGM.
 - En cours : Accor, Hoffmann, MACIF, KAUST, Crédit Mutuel Arkéa, Dalio Philanthropies, Groupama, Kresk4Oceans (ticket 15K min), MAIF, [[societe-generale]], CNP (OpenCNP). Élargissement : Louis Dreyfus Armateurs, Suez, Veolia, Engie, Vinci, Eiffage.
 - MSC : réponse de la directrice exécutive le 23/11, disponible début janvier (Drive: OA - Suivi, 2026-11-23).
@@ -88,7 +89,8 @@ En construction active : prospection lancée le 12/10/2026, **aucun sponsor sign
 
 ## Prochaines étapes
 - Accords de principe d'ici fin décembre 2026 — GM, Léonie.
-- RDV CMA CGM (Emilie Espanet, Caroline Roux) : repoussé, nouvelle date à confirmer (30/11 selon le mail d'onboarding) — GM, Léonie, Assia (Drive: OA - Suivi, 2026-11-23).
+- RDV CMA CGM (Emilie Espanet, Caroline Roux) : repoussé au lundi 30/11/2026 selon le mail préparé pour Assia le 26/11 (confirmation de CMA CGM non vue) ; Assia pitche Station F, MA le GOA — GM, Léonie, Assia (Drive: OA - Suivi, 2026-11-23 ; OA - Mails/WhatsApp, 2026-11-26).
+- Coalition New Energies de CMA CGM (21 membres, dont Michelin, Renault, Engie, Veolia, Crédit Agricole CIB) : levier d'intros croisées à tester pour le GOA (idée, non engagée) (Drive: GOA - Fiches prospects, 2026-11-26).
 - AXA le 1/12 à 14h : demander à Ariane qui sera présent et si le RDV peut être physique, inviter Julia ; Anne Lainé (Wavestone) identifiée — GM (Drive: OA - Suivi, 2026-11-23).
 - Répondre à MSC pour une visio de 15 min avant janvier ; relancer 11th Hour Racing sur l'angle Marine Shift 360 (« bureau européen » à Station F), en corrigeant le logo Eleven Project — GM, Léonie.
 - Tester Michelin (Direction de l'Innovation) et Mitsui O.S.K. Lines comme cibles sponsor (idée issue des cas pratiques).
@@ -103,7 +105,7 @@ En construction active : prospection lancée le 12/10/2026, **aucun sponsor sign
 - Idées non engagées : modèle 2 de co-innovation si un tier 1 met 400K+ ; prix en numéraire au Demo Day ; lettre signée par le DG de Station F. Offre dérivée « ~10 startups à 4K/mois = ~400K/an » (réunion du 02/11) : voir [[offre-open-doors-startups]].
 
 ## Questions ouvertes
-- Nouvelle date du RDV CMA CGM : le 30/11 (mail d'onboarding) est-il confirmé ?
+- Nouvelle date du RDV CMA CGM : le lundi 30/11 (mail d'onboarding, puis mail préparé pour Assia le 26/11) est-il confirmé par CMA CGM ?
 - Palier « Écosystème » : 30 k€/an (grille, deck) ou 50 k€ (lettre type on hold du 25/11) ?
 - Le mail d'onboarding demande s'il est possible d'envisager un partenariat GOA avec [[societe-generale]] « ou ça pose pb ? » : réponse de Station F ?
 - Rôle d'Assia Dalla Vedova : elle relaie Abigaïl pendant son absence (17-30/11) ; renfort durable ou intérim ?

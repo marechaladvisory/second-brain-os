@@ -3,8 +3,8 @@ title: ChangeNOW 2027 - Délégations internationales et pavillons (CN27)
 type: project
 status: active
 created: 2026-11-18
-updated: 2026-11-26
-review_by: 2026-12-26
+updated: 2026-11-27
+review_by: 2026-12-27
 importance: 5
 supersedes: ""
 superseded_by: ""
@@ -100,6 +100,8 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 - Rétroplanning : validation GM mardi 27/10, publipostage 28/10, validation Team Instit 29/10-3/11, envoi 3/11/2026, mails d'accompagnement et WhatsApp « pour doubler ».
 - RETEX du 5/11/2026 (Armand x Léonie, commun avec [[art-paris-2027]]) : coquilles et répétitions, manque d'anticipation ; checkpoints 1-1 par phase, matrice de lettre type, grid Airtable dédiée, « mettre la pression sur le client pour validation » (Drive: MA - RETEX Campagnes de lettres, 2026-11-05). Méthode : [[playbook-campagne-lettres]].
 
+- Relances « Last Mile » (doc mis à jour le 26/11/2026, préparé pour [[tiana]]) : mails KAM EN et FR neutre avec lien de prise de RDV, grille de relance (mettre en copie les contacts listés ; repartir du dernier échange s'il existe ; repartir de zéro si aucun échange ou dernier échange en 2025), puis séquence de relances de plus en plus fermes : « Finalising Booths and Side-Events », « Finalising World Expo and Programme » (l'allocation réservée « sera libérée » aux délégations en liste d'attente), « Startup Selection & Partnership Cutoff », et un mail « Pull the Plug » prévu ; paragraphes régionaux Europe, Afrique, Asie-Pacifique, écosystèmes français (Drive: CN27 - Mail pour Tiana + calendly, 2026-11-26).
+- Offre d'appel du mail KAM : pour une première participation, package de 3 booths startups à 10 k€ au lieu de 15 k€, pass délégation inclus, sélection de startups possible par l'équipe Solutions ; argumentaire : de 40 à 60+ participations officielles, World Expo = 350 solutions sur 13 piliers, Africa for Change 2026 soutenu par Orange Africa (15+ délégations) (même source). Délégations présentées comme « confirmées » : Canada, Chine, Égypte, EIC, Pays-Bas, Nigeria, Afrique du Sud, Taïwan (version EN) ; Afrique du Sud, Autriche, Canada, Chine, Égypte, EIC, Nigeria, Suisse, Taïwan, Turquie, Ukraine (version FR), alors que l'Égypte, l'EIC et la Suisse sont en négociation dans le pipeline (argument FOMO, comme les « 5 pavillons, 3 déjà réservés »).
 ## Calendrier
 - 27/05/2026 séminaire Team Instit ; juin-juillet réénergiser les partenaires ; 22/07 Summer Session ; 8/09 MoU Taipei ; 14/10 kick-off ; octobre-décembre négociation ; 3/11 envoi des lettres ; mi-décembre deadline ; décembre-février clôture ; 20/01/2027 kick-off suivant (Drive: CN27 - Fiche projet, 2026-10-27).
 - Sommet : 26-28/04/2027 (lettre, mails KAM) ; certains mails d'accompagnement disent « 26–27 avril », de même que le gabarit d'invitation officielle testé depuis l'adresse ChangeNOW le 05/11/2026 (Gmail: Invitation Officielle - ChangeNOW Avril 2027 - 10e anniversaire, 2026-11-05) : incohérence non tranchée, voir Questions ouvertes. Le deck MA des forums mis à jour le 23/11 affiche « 26-27-28 April 2027, Grand Palais », avec l'Impact Finance Forum les lundi 26 et mardi 27/04 (Drive: MA - Forums ChangeNOW 2027, 2026-11-23).
@@ -116,6 +118,7 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 - 2026-10-28 : calendrier de la campagne de lettres validé (envoi 3/11) et prochain kick-off le 20/01/2027 (Drive: CN - Weekly Team Instit x MA 2810, 2026-10-27).
 
 ## Prochaines étapes
+- EIC : RDV du 27/11 passé **en visioconférence** selon la prépa mise à jour le 26/11 (Santiago ouvre sur le 10e anniversaire et les Summits, GM montre la vidéo ChangeNOW, Ouaki n'étant jamais venu) ; deck final : wishlist « Top 5 EIC Solutions » 100 % énergie et stockage (AELECTRA, HIPERZAB, Sulphurreal, VanillaFlow, ReZilient), Tier 1 toujours « EIC Energy House » 50 k€, Tier 2 + Electrification Forum 100 k€ (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-26 ; EIC x ChangeNOW 2711, 2026-11-26). Compte rendu à capter — GM.
 - EIC : **RDV le vendredi 27/11/2026** avec [[stephane-ouaki]], [[santiago-lefebvre]] et GM (GM en lead) ; checklist : concept note envoyée la veille à 18h30, deck de 3 slides, fiche « Europe at ChangeNOW » ; posture : partager l'ambition de la 10e édition puis demander sa feuille de route avant de pitcher ; prix confirmés : pavillon 50 k€ tout compris, partenariat Forum 100 k€ (Drive: CN - Préparation RDV Stéphane Ouaki, 2026-11-24). Deck brouillon : Tier 1 « EIC Energy House » (1 des 5 pavillons, 50 k€, jusqu'à 6 startups co-sélectionnées) ; Tier 2 House + Major Sponsor de l'Electrification Forum (100 k€) ; « Speaking slot during xx », wishlist startups et prototype « AI Generated » encore à finaliser (Drive: EIC x ChangeNOW 2711, 2026-11-24) — GM.
 - EIC (historique de la prépa) : préparer la rencontre Ouaki x Santiago (screening, agenda Europe de CN, 3 slides : aftermovie, prototype de pavillon EIC, prise de parole ; chiffres 50 k€ pavillon tout compris et 100 k€ Forum) ; mémo EIC Accelerate House (Drive: CN27 - ODJ et prise de note, 2026-11-18). Créneaux proposés à Ouaki : 6, 19 ou 20/11 ; à l'ambassadeur d'Égypte : 6 ou 18/11 (Drive: CN27 - Mails personnalisés, 2026-11-19) : vérifier s'ils ont eu lieu.
 - [[cma-cgm]] : intéressé par un partenariat CN dans le cadre de son programme d'électrification pour promouvoir deux événements ; GM garde le lead (contact déjà travaillé sur le [[global-ocean-accelerator]]) ; partager les bullet points avec [[ian-hartmann]] (même source, 2026-11-18).
@@ -148,6 +151,7 @@ Montants en € HT ; « juin » = CN27 - Pipeline (2026-06-23), valeur cible CN2
 - Grille qui fait foi (deck vs argumentaire vs séminaire) : voir [[changenow-grille-tarifaire]].
 - Dates du sommet : 26-28/04/2027 (lettres, mails KAM) ou 26-27/04/2027 (gabarit d'invitation officielle du 05/11/2026, Gmail) ? Le deck MA des forums du 23/11 dit 26-28/04, ce qui renforce cette version. À confirmer avec ChangeNOW avant tout nouvel envoi.
 
+- Les mails types « Last Mile » présentent comme « confirmées » des délégations encore en négociation (Égypte, EIC, Suisse, Autriche, Turquie, Canada, Chine) : risque si un destinataire recoupe ; à valider avant envoi par Tiana (Drive: CN27 - Mail pour Tiana + calendly, 2026-11-26). Le mail FR dit encore « 26 au 27 avril 2027 » (voir la question sur les dates).
 ## Documents Drive
 - CN27 - Fiche projet (1X3lyZTqxn3UudVwBLZPXkSdw3XyfBVTpCpkvapfzLkU)
 - CN27 - Fiche posture (1EHdww1bJ8er6A9TPInBRWZTf9xpApI1_RbAX_5IbEik)

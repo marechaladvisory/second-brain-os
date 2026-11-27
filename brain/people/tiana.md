@@ -3,8 +3,8 @@ title: Tiana
 type: entity
 status: active
 created: 2026-11-18
-updated: 2026-11-20
-review_by: 2027-05-19
+updated: 2026-11-27
+review_by: 2027-05-26
 importance: 3
 supersedes: ""
 superseded_by: ""
@@ -22,6 +22,8 @@ summary: Assistante externe basée à Madagascar (Tiana Randria d'après son nom
 - 4e phase du process BDD de MA : « outsourcing Tiana », après recettage, ajout de contacts et démarchage (décision du 22/04/2026, Drive: MA - Modélisation MAJ BDD, 2026-05-12). Règle interne : « Tiana pas une poubelle » (les fichiers qu'on lui confie doivent être préparés).
 - Renfort possible (assistante) pour la mission Cotonou (Drive: 1- Pilotage Bénin Choiseul Ecobank, 2026-11-13).
 - Rôle élargi au recrutement : le 12/11/2026, GM lui transmet le process RH à exécuter (code couleur, remerciements, entretiens individuels, références, classement des cas pratiques) ; du 12 au 20/11, elle signe « Tiana, Assistante de Guillaume Maréchal » depuis la boîte de GM et gère convocations, références, agenda et relances candidats (Gmail: Next step - process RH, 2026-11-12 ; Entretien mardi 24 novembre…, 2026-11-19). Voir [[recrutement-janvier-2027]].
+
+- CN27 : un doc de mails types « Last Mile » avec lien de prise de RDV et grille de relance lui est destiné (mis à jour le 26/11/2026) ; elle relancerait donc les acteurs publics de [[changenow-cn27]] (envoi depuis quelle adresse : non écrit) (Drive: CN27 - Mail pour Tiana + calendly, 2026-11-26).
 
 ## Projets liés
 - [[choiseul-cotonou-2027]] (renfort possible) ; [[recrutement-janvier-2027]] (logistique candidats depuis le 12/11/2026).
